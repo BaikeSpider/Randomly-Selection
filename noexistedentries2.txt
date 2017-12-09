@@ -1,0 +1,114 @@
+crawl failed 0
+https://baike.baidu.com/view/12956474.htm
+https://zh.m.wikipedia.org/zh-cn/%E7%A9%BF%E8%B6%8A%E6%97%B6%E7%A9%BA%E4%B9%8B%E5%B7%AB%E5%A5%B3
+crawl failed 0
+https://baike.baidu.com/view/18266161.htm
+https://zh.m.wikipedia.org/zh-cn/%E7%82%AB%E5%BD%A9%E7%89%88%E4%B8%BB%E9%A2%98
+crawl failed 0
+https://baike.baidu.com/view/843203.htm
+https://zh.m.wikipedia.org/zh-cn/%E5%8D%8E%E7%A1%95P5LD2
+crawl failed 0
+https://baike.baidu.com/view/17910375.htm
+https://zh.m.wikipedia.org/zh-cn/%E7%82%B9%E4%BA%AE%E5%9F%8E%E5%B8%82%E5%A4%9C%E6%99%AF%EF%BC%9A%E7%92%80%E7%92%A8%E4%B9%8B%E9%83%BD
+crawl failed 0
+https://baike.baidu.com/view/15664360.htm
+https://zh.m.wikipedia.org/zh-cn/%E9%87%91%E8%9E%8D%E4%B8%9A%E5%8A%A1%E5%8A%9E%E7%90%86%E8%A7%84%E8%8C%83%E4%B8%8E%E6%8A%80%E8%83%BD
+crawl failed 0
+https://baike.baidu.com/view/17143746.htm
+https://zh.m.wikipedia.org/zh-cn/%E9%82%A3%E5%B9%B4%E8%BD%AC%E8%A7%92%E9%81%87%E8%A7%81%E4%BD%A0
+crawl failed 0
+https://baike.baidu.com/view/13769752.htm
+https://zh.m.wikipedia.org/zh-cn/%E8%94%B7%E8%96%87%E5%B0%91%E5%B9%B4%E6%97%B6%E5%85%89%E8%BD%AC%E8%A7%92%E5%B7%B2%E9%A3%9E%E9%80%9D
+crawl failed 0
+https://baike.baidu.com/view/17950265.htm
+https://zh.m.wikipedia.org/zh-cn/%E5%85%A8%E6%95%8F%E6%95%8F
+crawl failed 0
+https://baike.baidu.com/view/3239646.htm
+https://zh.m.wikipedia.org/zh-cn/%E6%95%9E%E5%8F%A3%E8%85%B0%E6%B2%BF%E9%87%9C
+crawl failed 0
+https://baike.baidu.com/view/17101536.htm
+https://zh.m.wikipedia.org/zh-cn/%E5%8A%B2%E8%88%9E%E7%94%9F%E6%AD%BB%E6%81%8B
+crawl failed 0
+https://baike.baidu.com/view/5455349.htm
+https://zh.m.wikipedia.org/zh-cn/%E8%A5%BF%E6%9D%A8%E7%A4%BE%E5%8C%BA
+crawl failed 0
+https://baike.baidu.com/view/4599914.htm
+https://zh.m.wikipedia.org/zh-cn/%E5%85%89%E8%B0%B1%E5%BC%BA%E5%BA%A6
+crawl failed 0
+https://baike.baidu.com/view/4002574.htm
+https://zh.m.wikipedia.org/zh-cn/%E7%BA%A2%E9%85%B1%E8%82%89%E6%9C%AB%E6%8D%9E%E6%84%8F%E7%B2%89
+crawl failed 0
+https://baike.baidu.com/view/4371845.htm
+https://zh.m.wikipedia.org/zh-cn/%E8%87%AA%E8%A1%8C%E5%BC%8F%E8%B5%B7%E9%87%8D%E6%9C%BA%E5%90%8A%E8%A3%85%E5%AE%9E%E7%94%A8%E6%89%8B%E5%86%8C
+crawl failed 0
+https://baike.baidu.com/view/9367717.htm
+https://zh.m.wikipedia.org/zh-cn/%E8%A5%BF%E4%BF%9D%E5%AE%89%E7%BB%84
+crawl failed 0
+https://baike.baidu.com/view/20200923.htm
+https://zh.m.wikipedia.org/zh-cn/%E6%B1%9F%E8%8B%8F%E5%90%9B%E4%B9%8B%E5%9C%B0%E7%BD%AE%E4%B8%9A%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
+crawl failed 0
+https://baike.baidu.com/view/20063884.htm
+https://zh.m.wikipedia.org/zh-cn/%E5%9B%9B%E5%B7%9D%E4%B8%89%E5%90%88%E8%BE%BE%E6%B6%A6%E6%BB%91%E6%B2%B9%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
+crawl failed 0
+https://baike.baidu.com/view/7922115.htm
+https://zh.m.wikipedia.org/zh-cn/%E6%9D%8E%E5%BE%B5%E4%BC%AF%E5%AD%98%E7%A8%BF
+crawl failed 0
+https://baike.baidu.com/view/10042127.htm
+https://zh.m.wikipedia.org/zh-cn/%E8%AF%BA%E5%9F%BA%E4%BA%9A%20101
+crawl failed 0
+https://baike.baidu.com/view/14869477.htm
+https://zh.m.wikipedia.org/zh-cn/AppleWatch
+crawl failed 0
+https://baike.baidu.com/view/11733465.htm
+https://zh.m.wikipedia.org/zh-cn/%E8%9B%87%E7%8E%8B%E8%AF%85%E5%92%92%EF%BC%9A%E5%A6%88%E5%92%AA%E8%A6%81%E4%B8%8B%E8%9B%8B
+crawl failed 0
+https://baike.baidu.com/view/12135037.htm
+https://zh.m.wikipedia.org/zh-cn/%E5%A4%A7%E5%B7%B4%E5%B1%B1%E7%9A%84%E5%A5%B3%E5%84%BF
+crawl failed 0
+https://baike.baidu.com/view/3542170.htm
+https://zh.m.wikipedia.org/zh-cn/1Cr18Ni11Si4AlTi
+crawl failed 0
+https://baike.baidu.com/view/20018316.htm
+https://zh.m.wikipedia.org/zh-cn/%E6%B5%99%E6%B1%9F%E6%96%B9%E6%9E%97%E4%BA%8C%E6%89%8B%E8%BD%A6%E5%B8%82%E5%9C%BA%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
+crawl failed 0
+https://baike.baidu.com/view/19576340.htm
+https://zh.m.wikipedia.org/zh-cn/%E8%A3%82%E5%8F%A3%E9%A1%BB%E9%AD%AE%E5%B1%9E
+crawl failed 0
+https://baike.baidu.com/view/20408656.htm
+https://zh.m.wikipedia.org/zh-cn/%E5%B8%B8%E5%B7%9E%E5%B8%82%E6%A0%BC%E6%9E%97%E6%80%9D%E5%AE%9D%E6%9C%A8%E4%B8%9A%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
+crawl failed 0
+https://baike.baidu.com/view/4986577.htm
+https://zh.m.wikipedia.org/zh-cn/TCL%20T255
+crawl failed 0
+https://baike.baidu.com/view/19613401.htm
+https://zh.m.wikipedia.org/zh-cn/%E5%BF%83%E8%BF%98%E7%95%99%E5%9C%A8%E4%BD%A0%E9%82%A3%E9%87%8C
+crawl failed 0
+https://baike.baidu.com/view/14799143.htm
+https://zh.m.wikipedia.org/zh-cn/%E5%9D%90%E7%A6%85%E4%B8%89%E6%98%A7%E6%B3%95%E9%97%A8%E7%BB%8F
+crawl failed 0
+https://baike.baidu.com/view/9004260.htm
+https://zh.m.wikipedia.org/zh-cn/%E6%85%A7%E9%9C%96
+crawl failed 0
+https://baike.baidu.com/view/20340741.htm
+https://zh.m.wikipedia.org/zh-cn/%E6%A1%82%E6%9E%97%E4%B8%87%E9%BE%99%E7%B2%AE%E6%B2%B9%E9%A3%9F%E5%93%81%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
+crawl failed 0
+https://baike.baidu.com/view/20086172.htm
+https://zh.m.wikipedia.org/zh-cn/%E5%90%88%E8%82%A5%E8%88%92%E7%BF%94%E7%8E%AF%E4%BF%9D%E8%AE%BE%E5%A4%87%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
+crawl failed 0
+https://baike.baidu.com/view/1611231.htm
+https://zh.m.wikipedia.org/zh-cn/%E7%A8%8B%E6%83%A0%E8%8E%B2
+crawl failed 0
+https://baike.baidu.com/view/14481550.htm
+https://zh.m.wikipedia.org/zh-cn/%E6%AD%A4%E6%81%A8%E7%BB%B5%E7%BB%B5%E5%95%8A%EF%BC%8C%E6%BA%90%E8%87%AA%E9%82%A3%E4%B8%80%E5%A4%9C%E7%9A%84%E8%BF%B7%E6%83%85
+crawl failed 0
+https://baike.baidu.com/view/19977370.htm
+https://zh.m.wikipedia.org/zh-cn/%E5%BE%90%E5%B7%9E%E6%B1%89%E6%88%8C%E5%A0%82%E9%A3%9F%E5%93%81%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
+crawl failed 0
+https://baike.baidu.com/view/9797441.htm
+https://zh.m.wikipedia.org/zh-cn/%E5%B9%BF%E5%B7%9E%E5%9B%BD%E9%99%85%E5%8F%B0%E7%90%83%E5%8F%8A%E9%85%8D%E5%A5%97%E8%AE%BE%E6%96%BD%E5%B1%95%E8%A7%88%E4%BC%9A
+crawl failed 0
+https://baike.baidu.com/view/3230499.htm
+https://zh.m.wikipedia.org/zh-cn/%E6%9C%80%E7%9F%AD%E5%91%BD%E5%B0%8F%E5%AD%A6
+crawl failed 0
+https://baike.baidu.com/view/6117855.htm
+https://zh.m.wikipedia.org/zh-cn/%E8%80%81%E8%92%8B%E6%8B%89

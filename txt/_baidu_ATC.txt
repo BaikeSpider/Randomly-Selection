@@ -1,0 +1,3 @@
+ATC
+
+列车自动控制(ATC--Automatic Train Control)系统包括四个子系统：列车自动防护(ATP--Automatic Train Protection)、列车自动运行(ATO--Automatic Train Operation)、列车自动监控(ATS--Automatic Train Supervision)、计算机联锁系统。
