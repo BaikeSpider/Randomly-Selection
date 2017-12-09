@@ -49,12 +49,12 @@ class HtmlOutputer(object):
 
     def output_html(self, title):
         # set_trace()
-        if not (os.path.isfile("html/"+'wiki_'+title+'_intext.html')):
-           filename = 'wiki_'+title
+        if not (os.path.isfile("html/"+"wiki_"+ title+"_intext.html")):
+           filename = "wiki_" + title
         else:
-           filename = '_wiki_'+title
+           filename = "_wiki_" + title
            
-        fout = open("html/"+filename+'_intext.html','w', encoding='utf-8')
+        fout = open("html/"+filename+"_intext.html",'w', encoding='utf-8')
         fout.write('<html>')
         fout.write('<body>')
         fout.write('<table>')
@@ -76,16 +76,16 @@ class HtmlOutputer(object):
         fout.write('</html>')
         fout.close()
         if len(self.wiki_keywords):
-            with open("html/"+filename+'_intext.html','r',encoding='utf-8') as f:  
+            with open("html/"+filename+"_intext.html", "r", encoding= "utf-8") as f:
                df = pandas.read_html(f.read()) 
         # print (df[0])  
             bb = pandas.ExcelWriter("xlsx/"+filename+'_intext.xlsx')  
-            df[0].to_excel(bb) 
+            df[0].to_excel(bb)
             bb.close()
 
     def output_randomhtml_init(self):
-        filename = 'wiki_output'
-        fout = open(filename + '.html', 'w', encoding='utf-8')
+        filename = "wiki_output"
+        fout = open(filename + ".html", "w", encoding="utf-8")
         fout.write('<html>')
         fout.write('<body>')
         fout.write('<table>')

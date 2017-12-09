@@ -5,11 +5,16 @@
 Python3.6；
 ipdb；
 pandas；
-bs4
+bs4;
+openpyxl;
+lxml;
+
+
+
 
 ## INTRODUCTION
 The crawler is composed by two parts, one is producing random links, the other one is crawling the data, including titles, links degree count, edit times, number of editors, total pageviews and create time of entries.
- 
+
 
 #### I. The first part
 

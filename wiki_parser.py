@@ -117,6 +117,7 @@ class HtmlParser(object):
         deleurl17 = re.compile(r'wikisource\.org')
         deleurl18 = re.compile(r'wikidata\.org')
         deleurl19 = re.compile(r'wikibooks\.org')
+        deleurl20 = re.compile(r'wiki/Project:')
         deleurl15 = re.compile(r'/wiki/Main_Page')
         deleurl16 = re.compile(r'/wiki/Talk:')
         convert = re.compile(r'zh.m.wikipedia\.org/wiki/')
@@ -132,7 +133,8 @@ class HtmlParser(object):
             re.search(deleurl11, link['href'])) or (re.search(deleurl12, link['href'])) or (
             re.search(deleurl13, link['href'])) or (re.search(deleurl14, link['href'])) or (
             re.search(deleurl15, link['href'])) or (re.search(deleurl16, link['href'])) or (
-            re.search(deleurl17, link['href'])) or (re.search(deleurl18, link['href'])) or (re.search(deleurl19, link['href']))) :
+            re.search(deleurl17, link['href'])) or (re.search(deleurl18, link['href'])) or (
+            re.search(deleurl19, link['href'])) or (re.search(deleurl20, link['href']))):
                 links.append(link)
         old_link = set()
         # set_trace()
@@ -159,10 +161,16 @@ class HtmlParser(object):
                 if link.get('title') != None:
                     if (link['title'] != ''):
                         textnow = self.replaceillgalchar(link['title'])
+                        textnow = textnow.strip()
+                        textnow = textnow.lstrip()
                     else:
                         textnow = self.replaceillgalchar(link.text)
+                        textnow = textnow.strip()
+                        textnow = textnow.lstrip()
                 else:
                     textnow = self.replaceillgalchar(link.text)
+                    textnow = textnow.strip()
+                    textnow = textnow.lstrip()
                 new_titles.append(textnow)
                 old_link.add(link.text)
 
@@ -179,6 +187,13 @@ class HtmlParser(object):
                     temp = temp.replace(' ', '\s')
                 if (temp.find('?') != -1):
                     temp = temp.replace('?', '\?')
+                if (temp.find('{') != -1):
+                    temp = temp.replace('{', '\{')
+                if (temp.find('}') != -1):
+                    temp = temp.replace('}', '\}')
+                #print(temp)
+                temp = temp.strip()
+                temp = temp.lstrip()
                 keyword_time = soup.find_all(string=re.compile(temp))
                 keywordtime = 0
                 for keyword in keyword_time:
