@@ -1,0 +1,2 @@
+Microsoft Windows SDK
+Microsoft Windows SDK（简称Windows SDK或者SDK）是由微软公司出品的一个软件开发包，向在微软的Windows操作系统和.NET框架上开发软件和网站的程序员提供头文件、库文件、示例代码、开发文档和开发工具[1]。
