@@ -35,11 +35,11 @@ class SpiderMain(object):
             wiki_html_cont = self.downloader.download(urls[i])
             wiki_soup = BeautifulSoup(wiki_html_cont, 'html.parser')
 
-            wiki_new_titles, wiki_keyword_times, wiki_new_data, wiki_urls, titles_len, edits, pageviews_url, editors, first_edit, totalviews = self.wiki_parser.parse(urls[i], wiki_soup)
+            wiki_new_titles, wiki_keyword_times, wiki_new_data, wiki_urls, titles_len, edits, pageviews_url, editors, first_edit, totalviews, category, reference_count, users, users_edits, all_len = self.wiki_parser.parse(urls[i], wiki_soup)
             self.outputer.output_txt(titles[i], wiki_new_data)
             self.outputer.collect_keyword(wiki_urls, wiki_new_titles, urls[i], wiki_keyword_times)
-            self.outputer.output_html(titles[i])
-            self.outputer.output_randomhtml(titles[i], urls[i], titles_len, pageviews_url, edits, editors, first_edit, totalviews)
+            self.outputer.output_html(titles[i], users, users_edits)
+            self.outputer.output_randomhtml(titles[i], urls[i], titles_len, pageviews_url, edits, editors, first_edit, totalviews, reference_count, category, all_len)
             i = i+1
         self.outputer.output_randomhtml_finish()
 

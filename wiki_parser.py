@@ -1,10 +1,12 @@
 # coding:utf-8
+import bs4
 from bs4 import BeautifulSoup
 import re
 import html_downloader
 import requests
 import json
 from urllib.parse import urljoin
+from urllib.parse import urlparse
 from urllib.parse import quote
 from urllib.request import urlopen
 from ipdb import set_trace 
@@ -97,6 +99,27 @@ class HtmlParser(object):
         # /view/123.htm
         # links = soup.find_all('a', href=re.compile(r'/view/[\u4e00-\u9fa5]+'))
         # set_trace()
+
+        #categories crawl
+        categories = soup.find("div", class_="mw-normal-catlinks")
+        category = []
+        for child in categories.contents[2].contents:
+            category.append(child.text)
+        if len(category) == 0:
+            category.append("None_Category!!!")
+
+        #references crawl
+        references = soup.find_all("ol", class_="references")  # it will find all references, including the references, cites and notes.
+        if references is None:
+            reference_count = 0
+        else:
+            reference_count = 0
+            for ii in references:
+              for child in ii.contents:
+                if type(child) is bs4.element.Tag:
+                    reference_count += 1
+
+
         links_orginal = soup.find_all('a', href=re.compile(r'/wiki/'))
         links = []
         illegalchar = ('*', '+', '-', '?', '.', ',')
@@ -120,10 +143,13 @@ class HtmlParser(object):
         deleurl20 = re.compile(r'wiki/Project:')
         deleurl15 = re.compile(r'/wiki/Main_Page')
         deleurl16 = re.compile(r'/wiki/Talk:')
-        convert = re.compile(r'zh.m.wikipedia\.org/wiki/')
+        # deleurl21 = re.compile(r'/wiki/Special:%E9%A1%B5%E9%9D%A2%E5%88%86%E7%B1%BB')  # categories link
+        convert = re.compile(r'zh.wikipedia\.org/wiki/')
 
         for link in links_orginal:
             #if re.search('\.(jpg|JPG|svg|SVG)$',link['href']):
+            # if re.search(deleurl21, link['href']):
+            #     print('note')
             #    links.remove(link)
             if not ((re.search(deleurl1, link['href'])) or (re.search(deleurl2, link['href'])) or (
             re.search(deleurl3, link['href'])) or (re.search(deleurl4, link['href'])) or (
@@ -138,8 +164,14 @@ class HtmlParser(object):
                 links.append(link)
         old_link = set()
         # set_trace()
+        url_parse = urlparse(page_url)
+        convert2 = re.compile(r'/zh-cn/')
+        if re.search(convert2, url_parse.path):
+            url_parse_temp = url_parse.path.replace('/zh-cn/', '/wiki/')
+        else:
+            url_parse_temp = url_parse.path
         for link in links:
-            if link.text == '':
+            if (link.text == '') or (link.text == '浏览条目正文[c]') or (link['href'] == url_parse_temp):
                 continue
                 # print(link) # for test
 
@@ -201,7 +233,7 @@ class HtmlParser(object):
                 keyword_times.append(keywordtime)
 
         # set_trace()
-        return len(new_titles), new_titles, keyword_times, new_urls
+        return len(new_titles), new_titles, keyword_times, new_urls, category, reference_count
 
 
     def _baidu_get_new_data(self, page_url, soup):
@@ -278,35 +310,79 @@ class HtmlParser(object):
         # res_data['parent'] = parent_all
         # print(res_data)
 
+        # 统计字数
+        all_text = soup.find('div', class_='mw-content-ltr')
+        catalog_text = soup.find('div', class_='catlinks')
+        all_text_len = len(all_text.text)
+        catalog_text_len = len(catalog_text.text)
+        all_len = all_text_len + catalog_text_len + len(parent_title)  # comprises text, catalog and title
+
+        # open the link of article information
         info_link = soup.find_all('a', href=re.compile(r'&action=info'))
         info_url = urljoin(page_url, info_link[0]['href'])
         self.downloader = html_downloader.HtmlDownloader()
         html_cont = self.downloader.download(info_url)
         info_soup = BeautifulSoup(html_cont, 'html.parser')
 
-        articleinfo_url_temp = info_soup.find_all('a',href=re.compile(r'//tools.wmflabs.org/xtools-articleinfo/index.php'))
-        articleinfo_url = 'https:' + articleinfo_url_temp[0]['href']  # https://tools.wmflabs.org/xtools-articleinfo/index.php?article=%E9%98%BF%E7%B1%B3%E4%BB%80%E4%BA%BA&project=zh.wikipedia.org
-        headers = {'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36'}
+
+        # 修订历史统计  http://vs.aka-online.de/cgi-bin/wppagehiststat.pl?lang=zh.wikipedia&page=%E6%94%BF%E6%B2%BB
+        edit_history_url_temp = info_soup.find('a',href=re.compile(r'//vs.aka-online.de/cgi-bin/wppagehiststat.pl'))
+        edit_history_url = edit_history_url_temp['href']
+        headers = {
+            'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36'}
+        edit_history_cont = requests.get(edit_history_url, headers=headers)
+        edit_history_soup = BeautifulSoup(edit_history_cont.text, 'html.parser')
+        edit_history_tables = edit_history_soup.find_all('table')
+        edit_history_table = edit_history_tables[3]
+        hh = 0
+        users = []
+        users_edits = []
+        for child in edit_history_table.contents:
+            if hh<3:
+                hh += 1
+                continue
+            if type(child) is bs4.element.Tag:
+                users.append(child.contents[0].text)
+                users_edits.append(child.contents[1].text)
+
+        # 页面详细信息与统计
+        articleinfo_url_temp = info_soup.find('a',href=re.compile(r'//tools.wmflabs.org/xtools-articleinfo/index.php'))
+        articleinfo_url = 'https:' + articleinfo_url_temp['href']  # https://tools.wmflabs.org/xtools-articleinfo/index.php?article=%E9%98%BF%E7%B1%B3%E4%BB%80%E4%BA%BA&project=zh.wikipedia.org
         articleinfo_cont = requests.get(articleinfo_url, headers=headers)
         articleinfo_soup = BeautifulSoup(articleinfo_cont.text, 'html.parser')
         text1 = articleinfo_soup.find_all('div', class_='col-lg-6 stat-list clearfix')
-        edits = text1[0].find_all('td')[7].text
+        if text1[0].find_all('td')[6].text == "Total edits":
+            edits = text1[0].find_all('td')[7].text
+            editors = text1[0].find_all('td')[9].text
+            ip_edits = text1[0].find_all('td')[13].text
+        else:
+            edits = text1[0].find_all('td')[5].text
+            editors = text1[0].find_all('td')[7].text
+            ip_edits = text1[0].find_all('td')[11].text
+        pos1 = ip_edits.find('·')
+        ip_edits = ip_edits[0: pos1].lstrip()
+        ip_edits = ip_edits.strip()
+        # ip_edits = ip_edits.rstrip()
         edits = edits.strip()
-        edits = edits.rstrip()
+        # edits = edits.rstrip()
         # edits= int(edits)  # remove spaces
         editors = text1[0].find_all('td')[9].text
         editors = editors.strip()
-        editors = editors.rstrip()
+        # editors = editors.rstrip()
+        edits = int(edits) - int(ip_edits)
 
+
+        # 创建时间
         first_edit = text1[1].find_all('td')[1].text
         pos1 = first_edit.find(',')
-        first_edit = first_edit[0: pos1].lstrip()
+        first_edit = first_edit[0: pos1].strip()
         # articleinfo_cont = self.downloader.download(articleinfo_url)
         # articleinfo_soup = BeautifulSoup(articleinfo_cont, 'html.parser')
 
-        pos1 = articleinfo_url_temp[0]['href'].find('article=')
-        pos2 = articleinfo_url_temp[0]['href'].find('project=')
-        entry_title = articleinfo_url_temp[0]['href'][pos1+8: pos2-1]
+        # 访问量 Total Views
+        pos1 = articleinfo_url_temp['href'].find('article=')
+        pos2 = articleinfo_url_temp['href'].find('project=')
+        entry_title = articleinfo_url_temp['href'][pos1+8: pos2-1]
         #  = info_soup.find_all('a',href=re.compile(r'//tools.wmflabs.org/pageviews'))
         pageviews_url = 'https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/zh.wikipedia/all-access/all-agents/' + entry_title + '/daily/2000110100/2017112000'
         # pageviws_cont = requests.get(pageviws_url, headers=headers)
@@ -323,17 +399,17 @@ class HtmlParser(object):
         # pageviws_soup = BeautifulSoup(pageviws_cont, 'html.parser')
         # text2 = pageviws_soup.find('div', class_='legend-block--body')
 
-        return res_data,edits, pageviews_url, editors, first_edit, totalviews
+        return res_data,edits, pageviews_url, editors, first_edit, totalviews, users, users_edits, all_len
 
     def parse(self, wiki_url, wiki_soup):
         #if page_url is None or html_cont is None:
         #    return
         # soup = BeautifulSoup(html_cont, 'html.parser')
         # print(soup.prettify())
-        titles_len, wiki_new_titles, wiki_keyword_times, wiki_urls = self._wiki_get_new_urls(wiki_url, wiki_soup)
+        titles_len, wiki_new_titles, wiki_keyword_times, wiki_urls, category, reference_count = self._wiki_get_new_urls(wiki_url, wiki_soup)
         # wiki_new_titles, wiki_keyword_times, wiki_urls = self._wiki_get_new_urls(wiki_url, wiki_soup)
-        wiki_new_data, edits, pageviews_url, editors, first_edit, totalviews = self._wiki_get_new_data(wiki_url, wiki_soup)
+        wiki_new_data, edits, pageviews_url, editors, first_edit, totalviews, users, users_edits, all_len = self._wiki_get_new_data(wiki_url, wiki_soup)
         # wiki_new_data = self._wiki_get_new_data(wiki_url, wiki_soup)
         # print('mark')
-        return wiki_new_titles, wiki_keyword_times, wiki_new_data, wiki_urls, titles_len, edits, pageviews_url, editors, first_edit, totalviews
+        return wiki_new_titles, wiki_keyword_times, wiki_new_data, wiki_urls, titles_len, edits, pageviews_url, editors, first_edit, totalviews, category, reference_count, users, users_edits, all_len
 

@@ -1,5 +1,6 @@
 # coding:utf-8
 from bs4 import BeautifulSoup
+import  bs4
 import re
 import html_downloader
 import requests
@@ -11,6 +12,11 @@ import json
 import time
 
 class HtmlParser(object):
+
+    #def __init__(self):
+        #self.users_dataset = {}
+        #self.index_dataset = []
+
     def replaceillgalchar(self, link_text):
         # set_trace()
         while link_text.find(':')>=0:
@@ -98,6 +104,7 @@ class HtmlParser(object):
         # /view/123.htm
         # links = soup.find_all('a', href=re.compile(r'/view/[\u4e00-\u9fa5]+'))
         # set_trace()
+
         links_orginal = soup.find_all('a', href=re.compile(r'/wiki/'))
         links = []
         illegalchar = ('*', '+', '-', '?', '.', ',')
@@ -210,6 +217,39 @@ class HtmlParser(object):
         # res_data['parent'] = parent
         # print(res_data)
 
+        #categories crawl
+        categories = soup.find("dd", id="open-tag-item")
+        category = []
+        if  categories is None:
+            category.append("None_Category!!!")
+        else:
+            for child in categories.contents:
+                if type(child) is bs4.element.Tag:
+                    category.append(child.text.strip())
+            if len(category) == 0:
+                category.append("None_Category!!!")
+
+        #references crawl
+        references = soup.find("dd", class_="reference-list-wrap")
+        if references is None:
+            reference_count = 0
+        else:
+            references = references.contents
+            if references is None:
+                reference_count = 0
+            else:
+                reference_count = 0
+                for child in references[1].contents:
+                    if type(child) is bs4.element.Tag:
+                        reference_count += 1
+
+        # 统计字数
+        all_text = soup.find('div', class_='main-content')
+        #catalog_text = soup.find('div', class_='catlinks')
+        #all_text_len = len(all_text.text)
+        #catalog_text_len = len(catalog_text.text)
+        all_len = len(all_text.text)
+
         #edits
         edits1 = soup.find(class_='nslog:1021').parent
         edits2 = edits1.text
@@ -263,7 +303,6 @@ class HtmlParser(object):
             pos = result.find('tk')
             pos = pos + 16
             tk_id = string1[pos: pos+32]
-
         else:
             print('error_tk', page_url)
 
@@ -276,20 +315,25 @@ class HtmlParser(object):
         else:
             print('error_lemmaId', page_url)
 
+        # find the creat time and record the users and their edits 创建时间和用户编辑次数统计
         ii = 1
-
         dict = {}
         contributors = set()
+        users_edits = []
+        users = []
+        record = {}
         contributors_count = 0
         time1 = 9999999999
+        # TeamOdp = []
+
         while ii<=pages_num:
             history_editlist_url1 = 'https://baike.baidu.com/api/wikiui/gethistorylist?tk=' + tk_id +  '&lemmaId=' + lemma_id
             history_editlist_url2 = '&count=1&size=25'
-
             history_editlist_url = history_editlist_url1 + '&from=' + str(ii) + history_editlist_url2
             # u = urlopen(history_editlist_url) # seems cannot crawl by this way
             uu = requests.get(history_editlist_url, headers=headers)
             response = json.loads(uu.text)
+
             # l = response['data']['pages'].len
             j = str(ii)
 
@@ -297,6 +341,24 @@ class HtmlParser(object):
                  if jj['uid'] not in contributors:
                     contributors_count = contributors_count + 1
                     contributors.add(jj['uid'])
+                    users.append(jj['uname'])
+                    record[jj['uid']] = len(users) - 1
+                    users_edits.append(1)
+                    #if jj['uid'] not in self.users_dataset:
+                        #judge the tadpole team 判断是否是蝌蚪成员
+                    #    print(jj['uid'], " ", jj['uname'], " ", ii)
+
+                    #   usercentre_url = "https://baike.baidu.com/api/usercenter/getusercard?uid=" + str(jj['uid'])
+                    #   uc = requests.get(usercentre_url, headers=headers)
+                    #   rr = json.loads(uc.text)
+                    #   self.users_dataset[jj['uid']] = rr['data']
+                    #   self.index_dataset.append(jj['uid'])
+                        # if rr['data']['isTeamOdp']:
+                        #     TeamOdp.append(jj['uname'])
+                 else:
+                     p = record[int(jj['uid'])]
+                     users_edits[int(p)] += 1
+
                  if time1 > jj['createTime']:
                     time1 = jj['createTime']
             ii +=1
@@ -323,7 +385,7 @@ class HtmlParser(object):
         # test = soup.find(class_='side-box lemma-statistics')
         # test = soup.find(class_='side-box lemma-statistics').find('li')
         # print(test)
-        return res_data, history_link, edits, pageviews, contributors_count, time2
+        return res_data, history_link, edits, pageviews, contributors_count, time2, all_len, category, reference_count, users, users_edits
 
     def _wiki_get_new_data(self, page_url, soup):
         res_data = {}
@@ -344,6 +406,8 @@ class HtmlParser(object):
         # print(res_data)
         return res_data
 
+    def dateset(self):
+        return(self.users_dataset, self.index_dataset)
 
     def parse(self, baidu_url, baidu_soup):
         #if page_url is None or html_cont is None:
@@ -352,7 +416,7 @@ class HtmlParser(object):
         # print(soup.prettify())
         titles_len, baidu_new_titles, baidu_keyword_times, baidu_urls = self._baidu_get_new_urls(baidu_url, baidu_soup)
         # wiki_new_titles, wiki_keyword_times, wiki_urls = self._wiki_get_new_urls(wiki_url, wiki_soup)
-        baidu_new_data, history_link, edits, pageviews,  contributors_count, time2 = self._baidu_get_new_data(baidu_url, baidu_soup)
+        baidu_new_data, history_link, edits, pageviews,  contributors_count, time2, all_len, category, reference_count, users, users_edits = self._baidu_get_new_data(baidu_url, baidu_soup)
         # wiki_new_data = self._wiki_get_new_data(wiki_url, wiki_soup)
         # print('mark')
-        return baidu_new_titles, baidu_keyword_times, baidu_new_data, baidu_urls, titles_len, history_link, edits, pageviews,  contributors_count, time2
+        return baidu_new_titles, baidu_keyword_times, baidu_new_data, baidu_urls, titles_len, history_link, edits, pageviews,  contributors_count, time2, all_len, category, reference_count, users, users_edits
