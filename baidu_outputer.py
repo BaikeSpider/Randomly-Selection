@@ -26,15 +26,15 @@ class HtmlOutputer(object):
             self.baidu_keywords.append(res_keyword)
             ii = ii+1
 
-    def output_txt(self, title, baidu_data):
+    def output_txt(self, title, baidu_data, words):
         if not (os.path.isfile('txt/'+'baidu_'+title+'.txt')):
-           fout = open('txt/'+'baidu_'+title+'.txt','w', encoding='utf-8')
+           fout = open('baidu_txt/'+'baidu_'+title+'.txt','w', encoding='utf-8')
            fout.write(baidu_data['title'])
            fout.write('\n')
            fout.write(baidu_data['summary'])
            fout.close()
         else:
-           fout = open('txt/'+'_baidu_'+title+'.txt','w',  encoding='utf-8')
+           fout = open('baidu_txt/'+'_baidu_'+title+'.txt','w',  encoding='utf-8')
            fout.write(baidu_data['title'])
            fout.write('\n')
            fout.write(baidu_data['summary'])
@@ -44,7 +44,9 @@ class HtmlOutputer(object):
            record.write(baidu_data['title'])
            record.write('\n')
            record.close()
-
+        fout = open('baidu_words/'+'baidu_'+title+'.txt','w', encoding='utf-8')
+        fout.write(words)
+        fout.close()
 
     def output_html(self, title, users, users_edits):
         # set_trace()

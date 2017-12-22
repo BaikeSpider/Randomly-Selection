@@ -316,7 +316,7 @@ class HtmlParser(object):
         all_text_len = len(all_text.text)
         catalog_text_len = len(catalog_text.text)
         all_len = all_text_len + catalog_text_len + len(parent_title)  # comprises text, catalog and title
-
+        words = all_text.text + catalog_text.text
         # open the link of article information
         info_link = soup.find_all('a', href=re.compile(r'&action=info'))
         info_url = urljoin(page_url, info_link[0]['href'])
@@ -399,7 +399,7 @@ class HtmlParser(object):
         # pageviws_soup = BeautifulSoup(pageviws_cont, 'html.parser')
         # text2 = pageviws_soup.find('div', class_='legend-block--body')
 
-        return res_data,edits, pageviews_url, editors, first_edit, totalviews, users, users_edits, all_len
+        return res_data,edits, pageviews_url, editors, first_edit, totalviews, users, users_edits, all_len, words
 
     def parse(self, wiki_url, wiki_soup):
         #if page_url is None or html_cont is None:
@@ -408,8 +408,8 @@ class HtmlParser(object):
         # print(soup.prettify())
         titles_len, wiki_new_titles, wiki_keyword_times, wiki_urls, category, reference_count = self._wiki_get_new_urls(wiki_url, wiki_soup)
         # wiki_new_titles, wiki_keyword_times, wiki_urls = self._wiki_get_new_urls(wiki_url, wiki_soup)
-        wiki_new_data, edits, pageviews_url, editors, first_edit, totalviews, users, users_edits, all_len = self._wiki_get_new_data(wiki_url, wiki_soup)
+        wiki_new_data, edits, pageviews_url, editors, first_edit, totalviews, users, users_edits, all_len, words = self._wiki_get_new_data(wiki_url, wiki_soup)
         # wiki_new_data = self._wiki_get_new_data(wiki_url, wiki_soup)
         # print('mark')
-        return wiki_new_titles, wiki_keyword_times, wiki_new_data, wiki_urls, titles_len, edits, pageviews_url, editors, first_edit, totalviews, category, reference_count, users, users_edits, all_len
+        return wiki_new_titles, wiki_keyword_times, wiki_new_data, wiki_urls, titles_len, edits, pageviews_url, editors, first_edit, totalviews, category, reference_count, users, users_edits, all_len, words
 

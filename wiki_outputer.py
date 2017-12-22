@@ -27,15 +27,15 @@ class HtmlOutputer(object):
             self.wiki_keywords.append(res_keyword)
             ii = ii+1
 
-    def output_txt(self, title, wiki_data):
+    def output_txt(self, title, wiki_data, words):
         if not (os.path.isfile('txt/'+'wiki_'+title+'.txt')):
-           fout = open('txt/'+'wiki_'+title+'.txt','w', encoding='utf-8')
+           fout = open('wiki_txt/'+'wiki_'+title+'.txt','w', encoding='utf-8')
            fout.write(wiki_data['title'])
            fout.write('\n')
            fout.write(wiki_data['summary'])
            fout.close()
         else:
-           fout = open('txt/'+'_wiki_'+title+'.txt','w',  encoding='utf-8')
+           fout = open('wiki_txt/'+'_wiki_'+title+'.txt','w',  encoding='utf-8')
            fout.write(wiki_data['title'])
            fout.write('\n')
            fout.write(wiki_data['summary'])
@@ -45,6 +45,11 @@ class HtmlOutputer(object):
            record.write(wiki_data['title'])
            record.write('\n')
            record.close()
+        fout = open('wiki_words/' + 'wiki_' + title + '.txt', 'w', encoding='utf-8')
+        fout.write(wiki_data['title'])
+        fout.write('\n')
+        fout.write(words)
+        fout.close()
 
 
     def output_html(self, title, users, users_edits):

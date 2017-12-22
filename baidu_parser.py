@@ -249,6 +249,7 @@ class HtmlParser(object):
         #all_text_len = len(all_text.text)
         #catalog_text_len = len(catalog_text.text)
         all_len = len(all_text.text)
+        words = all_text.text
 
         #edits
         edits1 = soup.find(class_='nslog:1021').parent
@@ -385,7 +386,7 @@ class HtmlParser(object):
         # test = soup.find(class_='side-box lemma-statistics')
         # test = soup.find(class_='side-box lemma-statistics').find('li')
         # print(test)
-        return res_data, history_link, edits, pageviews, contributors_count, time2, all_len, category, reference_count, users, users_edits
+        return res_data, history_link, edits, pageviews, contributors_count, time2, all_len, category, reference_count, users, users_edits, words
 
     def _wiki_get_new_data(self, page_url, soup):
         res_data = {}
@@ -416,7 +417,7 @@ class HtmlParser(object):
         # print(soup.prettify())
         titles_len, baidu_new_titles, baidu_keyword_times, baidu_urls = self._baidu_get_new_urls(baidu_url, baidu_soup)
         # wiki_new_titles, wiki_keyword_times, wiki_urls = self._wiki_get_new_urls(wiki_url, wiki_soup)
-        baidu_new_data, history_link, edits, pageviews,  contributors_count, time2, all_len, category, reference_count, users, users_edits = self._baidu_get_new_data(baidu_url, baidu_soup)
+        baidu_new_data, history_link, edits, pageviews,  contributors_count, time2, all_len, category, reference_count, users, users_edits, words = self._baidu_get_new_data(baidu_url, baidu_soup)
         # wiki_new_data = self._wiki_get_new_data(wiki_url, wiki_soup)
         # print('mark')
-        return baidu_new_titles, baidu_keyword_times, baidu_new_data, baidu_urls, titles_len, history_link, edits, pageviews,  contributors_count, time2, all_len, category, reference_count, users, users_edits
+        return baidu_new_titles, baidu_keyword_times, baidu_new_data, baidu_urls, titles_len, history_link, edits, pageviews,  contributors_count, time2, all_len, category, reference_count, users, users_edits, words
