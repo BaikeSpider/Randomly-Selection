@@ -19,4 +19,45 @@ to interactively debug it.
 Extra-detailed tracebacks for bug-reporting purposes can be enabled via:
     %config Application.verbose_crash=True
 
-]0;IPython: crawler/Randomly-Selection]0;IPython: crawler/Randomly-Selection
+]0;IPython: crawler/Randomly-Selection]0;IPython: crawler/Randomly-Selection]0;IPython: crawler/Randomly-Selection]0;IPython: crawler/Randomly-SelectionTraceback (most recent call last):
+  File "wiki_crawl.py", line 49, in <module>
+    wiki.craw()
+  File "wiki_crawl.py", line 38, in craw
+    wiki_new_titles, wiki_keyword_times, wiki_new_data, wiki_urls, titles_len, edits, pageviews_url, editors, first_edit, totalviews, category, reference_count, users, users_edits, all_len, words = self.wiki_parser.parse(urls[i], wiki_soup)
+  File "/home/ubuntu/crawler/Randomly-Selection/wiki_parser.py", line 426, in parse
+    wiki_new_data, edits, pageviews_url, editors, first_edit, totalviews, users, users_edits, all_len, words = self._wiki_get_new_data(wiki_url, wiki_soup)
+  File "/home/ubuntu/crawler/Randomly-Selection/wiki_parser.py", line 336, in _wiki_get_new_data
+    edit_history_table = edit_history_tables[3]
+IndexError: list index out of range
+
+If you suspect this is an IPython bug, please report it at:
+    https://github.com/ipython/ipython/issues
+or send an email to the mailing list at ipython-dev@python.org
+
+You can print a more detailed traceback right now with "%tb", or use "%debug"
+to interactively debug it.
+
+Extra-detailed tracebacks for bug-reporting purposes can be enabled via:
+    %config Application.verbose_crash=True
+
+Traceback (most recent call last):
+  File "baidu_crawl.py", line 45, in <module>
+    baidu.craw()
+  File "baidu_crawl.py", line 32, in craw
+    baidu_new_titles, baidu_keyword_times, baidu_new_data, baidu_urls, titles_len, history_link, edits, pageviews, contributors_count, time2, all_len, category, reference_count, users, users_edits, words = self.baidu_parser.parse(urls[i], baidu_soup)
+  File "/home/ubuntu/crawler/Randomly-Selection/baidu_parser.py", line 420, in parse
+    baidu_new_data, history_link, edits, pageviews,  contributors_count, time2, all_len, category, reference_count, users, users_edits, words = self._baidu_get_new_data(baidu_url, baidu_soup)
+  File "/home/ubuntu/crawler/Randomly-Selection/baidu_parser.py", line 255, in _baidu_get_new_data
+    edits1 = soup.find(class_='nslog:1021').parent
+AttributeError: 'NoneType' object has no attribute 'parent'
+
+If you suspect this is an IPython bug, please report it at:
+    https://github.com/ipython/ipython/issues
+or send an email to the mailing list at ipython-dev@python.org
+
+You can print a more detailed traceback right now with "%tb", or use "%debug"
+to interactively debug it.
+
+Extra-detailed tracebacks for bug-reporting purposes can be enabled via:
+    %config Application.verbose_crash=True
+
