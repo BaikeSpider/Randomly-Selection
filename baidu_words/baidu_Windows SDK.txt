@@ -1,0 +1,136 @@
+
+
+
+
+
+
+
+
+
+
+收藏
+查看我的收藏
+
+
+
+0
+有用+1
+已投票
+
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Windows SDK
+编辑
+锁定
+
+本词条缺少名片图，补充相关内容使词条更完整，还能快速升级，赶紧来编辑吧！
+
+
+Windows SDK是微软每推出一个重要的windows版本，一般都会同时推出一个SDK（Software Development Kit）。SDK包含了开发该windows版本所需的windows函数和常数定义、API函数说明文档、相关工具和示例。SDK一般使用C语言，但不包括编译器。
+
+
+
+
+外文名
+
+Windows SDK
+
+推出公司
+
+微软公司
+
+
+应用版本
+
+windows版本
+
+语    言
+
+C语言
+
+
+
+
+目录
+
+
+
+1
+概述
+
+
+2
+与SDK相关的几个概念
+
+
+3
+编程环境
+
+
+
+
+
+
+
+
+
+
+Windows SDK概述
+编辑
+
+高版本VC++包括了SDK所有的头文件、帮助、示例和工具，不需要再安装SDK，低版本如VC++5.0则需要安装SDK。从windows 98开始，windows SDK叫Platform SDK(http://www.microsoft.com/downloads/details.aspx?FamilyId=A55B6B43-E24F-4EA3-A93E-40C0EC4F68E5&displaylang=en)，包含最新的windows API函数的有关声明、例子。
+用VC编写windows程序有两种方式：windows c方式（SDK）和C++方式（对SDK函数进行包装，如VC中的MFC、BCB中的VCL）。SDK编程就是直接用windows API进行编程。API由上千个API函数组成（win95中有两千多个），而MFC是API的封装，结合面向对象的继承、多态组成一个个类，共有一百多个类组成。
+SDK是Software Development Kit的缩写，中文意思是“软件开发工具包”。这是一个覆盖面相当广泛的名词，可以这么说：辅助开发某一类软件的相关文档、范例和工具的集合都可以叫做“SDK”。 开发 Windows 平台下的应用程序所使用的 SDK只是广义 SDK 的一个子集。
+
+
+
+
+Windows SDK与SDK相关的几个概念
+编辑
+
+上面只是说了一个 SDK 大概的概念而已，要理解SDK 不得不引入 API、动态链接库、导入库等等概念。
+首先要接触的是“API”，也就是 Application Programming Interface，其实就是操作系统留给应用程序的一个调用接口，应用程序通过调用操作系统的 API 而使操作系统去执行应用程序的命令（动作）。早在 DOS 时代就有 API 的概念，只不过那个时候的 API 是以中断调用的形式（INT 21h）提供的，在 DOS 下跑的应用程序都直接或间接的通过中断调用来使用操作系统功能，比如将 AH 置为 30h 后调用 INT 21h 就可以得到 DOS 操作系统的版本号。而在 Windows 中，系统 API 是以函数调用的方式提供的。同样是取得操作系统的版本号，在 Windows 中你所要做的就是调用 GetVersionEx() 函数。可以这么说，DOS API 是“Thinking in 汇编语言”的，而 Windows API 则是“Thinking in 高级语言”的。DOS API 是系统程序的一部分，他们与系统一同被载入内存并且可以通过中断矢量表找到他们的入口。
+DLL即 Dynamic Link Library（动态链接库）。我们经常会看到一些 .dll 格式的文件，这些文件就是动态链接库文件，其实也是一种可执行文件格式。跟 .exe 文件不同的是，.dll 文件不能直接执行，他们通常由 .exe 在执行时装入，内含有一些资源以及可执行代码等。其实 Windows 的三大模块就是以 DLL 的形式提供的（Kernel32.dll，User32.dll，GDI32.dll），里面就含有了 API 函数的执行代码。为了使用 DLL 中的 API 函数，我们必须要有 API 函数的声明（.H）和其导入库（.LIB）。导入库可以理解为是为了在 DLL 中找到 API 的入口点而使用的。
+所以，为了使用 API 函数，我们就要有跟 API 所对应的 .H 和 .LIB 文件，而 SDK 正是提供了一整套开发 Windows 应用程序所需的相关文件、范例和工具的“工具包”。
+由于 SDK 包含了使用 API 的必需资料，所以人们也常把仅使用 API 来编写 Windows 应用程序的开发方式叫做“SDK 编程”。而 API 和 SDK 是开发 Windows 应用程序所必需的东西，所以其它编程框架和类库都是建立在它们之上的，比如 VCL 和 MFC，虽然他们比起“SDK 编程”来有着更高的抽象度，但这丝毫不妨碍它们在需要的时候随时直接调用 API 函数。
+时下学计算机的大多想学编程，且大部分都是在Windows下工作的，而目前学得最热门的是VC，大多数人一开始就开始学习VC，VC是以C++为语言基础的开发工具，而C++是C语言的扩充，故要学好VC最好是先学好C和C++。
+用VC编写Windows程序有两种：1. Windows c方式(SDK)，2. C++方式:即对SDK函数进行包装，如VC的MFC,BCB的VCL等。SDK编程就是直接调用Windows的API进行编程，平时人们常说"用SDK写程序"就是指用Windows的API函数来写程序，API由上千个API函数组成(Win95的API有两千多个)。而MFC是API的封装，结合面向对象程序设计的继承性和多态性组成一个个的"类"，共由一百多个类组成。尽管MFC比SDK方便，但要深入VC，直接去学MFC却是不明智的选择。只有在熟悉了MFC的运行机制的情况下，才有可能深入下去。所以学VC最好是先学用SDK编写程序，在此期间掌握Windows操作系统的工作原理和各API函数的应用，然后再深入MFC。
+
+
+
+
+Windows SDK编程环境
+编辑
+
+我们仍然用VC6的IDE(集成开发环境)来编写SDK程序，启动VC6后选择File菜单的New...选项，在出现的New对话框的Projects标签内选择Win32 Application，然后在Projects Name指定项目的名字，在Location中指定路径后按OK按钮，在出现的对话框中，如果你想要用C语言来写程序可以选择An emtpy project，如果你想创建一个带有WinMain入口函数和普通参数的设定的项目，可以选择A simple Win32 application，如果您想创建一个简单典型的“Hello World!”Win32SDK application应用程序，可以选择A typical "Hello World!" application。确定项目类型后按Finish完成。
+在VC6环境下，你依然可以使用资源编辑器和ClassWizar等工具完成程序的编写。用SDK编写程序关键是能够了解程序的来龙去脉。如果不了解，当然那样效率会很低，不比VB、PB那么快，任何东西都是有得有失，如你熟悉用SDK写程序后，对MFC会比较容易上手的，关键要熟悉C++的三大特性。

@@ -1,0 +1,416 @@
+
+
+
+
+
+
+
+
+
+
+收藏
+查看我的收藏
+
+
+
+0
+有用+1
+已投票
+
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+java 7
+编辑
+锁定
+
+
+
+java 7,Sun Microsystems开发java，现公司Oracle。功能完善的程序设计语言版本。java史上最大版本的一次更新。
+
+
+
+
+中文名
+
+java 7
+
+外文名
+
+java 7
+
+代    号
+
+海豚
+
+
+成    就
+
+Java历史上一次重大的版本更新
+
+主要改进
+
+模块化
+
+推出时间
+
+2011年7月7日
+
+
+
+
+目录
+
+
+
+1
+简介
+
+
+2
+修改
+
+
+▪
+主要修改
+
+
+▪
+“小的”sun方面的修改有：
+
+
+▪
+sun方面“快速”的修改（主要是性能更新）
+
+
+3
+新特性
+
+
+▪
+Java编程语言特性
+
+
+▪
+Swing
+
+
+▪
+JavaIO
+
+
+▪
+网络
+
+
+▪
+安全
+
+
+▪
+并发
+
+
+▪
+RichInternetApplication(RIA)/部署
+
+
+▪
+Java2D
+
+
+▪
+JavaXML
+
+
+▪
+国际化
+
+
+▪
+java.lang包
+
+
+▪
+Java虚拟机(JVM)
+
+
+▪
+Jdbc4.1
+
+
+
+
+
+
+
+
+
+
+java 7简介
+编辑
+
+
+
+
+
+Java 7，代号「海豚(Dolphin)」，是Java历史上一次非常重大的版本更新。Java 7 由Sun公司(2009年4月20日被Oracle以74亿美元收购)于2011年7月7日首次推出，并于2011年7月28日正式面向开发人员发布。Java 7 的开发周期分为13个阶段，并于2011年2月18日全部达成。平均每个阶段又更新发布了8个内部小版本，每个版本主要进行功能增强和bug修复。
+Java 7的主要改进：模块化。
+
+
+
+
+java 7修改
+编辑
+
+
+
+
+
+
+
+java 7主要修改
+
+* Modularization 模块化– JSR 294 或者 Project Jigsaw
+* JVM 对动态语言的支持
+* 更多新的 I/O APIs 即将完成，包括真正的异步I/O 和最终的真实的文件系统 file system API – JSR 203
+* 对XML本地语言支持. (可能的probable)
+* Safe rethrow – 允许catch捕获语句让编译器更加聪明的知道基于什么情况下重新throw什么内容。
+* Null dereference expressions – Null 和 ‘?’ syntax 比较，语法类似 Groovy… 让开发者避免过多的空值验证。
+* 更好的类型推断 Better type inference
+* 多重捕获Multi-catch
+* JSR 296 – Swing 应用框架 application framework – 这方面需要更简单和简洁。
+
+
+
+
+
+java 7“小的”sun方面的修改有：
+
+* 升级的类加载class loader 架构；
+* XRender pipeline for Java 2D：是Open JDK ntegrators Challenge project项目；
+* Swing 更新 – JXLayer, DatePicker, CSS styling 等；
+* JavaFX
+
+
+
+
+
+java 7sun方面“快速”的修改（主要是性能更新）
+
+* 并发方面的细微调整 concurrency tweaks (JSR 166)，更好的支持Multicore
+* G1 垃圾收集器Garbage collector - 带来更小的中断时间，有希望替代 CMS (Concurrent mark sweep) GC
+* 64 bit VM的压缩指针Compressed pointer
+* MVM-lite – 多个虚拟机能够独立运行应用和允许用kill -9杀死java应用。
+
+
+
+
+java 7新特性
+编辑
+
+Oracle在其官方网站上公布了《Java SE 7 Features and Enhancements[1] 
+》，其中详细介绍了Java SE 7 中所有主要的新特性和功能增强，具体内容如下：
+
+
+
+
+
+java 7Java编程语言特性
+
+1．二进制形式的字面值表示
+2．在数值类型的字面值中使用下划线分隔符联接
+3．创建泛型实例时自动类型推断
+4．switch-case语句支持字符串类型[2] 
+
+5．新增try-with-resources语句[3] 
+
+6．单个catch子句同时捕获多种异常类型[4] 
+
+7．改进使用带泛型可变参数的方法时的编译器警告和错误提示机制[5] 
+
+
+
+
+
+
+java 7Swing
+
+1．新增javax.swing.JLayer类，一个灵活而且功能强大的Swing组件修饰器。它使你能够直接利用组件和组件的事件响应而无需修改底层组件。你可以点击查看如何使用JLayer修饰组件。
+2．NimbusLook&Feel(L&F)从包com.sun.java.swing移动到标准的API包javax.swing;详细信息请查看javax.swing.plaf.nimbus。尽管它不是默认的L&F，但是现在你可以非常方便地使用它了。你可以查看Java教程中NimbusLookandFeel部分的详细信息，也可以在你的程序中运行三个使用Nimbus的简单方法的代码示例。
+3．在以前的版本中,在同一个容器中混合使用重量级的AWT组件和轻量级的Swing组件可能会引发某些问题。不过，现在你可以在JavaSE7完美地混合使用它们了。你可以点击这里查看相关文章。
+4．JavaSE7支持以指定的透明度或非矩形的方式来显示窗体，你可以点击这里查看Java教程中关于如何创建带有指定透明度和非矩形的窗体的部分内容。
+5．类javax.swing.JColorChooser中新增了对以HSV方式来表现RGB色彩模型的支持。HSV和HSL是两种最常见的用于表示RGB色彩模型的表示方式。它们均表示色调、饱和度、亮度三个参数，不过取值形式不同。HSL的三个参数的取值范围均为0-255，HSV的三个参数的取值范围分别为0°-360°、0.0-1.0、0.0-1.0。
+
+
+
+
+
+java 7JavaIO
+
+1．包java.nio.file以及相关联的包java.nio.file.attribute提供对文件IO以及访问文件系统更全面的支持。JDK7也支持zip压缩格式的文件系统。你可以参考以下资源获得更多信息：
+a)你可以点击查看Java教程中关于文件I/O(NIO2.0特性)的部分内容；nio表示非阻塞式的IO(non-blockingI/O)。
+b)开发一个自定义的文件系统提供者[6] 
+。
+c)zip压缩格式的文件系统提供者[7] 
+。
+d)目录%JAVA_HOME%/sample/nio/chatserver/下含有包括java.nio.file包在内的新API的演示示例。
+e)目录%JAVA_HOME%/demo/nio/zipfs/下含有NIO2.0网络文件系统的演示示例。
+
+
+
+
+
+java 7网络
+
+1．类java.net.URLClassLoader新增close方法，该方法可以有效解决如何支持从特定代码库，尤其是jar文件中，加载类或资源的最新实现的问题。详情查看如何关闭URLClassLoader。
+
+
+
+
+
+java 7安全
+
+1．新增ECDSA/ECDH等基于ECC加密算法的支持，详情查看Java加密体系结构中供应商SunEC提供支持的算法的部分内容。
+2．禁用了MD2等一些弱加密算法，JavaSE7提供一种机制，用于在处理证书路径或与TLS交互时拒绝使用指定的加密算法。详情查看Java公共密钥程序员指南中的附录D：禁用指定的加密算法和Java安全套接字扩展中的禁用加密算法。
+3．对Java安全套接字扩展(JavaSecureSocketExtension)中的SSL/TLS进行了一系列增强和完善。
+
+
+
+
+
+java 7并发
+
+1．基于类java.util.concurrent.ForkJoinPool的fork/join框架，作为接口java.util.concurrent.Executor的一个实现，它被用来高效地运行工作线程池中的大量任务。其中还使用了一种名为work-stealing的技术，它可以充分利用多处理器来保证所有的工作线程一直正常工作。详情查看Java教程中的Fork/Join部分。目录%JAVA_HOME%/sample/forkjoin/中包含fork/join的演示示例。
+2．新增java.util.concurrent.ThreadLocalRandom类，它消除了使用伪随机数的线程之间的竞争。在多线程并发访问的情况下，使用ThreadLocalRandom比使用Math.random()可以减少并发线程之间的竞争，从而获得更好的性能。例如：
+a) intr=ThreadLocalRandom.current().nextInt(4,77);
+b) //将返回一个4-77之间的随机整数(不包含77)。
+3．新增java.util.concurrent.Phaser类，它是一个新的类似于java.util.concurrent.CyclicBarrier的线程同步障碍辅助工具类(它允许一组线程互相等待，直到到达某个公共屏障点)。
+
+
+
+
+
+java 7RichInternetApplication(RIA)/部署
+
+
+
+
+
+
+
+java 7Java2D
+
+1．一个新的基于XRender的渲染管道能够提供改进的图形运行性能，以支持现在的基于DirectX11的桌面应用。默认情况下，这个渲染管道并未启用，不过你可以使用命令行设置属性-Dsun.java2d.xrender=true来启用它。
+2．现在JDK可以通过诸如GraphicsEnvironment.getAvailableFontFamilyNames等方法来枚举并显示系统中已安装的OpenType/CFF字体了，并且这些字体都可以被方法Font.createFont识别。你可以查看Java教程选择指定的字体。
+3．类java.awt.font.TextLayout现在可以支持西藏文字的脚本了。
+4．在Windows和Solaris操作系统中，文件fontconfig.properties中静态指定了JDK可以使用的逻辑字体。不过，在多数Linux系统的实现中，并没有保证在特定的语言环境下对特定字体表现的支持。在JavaSE7中，libfontconfig可选择在「未识别」的Linux平台上使用的逻辑字体。更多信息可以查看Fontconfig。
+
+
+
+
+
+java 7JavaXML
+
+1．JavaSE7现在已经更新JavaAPIforXMLProcessing(JAXP)至1.4.5版本，与以前的版本相比，该版本修复了许多bug，并且做了许多的改进，尤其是在一致性、安全性和性能方面。虽然JAXP仍然处于1.4版本，不过StAX已经升级到了1.2版本。更多信息你可以查看JAXP1.4.5发行说明以及JAXP1.4.5更新日志。
+2．JavaSE7更新JavaArchitectureforXMLBinding(JAXB)至2.2.3版本，详情查看2.2以上版本的JAXB更新日志。
+3．JavaSE7更新JavaAPIforXMLWebServices(JAX-WS)至2.2.4版本。详情查看2.2以上版本的JAX-WS更新日志。
+
+
+
+
+
+java 7国际化
+
+1．JavaSE7中添加或改进了对Unicode6.0.0、本地化目录、本地化类文件以及ISO4217货币符号扩展性的支持。
+
+
+
+
+
+java 7java.lang包
+
+1．JavaSE7修复了以前版本中多线程的自定义类加载器可能出现死锁的问题。
+
+
+
+
+
+java 7Java虚拟机(JVM)
+
+1．java虚拟机支持非Java语言
+2．G1(Garbage-First)垃圾收集器
+3．JavaHotSpot虚拟机性能增强
+
+
+
+
+
+java 7Jdbc4.1
+
+1．支持使用try-with-resources语句进行自动的资源释放，包括连接、语句和结果集
+2．支持RowSet1.1
+
+参考资料
+
+
+
+1.
+  
+Java SE 7 Features and Enhancements 
+．www.oracle.com[引用日期2014-09-01]
+2.
+  
+Java SE 7新特性：switch-case语句支持字符串类型 
+．CodePlayer(www.365mini.com)．2013-01-22[引用日期2014-09-01]
+3.
+  
+Java SE 7新特性：try-with-resources语句 
+．CodePlayer(www.365mini.com)．2013-01-22[引用日期2014-09-01]
+4.
+  
+Java SE 7新特性：同时捕获多个异常类型 
+．CodePlayer(www.365mini.com)．2013-01-23[引用日期2014-09-01]
+5.
+  
+Java SE 7新特性：改进使用带泛型可变参数的方法时的编译器警告和错误提示 
+．CodePlayer（www.365mini.com）[引用日期2014-09-01]
+6.
+  
+Developing a Custom File System Provider 
+．docs.oracle.com[引用日期2014-09-01]
+7.
+  
+Zip File System Provider 
+．docs.oracle.com[引用日期2014-09-01]
+
+

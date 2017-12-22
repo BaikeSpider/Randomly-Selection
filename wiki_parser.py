@@ -369,6 +369,21 @@ class HtmlParser(object):
         editors = text1[0].find_all('td')[9].text
         editors = editors.strip()
         # editors = editors.rstrip()
+        p = re.compile(r'\d+,\d+?')
+        s = edits
+        for m in p.finditer(s):
+           mm = m.group()
+           s_back = s.replace(mm,mm.replace(',',''))
+           s = s_back
+        edits = s
+
+        s = ip_edits
+        for m in p.finditer(s):
+           mm = m.group()
+           s_back = s.replace(mm,mm.replace(',',''))
+           s = s_back
+        ip_edits = s
+
         edits = int(edits) - int(ip_edits)
 
 

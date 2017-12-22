@@ -1,2 +1,0 @@
-非绝热耦合
-非绝热耦合（nonadiabatic coupling），又称电子振动耦合（vibronic coupling）或导数耦合（derivative coupling），是一个描述分子体系中电子与原子核间运动耦合作用的物理量[1] [2] 。

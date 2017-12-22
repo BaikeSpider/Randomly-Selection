@@ -1,0 +1,293 @@
+
+
+
+
+
+
+
+
+
+
+收藏
+查看我的收藏
+
+
+
+0
+有用+1
+已投票
+
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Gamebryo引擎
+编辑
+锁定
+
+本词条缺少名片图，补充相关内容使词条更完整，还能快速升级，赶紧来编辑吧！
+
+
+Gamebryo引擎是NetImmerse引擎的后继版本，是由Numerical Design Limited最初开发的游戏中间层，在与Emergent Game Technologies公司合并后，引擎改名为Gamebryo Element。
+
+
+
+
+中文名
+
+Gamebryo引擎
+
+前版本
+
+NetImmerse引擎
+
+开发公司
+
+Numerical Design Limited
+
+
+编写程序
+
+C++
+
+代表作
+
+御龙在天等
+
+特    点
+
+强大、灵活
+
+
+
+
+目录
+
+
+
+1
+简介
+
+
+2
+特点
+
+
+3
+技术细节
+
+
+4
+商业使用信息
+
+
+5
+国内授权
+
+
+
+
+
+
+
+
+
+
+Gamebryo引擎简介
+编辑
+
+
+
+
+
+
+Gamebryo Element引擎是由C++编写的多平台游戏引擎，他支持的平台有：Windows、Wii、PlayStation 2、PlayStation 3、Xbox和Xbox 360。
+虽然Gamebryo的渲染引擎部分是私有的，但他允许使用者添加自己的图形绘制代码。Gamebryo包含了长达3500页的说明书，然而关于Maya的部分却不完整，有的已经过时。
+Emergent为部分客户提供开发套件，但不提供这些套件的源代码，而且套件只提供给EGT公司代表面谈后认为可以提供的客户。
+
+
+
+
+Gamebryo引擎特点
+编辑
+
+强大：游戏设计
+Gamebryo是一个架构良好的API，其目的是提供卓越的性能与真正的多核/多平台的能力。作为一个API，Gamebryo是为提供卓越的性能与真正的多核心和多平台的能力而建造。
+Gamebryo几乎可以自动处理所有的动画值。这些动画值可从当今热门的DCC工具中导出。此外， Gamebryo的Animation Tool可让您混合任意多的动画序列。新的Emergent Terrain System拓展了您的（游戏设计）调色盘，并支持具有行业标准的产品，如PhysX和SpeedTree。Gamebryo提供所有您需要的渲染、动画及特技效果功能，来创建任何风格的游戏。
+灵活：游戏引擎
+Gamebryo提供强健的和模块化的开发工具，这样您就可以定制以创造独特的游戏，其外观和玩法是独一无二的。这些API包括多个剪切和分拣技术，通过只绘制可见物的方法降低CPU使用率。
+从插件驱动的工具和流程到实时渲染系统，灵活性是各级Gamebryo产品线的核心架构原则。 Gamebryo库的设计是为了在无需修改源代码的情况下最大可能地允许用户的个性化。您也可以选择带源代码的授权，并加以修改使其满足您的需求。
+游戏开发解决方案
+拥有超过10年成功的后备支持，Gamebryo是超过12个游戏风格、数以百计的游戏所使用的基本技术。 Gamebryo不断发展变化以应对在游戏领域不断变化的技术挑战。例如，Emergent的Floodgate™数据流处理引擎，在多核心平台（PS3, Xbox 360和多核心的个人电脑）－甚至Wii都简化了开发挑战，这样您就可以同时发展所有的平台，不用牺牲其中任何一个。
+Emergent开发了Gamebryo以确保为您提供您所需要的，并帮助您实现您开发项目的愿景。
+先进的游戏开发工具
+Gamebryo游戏引擎的核心包括插件工具和包含模块的框架，包括Scene Designer（布局和关卡编辑器）和Animation Tool.。最近发布的Emergent Terrain System延伸您艺术家的能力，以及主机浏览器可以让每个人都预览或精心测试。这个框架很容易接受现有的第三方和内部的工具和技术，使其拥有令人难以置信的可扩展性。
+Gamebryo提供了您所需要的能创建伟大游戏的完整框架。
+高品质，商用级
+Gamebryo是一个专业设计的软件开发工具包。每个Gamebryo发布的产品都进行过广泛的测试和质量保证，为您的项目提供了坚如磐石的基础。我们对我们书写明确、精良编录的高质量代码、优化您的团队开发游戏的速度和效率感到非常自豪。
+Gamebryo提供一套完整的示例应用程序以展示产品的特定功能，以及更大的测试应用程序来说明如何集成多种功能，来创建您的原型或制作一个游戏。
+Gamebryo 可以帮助您
+* 快速开发出原型并获得初步可玩制品，让您能够为发行商和投资者演示出您的概念
+* 提高效率，使艺术家能够独立为开发者工作，允许更快的迭代
+* 轻松地为您的游戏配置多种平台，更好地确保所有的SKU可同时发行
+* 利用高效能的多核心架构 - Gamebryo的Floodgate™数据流处理引擎
+* 创建你想要的-任何风格的游戏-使用模块化、灵活的特色，以及易于扩展，精良编录的API，让您无限制地发挥您的游戏的潜力
+业界领先的支持
+Emergent致力于帮助您制作出精良的游戏，与此同时，我们的客户支持专业人员伴随您走过每一步。不论是您第一次使用我们的评估版引擎，或是您已经懂得利用Gamebryo API的一切先进的特性和功能，Emergent将帮助您使您的游戏一鸣惊人。
+我们的技术支持团队是引擎工程团队的一部分，因此是我们技术和工具的直接开发者在帮助您最大限度地利用我们的技术来制作您的的项目。Gamebryo系统有完整文档，其代码易于浏览，并且网上论坛全天24小时为注册用户提供服务。
+当您需要在强化的培训课程上得到指引、帮助的时候，我们还将提供公司内部专家进行现场培训。
+　　
+Gamebryo的最新特点
+* 完全支持Wii并扩展了对DirectX 10的支持
+* 新的DCC工具 - 一个特制的SoftImage|XSI 6.5导出插件
+* 重新设计的几何系统以优化每个平台的性能
+* 一个新的与Floodgate数据流处理引擎联系在一起的网格修改系统，让变形技术或蒙皮技术和粒子模拟等方面的性能得到改进
+* 拓展了Emergent Terrain编辑器和实时系统，包括支持PhysX
+* 改进了Animation System 的性能，增强了Scene Designer以建立团队合作
+* 持续的关注可用性和生产率，比如对更新后的主机SDK的支持，以及目前对编译程序警告级别4的特殊处理
+您还可以利用Gamebryo高性能渲染和模块化的工具包，让您的客户拥有丰富的、身临其境的体验。
+Gamebryo中间件的特点
+Gamebryo中间件可以帮助您的团队创造一流的游戏。其特点包括：
+* 高端材质和渲染效果
+* 灵活的渲染、排序、筛选方法
+* Floodgate数据流处理引擎，用于实现跨平台的多核开发
+* 与主要的三维建模工具整合，包括的3ds Max&reg; 和Maya&reg;以及Softimage|XSI&reg;
+* 功能强大的先进的工具链整合
+* 支持来自于Emergent Partners的业界领先的工具，包括SpeedTree，Scaleform和NVIDIA PhysX等等
+* 层次场景图描绘
+* 高效的可视物体的筛选
+* 在所有平台上支持先进的三维硬件加速
+* 动态碰撞检测
+* 交替撞击判定模型
+* 粒子系统
+* 顶点颜色、材质、阿尔法透明、纹理等可定制的着色器（Shader）
+* 支持三维音频
+* 详细层次描绘
+
+
+
+
+Gamebryo引擎技术细节
+编辑
+
+在它的核心中，Gamebryo游戏引擎是一套模块化，基本的C++库。游戏开发者还可以扩大这些库来为他们的游戏创建自定义功能。一个完整的系统授权，游戏程序员可以访问源代码，从而个性化和扩大标准库。
+Gamebryo极为灵活。游戏开发者可以自定义渲染的着色算法，支持各种选择以使艺术家们的工作在不影响工程师的工作的情况下变得很容易。
+　　
+
+
+
+
+Gamebryo引擎商业使用信息
+编辑
+
+使用Gamebryo的游戏
+游戏 年份 平台 开发商 发行商
+轴心国和同盟军 2004年 PC TimeGate Studios Atari
+邪神的呼唤：地球黑暗角落 2006年 Xbox, PC Headfirst Productions Bethesda Softworks, 2K Games
+卡米洛特的黑暗年代 2001年 PC Mythic Entertainment Vivendi Universal Games
+上古卷轴IV：湮没 2006年 PC, Xbox 360, PS3 Bethesda Softworks 2K Games
+上古卷轴IV：战栗孤岛 2007年 PC, Xbox 360 Bethesda Softworks 2K Games
+地球帝国II 2005年 PC Mad Doc Software Sierra Entertainment
+地球帝国III 2007年 PC Mad Doc Software
+辐射3 2008年 PC, Xbox 360, PS3 Bethesda Softworks
+辐射 新维加斯 PC，Xbox360,PS3 Bethesda Softworks
+自由力量大战第三帝国 2005年 PC Irrational Games Vivendi Universal Games
+行会2 2006年 PC 4Head Studios
+可汗II：战争之王 2004年 PC Gathering Global Star Software, Take 2 Interactive
+花花公子：情色大亨 2005年 PS2, PC, Xbox Cyberlore Studios Inc. ARUSH Entertainment
+红海 2007年 PC Collision Studios Digital Entertainment Pool
+文明4 2005 PC, Mac Firaxis 2K Games
+席德梅尔的海盗 2004年 PC, Xbox Firaxis 2K Games, Atari
+席德梅尔的铁路 2006年 PC Firaxis 2K Games
+至尊交响乐 2008年 PC Ceidot游戏工作室
+战锤Online：决战世纪 2008年 PC EA Mythic Electronic Arts
+动物园大亨2 2004年 PC Blue Fang Games Microsoft Game Studios
+野生动物园大亨2 2006年 PC Deep Silver B-Alive
+星辰变OL 2008年 PC Ceidot游戏工作室
+古剑奇谭 2010年07月10日 PC 上海烛龙信息科技有限公司
+使用NetImmerse的游戏
+游戏 年份 平台 开发者 发行商
+卡米洛特的黑暗年代 2001年 PC Mythic Entertainment Vivendi Universal Games
+上古卷轴III：晨风 2002年 PC, Xbox Bethesda Softworks 育碧公司
+上古卷轴III：审判席 2002年 PC, Xbox Bethesda Softworks 育碧公司
+上古卷轴III：血月 2002年 PC, Xbox Bethesda Softworks 育碧公司
+安特罗皮亚世界 2003年 PC MindArk
+自由力量 2002年 PC, Mac Irrational Games Electronic Arts
+Futurama 2003 Xbox, PS2 Unique Development Studios Sweden
+波斯王子3D 1999年 PC, Dreamcast Red Orb Entertainment
+星际迷航：舰桥指挥官 2002 PC Totally Games Activision
+动物园大亨2 2004年 PC Microsoft Game Studios
+亚瑟王传奇：见习骑士 2004年 XBox Micro?ds
+仙境传说2：Legend of the Second 2010年 PC Gravity
+NavyFIELD 2：Conqueror of the Ocean 2012年 PC SDEnterNET
+
+
+
+
+Gamebryo引擎国内授权
+编辑
+
+国内使用Gamebryo游戏引擎的公司及开发的游戏
+游戏名称
+开发公司
+御龙在天
+腾讯公司
+轩辕传奇
+腾讯公司
+QQ飞车
+腾讯公司
+星辰变
+盛大网络集团
+龙门客栈
+上海修真网络科技有限公司
+古剑奇谭
+上海烛龙信息科技有限公司
+宠物森林
+久游网
+魔界2
+上海鸿利数码科技有限公司(金梦游戏)
+侠义道III
+成都梦工厂网络信息有限公司
+黄帝
+西安东华鼎盛动漫科技有限公司
+源火（血战王朝）深圳市盈佳世纪公司界日迷城OL四川英图灵网络科技有限公司
+词条标签：
+
+
+网站
+
+，
+科技产品
+
+
+
+
+
