@@ -1,0 +1,70 @@
+
+
+
+
+
+
+
+收藏
+查看我的收藏
+
+
+
+0
+有用+1
+已投票
+
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fedora Project
+编辑
+锁定
+
+本词条缺少概述、信息栏、名片图，补充相关内容使词条更完整，还能快速升级，赶紧来编辑吧！
+
+
+
+
+Fedora项目是一份由Red Hat策划的开放开发项目，它向普通参与者开放并由精英管理者领导，沿着一系列项目目标而前进。Fedora项目的目标是与Linux社区协作，只从开放源码软件来创建一份完整的、通用的操作系统。其开发过程是以公开论坛的形式进行的。项目将按时间计划，每年作两到三次Fedora Core的发布，并提供一份公开的发布日程表。Red Hat工程组将继续参与Fedora Core的开发，并且将比以往更多地邀请和鼓励外界的参与。通过采用这样一种更加开放的过程，我们希望能提供一份更加符合自由软件理念并且对开放源码社区更具吸引力的操作系统。 
+
+
+
+
+
+        window.rsInsertData = window['rsInsertData'] || [];
+        var rsdataList = {"foot":[{"fentryTableId":29857,"fentryTableName":"Red Hat\u76f8\u5173\u4ea7\u54c1","fentryTableType":1,"entryId":2556465,"templateId":0,"entryTitle":"Red Hat","isManual":0,"isExpand":1}],"top":[]};
+
+        if (rsdataList.top || rsdataList.foot) {
+            rsInsertData.push([874388, rsdataList]);
+        }
+    

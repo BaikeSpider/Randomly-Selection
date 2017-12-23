@@ -1,0 +1,314 @@
+
+
+
+
+
+
+
+
+
+
+收藏
+查看我的收藏
+
+
+
+0
+有用+1
+已投票
+
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+stata
+编辑
+锁定
+
+
+
+Stata 是一套提供其使用者数据分析、数据管理以及绘制专业图表的完整及整合性统计软件。它提供许许多多功能，包含线性混合模型、均衡重复反复及多项式普罗比模式。用Stata绘制的统计图形相当精美。
+
+
+
+
+中文名
+
+stata
+
+外文名
+
+stata
+
+用    途
+
+数据分析、数据管理以及绘制
+
+
+属    性
+
+软件
+
+功    能
+
+线性混合模型、均衡重复反复
+
+类    型
+
+统计分析软件
+
+
+
+
+目录
+
+
+
+1
+简介
+
+
+2
+统计功能
+
+
+3
+作图功能
+
+
+4
+程序设计
+
+
+5
+功能列表
+
+
+6
+学习资料
+
+
+▪
+网络资源
+
+
+▪
+相关的书籍
+
+
+
+
+
+
+
+
+
+
+stata简介
+编辑
+
+新版本的STATA采用最具亲和力的窗口接口，使用者自行建立程序时，软件能提供具有直接命令式的语法。Stata提供完整的使用手册，包含统计样本建立、解释、模型与语法、文献等超过一万余页的出版品。
+除此之外，Stata软件可以透过网络实时更新每天的最新功能，更可以得知世界各地的使用者对于STATA公司提出的问题与解决之道。使用者也可以透过Stat
+
+
+
+
+软件logo
+
+a Journal获得许许多多的相关讯息以及书籍介绍等。另外一个获取庞大资源的管道就是Statalist，它是一个独立的listserver，每月交替提供使用者超过1000个讯息以及50个程序。[1-3] 
+
+
+
+
+
+stata统计功能
+编辑
+
+Stata的统计功能很强，除了传统的统计分析方法外，还收集了近20年发展起来的新方法，如Cox比例风险回归，指数与Weibull回归，多类结果与有序结果的logistic回归，Poisson回归，负二项回归及广义负二项回归，随机效应模型等。具体说， Stata具有如下统计分析能力：
+数值变量资料的一般分析：参数估计，t检验，单因素和多因素的方差分析，协方差分析，交互效应模型，平衡和非平衡设计，嵌套设计，随机效应，多个均数的两两比较，缺项数据的处理，方差齐性检验，正态性检验，变量变换等。
+分类资料的一般分析：参数估计，列联表分析 ( 列联系数，确切概率 ) ，流行病学表格分析等。
+等级资料的一般分析：秩变换，秩和检验，秩相关等
+相关与回归分析：简单相关，偏相关，典型相关，以及多达数十种的回归分析方法，如多元线性回归，逐步回归，加权回归，稳键回归，二阶段回归，百分位数 ( 中位数 ) 回归，残差分析、强影响点分析，曲线拟合，随机效应的线性回归模型等。
+其他方法：质量控制，整群抽样的设计效率，诊断试验评价， kappa等。
+
+
+
+
+stata作图功能
+编辑
+
+Stata的作图模块，主要提供如下八种基本图形的制作 : 直方图（histogram），条形图（bar），百分条图 （oneway），百分圆图（pie），散点图（two way），散点图矩阵（matrix），星形图（star），分位数图。这些图形的巧妙应用，可以满足绝大多数用户的统计作图要求。在有些非绘图命令中，也提供了专门绘制某种图形的功能，如在生存分析中，提供了绘制生存曲线图，回归分析中提供了残差图等。
+Stata的矩阵运算功能
+矩阵代数是多元统计分析的重要工具， Stata提供了多元统计分析中所需的矩阵基本运算，如矩阵的加、积、逆、 Cholesky分解、 Kronecker内积等；还提供了一些高级运算，如特征根、特征向量、奇异值分解等；在执行完某些统计分析命令后，还提供了一些系统矩阵，如估计系数向量、估计系数的协方差矩阵等。
+
+
+
+
+stata程序设计
+编辑
+
+Stata是一个统计分析软件，但它也具有很强的程序语言功能，这给用户提供了一个广阔的开发应用的天地，用户可以充分发挥自己的聪明才智，熟练应用各种技巧，真正做到随心所欲。事实上，Stata的ado文件（高级统计部分）都是用Stata自己的语言编写的。
+Stata其统计分析能力远远超过了SPSS，在许多方面也超过了SAS！由于Stata在分析时是将数据全部读入内存，在计算全部完成后才和磁盘交换数据，因此计算速度极快（一般来说， SAS的运算速度要比SPSS至少快一个数量级，而Stata的某些模块和执行同样功能的SAS模块比，其速度又比SAS快将近一个数量级！）Stata也是采用命令行方式来操作，但使用上远比SAS简单。其生存数据分析、纵向数据（重复测量数据）分析等模块的功能甚至超过了SAS。用Stata绘制的统计图形相当精美，很有特色。
+
+
+
+
+stata功能列表
+编辑
+
+数据管理（Data management）
+资料转换、分组处理、附加档案、 ODBC 、行 - 列转换、数据标记、字符串函数…等
+基本统计（Basic statistics）
+直交表、相关性、 t- 检定、变异数相等性检定、比例检定、信赖区间…等
+线性模式（Linear models）
+稳健Huber/White/sandwich变异估计 , 三阶最小平方法、类非相关回归、齐次多项式回归、GLS
+广义型线性模式（Generalized linear models）
+十连结函数、使用者-定义连结、 ML及IRLS估计、九变异数估计、七残差…等
+二元、计数及有限应变量（Binary, count and limited dependent variables）
+罗吉斯特、probit、卜松回归、tobit、truncated回归、条件罗吉斯特、多项式逻辑、巢状逻辑、负二项、 zero-inflated模型、Heckman 选择模式、边际影响
+Panel数据/交叉 - 组合时间序列（Panel data/cross-sectional time-series）
+随机及固定影响之回归、GEE、随机及固定-影响之卜松及负二项分配、随机 - 影响、工具变量回归、AR(1) 干扰回归
+无母数方法（Nonparametric methods）
+多变量方法（Multivariate methods）
+因素分析、多变量回归、 anonical 相关系数
+模型检定及事后估计量支持分析（Model testing and post-estimation support）
+Wald检定、LR检定、线性及非线性组合、非线性限制检定、边际影响、修正平均数Hausman检定
+群集分析（Cluster analysis）
+加权平均、质量中心及中位数联结、kmeans、kmedians、dendrograms、停止规则、使用者扩充
+图形（Graphics）
+直线图、散布图、条状图、圆饼图、 hi-lo 图、回归诊断图…
+调查方法（Survey methods）
+抽样权重、丛集抽样、分层、线性变异数估计量、拟 - 概似最大估计量、回归、工具变量…
+生存分析（Survival analysis）
+Kaplan–Meier、Nelson–Aalen、Cox回归（弱性）、参数模式（弱性）、危险比例测试、时间共变项、左-右检查、韦柏分配、指数分配…
+流行病学工具（Tools for epidemiologists）
+比例标准化、病例控制、已配适病例控制、Mantel – Haenszel，药理学、ROC分析、ICD-9-CM
+时间序列（Time series）
+ARIMA、ARCH/GARCH、VAR、Newey–West、correlograms、periodograms、白色 - 噪音测试、最小整数根检定、时间序列运算、平滑化
+最大概似法（Maximum likelihood）
+转换及常态检定（Transforms and normality tests）
+Box–Cox、次方转换Shapiro–Wilk、Shapiro–Francia检定
+其它统计方法（Other statistical methods）
+样本数量及次方、非线性回归、逐步式回归 、统计及数学函数
+包含样本范例（Sample session）
+再抽样及模拟方法（Resampling and simulation methods）
+bootstrapping、jackknife、蒙地卡罗模拟、排列检定
+网络功能
+安装新指令、网络升级、网站档案分享、Stata 最新消息
+epiman论坛学习资源丰富，学术氛围良好，在国内新生代公共卫生学术界有一定影响力。是探讨Stata、spss、sas、epidata等统计软件的主流论坛之一。
+
+
+
+
+stata学习资料
+编辑
+
+
+
+
+
+
+
+stata网络资源
+
+Stata官方网站。Stata公司提供的Web resources，涵盖了大量相关网络资源；其FAQ则提供了各种常见问题的解答；Statalist则是一个类似于人大经济论坛的免费的讨论区。加入Statalist的方法很简单，你只需要发送邮件至Stata-maillist，邮件内容无需任何称谓，只需写上“subscribe Statalist”的字样即可。接到确认信息后，你便成为一名Statalist的成员了。当然，即使不加入，你仍然可以浏览，但不能提问。
+UCLA（加州大学洛杉矶分校提供的网络教程。该网站提供的Data Management、Graphics、Regression、Logistic Regression、Multilevel Modeling、Survey Data Analysis等模块都非常出色；其Web Books、Textbook Examples模块则非常细致地呈现了几十本非常流行的统计和计量教材的Stata实例；对于LaTeX感兴趣的朋友，则可以通过Stata Tools for LaTeX模块获得诸多有用的信息；在Graph examples模块中，则列举了四十余种图形的绘制方法；最后，在Classes and Seminars模块中，你可以在线观看数十个Stata教学视频。
+Stata中文讨论专区。目前，国内已有多个专门讨论Stata应用的论坛，包括人大经济论坛Stata专区，公卫人EpiMan等。这些论坛集中了国内外数十万的Stata用户，为交流和解决Stata应用过程中遇到的各种问题和经验提供了很好的平台。
+
+
+
+
+
+stata相关的书籍
+
+自从Hamilton（1990）出版Statistics with Stata后，一系列将计量理论与软件操作结合起来的书籍开始相继面世，而在此之前，人们似乎都认为软件操作是件非常简单的事情。也正因为如此，很多学生在修改完了一个学年的计量经济学课程后，仍然不知道该如何完成OLS估计。为此，我列举的书籍多附有Stata实例（* 表示我的推荐程度），多数书中的范例数据都可通过Stata官方网站下载。
+一份详细的书单：UCLA提供了的书单 。
+入门教材：Baum(2006)*、Newton and Cox(2009)、Chen et al.(2005)、Adkins and Hill(2008)*；Wooldridge(2009)*，波士顿大学的网站上提供了该书所有章节的Stata范例，是一套非常好的学习资料。
+综合性教材：Cameron and Trivedi(2005)撰写的Microeconometrics: Methods and applications一书全面介绍了微观计量中的基本分析工具，其中不乏最近十年中得到广泛应用的Bootstrap、Monte Carlo模拟，以及非参数估计法。二人于2009年出版的另一力作(Cameron and Trivedi(2009)*)是这本书的姊妹篇，重点介绍了常用计量模型的Stata实现方法。
+Stata手册：我一直非常佩服撰写Stata手册的那些人，他们总能以最简洁的语言说清楚纠结我很久的问题。Stata11附有16本电子手册，仅需统一放置于D:\stata11\utilities目录下，即可从Stata内部的帮助文件中的Also see部分直接链接到相应的PDF说明书中。作为初学者，我强烈建议你将[U]和[D]打印出来，反复研读。stata手册内容齐全，但不便于阅读，把命令与例题割裂开来，阅读起来很不方便。
+stata软件在社会科学研究中的高级应用：周文光，李尧远，梁炜 著，西北工业大学出版社出版。该书详细介绍了如何应用stata对连续变量与分类变量进行分析，包括回归分析，时间序列分析，面板数据分析等，并介绍了如何使用stata进行生存分析与聚类分析、编程等内容。
+Stata视频。相比于网络教程和纸本教材，通过视频学习Stata可能是最快捷的方式了。UCLA免费发布的视频教程，内容涉及Stata入门、数据处理和绘图等。[4] 
+采用英文讲解，思路清晰。局限在于所涉及内容不够系统，但对于想快速入门的学生则是一份不错的参考资料。同时，藉由这份资料也可以练习一下英语听力。对于中文用户而言，人大论坛发布的Stata初级和高级视频则提供了更为快捷的学习方式。其中，初级视频主要介绍stata的操作方法，包括stata入门、stata数据处理、stata绘图、stata矩阵以及stata编程初步五个部分。[5] 
+高级视频主要介绍各种计量模型的基本原理，重点介绍其在stata中的实现方法，包括OLS、GLS、MLE、IV-GMM、时间序列分析、面板模型、stata高级编程、Bootstrap和Monte Carlo模拟等内容，比较全面的涵盖了计量经济学和核心内容。[6] 
+
+统计方法：Rabe-Hesketh and Everitt（2006）。
+Stata绘图：Mitchell（2008），非常细致地介绍了各种图形的绘制方法。
+Stata数据处理：Kohler and Kreuter（2005）*、Long（2009）*、杨菊华（2008）。
+Stata编程：Baum（2009），当然，该书中有关数据处理的介绍也非常精彩。
+Logit/Probit模型：Hosmer and Lemeshow（2000）*对相关的理论进行非常细致的介绍，是我学习Logit模型的入门教材；Long and Freese（2001）*、Long and Freese（2006）、Hilbe（2009）则涉及了大量的Stata实例，对解读Logit/Probit模型的结果很有帮助；Rabe-Hesketh et al.(2004)提供了在GLLAMM架构下估计xtlogit, xtprobit, xtmelogit以及xtmepoisson模型的方法。
+Panel Data和多层次模型：Stata11 手册[XT]*，简洁明了，附有大量实例；Cameron and Trivedi(2009)*、王志刚(2008)、Rabe-Hesketh and Skrondal(2008)。
+Mata：Schmidheiny(2008)*，简洁明了介绍了Mata的基本用法；详情则可参与Stata11手册[M]。
+GLLAMM：Rabe-Hesketh et al.(2004)。
+Meta：Sterne(2009)。
+GLM：Hardin et al.(2007)。
+MLE：Harrison(2008)（Lectures）、Gould et al.(2006)。
+生存分析：Cleves et al.(2008)。
+
+参考资料
+
+
+
+1.
+  
+Stata Tips and Hints 
+．Stata Tips and Hints
+2.
+  
+UNC introduction to Stata 
+
+3.
+  
+Resources for learning Stata 
+
+4.
+  
+UCLA 视频教程 
+
+5.
+  
+Stata视频教程A 
+
+6.
+  
+Stata视频教程B 
+
+
+
+
+词条标签：
+
+
+软件
+
+
+
+
+

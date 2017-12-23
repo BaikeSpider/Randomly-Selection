@@ -1,0 +1,3 @@
+SICP
+
+SICP，状态信息通信协议(Status information communication protocol)。SICP是Array自行研发的私有协议，通过应用SICP协议在各APV产品间进行通信协商，利用协商得到的各个APV产品SLB、LLB的健康检查和状态监测功能，完成GSLB组中状态信息的交换，进而实现GSLB功能。

@@ -1,0 +1,603 @@
+
+
+
+
+
+
+
+
+
+
+
+收藏
+查看我的收藏
+
+
+
+0
+有用+1
+已投票
+
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Microsoft SQL Server
+编辑
+锁定
+
+
+同义词
+sql server 2005 express一般指Microsoft SQL Server
+
+
+
+本词条由“科普中国”百科科学词条编写与应用工作项目
+审核
+。
+
+
+
+SQL Server 是Microsoft 公司推出的关系型数据库管理系统。具有使用方便可伸缩性好与相关软件集成程度高等优点，可跨越从运行Microsoft Windows 98 的膝上型电脑到运行Microsoft Windows 2012 的大型多处理器的服务器等多种平台使用。Microsoft SQL Server 是一个全面的数据库平台，使用集成的商业智能 (BI)工具提供了企业级的数据管理。Microsoft SQL Server 数据库引擎为关系型数据和结构化数据提供了更安全可靠的存储功能，使您可以构建和管理用于业务的高可用和高性能的数据应用程序。
+
+
+
+
+中文名
+
+sql server 数据库
+
+外文名
+
+SQL Server
+
+
+分    类
+
+关系型数据库管理系统标准语言
+
+公    司
+
+美国Microsoft公司
+
+
+
+
+目录
+
+
+
+1
+概述
+
+
+2
+版本介绍
+
+
+▪
+SQL Server 2000
+
+
+▪
+SQL Server 2005
+
+
+▪
+SQL Server 2008
+
+
+▪
+SQL Server2012
+
+
+▪
+2014
+
+
+3
+愿景
+
+
+4
+体系
+
+
+▪
+开放
+
+
+▪
+可伸缩性
+
+
+▪
+安全性
+
+
+▪
+可扩展性
+
+
+▪
+性能
+
+
+▪
+操作简单
+
+
+▪
+技术风险
+
+
+▪
+厂商风险
+
+
+5
+性能参数
+
+
+▪
+机制结构
+
+
+▪
+结构
+
+
+▪
+接口
+
+
+▪
+服务器
+
+
+6
+计数器
+
+
+7
+新特性
+
+
+
+
+
+
+
+
+
+
+Microsoft SQL Server概述
+
+SQL Server 是一个关系数据库管理系统。它最初是由Microsoft、Sybase 和Ashton-Tate三家公司共同开发的，于1988 年推出了第一个OS/2版本。在Windows NT 推出后，Microsoft与Sybase 在SQL Server 的开发上就分道扬镳了，Microsoft 将SQL Server移植到Windows NT系统上，专注于开发推广SQL Server 的Windows NT 版本。Sybase 则较专注于SQL Server在UNⅨ操作系统上的应用。
+SQL Server 2000 是Microsoft 公司推出的SQL Server数据库管理系统，该版本继承了SQL Server 7.0 版本的优点，同时又比它增加了许多更先进的功能。具有使用方便可伸缩性好与相关软件集成
+
+
+
+程度高等优点，可跨越从运行Microsoft Windows 98 的膝上型电脑到运行Microsoft Windows 2000 的大型多处理器的服务器等多种平台使用。
+
+
+
+
+Microsoft SQL Server版本介绍
+
+
+
+
+
+
+
+Microsoft SQL ServerSQL Server 2000
+
+SQL Server 2000 是Microsoft 公司推出的SQL Server 数据库管理系统，该版本继承了SQL Server 7.0 版本的优点，同时又比它增加了许多更先进的功能。具有使用方便可伸缩性好与相关软件集成程度高等优点，可跨越从运行Microsoft Windows 98 的膝上型电脑到运行Microsoft Windows 2000 的大型多处理器的服务器等多种平台使用。[1] 
+
+
+
+
+
+
+Microsoft SQL ServerSQL Server 2005
+
+Microsoft SQL Server 2005 是一个全面的数据库平台，使用集成的商业智能 (BI)工具提供了企业级的数据管理。Microsoft SQL Server 2005数据库引擎为关系型数据和结构化数据提供了更安全可靠的存储功能，使您可以构建和管理用于业务的高可用和高性能的数据应用程序。
+Microsoft SQL Server 2005 数据引擎是该企业数据管理解决方案的核心。此外 Microsoft SQL Server 2005 结合了分析、报表、集成和通知功能。这使您的企业可以构建和部署经济有效的 BI 解决方案，帮助您的团队通过记分卡、Dashboard、Web services 和移动设备将数据应用推向业务的各个领域。
+与 Microsoft Visual Studio、Microsoft Office System 以及新的开发工具包（包括 Business Intelligence Development Studio）的紧密集成使 Microsoft SQL Server 2005 与众不同。无论您是开发人员、数据库管理员、信息工作者还是决策者，Microsoft SQL Server 2005 都可以为您提供创新的解决方案，帮助您从数据中更多地获益。
+
+
+
+
+SQL Server 2005 提供了5个不同版本：
+SQL Server 2005 Enterprise Edition（32 位和 64 位）——企业版
+Enterprise Edition 达到了支持超大型企业进行联机事务处理 (OLTP)、高度复杂的数据分析、数据仓库系统和网站所需的性能水平。Enterprise Edition 的全面商业智能和分析能力及其高可用性功能（如故障转移群集），使它可以处理大多数关键业务的企业工作负荷。Enterprise Edition 是最全面的 SQL Server 版本，是超大型企业的理想选择，能够满足最复杂的要求。
+SQL Server 2005 Standard Edition（32 位和 64 位）——标准版SQL Server 2005 Standard Edition 是适合中小型企业的数据管理和分析平台。它包括电子商务、数据仓库和业务流解决方案所需的基本功能。Standard Edition 的集成商业智能和高可用性功能可以为企业提供支持其运营所需的基本功能。SQL Server 2005 Standard Edition 是需要全面的数据管理和分析平台的中小型企业的理想选择。
+SQL Server 2005 Workgroup Edition（仅适用于 32 位）——工作组版对于那些需要在大小和用户数量上没有限制的数据库的小型企业，SQL Server 2005 Workgroup Edition 是理想的数据管理解决方案。SQL Server 2005 Workgroup Edition 可以用作前端 Web 服务器，也可以用于部门或分支机构的运营。它包括 SQL Server 产品系列的核心数据库功能，并且可以轻松地升级至 SQL Server 2005 Standard Edition 或 SQL Server 2005 Enterprise Edition。SQL Server 2005 Workgroup Edition 是理想的入门级数据库，具有可靠、功能强大且易于管理的特点。
+SQL Server 2005 Developer Edition（32 位和 64 位）——开发版SQL Server 2005 Developer Edition 允许开发人员在 SQL Server 顶部生成任何类型的应用程序。该应用程序包括 SQL Server 2005 Enterprise Edition 的所有功能，但许可用作开发和测试系统，而不用作生产服务器。SQL Server 2005 Developer Edition 是独立软件供应商 (ISV)、咨询人员、系统集成商、解决方案供应商以及生成和测试应用程序的企业开发人员的理想选择。可以根据生产需要升级 SQL Server 2005 Developer Edition。
+SQL Server 2005 Express Edition（仅适用于 32 位）——学习版SQL Server Express 数据库平台基于 SQL Server 2005。它也可以替换 Microsoft Desktop Engine (MSDE)。通过与 Microsoft Visual Studio 2005 集成，SQL Server Express 简化了功能丰富、存储安全且部署快速的数据驱动应用程序的开发过程。
+SQL Server Express 是免费的，可以再分发（受制于协议），还可以充当客户端数据库以及基本服务器数据库。SQL Server Express 是独立软件供应商 ISV、服务器用户、非专业开发人员、Web 应用程序开发人员、网站主机和创建客户端应用程序的编程爱好者的理想选择。如果您需要使用更高级的数据库功能，则可以将 SQL Server Express 无缝升级到更复杂的 SQL Server 版本。
+SQL Server2005十个特点
+NET框架主机　　　使用SQL Server2005,开发人员通过使用相似的语言，例如微软的VisualC#.net和微软的VisualBasic,将能够创立数据库对象。开发人员还将能够建立两个新的对象--用户定义的类和集合。　　XML技术　　在使用本地网络和互联网的情况下，在不同应用软件之间散步数据的时候，可扩展标记语言（标准通用标记语言的子集）是一个重要的标准。SQL Server2005将会自身支持存储和查询可扩展标记语言文件。　　ADO. NET2.0版本　　从对SQL类的新的支持，到多活动结果集(MARS)，SQL Server2005中的ADO . NET将推动数据集的存取和操纵，实现更大的可升级性和灵活性。　　增强的安全性　　SQL Server2005中的新安全模式将用户和对象分开，提供fine-grainAccess存取、并允许对数据存取进行更大的控制。另外，所有系统表格将作为视图得到实施，对数据库系统对象进行了更大程度的控制。　　Transact-SQL的增强性能　　SQL Server2005为开发可升级的数据库应用软件，提供了新的语言功能。这些增强的性能包括处理错误、递归查询功能、关系运算符PIVOT,APPLY,ROW_NUMBER和其他数据列排行功能，等等。　　SQL服务中介　　SQL服务中介将为大型、营业范围内的应用软件，提供一个分布式的、异步应用框架。　　通告服务　　通告服务使得业务可以建立丰富的通知应用软件，向任何设备，提供个人化的和及时的信息，例如股市警报、新闻订阅、包裹递送警报、航空公司票价等。在SQL Server2005中，通告服务和其他技术更加紧密地融合在了一起，这些技术包括分析服务、SQLServerManagementStudio.　　Web服务　　使用SQL Server2005,开发人员将能够在数据库层开发Web服务，将SQL Server当作一个超文本传输协议(HTTP)侦听器，并且为网络服务中心应用软件提供一个新型的数据存取功能。　　报表服务　　利用SQL Server2005,报表服务可以提供报表控制，可以通过VisualStudio2005发行。　　全文搜索功能的增强　　SQL Server2005将支持丰富的全文应用软件。服务器的编目功能将得到增强，对编目的对象提供更大的灵活性。查询性能和可升级性将大幅得到改进，同时新的管理工具将为有关全文功能的运行，提供更深入的了解。
+Microsoft SQL Server 2005 组件
+Microsoft SQL Server 2005 是用于大规模联机事务处理 (OLTP)、数据仓库和电子商务应用的数据库平台；也是用于数据集成、分析和报表解决方案的商业智能平台。
+SQL Server 2005 引入了一些“Studio”帮助实现开发和管理任务：SQL Server Management Studio 和 Business Intelligence Development Studio。在 Management Studio 中，可以开发和管理 SQL Server 数据库引擎 与通知解决方案，管理已部署的 Analysis Services 解决方案，管理和运行 Integration Services 包，以及管理报表服务器和 Reporting Services 报表与报表模型。在 BI Development Studio 中，可以使用以下项目来开发商业智能解决方案：使用 Analysis Services 项目开发多维数据集、维度和挖掘结构；使用 Reporting Services 项目创建报表；使用报表模型项目定义报表的模型；使用 Integration Services 项目创建包。
+数据库引擎
+数据库引擎是用于存储、处理和保护数据的核心服务。利用数据库引擎可控制访问权限并快速处理事务，从而满足企业内要求极高而且需要处理大量数据的应用需要。
+使用数据库引擎创建用于联机事务处理或联机分析处理数据的关系数据库。这包括创建用于存储数据的表和用于查看、管理和保护数据安全的数据库对象（如索引、视图和存储过程）。可以使用 SQL Server Management Studio 管理数据库对象，使用 SQL Server Profiler 捕获服务器事件。
+Analysis Services
+Analysis Services 是一种核心服务，可支持对业务数据的快速分析，以及为商业智能应用程序提供联机分析处理 (OLAP) 和数据挖掘功能。
+OLAP
+使用 Analysis Services，可以设计、创建和管理包含来自多个数据源的详细数据和聚合数据的多维结构，其中这些数据源（如关系数据库）都存在于内置计算支持的单个统一逻辑模型中。Analysis Services 为根据统一的数据模型构建的大量数据提供快速、直观、由上至下的分析，这样可以采用多种语言和货币向用户提供数据。Analysis Services 使用数据仓库、数据集市、生产数据库和操作数据存储区，以支持历史数据和实时数据分析。
+数据挖掘
+Analysis Services 包含创建复杂数据挖掘解决方案所需的功能和工具。
+一组行业标准数据挖掘算法。
+数据挖掘设计器，可用于创建、管理和浏览挖掘模型，并可以根据挖掘模型创建预测。
+DMX 语言，可用于管理挖掘模型和创建复杂的预测查询。
+可以组合使用这些功能和工具，以发现数据中存在的趋势和模式，然后使用这些趋势和模式对业务难题作出明智决策。
+Integration Services
+SQL Server 2005 Integration Services (SSIS) 是 SQL Server 2005 的提取、转换和加载 (ETL) 组件。它取代了早期的 SQL Server ETL 组件 Data Transformation Services (DTS)。
+Integration Services 是用于生成企业级数据集成和数据转换解决方案的平台。使用 Integration Services 可解决复杂的业务问题，方法是复制或下载文件，发送电子邮件以响应事件，更新数据仓库，清除和挖掘数据以及管理 SQL Server 对象和数据。这些包可以独立使用，也可以与其他包一起使用以满足复杂的业务需求。Integration Services 可以提取和转换来自多种源（如 XML 数据文件、平面文件和关系数据源）的数据，然后将这些数据加载到一个或多个目标。
+Integration Services 包含一组丰富的内置任务和转换、用于构造包的工具以及用于运行和管理包的 Integration Services 服务。可以使用 Integration Services 图形工具来创建解决方案，此时无需编写一行代码；也可以对 Integration Services 对象模型进行编程，通过编程方式创建包并编写自定义任务以及其他包对象的代码。
+复制
+复制是一组技术，用于在数据库间复制和分发数据和数据库对象，然后在数据库间进行同步操作以维持一致性。使用复制可以将数据通过局域网、广域网、拨号连接、无线连接和 Internet 分发到不同位置以及分发给远程用户或移动用户。SQL Server 提供以下三种功能各不相同的复制类型：事务复制、合并复制和快照复制。
+事务复制通常用于需要高吞吐量的服务器到服务器方案（包括：提高伸缩性和可用性、数据仓库和报告、集成多个站点的数据、集成异类数据以及卸载批处理）。合并复制主要为可能存在数据冲突的移动应用程序或分步式服务器应用程序而设计的。常见应用场景包括：与移动用户交换数据、POS（消费者销售点）应用程序以及集成来自多个站点的数据。快照复制用于为事务性复制和合并复制提供初始数据集；在适合数据完全刷新时也可以使用快照复制。利用这三种复制，SQL Server 提供功能强大且灵活的系统，以便使企业范围的数据同步。
+Reporting Services
+SQL Server 2005 Reporting Services (SSRS) 是基于服务器的报表平台，提供来自关系和多维数据源的综合数据报表。Reporting Services 包含处理组件、一整套可用于创建和管理报表的工具和允许开发人员在自定义应用程序中集成和扩展数据和报表处理的应用程序编程接口 (API)。生成的报表可以基于 SQL Server、Analysis Services、Oracle 或任何 Microsoft .NET Framework 数据访问接口（如 ODBC 或 OLE DB）提供的关系数据或多维数据。
+利用 Reporting Services，可以创建交互式报表、表格报表或自由格式报表，可以根据计划的时间间隔检索数据或在用户打开报表时按需检索数据。Reporting Services 还允许用户基于预定义模型创建即席报表，并且允许通过交互方式浏览模型中的数据。所有报表可以按桌面格式或面向 Web 的格式呈现。您可以从许多查看格式中进行选择，以数据操作或打印的首选格式按需呈现报表。
+Reporting Services 是基于服务器的解决方案，因此通过它可以集中存储和管理报表，安全地访问报表、模型和文件夹，控制报表的处理和分发方式，并使报表在企业内的使用方式标准化。
+Notification Services
+SQL Server 2005 Notification Services 是用于开发生成并发送通知的应用程序的平台，也是运行这些应用程序的引擎。可以使用 Notification Services 生成并向大量订阅方及时发送个性化的消息，还可以向各种各样的应用程序和设备传递消息。
+使用 Notification Services 平台，可以开发功能齐全的通知应用程序。订阅表达了订阅方在特定信息（称为事件）方面的兴趣，可以根据事件的到达或计划对其进行评估。事件数据本身可以源自数据库内部、其他数据库或外部源。通知是事件和订阅匹配的结果，在发送给订阅方之前，可以采用各种格式。
+Notification Services 引擎与 SQL Server 数据库引擎协同工作。数据库引擎存储应用程序数据，并执行事件和订阅之间的匹配。Notification Services 引擎控制数据流和数据处理，并且可以扩展到多台计算机。这可以改进要求极高的应用程序的性能。
+全文搜索
+SQL Server 包含对 SQL Server 表中基于纯字符的数据进行全文查询所需的功能。全文查询可以包括字词和短语，或者一个字词或短语的多种形式。使用全文搜索可以快速、灵活地为存储在 Microsoft SQL Server 数据库中的文本数据的基于关键字的查询创建索引。在 SQL Server 2005 中，全文搜索提供企业级搜索功能。
+使用全文搜索可以同时在多个表的多个字段中搜索基于字符的纯文本数据。对大量非结构化的文本数据进行查询时，使用全文搜索获得的性能优势会得到充分的表现。例如，对数百万行文本数据执行的 Transact-SQL LIKE 查询可能需要花费几分钟时间才能返回结果；但对同样的数据，全文查询只需要几秒或更少的时间，具体取决于返回的行数。可以对存储在 char、varchar 或 nvarchar 列中的数据或存储在 varbinary(max) 或 image 列中的格式化二进制数据（如 Microsoft Word 文档）创建全文搜索。
+Service Broker
+SQL Server 2005 Service Broker 为消息和队列应用程序提供 SQL Server 数据库引擎本地支持。这使开发人员可以轻松地创建使用数据库引擎组件在完全不同的数据库之间进行通信的复杂应用程序。开发人员可以使用 Service Broker 轻松生成可靠的分布式应用程序。
+使用 Service Broker 的应用程序开发人员无需编写复杂的内部通信和消息，即可跨多个数据库分发数据工作负荷。由于 Service Broker 处理会话上下文中的通信路径，所以降低了开发和测试工作。同时还提高性能。例如，支持网站的前端数据库可以记录信息并将处理密集型任务发送到后端数据库以进行排队。Service Broker 确保在事务上下文中管理所有任务以确保可靠性和技术一致性。
+
+
+
+
+
+Microsoft SQL ServerSQL Server 2008
+
+Microsoft SQL Server 2008是一个重大的产品版本，它推出了许多新的特性和关键的改进，使得它成为至今为止的最强大和最全面的Microsoft SQL Server版本。这篇文章详细介绍了Microsoft SQL Server 2008中的新的特性、优点和功能。
+微软的这个数据平台满足这些数据爆炸和下一代数据驱动应用程序的需求，支持数据平台愿景：关键任务企业数据平台、动态开发、关系数据和商业智能。
+Microsoft SQL Server 2008新功能
+这个平台有以下特点
+· 可信任的——使得公司可以以很高的安全性、可靠性和可扩展性来运行他们最关键任务的应用程序。
+· 高效的——使得公司可以降低开发和管理他们的数据基础设施的时间和成本。
+· 智能的——提供了一个全面的平台，可以在你的用户需要的时候给他发送观察和信息。
+可信任的
+（一）保护你的信息
+在过去的Microsoft SQL Server 2005的基础之上，Microsoft SQL Server 2008做了以下方面的增强来扩展它的安全性：
+* 简单的数据加密
+Microsoft SQL Server 2008可以对整个数据库、数据文件和日志文件进行加密，而不需要改动应用程序。进行加密使公司可以满足遵守规范及其关注
+
+
+
+
+microsoft sql server
+
+数据隐私的要求。简单的数据加密的好处包括使用任何范围或模糊查询搜索加密的数据、加强数据安全性以防止未授权的用户访问、还有数据加密。这些可以在不改变已有的应用程序的情况下进行。
+*外键管理
+Microsoft SQL Server 2008为加密和密钥管理提供了一个全面的解决方案。为了满足不断发展的对数据中心的信息的更强安全性的需求，公司投资给供应商来管理公司内的安全密钥。Microsoft SQL Server 2008通过支持第三方密钥管理和硬件安全模块（HSM）产品为这个需求提供了很好的支持。
+* 增强了审查
+Microsoft SQL Server 2008使你可以审查你的数据的操作，从而提高了遵从性和安全性。审查不只包括对数据修改的所有信息，还包括关于什么时候对数据进行读取的信息。Microsoft SQL Server 2008具有像服务器中加强的审查的配置和管理这样的功能，这使得公司可以满足各种规范需求。Microsoft SQL Server 2008还可以定义每一个数据库的审查规范，所以审查配置可以为每一个数据库作单独的制定。为指定对象作审查配置使审查的执行性能更好，配置的灵活性也更高。
+确保业务可持续性
+* 改进了数据库镜像
+Microsoft SQL Server 2008基于Microsoft SQL Server 2005，并提供了更可靠的加强了数据库镜像的平台。新的特性包括：
+· 页面自动修复。Microsoft SQL Server 2008通过请求获得一个从镜像合作机器上得到的出错页面的重新拷贝，使主要的和镜像的计算机可以透明的修复数据页面上的823和824错误。
+· 提高了性能。Microsoft SQL Server 2008压缩了输出的日志流，以便使数据库镜像所要求的网络带宽达到最小。
+*强大的审计功能
+SQL Server 2008为我们带来了一些更强大的审计功能；或许其中最重要的一个就是变更数据捕获（CDC）。使用CDC，你能够捕获和记录发生在你数据库中的任意INSERT、UPDATE或DELETE等操作。一旦你为一个数据库启用了CDC功能，你可以对该数据库中的一个表进行跟踪记录。SQL Server会记录对这些表进行修改的信息，并将其写到启用CDC功能的数据库的某些系统表中。当一个用户针对你的数据表运行INSERT、UPDATE或UPDATE操作时，相关操作事务和相关数据就会被记录下来。对于INSERT来说，插入的数值会被记录，而对于DELETE来说，被删除的值同样也会被记录。UPDATE的操作略微有点不同。更新前后的数据都会被记录。通过使用CDC功能，你不仅可以知道对数据进行了何种操作，你还可以恢复因误操作或错误的程序所造成的丢失数据。这是SQL Server非常强大的一个新增功能，它为数据审计提供了一个非常有用的功能，在此以前，我们一般要借助于第三方工具来实现这一功能。
+
+
+
+
+
+Microsoft SQL ServerSQL Server2012
+
+RTM发布
+2012年3月7日消息，微软于正式发布最新的SQL Server 2012 RTM（Release-to-Manufacturing）版本，面向公众的版本将于4月1日发布。微软此次版本发布的口号是“大数据”来替代“云”的概念，微软对SQL Server 2012的定位是帮助企业处理每年大量的数据(Z级别)增长。
+来自微软商业平台事业部的副总裁Ted Kummert 称：SQL Server 2012更加具备可伸缩性、更加可靠以及前所未有的高性能;而Power View为用户对数据的转换和勘探提供强大的交互操作能力，并协助做出正确的决策。即将推出三个主要版本和很多新特征，同时微软也透露了SQL Server 2012的价格和版本计划，其中增加一个新的智能商业包。
+SQL Server 2012主要版本包括新的商务智能版本，增加Power View数据查找工具和数据质量服务，企业版本则提高安全性可用性，以及从大数据到StreamInsight复杂事件处理，再到新的可视化数据和分析工具等，都将成为SQL Server 2012最终版本的一部分。
+新功能
+SQL Server 2012 对微软来说是一个重要产品。微软把自己定位为可用性和大数据领域的领头羊。
+
+
+
+
+1. AlwaysOn -这个功能将数据库的镜像提到了一个新的高度。用户可以针对一组数据库做灾难恢复而不是一个单独的数据库。
+2.Windows Server Core 支持-Windows Server Core 是命令行界面的 Windows，使用 DOS 和 PowerShell 来做用户交互。它的资源占用更少，更安全，支持 SQL Server 2012。
+3.Columnstore 索引- 这是 SQL Server 独有的功能。它们是为数据仓库查询设计的只读索引。数据被组织成扁平化的压缩形式存储，极大的减少了 I/O 和内存使用。
+4.自定义服务器权限- DBA 可以创建数据库的权限，但不能创建服务器的权限。比如说，DBA想要一个开发组拥有某台服务器上所有数据库的读写权限，他必须手动的完成这个操作。但是 SQL Server 2012 支持针对服务器的权限设置。
+5.增强的审计功能- 所有的 SQL Server 版本都支持审计。用户可以自定义审计规则，记录一些自定义的时间和日志。
+6.BI语义模型- 这个功能是用来替代“Analysis Services Unified Dimentional Model”的。这是一种支持 SQL Server 所有 BI 体验的混合数据模型。
+7.Sequence Objects- 用 Oracle 的人一直想要这个功能。一个序列（sequence）就是根据触发器的自增值。SQL Serve 有一个类似的功能，identity columns，但是用对象实现了。
+8.增强的 PowerShell 支持- 所有的 Windows 和 SQL Server 管理员都应该认真的学习 PowderShell 的技能。微软正在大力开发服务器端产品对 PowerShell 的支持。
+9.分布式回放（Distributed Replay）- 这个功能类似 Oracle 的 Real Application Testing 功能。不同的是 SQL Server 企业版自带了这个功能，而用 Oracle 的话，你还得额外购买这个功能。这个功能可以让你记录生产环境的工作状况，然后在另外一个环境重现这些工作状况。
+10.PowerView- 这是一个强大的自主 BI 工具，可以让用户创建 BI 报告。
+11.SQL Azure 增强- 这和 SQL Server 2012 没有直接关系，但是微软确实对 SQL Azure 做了一个关键改进，例如 Reporint Service，备份到 Windows Azure 。Azure 数据库的上限提高到了150G。
+12.大数据支持- 这是最重要的一点，虽然放在了最后。 PASS（Professional Association for SQL Server）会议，微软宣布了与 Hadoop 的提供商 Cloudera 的合作。一是提供 Linux 版本的 SQL Server ODBC 驱动。主要的合作内容是微软开发 Hadoop 的连接器，也就是 SQL Server 也跨入了 NoSQL 领域。
+系统要求
+·支持的操作系统：Windows 7、Windows Server 2008 R2、Windows Server 2008 SP2、Windows Vista SP2
+·32位系统：具有Intel 1GHz(或同等性能的兼容处理器)或速度更快的处理器(建议使用2GHz或速度更快的处理器)的计算机
+·64位系统：1.4 GHz或速度更快的处理器
+·最低1GB RAM(建议使用2GB或更大的RAM)
+·2.2 GB可用硬盘空间
+
+
+
+
+
+Microsoft SQL Server2014
+
+新功能
+1、内存技术改进
+SQL Server 2014中最吸引人关注的特性就是内存在线事务处理(OLTP)引擎，项目代号为“Hekaton”。内存OLTP整合到SQL Server的核心数据库管理组件中，它不需要特殊的硬件或软件，就能够无缝整合现有的事务过程。一旦将表声明为内存最优化，那么内存OLTP引擎就将在内存中管理表和保存数据。当它们需要其他表数据时，它们就可以使用查询访问数据。事实上，一个查询会同时引用内存优化表和常规表。
+SQL Server 2014增强内存相关功能的另一个方面是允许将SQL Server内存缓冲池扩展到固态硬盘(SSD)或SSD阵列上。扩展缓冲池能够实现更快的分页速度，但是又降低了数据风险，因为只有整理过的页才会存储在SSD上。这一点对于支持繁重读负载的OLTP操作特别有好处。LSI Nytro闪存卡与最新SQL Server 2014协同工作，降低延迟、提高吞吐量和可靠性，消除IO瓶颈。
+在SQL Server 2014中，列存储索引功能也得到更新。列存储索引最初是在SQL Server 2012引入的，目的是支持高度聚合数据仓库查询。基于xVelocity存储技术，这些索引以列的格式存储数据，同时又利用xVelocity的内存管理功能和高级压缩算法。然而，SQL Server 2012的列存储索引不能使用集群，也不能更新。
+SQL Server 2014引入了另一种列存储索引，它既支持集群也支持更新。此外，它还支持更高效的数据压缩，允许将更多的数据保存到内存中，以减少昂贵的I/O操作。
+2、云整合
+微软一直将SQL Server 2014定位为混合云平台，这意味着SQL Server数据库更容易整合Windows Azure。例如，从SQL Server 2012 Cumulative Update 2开始，您就能够将数据库备份到Windows Azure BLOB存储服务上。SQL Server 2014引入了智能备份(Smart Backups)概念，其中SQL Server将自动决定要执行完全备份还是差异备份，以及何时执行备份。SQL Server 2014还允许将本地数据库的数据和日志文件存储到Azure存储上。此外，SQL Server Management Studio提供了一个部署向导，它可以帮助您轻松地将现有本地数据库迁移到Azure虚拟机上。
+SQL Server 2014还增加了一个功能，允许将Azure虚拟机作为一个Always On可用性组副本。可用性组(Availability Groups)特性最初在SQL Server 2012引入，提供了支持高可用性数据库的故障恢复服务。它由1个主副本和1~4个次副本(SQL Server 2014增加到8个)构成。主副本可以运行一个或多个数据库;次副本则包含多个数据库副本。Windows Azure基础架构服务支持在运行SQL Server的Azure虚拟机中使用可用性组。这意味着您用一个虚拟机作为次副本，然后支持自动故障恢复。
+
+
+
+
+Microsoft SQL Server愿景
+
+Microsoft SQL Server的愿景
+许多因素致使产生了信息存储爆炸。有了新的信息类型，例如图片和视频的数字化，和从RFID标签获得的传感器信息，公司的数字信息的数量在急剧增长。遵守规范和全球化的发展要求信息存储的安全性和在任何时候都可用。同时，磁盘存储的成本显著地降低了，使得公司投资的每一美元可以存储更多的数据。用户必须快速的在大量的数据中找到相关的信息。此外，他们想在任何设备上使用这个信息，并且计划每天使用，例如Microsoft Office系统应用程序。对数据爆炸和用户期望值的增加的管理为公司制造了许多挑战。
+Microsoft&reg; 数据平台愿景提供了一个解决方案来满足这些需求，这个解决方案就是公司可以使用存储和管理许多数据类型，包括XML（标准通用标记语言的子集）、电子邮件、时间/日历、文件、文档、地理等等，同时提供一个丰富的服务集合来与数据交互作用：搜索、查询、数据分析、报表、数据整合，和强大的同步功能。用户可以访问从创建到存档于任何设备的信息，从桌面到移动设备的信息
+
+
+
+
+Microsoft SQL Server体系
+
+Microsoft按照客户/服务器体系结构的分布进行操作。这种方法产生不必要的代价和复杂性。在Internet中，Oracle已经发现了一个较好的答案。在Internet Computing的多层（multi-tiered)体系结构中，集中（centralization）可以简化应用的部署和维护，数据的管理和备份，并向客户提供了高级的性能、安全性与可靠性，结果使总的操作成本更低。Oracle具有使所有数据和文档存储在少数几个高性能数据库的能力，这种能力使客户可以集中管理他们所有的数据，并且信息管理和访问更加容易、可靠且价格更加便宜。
+
+
+
+
+
+Microsoft SQL Server开放
+
+SQL Server只在Windows上运行，MicroSoft这种专有策略的目标是将客户锁定到Windows环境中，限制客户通过选择一个开放的基于标准的解决方案来获取革新和价格竞争带来的好处。此外，人们也都知道，Windows平台本身的可靠性、安全性和可伸缩性也是有限的。Oracle能在所有主要的平台（其中包括Windows）上运行，并且完全支持所有的工业标准，所以，客户可以利用很多种第三方应用程序、工具、网关和管理实用程序。Oracle采用开放策略，它使得客户可以选择一种最适合他们特定需要的解决方案。利用Oracle8i，操作系统实质上将变得无关紧要。Oracle8i的Internet文件系统（iFS）是一种突破，这种突破性给所有数据类型提供了一种易于使用的数据管理接口，这样减少了客户对Windows之类的专用操作系统。
+
+
+
+
+
+Microsoft SQL Server可伸缩性
+
+由于SQLServer7.0的并行实施和共存模型并不成熟，这使得人们更加关心该产品处理日益增多的用户数和数据卷mes）的能力。Oracle在下列两个方面提供了一个优越的可伸　簇：Oracle并行服务器通过使一组节点共享同一簇中的工作负载来扩展Windows NT的能力，Oracle提供具有高可用性和高伸缩性的簇解决方案，而Microsoft只提供克服错误的簇。根据Gartner Group的一份报告（10/97），Microsoft在2001年以前将不会有一个可伸缩的簇解决方案。Oracle自从1997年以来就已经有这种能力。伸缩到其他操作系统：因为Oracle是一个开放的解决方案，客户可以从他们的系统移到Unix或另一个操作系统，当Windows NT不能满足他们的需要。SQL Server与单个平台的结合意味着，当一个客户达到Windows NT的限制时，除了放弃他们的系统并移到一个新平台上的一个新数据库以外??一个最能节省时间和金钱的建议，他们再也没有其他选择。
+
+
+
+
+
+Microsoft SQL Server安全性
+
+由于Internet的出现而带来的全球数据访问也同时增加了潜在的安全危险。对于数据库的安全要求决不会比以前更高，而SQL Server7.0还没有获得任何类型的安全证书。相比之下，Oracle是唯一获得最高认证级别的ISO标准认证的数据库。Oracle高级的安全特性考虑了强制实施的细小权限，先进的审查，增强的访问控制，安全的分布是处理与复制，以及使用附加的外部签发机制的能力。SQL Server7.0没有这些特性。
+
+
+
+
+
+Microsoft SQL Server可扩展性
+
+今天的Internet是一个令人激动的新世界，它具有鲜明的图像，实时的视频点播，高保真的语音和声音，以及诸如金融数据趋势和地理编码之类的复杂信息。通过集中管理文本、图像、音频、视频和地理信息，Oracle8i的interMedia使客户能够利用Web的多媒体特性。相比之下，Microsoft SQL Server 7.0对非传统的数据类型缺乏内置的支持。作为一种替代的策略，Microsoft提倡将非传统的数据存储到单独的服务器里的平面（flat）文件中，然后使用OLE-DB将它们链接在一起。使用这种策略，集成在Web中发现的各种数据类型，将会产生复杂的、不安全的、维护量大的数据包（mess），这种数据包缺乏事物的完整性。
+
+
+
+
+
+Microsoft SQL Server性能
+
+低性能可能是很致命的（fatal），因为雇员的生产能力被阻碍，客户由于过多的等待时间而丢失。根据事物处理委员会（TPC）审查的标准与结果，Oracle提供了比SQL Server7.0更高级的性能。到1998年11月为止，Oracle一直是Windows NT中TPC-D和TPC-C标准的世界记录保持者。实际上，Oracle的NT TPC-C结果几乎比Microsoft的快两倍。Microsoft 从来没有宣布一个TPC-D结果，这就意味着尽管SQL Server7.0中有假定的环境，但它仍然不适合于数据仓库应用。Oracle也保持了SAP,Baan和Peoplesoft标准的世界记录。通过一贯地演示正式标准与实际情况之间的性能关系，acle已被证明，它可以处理最紧迫的数据仓库和OLTP应用的工作负。
+
+
+
+
+
+Microsoft SQL Server操作简单
+
+使数据库易于安装、使用和管理??组合在一起称为“操作简单“??是一个减少成本的关键因素。尽管Microsoft产品具有易于使用的美誉，但SQL Server7.0缺乏数据库管理的特性，而这种特性是复杂的数据库系统所必须的。例如，对于SQL Server6.5和SQL Server7.0,Microsoft需要使用单独的管理工具。为了易于安装，Oracle使用了一个基于Java的实用程序，该实用程序提供了安装和运行一个预调整和预配置的Oracle8i数据库所需要的一切内容。“操作简单“的最重要部分是易管理性，Oracle Enterprise Manager（企业管理器）提供一个集成的管理控制台来集中管理多个服务器。客户也可以单独购买所有三个或其中任何一个可选的管理包，这些管理包提供了高级的功能来调整和诊断数据库，管理数据库环PC Week已经说过，“SQL Server7.0并没有向客户提供其竞争对手尚未提供的任何新东西。”根据Information Week（9/14/98），“即使在经济的市场中：Windows NT环境，SQLServer7仍然不是OLTP数据库竞争者的对手。”在SQL Server7.0中，许多关键任务数据库应用所必需的功能（高可用性/可伸缩性、安全、性能等）仍然没有。Microsoft正在努力地追赶Oracle又一个技术领先的传统，新发布的Oracle8i也不例外。通过诸如iFS、数据库Java、WebDB、interMedia和WebToGo之类的革新，Oracle带头使各个公司获得Internet计算的好处。特别在Windows NT中，由于Oracle是第一个发布NT数据库簇解决方案的厂商，第一次支持超过大内存（VLM），第一次将高可用性和可伸缩性带到安装有Oacle并行服务器的NT中。
+
+
+
+
+
+Microsoft SQL Server技术风险
+
+SQL Server7.0是一个完全重写的产品版本。该产品经历了联系的延迟，并且具有非常长的beta测试周期，这通常代表开发问题。一份Gartner报告（8/98）说，“引擎的重新设计时非常深的...我们建议在1999年中期以前，不要将该产品部署在规模比较大的产品应用中。”正如一份Giga报告（3/98）所说的那样，“SQL Server仍有许多需要证明。可伸缩性、可靠性、多用户的性能、簇的开发、对象特性的支持等都有问题。”一个特别危险的因素是重新加在数据库问题。由于基本的数据结构发生变化，Microsoft将要求所有SQL Server6.0和6.5站点必须先卸载然后重新加载数据，这个过程需要好几天的时间。Microsoft已经承认6.5和7.0之间存在后向兼容问题。利用SQL Server7.0，许多以前存在的基本的6.5代码将必须重写，以便利用象行级锁定和分布联合之类的新特性。公司在使它们的生产率和信息冒风险时必须非常谨慎。利用Oracle没有任何风险。Oracle8已经发布一年多了，并被部署在成百上千个用户站
+点上。在500家财团公司中，将近90%的公司使用Oracle产品和服务器。如此广泛的支持是人们对Oracle信任的结果，这种信任来自于Oracle是一个安全和合理的选择。客户将询问自己，在已经有可靠的、先进的Oracle8数据库时，为什们还要冒险使用新的未被证明的SQL。
+
+
+
+
+
+Microsoft SQL Server厂商风险
+
+Microsoft的核心能力是在桌面和操作系统软件的开发，该公司在企业级数据管理没什么经验。从技术和业务来看，Microsoft进入数据管理领域，到目前为止还没有获得信任。Microsoft的成功是由于依靠客户软件的连续废弃与升级，以及硬件和操作系统尽可能的传播。在企业范围内若要获得成功，则要求高效利用已有的数据资源，并合并服务器资源。在另一个方面，Oracle已有二十多年的向客户解决方案的经验。一个公司的数据是它们最有价值的资产，Microsoft不能指望涌进这个市场，然后一夜之间获得信任。Oracle已经花费了几年的艰苦努力才赢得其客户群的信任以及它享受到的荣誉。每天成千上万的客户在Oracle上运行它们的业务所获得的成功就是Oracle技术和业务模型完美的有利证明。
+
+
+
+
+Microsoft SQL Server性能参数
+
+当您怀疑计算机硬件是影响SQL Server运行性能的主要原因时，可以通过SQL Server Performance Monitor监视相应硬件的负载，以便证实您的猜测并找出系统瓶颈。
+下文将介绍
+Memory: Page Faults / sec如果该值偶尔走高，表明当时有线程竞争内存。如果持续很高，则内存可能是瓶颈。
+Process: Working Set SQL Server的该参数应该非常接近分配给SQL Server的内存值。在SQL Server设定中，如果将"set working set size"置为0，则Windows NT会决定SQL Server的工作集的大小。如果将"set working set size"置为1，则强制工作集大小为SQLServer的分配内存大小。一般情况下，最好不要改变"set working set size"的缺省值。
+一单位的统计服务器投入使用后，运行速度较慢，经排查原因，发现SQLServer中的内存选项（Memory）仅为安装缺省值16MB（而服务器有128MB的物理内存），在将内存值调整为100MB时却误将其改成了1000MB，使得SQL Server服务不能启动，统计数据库打不开，也就不能再次进入SQL Enterprise Manager修改内存设置了。由于未备份业务数据，不到万不得已不能重装SQLServer数据库，就试图用命令行参数命令来重新启动SQL Server服务，但均不能奏，陷入了困境。我们经过仔细分析提出：既然SQL Server可用内存设置值远远大于物理内存，造成SQLServer服务不能启动，何不扩充虚拟内存呢?经设法将机器虚拟内存扩充至1000MB并重新启动，SQL Server数据库成功启动，问题迎刃而解。
+
+
+
+
+
+Microsoft SQL Server机制结构
+
+SQL Server 是一种客户机/服务器系统
+多年来，SQL Server 一直被认为是一种客户机/服务器系统。事实上，Sybase DataServer（以此为基础开发了原始的 SQL Server）正是第一个作为客户机/服务器系统开发的商用关系数据库系统。那这又说明了什么呢？这不只意味着 SQL Server 是一个双层系统。从传统上看，双层系统意味着客户机应用程序运行在一台机器上，向另一台计算机上的服务器发送请求。而对于 SQL Server，客户机/服务器意味着 SQL Server 的组成部分，即客户机 API 部分，驻留在处理结构中的远端，与服务器组件本身是分开的。
+在典型的双层模型中，客户机程序部分驻留在台式机上，具有大量客户机应用程序逻辑和业务逻辑，并且会直接向数据库系统发出请求。然后，客户机得到服务器响应这些请求所返回的数据。
+三层系统也采用了同样的模型。多年以来，SQL Server 一直用在事务处理监视系统中，例如 BEA 的 Tuxedo 以及 Compaq 的 ACMSxp，这些系统早在二、三十年前就采用了典型的三层模型。三层模型在今天基于 Web 的应用系统中占据了支配地位，这类系统以 Microsoft 的 MTS 以及新的 COM+ 1.0 为代表。从 SQL Server 的角度看，三层解决方案中的客户机程序是放在中间层的。中间层直接与数据库交互。实际的桌面，或瘦客户机（Thin Client），使用其他机制并通常直接与中间层交互，而不是直接与数据库系统交互。
+
+
+
+
+
+Microsoft SQL Server结构
+
+从结构的角度看，SQL Server 关系服务器组件本身并不真正关心客户机程序运行的位置。事实上，就 SQL Server 而言，即使在运行 SQL Server 的同一台机器上运行应用程序，仍然还是客户机/服务器模型。服务器运行一个单独的多线程进程，为来自客户机的请求提供服务，不管客户机的位置在哪里。客户机程序代码本身是单独的运行在客户机应用程序内部的 DLL，与 SQL Server 的实际接口是在客户机和服务器之间对话的“表格数据流”（Tabular Data Stream,TDS) 协议。一个常见的问题是“什么是 SQL Server 的本机接口呢？”很长时间以来，很多开发人员一直都不愿意使用 ODBC 这样的接口，因为他们认为由 Sybase 开发的客户机 API，也就是 DB-Library，是 SQL Server 的本机接口。实际上，SQL Server 关系服务器本身并没有本机 API，它的接口就是在客户机和服务器之间的通信流协议 TDS。TDS 把客户机发送给服务器的 SQL 语句封装起来，也把服务器返回给客户机的处理结果封装起来。任何直接处理 TDS 的 API 都是 SQL Server 的本机接口。
+让我们来看一下客户机的组件，客户机结构中的某些部分就不在这里讨论了，因为它们不属于 SQL Server 的范畴。但如果您在编写应用程序的话，就必须了解这些部分。大家知道得最多的应该是各种对象模型，如果您正在编写 ASP 或 Microsoft Visual Basic(R)应用程序，就需要通过 ADO 与数据库系统交互，而不是直接调用底层的 API，例如 ODBC 或 OLE-DB。ADO 映射到 OLE-DB，而 RDO 映射到 ODBC。因此，作为这种最常用的编程模型的对象模型，并不是 SQL Server 客户机结构中的严格意义上的组件。此外，还有另外一些组件可以插接到 SQL Server 基础结构上面的这一层。OLE-DB 的“会话池服务提供程序 (Session Pooling Service Provider）”就是这种组件的一个例子。
+
+
+
+
+
+Microsoft SQL Server接口
+
+SQL Server 有两个接口可以认为是 SQL Server 7.0 的本机接口，即 OLE-DB 和 ODBC。DB-Library 接口也是本机的，它与 TDS 通信，但是 DB-Library 使用的是 TDS 较老的版本，需要在服务器上进行一些转换。现有的 DB-Library应用程序仍然可以继续与 SQL Server 7.0 协同使用，但是很多新的功能和性能提高等好处只能通过 ODBC 和 OLE DB 才能利用。更新 DB-Library 使其支持 SQL Server 7.0 的新能力，将会导致与现有应用程序的很多不兼容性，因此需要修改应用程序。ODBC 在五年之前就替代了 DB-Library，是新的 SQL Server应用程序更理想的 API，因此引入不兼容的 DB-Library 新版本并不明智。从图 2 可以看到，所有这些客户机 API 都有三个部分。最上面的部分实现 API 的细节，例如行集和游标应该是什么样等等。TDS 格式化程序负责处理实际请求，例如 SQL 语句，并将其封装成 TDS 消息包，发送给 SQL Server，获得返回的结果，然后再把结果反馈到接口实现。
+还有一些供所有提供程序使用的公共库代码。例如，BCP 设备就是 ODBC 和 OLE-DB 都可以调用的库。DTC 也是这样。第三个例子是 ODBC 规范的 SQL 语法，即带有参数标记的 CALL 语法，这些对于所有提供程序都是通用的。
+除了我们在前面已经提到的局限性，即 DB-Library 仍然只能使用 SQL Server 6.5 版，TDS 协议对于所有 API 都是相同的。ODBC 和 OLE-DB 在与 SQL Server 7.0 通信时使用 SQL Server 7.0 版，但也能够与 6.5 或 6.0 服务器通信。另一个是 Net-Library，这是一个抽象层，客户机和服务器都在此层上同网络抽象接口通信，不必为 IPX 还是 TCP/IP 困扰。在这里我们将不讨论 Net-Library 的工作细节；只要知道它们的工作基本上是将来自的网络通信底层的细节隐藏起来不让软件的其他部分看到就可以了。
+
+
+
+
+
+Microsoft SQL Server服务器
+
+前面已经提到过，客户机与 SQL Server 通信的主要方法就是通过使用 TDS 消息。TDS 是一种简单协议。当 SQL Server 接收到一条消息时，可以认为是发生了一个事件。首先，客户机在一个连接上发送登录消息（或事件），并得到返回的成功或失败的响应。当您希望发送 SQL 语句时，客户机可以把 SQL 语言消息打包发送给 SQL Server。另外，当您希望调用存储过程、系统过程或虚拟系统存储过程（我们后面还要详细讨论）时，客户机可以发送 RPC 消息，这种消息相当于 SQL Server 上的一个 RPC 事件。对于上面的后两种情况，服务器会以数据令牌流的形式送回结果。Microsoft 没有把实际的 TDS 消息写入文档中，因为这被认为是 SQL Server 组件之间的私用契约。
+目录存储过程是另一类关键的客户机/服务器的交互部分。这些存储过程首先在 ODBC 的 SQL Server 6.0 中出现，包括诸如 sp_tables 和 sp_columns 等存储过程。ODBC 和 OLE-DB API 定义了描述有关数据库对象的元数据的标准方法，这些标准需要适用于所有类型的 RDBMS 服务器，而不必调整为 SQL Server 自己的系统表。不是客户机向服务器发送对系统表的多个查询，并在客户机端建立标准的元数据视图，而是创建一组存储在服务器上的系统存储过程，并对 API 返回适当格式的信息。这种方法使得通过一次通信就可以完成很多重要的元数据请求。为 ODBC 编写的过程已经写入文档，通常适合需要从系统表中获取信息但其他机制没有提供这种方法的情况。这使得Transact-SQL过程和 DB-Library应用程序可以访问元数据，而不需要编写对 SQL Server 系统表的复杂查询，并且使应用程序不受今后 Microsoft 修改系统表的影响。OLE DB 定义了一组架构行集，它们类似于 ODBC 的元数据，但又和它不同。它创建了一组新的目录存储过程，以更有效地为这些架构行集植入数据。但是，这组新的存储过程没有写入文档，因为这些存储过程重复了早先提供的功能。通过现有的若干种方法都可以得到元数据，因此 SQL Server 开发组决定不显露这些并没有为编程模型增加新内容的对象。
+
+
+
+
+Microsoft SQL Server计数器
+
+服务器上新建性能监控的日志，取所需计数器，设定计划任务定时启动或建立SQL JOB定时执行命令：logman start 计数器名
+添加计数器
+计数器
+描述
+Memory: Available Bytes
+内存可用字节数
+Memory: Page Faults / sec
+处理器硬/软页错误处理速率
+Process: Working Set
+进程占用内存量
+Memory / Pages/sec
+每秒磁盘读写页数
+Physical Disk: Avg.Disk Queue Length
+读取和写入请求(磁盘在实例间隔中列队的)平均数。
+Physical Disk: Reads/sec
+每秒磁盘读取操作速率
+Physical Disk: Writes/sec
+每秒磁盘写入操作速率
+Processor: % Privileged Time
+处理器执行内核命令所用时间百分比
+Process: % Processor Time
+处理器时间百分比（活跃程度）
+Processor: %User Time
+处理器执行用户进程百分比
+SQL Server: Access Methods: Full Scans/sec
+每秒完全扫描次数
+SQL Server: Access Methods: Page splits/sec
+每秒页分割数量
+SQL Server: Buffer Manager: Buffer Cache Hit Ratio
+缓冲区缓存命中率
+SQL Server: Buffer Manager: Lazy Writes/sec
+惰性写进程每秒写缓冲区数量
+SQLServer: Cache Manager: Cache Hit Ratio
+SQL快取中找到请求资料分页的时间比率
+SQL Server: Latches: Latch Waits/sec
+每秒闩锁等待数量
+SQL Server: Locks: Average Wait Time
+每个导致等待的锁请求的平均等待时间（毫秒）
+SQLServer: Locks: Lock Requests/sec
+每秒请求的锁个数
+SQLServer: Locks: Lock Wait Time (ms)
+SQL每秒锁等待
+SQL Server: Memory Manager: Total Server Memory
+服务器分配SQL可用内存总量
+SQLServer: General Statistics/User Connections
+SQL Server用户连接数
+SQLServer: SQL Statistics/SQL Re-Compilations
+每秒SQL重编译数
+
+
+
+
+
+Microsoft SQL Server新特性
+
+加强的T-SQL (事务处理SQL ) 　　T-SQL 天生就是基于集合的关系型数据库管理系统编程语言，可以提供高性能的数据访问。它与许多新的特性相结合，包括通过同时使用TRY和CTACH来进行错误处理，可以在语句中返回一个结果集的通用表表达式(CTEs)，以及通过PIVOT 和UNPIVOT命令将列转化为行和将列转化为行的能力。 　　获取更多有关微软的信息。 　　2、CLR(Common Language Runtime，通用语言运行时) 　　SQL Server 2005中的第二个主要的增强特性就是整合了符合.NET规范的语言 ，例如C#, 或者是可以构建对象(存储过程，触发器，函数等)的VB.NET。这一点让你可以在数据库管理系统中执行.NET代码以充分利用.NET功能。它有望在SQL Server 2000环境中取代扩展的存储过程，同时还扩展了传统关系型引擎功能。[1] 
+
+
+
+
+
+词条图册
+更多图册
+
+
+
+
+
+
+
+
+
+参考资料
+
+
+
+1.
+  
+走进SQL Server 2005：十大新特性 
+．脚本百事通[引用日期2013-05-16]
+
+
+
+词条标签：
+
+
+中国电子学会
+
+
+
+
+

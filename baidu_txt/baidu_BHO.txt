@@ -1,0 +1,3 @@
+BHO
+
+BHO是IE浏览器的扩展程序，全名Browser Helper Object，文件格式为DLL文件。可对IE浏览器的界面和访问内容进行修改操作。BHO只适用于IE浏览器，对其他任何浏览器都没有作用。

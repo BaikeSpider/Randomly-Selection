@@ -1,0 +1,96 @@
+
+
+
+
+
+
+
+收藏
+查看我的收藏
+
+
+
+0
+有用+1
+已投票
+
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+K介子
+编辑
+锁定
+
+本词条缺少名片图，补充相关内容使词条更完整，还能快速升级，赶紧来编辑吧！
+
+
+1944年，法国物理学家们在研究宇宙射线时，注意到一种云雾室径迹，它表征了一种新粒子，其质量大约为电子质量的1000倍，因此大约为质子重量的一半，后来在1947年再次发现了这种径迹，它通常与一种称为π介子的粒子结合产生。这种未知粒子以及π介子显然是在宇宙线凿子撞击原子的同时形成的。这两种粒子在形成之后就各自朝不同的方向移动，而留下一个V形径迹，因此被称作“V事件”，其中的重粒子就称为“V”粒子。
+
+
+
+
+中文名
+
+K介子
+
+时    间
+
+1944年
+
+
+国    家
+
+法国物理学家
+
+别    名
+
+Kaon
+
+
+但是，后来发现V事件是很常见的而且所有的V事件都含这种特殊的粒子。因此必须找到一个新的名称。由于新粒质量介于质子和电子之间，它就属于介子族。为了将它与其他介子区分开来，就称它为“K介子”，也称为“Kaon"。
+K介子非常不稳定，其寿命只有一亿分之一秒左右，然后它会以6种不同方式中的任意一种分裂，而形成更小的介子。K介子的不同分裂是很重要的。因为一个K介子能够以这样的方式分裂：它使得一种称为“宇称”的物理量既可以为奇的，也可以为偶的。而在此之前人们一直认为粒子发生任何变化时，其宇称必须或者优质为奇，或者保持为偶。现在在K介子发生分裂的情况下，致函发现宇称可以是奇的，也可以是偶的，这就导致了物理学理论的某种很重要的变化。
+
+
+
+
+
+
+
+
+
+        window.rsInsertData = window['rsInsertData'] || [];
+        var rsdataList = {"foot":[{"fentryTableId":5286,"fentryTableName":"\u7c92\u5b50","fentryTableType":1,"entryId":2313322,"templateId":0,"entryTitle":"\u7c92\u5b50","isManual":0,"isExpand":1},{"fentryTableId":5278,"fentryTableName":"\u590d\u5408\u7c92\u5b50","fentryTableType":1,"entryId":2313322,"templateId":0,"entryTitle":"\u7c92\u5b50","isManual":0,"isExpand":1},{"fentryTableId":5284,"fentryTableName":"\u5f3a\u5b50","fentryTableType":1,"entryId":2313322,"templateId":0,"entryTitle":"\u7c92\u5b50","isManual":0,"isExpand":1}],"top":[]};
+
+        if (rsdataList.top || rsdataList.foot) {
+            rsInsertData.push([7074859, rsdataList]);
+        }
+    

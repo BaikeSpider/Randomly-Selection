@@ -1,0 +1,1857 @@
+
+
+
+
+
+
+
+
+
+
+收藏
+查看我的收藏
+
+
+
+0
+有用+1
+已投票
+
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Internet Download Manager
+编辑
+锁定
+
+
+
+Internet Download Manager，简称IDM，是国外的一款优秀下载工具，该软件同时是一款共享软件。30天免费试用。正式版则需要支付29.95美元（每月均有部分时间仅售24.95美元）并理论上享受终身免费更新（虽然网站宣布一年内免费更新）。国内中文网站价格为99人民币（见参考资料[1] 
+）。凭借着下载计算的速度优势在外媒网站中均受好评，已被多数国人熟知。
+
+
+
+
+软件名称
+
+Internet Download Manager
+
+开发商
+
+Tonec Inc.
+
+软件平台
+
+Windows XP/7/8/8.1/10
+
+软件版本
+
+6.29
+
+
+更新时间
+
+2017-10-3
+
+软件语言
+
+多国语言（含中文）
+
+软件大小
+
+6MB
+
+软件授权
+
+共享软件（30天免费试用）
+
+支持下载网站
+
+各类音乐网站视频网站
+
+
+
+
+目录
+
+
+
+1
+软件特色
+
+
+2
+IDM使用技巧
+
+
+3
+更新日志
+
+
+▪
+6.28 Build 17
+
+
+▪
+6.28 Build 16
+
+
+▪
+6.28 Build 15
+
+
+▪
+6.28 Build 14
+
+
+▪
+6.27 Build 5
+
+
+▪
+6.27 Build 3
+
+
+▪
+6.27 Build 2
+
+
+▪
+6.27 Build 1
+
+
+▪
+6.26 Build 14
+
+
+▪
+6.26 Build 12
+
+
+▪
+6.26 Build 11
+
+
+▪
+6.26 Build 9
+
+
+▪
+6.26 Build 8
+
+
+▪
+6.26 Build 7
+
+
+▪
+6.26 Build 3
+
+
+▪
+6.26 Build 2
+
+
+▪
+6.26 Build 1
+
+
+▪
+6.25 Build 25
+
+
+▪
+6.25 Build 24
+
+
+▪
+6.25 Build 23
+
+
+▪
+6.25 Build 22
+
+
+▪
+6.25 Build 21
+
+
+▪
+6.25 Build 20
+
+
+▪
+6.25 Build 18
+
+
+▪
+6.25 Build 17
+
+
+▪
+6.25 Build 16
+
+
+▪
+6.25 Build 15
+
+
+▪
+6.25 Build 14
+
+
+▪
+6.25 Build 12
+
+
+▪
+6.25 Build 11
+
+
+▪
+6.25 Build 10
+
+
+▪
+6.25 Build 9
+
+
+▪
+6.25 Build 8
+
+
+▪
+6.25 Build 7
+
+
+▪
+6.25 Build 5
+
+
+▪
+6.25 Build 3
+
+
+▪
+6.25 Build 2
+
+
+▪
+6.25
+
+
+▪
+6.23 Build 23
+
+
+▪
+6.23 Build 22
+
+
+▪
+6.23 Build 21
+
+
+▪
+6.23 Build 20
+
+
+▪
+6.23 Build 19
+
+
+▪
+6.23 Build 18
+
+
+▪
+6.23 Build 17
+
+
+▪
+6.23 Build 16
+
+
+▪
+6.23 Build 15
+
+
+▪
+6.23 Build 14
+
+
+▪
+6.23 Build 12
+
+
+▪
+6.23 Build 11
+
+
+▪
+6.23 Build 10
+
+
+▪
+6.23 Build 9
+
+
+▪
+6.23 Build 8
+
+
+▪
+6.23 Build 7
+
+
+▪
+6.23 Build 6
+
+
+▪
+6.23 Build 5
+
+
+▪
+6.23 Build 2
+
+
+▪
+6.23
+
+
+▪
+6.22
+
+
+▪
+6.21 Build 19
+
+
+▪
+6.21 Build 18
+
+
+▪
+6.21 Build 17
+
+
+▪
+6.21 Build 16
+
+
+▪
+6.21 Build 15
+
+
+▪
+6.21 Build 14
+
+
+▪
+6.21 Build 11
+
+
+▪
+6.21 Build 10
+
+
+▪
+6.21 Build 9
+
+
+▪
+6.21 Build 8
+
+
+▪
+6.21 Build 7
+
+
+▪
+6.21 Build 5
+
+
+▪
+6.21 Build 3
+
+
+▪
+6.21 Build 2
+
+
+▪
+6.21
+
+
+▪
+6.20 Build 5
+
+
+▪
+6.20 Build 2
+
+
+▪
+6.20
+
+
+▪
+6.19 Build 9
+
+
+▪
+6.19 Build 8
+
+
+▪
+6.19 Build 7
+
+
+▪
+6.19 Build 6
+
+
+▪
+6.19 Build 3
+
+
+▪
+6.19 Build 2
+
+
+▪
+6.19
+
+
+▪
+6.18
+
+
+▪
+6.17Build 11
+
+
+▪
+6.17 Build7
+
+
+▪
+6.17 Build6
+
+
+▪
+6.17 Build 5
+
+
+▪
+6.17 Build2
+
+
+▪
+6.17
+
+
+▪
+6.16 Build2
+
+
+▪
+6.16
+
+
+▪
+6.15Build 15
+
+
+▪
+6.15Build 12
+
+
+▪
+6.15
+
+
+▪
+6.15 Build10
+
+
+▪
+6.15 Build9
+
+
+▪
+6.15 Build8
+
+
+▪
+6.15 Build7
+
+
+▪
+6.15 Build3
+
+
+▪
+6.15 Build2
+
+
+▪
+6.15
+
+
+
+
+
+
+
+
+
+
+Internet Download Manager软件特色
+编辑
+
+
+
+
+
+
+使用界面
+
+该软件提升你的下载速度最多达5倍，安排下载时程，或续传一半的软件。Internet Download Manager的续传功能可以恢复因为断线、网络问题、计算机宕机甚至无预警的停电导致下传到一半的软件。此程序具有动态档案分割、多重下载点技术，而且它会重复使用现有的联机，而不需再重新联机登入一遍。聪明的in-speed技术会动态地将所有设定应用到某种联机类型，以充分利用下载速度。
+Internet Download Manager支持下载队列、防火墙、代理服务器和映射服务器、重新导向、cookies、需要验证的目录，以及各种不同的服务器平台。此程序紧密地与Internet Explorer和NetscapeCommunicator结合，自动地处理你的下载需求。此程序还具有下载逻辑最佳化功能、检查病毒，以及多种偏好设定。
+支持多款浏览器，包括IE，Safari，谷歌浏览器，火狐，MSN还有opera[2] 
+，通过自带的添加浏览器功能可以支持所有浏览器。
+IDM下载HTTP链接十分快，而且很稳定，凭借的独特的下载方式不会出现网速时快时慢的情况。虽然它不支持P2P协议，但是在BT和电驴逐渐不再流行的情况下，IDM以其“网盘利器”的美名迅速蹿红。
+同时IDM的文件名识别非常准确，当服务器端的文件名和下载文件名不同，IDM也会提示你改正。
+IDM可以识别如youtube视频的不同画质，并且可以捕捉相当多网站的音频资源。
+但是可以通过搭配下载的方式来使用IDM（比如用迅雷离线下载，115离线，百度网盘等离线下载好的资源，然后结合HTTP协议的特性再用IDM下载）可以达到事半功倍的效果。
+支持的系统平台：Windows 98/2000/XP/2003/Vista/Windows 7/Windows 8/Windows 8.1[3] 
+
+
+
+
+
+Internet Download ManagerIDM使用技巧
+编辑
+
+1：IDM如何下载BT协议的资源？
+答：因为IDM本身不支持BT协议，想要下载BT协议资源只能用搭配下载法：所以要先用迅雷离线（115网盘离线，百度网盘离线均可）解决问题， 然后复制离线的地址到IDM，这样就可以下载了。
+2：IDM如何下载网页视频和音频？
+答：IDM本身自带网页视频监视和音频监视功能，所以只要你的浏览器支持IDM的扩展连接就会自动下载。
+如果嫌其频繁的过于弹出下载框，这时候的解决方法就是打开IDM，在设置中自定义IDM在浏览器中的下载面板中勾选-不要自动从网页播放器中捕获下载，并且重新安装chrome（包括并不仅限于国内的双核浏览器）的IDM扩展程序（文件位置在IDM安装根目录IDMGCExt.crx）。
+3：IDM下载网盘资源的方法
+说明：
+第一、最好一口气下载完一个文件；
+第二、如果你的网络稳定，可以选择多线程下载。特别是对于国外网盘。
+第三、多备几个下载地址，因为IDM有一个功能就是被枪后，还有一个网站捕捉的功能，当然原来的下载是不能用了，但是你可以利用其他工具解析出一个新的下载地址，用IE下载到IDM下载失败文件保存到得文件夹，这样IDM就能接着下了。
+第四、如果你有国外网盘的付费高级账号，可以在idm里输入并保存。同时建立批量任务（或者称之为排队下载），IDM会很方便地完成各种任务。国外很多大型网盘如Fileserve等都非常推荐IDM。
+第五、实在不会下载百度网盘的可以去 IDM吧群共享 看教程
+4：IDM注意事项：
+第一：IDM的默认缓存一般是在C盘的，最好更换缓存文件夹；
+第二：IDM还有一个很强大的功能，就是边下载边播放视频文件，它的强大在于：它是用本地的播放器播放的（不会像迅雷那样是占额外带宽），缓存文件夹找到文件直接点击就行（单线程下）。
+5：特别说明
+很多朋友认为IDM下载速度很快，甚至突破宽带限制。但是并不是的。
+IDM显示的下载速度是虚高的。
+原因是因为IDM软件为了计算方便把原来1MB=1024KB的进制，简化为了1MB=1000KB，方便了自己的计算。例如你的下载速率为1M/S 正常情况下，你一秒下载的大小应该是1MB=1024KB。但是实际情况则是1000KB=0.977MB。造成的结果就是1M/S->>0.977M/S。所以IDM显示的下载速率虚高。
+
+
+
+
+
+　　
+
+
+
+
+Internet Download Manager更新日志
+编辑
+
+6.29 Build 1
+（发布日期：2017年10月03日）
+增加了https代理服务器的支持。可以通过使用proxy.pac文件通过https代理服务器进行VPN连接
+修复了需要通过Digest认证通过代理服务器才能下载的问题
+增加了对Firefox 57,58的支持
+修正错误
+
+
+
+
+
+Internet Download Manager6.28 Build 17
+
+（发布：2017年8月5日）
+加入了 Windows 10预览版 build 16257 的支持
+修正错误
+
+
+
+
+
+
+Internet Download Manager6.28 Build 16
+
+（发布：2017年7月14日）
+改进的IDM下载引擎
+修复了几种类型的网站的视频抓取问题
+修复了严重的错误
+
+
+
+
+
+
+Internet Download Manager6.28 Build 15
+
+（发布：2017年6月28日）
+修复了严重的错误
+
+
+
+
+
+
+Internet Download Manager6.28 Build 14
+
+（发布：2017年6月23日）
+修复了下载视频流的错误
+修复了几种类型的网站的视频抓取问题
+修正错误
+
+
+
+
+
+
+Internet Download Manager6.27 Build 5
+
+（发布：2017年2月14日）
+修复了几种下载视频流的错误
+修正错误
+
+
+
+
+
+
+Internet Download Manager6.27 Build 3
+
+（发布：2017年1月26日）
+加入 Firefox 52 的支持
+加入 SeaMonkey 2.49 的支持
+
+
+
+
+
+
+Internet Download Manager6.27 Build 2
+
+（发布：2016年12月15日）
+修复了 Firefox 45.6 在ESR集成中的严重错误
+修复了几种下载视频流的错误
+修正了其他的小问题
+
+
+
+
+
+
+Internet Download Manager6.27 Build 1
+
+（发布：2016年12月10日）
+加入了功能设置中显示“下载此视频”按钮的视频最小的大小
+删除了Windows 10 中固定下载进度条的一个管边框
+改进了网页视频监视功能
+修正错误
+
+
+
+
+
+
+Internet Download Manager6.26 Build 14
+
+(Released: Nov 30, 2016)
+Fixed problems with video recognition for several types of web sites
+Fixed bugs
+
+
+
+
+
+
+Internet Download Manager6.26 Build 12
+
+(Released: Nov 25, 2016)
+Fixed bugs
+
+
+
+
+
+
+Internet Download Manager6.26 Build 11
+
+(Released: Nov 21, 2016)
+Improved video recognition in web players
+
+
+
+
+
+
+Internet Download Manager6.26 Build 9
+
+(Released: Nov 11, 2016)
+Improved video recognition in web players
+Fixed the problem with erroneous video interceptions from web players
+Fixed bugs
+
+
+
+
+
+
+Internet Download Manager6.26 Build 8
+
+(Released: Oct 22, 2016)
+Fixed several critical bugs when using proxy servers
+Fixed problems with video recognition for several types of web sites
+Fixed bugs
+
+
+
+
+
+
+Internet Download Manager6.26 Build 7
+
+(Released: Oct 01, 2016)
+Fixed a problem with disabling of the Google Chrome extension
+Fixed problems with video recognition for several types of web sites
+Fixed a problem with disk space occupation
+Fixed bugs
+
+
+
+
+
+
+Internet Download Manager6.26 Build 3
+
+(Released: Sep 21, 2016)
+Added support for Firefox 50
+Improved IPV6 support
+Fixed bugs
+
+
+
+
+
+
+Internet Download Manager6.26 Build 2
+
+(Released: Sep 09, 2016)
+Fixed problem with video recognition for several video types
+
+
+
+
+
+
+Internet Download Manager6.26 Build 1
+
+(Released: Sep 07, 2016)
+Added support for IPV6 Internet addresses
+Improved "Start Download Info" dialog
+Fixed a freezing problem when "save to" path is on a network drive
+Fixed bugs with IE and Firefox integration
+
+
+
+
+
+
+Internet Download Manager6.25 Build 25
+
+(Released: Aug 05, 2016)
+Added support for Firefox 49
+Fixed compatibility problems with the latest build of Windows 10
+Fixed problems with video recognition for several types of web sites
+Fixed bugs
+
+
+
+
+
+
+Internet Download Manager6.25 Build 24
+
+(Released: Jul 28, 2016)
+Fixed bugs
+
+
+
+
+
+
+Internet Download Manager6.25 Build 23
+
+(Released: Jul 12, 2016)
+Fixed problem with video recognition for several video types
+Fixed bugs
+
+
+
+
+
+
+Internet Download Manager6.25 Build 22
+
+(Released: Jul 05, 2016)
+Fixed problem with erroneous interceptions of video data
+Improved video recognition in web players
+Fixed bugs
+
+
+
+
+
+
+Internet Download Manager6.25 Build 21
+
+(Released: Jun 09, 2016)
+Added support for Firefox 48
+Fixed problems with video recognition for several types of web sites
+Fixed problems with taking over some types of downloads in Firefox
+Fixed bugs
+
+
+
+
+
+
+Internet Download Manager6.25 Build 20
+
+(Released: May 25, 2016)
+Fixed critical bugs
+
+
+
+
+
+
+Internet Download Manager6.25 Build 18
+
+(Released: May 20, 2016)
+Improved Google Chrome integration module
+Fixed bugs
+
+
+
+
+
+
+Internet Download Manager6.25 Build 17
+
+(Released: May 10, 2016)
+Fixed bugs
+
+
+
+
+
+
+Internet Download Manager6.25 Build 16
+
+(Released: Apr 27, 2016)
+Added support for Firefox 47
+Fixed bugs
+
+
+
+
+
+
+Internet Download Manager6.25 Build 15
+
+(Released: Apr 15, 2016)
+Improved Google Chrome integration module
+Fixed bugs
+
+
+
+
+
+
+Internet Download Manager6.25 Build 14
+
+(Released: Mar 11, 2016)
+Added support for Firefox 46
+
+
+
+
+
+
+Internet Download Manager6.25 Build 12
+
+(Released: Feb 11, 2016)
+Fixed bugs
+
+
+
+
+
+
+Internet Download Manager6.25 Build 11
+
+(Released: Jan 28, 2016)
+Added support for Firefox 45
+Fixed bugs
+
+
+
+
+
+
+Internet Download Manager6.25 Build 10
+
+(Released: Dec 28, 2015)
+Fixed problems with video recognition for several types of web sites
+
+
+
+
+
+
+Internet Download Manager6.25 Build 9
+
+(Released: Dec 18, 2015)
+Added support for Firefox 44
+Fixed bugs
+
+
+
+
+
+
+Internet Download Manager6.25 Build 8
+
+(Released: Dec 11, 2015)
+Added support for new types of videos for several web streaming services
+
+
+
+
+
+
+Internet Download Manager6.25 Build 7
+
+(Released: Dec 10, 2015)
+Made a workaround and fixed compatibility problems of previous IDM version (6.25.5) with Kaspersky Internet security on Windows 10
+Improved video recognition in Google Chrome on Windows XP
+
+
+
+
+
+
+Internet Download Manager6.25 Build 5
+
+(Released: Dec 09, 2015)
+Added support for new types of videos for several web streaming services
+Fixed bugs
+
+
+
+
+
+
+Internet Download Manager6.25 Build 3
+
+(Released: Nov 09, 2015)
+Added support for Firefox 43 and SeaMonkey 2.39, 2.40, 2.41
+Lowered CPU consumption
+Added support for new types of video streaming sites
+Fixed bugs
+
+
+
+
+
+
+Internet Download Manager6.25 Build 2
+
+(Released: Oct 16, 2015)
+Fixed problems with video downloading for several types of web sites
+Fixed bugs
+
+
+
+
+
+
+Internet Download Manager6.25
+
+(Released: Oct 08, 2015)
+Improved IDM download engine
+Added support for SeaMonkey 2.38
+Fixed bugs
+
+
+
+
+
+
+Internet Download Manager6.23 Build 23
+
+(Released: Sep 30, 2015)
+Fixed the problem with repeating quality lines in video download panel
+Fixed the problem with erroneous video interceptions from web players
+Fixed the problem with keyboard focus in Google Chrome
+Fixed bugs
+
+
+
+
+
+
+Internet Download Manager6.23 Build 22
+
+(Released: Sep 23, 2015)
+Added support for Firefox 42 and SeaMonkey 2.35
+Fixed bugs
+
+
+
+
+
+
+Internet Download Manager6.23 Build 21
+
+(Released: Aug 28, 2015)
+Fixed problems with downloading from several file sharing sites
+Fixed bugs
+
+
+
+
+
+
+Internet Download Manager6.23 Build 20
+
+(Released: Aug 20, 2015)
+Fixed problems with video recognition for several types of web sites
+
+
+
+
+
+
+Internet Download Manager6.23 Build 19
+
+(Released: Aug 14, 2015)
+Added support for Firefox 41
+Resolved the problem with erroneous download interceptions of videos in Firefox
+Resolved the problem when "download this video" button was not displayed in Firefox
+Improved integration into Google Chrome
+Fixed bugs
+
+
+
+
+
+
+Internet Download Manager6.23 Build 18
+
+(Released: Aug 03, 2015)
+Fixed problems with detection of some types of downloads in Firefox
+Fixed bugs
+
+
+
+
+
+
+Internet Download Manager6.23 Build 17
+
+(Released: Jul 24, 2015)
+Added support for Microsoft Edge browser
+Fixed bugs
+
+
+
+
+
+
+Internet Download Manager6.23 Build 16
+
+(Released: Jul 15, 2015)
+Fixed a bug in Firefox extension with multiple download dialogs
+
+
+
+
+
+
+Internet Download Manager6.23 Build 15
+
+(Released: Jul 10, 2015)
+Fixed the bug with text selection in Firefox extension
+Improved video recognition in Google Chrome
+
+
+
+
+
+
+Internet Download Manager6.23 Build 14
+
+(Released: Jul 07, 2015)
+Added support for Firefox 40
+Improved Google Chrome integration
+Fixed problems with video recognition for several types of web sites
+Fixed bugs
+
+
+
+
+
+
+Internet Download Manager6.23 Build 12
+
+(Released: May 20, 2015)
+Added support for Firefox 39
+Improved video downloading for several types of web sites
+Fixed bugs
+
+
+
+
+
+
+Internet Download Manager6.23 Build 11
+
+(Released: Apr 20, 2015)
+Fixed problems with erroneous interceptions of Firefox internal downloads
+Improved Google Chrome integration
+
+
+
+
+
+
+Internet Download Manager6.23 Build 10
+
+(Released: Apr 02, 2015)
+Added support for Firefox 38
+
+
+
+
+
+
+Internet Download Manager6.23 Build 9
+
+(Released: Mar 26, 2015)
+Fixed compatibility problems of Google Chrome extension with Kaspersky Internet Security
+
+
+
+
+
+
+Internet Download Manager6.23 Build 8
+
+(Released: Mar 19, 2015)
+Fixed a critical bug in IDM network driver
+
+
+
+
+
+
+Internet Download Manager6.23 Build 7
+
+(Released: Mar 17, 2015)
+Fixed compatibility problems with antiviral and internet security software
+Improved taking over downloads of videos from web players in Google Chrome
+Added a feature to change video resolution for rtmp protocol
+Added support for SeaMonkey 2.33
+
+
+
+
+
+
+Internet Download Manager6.23 Build 6
+
+(Released: Mar 12, 2015)
+Fixed problems with video/audio recognition for several types of web sites
+Fixed compatibility problems of Google Chrome extension with several applications
+
+
+
+
+
+
+Internet Download Manager6.23 Build 5
+
+(Released: Mar 10, 2015)
+Fixed bugs in Chrome integration module
+
+
+
+
+
+
+Internet Download Manager6.23 Build 2
+
+(Released: Feb 24, 2015)
+Added support for Firefox 37
+
+
+
+
+
+
+Internet Download Manager6.23
+
+(Released: Feb 22, 2015)
+Added support for Google Chrome 42
+Added support for new types of video streaming sites
+Fixed bugs
+
+
+
+
+
+
+Internet Download Manager6.22
+
+(Released: Feb 05, 2015)
+Added support for Windows 10
+Fixed problems with corrupted video files from several types of video services
+Fixed bugs
+
+
+
+
+
+
+Internet Download Manager6.21 Build 19
+
+(Released: Jan 26, 2015)
+Resolved compatibility issues with some applications
+Fixed bugs
+
+
+
+
+
+
+Internet Download Manager6.21 Build 18
+
+(Released: Jan 13, 2015)
+Added support for Firefox 36 and SeaMonkey 2.32
+Fixed bugs
+
+
+
+
+
+
+Internet Download Manager6.21 Build 17
+
+(Released: Dec 16, 2014)
+Fixed bugs
+
+
+
+
+
+
+Internet Download Manager6.21 Build 16
+
+(Released: Dec 07, 2014)
+Added support for SeaMonkey 2.31 and for Pale Moon 25
+Improved the recognition of new types of videos
+Added a feature to wake up from sleep to download scheduled files in queue
+Fixed bugs
+
+
+
+
+
+
+Internet Download Manager6.21 Build 15
+
+(Released: Nov 07, 2014)
+Added the recognition of new types of videos
+Fixed bugs
+
+
+
+
+
+
+Internet Download Manager6.21 Build 14
+
+(Released: Oct 15, 2014)
+Added support for Firefox 35
+Improved Google Chrome integration module
+Fixed bugs
+
+
+
+
+
+
+Internet Download Manager6.21 Build 11
+
+(Released: Oct 03, 2014)
+Improved IDM download engine
+Improved video recognition in Google Chrome
+Fixed bugs
+
+
+
+
+
+
+Internet Download Manager6.21 Build 10
+
+(Released: Sep 12, 2014)
+Improved "IDM Integration module" Chrome extension
+
+
+
+
+
+
+Internet Download Manager6.21 Build 9
+
+(Released: Sep 05, 2014)
+Added support for Firefox 34 and SeaMonkey 2.30
+Fixed problems with Google Chrome extension for non-default zoom
+
+
+
+
+
+
+Internet Download Manager6.21 Build 8
+
+(Released: Sep 03, 2014)
+Fixed a freezing problem when assembling downloaded videos
+Fixed an integration bug into Google Chrome browser
+
+
+
+
+
+
+Internet Download Manager6.21 Build 7
+
+(Released: Aug 28, 2014)
+Added 64-bit support to "IDM Integration module" Chrome extension
+Fixed bugs
+
+
+
+
+
+
+Internet Download Manager6.21 Build 5
+
+(Released: Aug 20, 2014)
+Added a feature to select a group of files in main IDM list and change their storage folder
+Fixed several problems with erroneous interceptions of videos
+Improved the logic of "Download this video" panel
+Fixed bugs
+
+
+
+
+
+
+Internet Download Manager6.21 Build 3
+
+(Released: Aug 11, 2014)
+Added a feature to search downloads in IDM list
+Added high DPI support for Google chrome extension
+Fixed bugs
+
+
+
+
+
+
+Internet Download Manager6.21 Build 2
+
+(Released: Jul 23, 2014)
+Added support for Firefox 33 and SeaMonkey 2.29
+
+
+
+
+
+
+Internet Download Manager6.21
+
+(Released: Jul 11, 2014)
+Fixed detections of two separate video and audio streams in Chrome browser
+Improved IDM download engine
+Fixed bugs
+
+
+
+
+
+
+Internet Download Manager6.20 Build 5
+
+(Released: Jun 18, 2014)
+Fixed an erroneous interception of attendant content in Google Docs
+Fixed a critical bug when saving and resuming several types of videos
+Fixed a bug in the recognition of several types of videos in Google Chrome
+
+
+
+
+
+
+Internet Download Manager6.20 Build 2
+
+(Released: Jun 09, 2014)
+Added support for Firefox 32 and SeaMonkey 2.28
+Fixed video recognition problems in Google Chrome
+
+
+
+
+
+
+Internet Download Manager6.20
+
+(Released: Jun 05, 2014)
+Improved video recognition in web players
+Added the recognition and downloading of TS videos
+Resolved "403 Forbidden" problems while downloading some videos
+Fixed bugs
+
+
+
+
+
+
+Internet Download Manager6.19 Build 9
+
+(Released: May 15, 2014)
+Improved downloading from file sharing sites
+Fixed bugs
+
+
+
+
+
+
+Internet Download Manager6.19 Build 8
+
+(Released: Apr 29, 2014)
+Added support for Firefox 31 and SeaMonkey 2.26
+Fixed bugs
+
+
+
+
+
+
+Internet Download Manager6.19 Build 7
+
+(Released: Apr 21, 2014)
+Fixed a problem with not clickable download panel in Google Chrome version 34 and above
+
+
+
+
+
+
+Internet Download Manager6.19 Build 6
+
+(Released: Apr 03, 2014)
+Improved video recognition in web players
+Fixed bugs
+
+
+
+
+
+
+Internet Download Manager6.19 Build 3
+
+(Released: Mar 20, 2014)
+Added support for Firefox 30 and SeaMonkey 2.25
+Improved video recognition in Google Chrome
+Fixed bugs
+
+
+
+
+
+
+Internet Download Manager6.19 Build 2
+
+(Released: Feb 21, 2014)
+Added support for Google Chrome 33
+Fixed bugs
+
+
+
+
+
+
+Internet Download Manager6.19
+
+改进IDM下载引擎　　支持 Firefox 29 与 SeaMonkey 2.24　　修复 Chrome 视频嗅探　　修复 Chrome 接管https下载[4] 
+
+
+
+
+
+
+Internet Download Manager6.18
+
+(发布:10月03号,2013)
+添加支持高DPI设置
+添加了一个特性来接管在谷歌Chrome下载https
+添加了一个特性来显示下载这个视频/音频面板在谷歌Chrome https视频
+解决问题从几个网站下载视频
+修复BUG
+
+
+
+
+
+
+Internet Download Manager6.17Build 11
+
+(2013年9月18日发布:)
+添加支持Firefox 26和SeaMonkey 2.21
+解决问题从几个网站下载视频
+修复文件汇编错误、丢失文件错误,问题,或视频中视频没有声音当接管在谷歌Chrome下载视频
+修复其它BUG
+
+
+
+
+
+
+Internet Download Manager6.17 Build7
+
+(发布于2013年8月6日)
+解决问题与谷歌Chrome扩展
+添加支持Firefox 25和SeaMonkey 2.20
+解决问题从几个网站下载视频
+修复BUG
+
+
+
+
+
+
+Internet Download Manager6.17 Build6
+
+(发布:2013年7月26日)
+改变了谷歌Chrome扩展因为错误的识别从谷歌
+解决问题从几个网站下载视频
+修复CPU占用高的BUG
+
+
+
+
+
+
+Internet Download Manager6.17 Build 5
+
+(发布:2013年7月19日)
+添加支持新的视频网站的变化
+添加支持谷歌Chrome 30
+
+
+
+
+
+
+Internet Download Manager6.17 Build2
+
+(2013年7月12日发布:)
+改进的IE 11集成(Windows 8.1)
+添加支持新的视频网站的变化
+修复BUG
+
+
+
+
+
+
+Internet Download Manager6.17
+
+(发布:2013年6月27日)
+添加支持新的类型的视频网站
+添加支持Firefox 24和SeaMonkey 2.19
+说解决了视频网站的变化
+修复BUG
+
+
+
+
+
+
+Internet Download Manager6.16 Build2
+
+(发布:2013年6月20日)
+说解决了视频网站的变化
+修复BUG
+
+
+
+
+
+
+Internet Download Manager6.16
+
+(发布:2013年6月10日)
+改进IDM下载引擎
+修复dailymotion网站下载的问题
+修复BUG
+
+
+
+
+
+
+Internet Download Manager6.15Build 15
+
+(发布:2013年5月31日)
+解决问题从网站下载视频,播放视频托管在视频网站
+解决问题从视频网站下载视频
+固定的一个重要的安全缺陷
+固定的臭虫
+
+
+
+
+
+
+Internet Download Manager6.15Build 12
+
+(发布:2013年5月15日)
+添加支持Firefox 23和SeaMonkey 2.18
+
+
+
+
+
+
+Internet Download Manager6.15
+
+(发布:可能07,2013)
+固定崩溃在64位Mozilla Firefox集成模块
+
+
+
+
+
+
+Internet Download Manager6.15 Build10
+
+(2013年4月30日发布:)
+说解决了视频网站的问题,单独的音频和视频流
+
+
+
+
+
+
+Internet Download Manager6.15 Build9
+
+(发布:2013年4月25日)
+谷歌Chrome扩展更新
+修复BUG
+
+
+
+
+
+
+Internet Download Manager6.15 Build8
+
+(发布于2013年4月5日)
+添加支持Firefox 22和SeaMonkey 2.17
+修复BUG
+
+
+
+
+
+
+Internet Download Manager6.15 Build7
+
+(2013年3月22日发布:)
+添加了一个变通方案变化对视频网站
+添加了功能停止并保存直播广播
+修复BUG
+
+
+
+
+
+
+Internet Download Manager6.15 Build3
+
+(发布:2013年2月21日)
+添加支持Firefox 21
+一个严重的bug修复和处理某些类型的重定向
+解决问题当显示“下载进度”对话框选项卡和大窗户字体
+固定一臭虫下载进度条显示下载线程当恢复zip文件
+
+
+
+
+
+
+Internet Download Manager6.15 Build2
+
+(发布:2013年2月15日)
+修复下载引擎中一个严重的BUG
+添加下载面板选择连接在Chrome浏览器
+添加支持SeaMonkey 2.15和2.16
+
+
+
+
+
+
+Internet Download Manager6.15
+
+(发布:2013年1月29日)
+添加支持自动代理配置脚本(用于premiumize等服务。 我和其他人)
+固定一个严重的bug在IE中集成模块
+解决问题与几个下载文件共享网站
+改变“最小化到托盘”按钮风格为Windows 8
+　　
+6.14 build2 
+[5] 
+修复了win8系统上对Waterfox浏览器的兼容能力。
+增加了对SeaMonkey 2.14（Web 应用程序套件）的支持。
+提高了win8系统的集成能力。
+提高了IE10强化保护模块的集成能力。
+修复了多个bug。
+增加对 Firefox 19 的支持
+改进 IE 10 集成
+改进 Google Chrome 集成
+修正了在 IE 集成模块中一个严重的 BUG
+改进 Chrome 和 Opera 整合
+修正了 Chrome 浏览器 IDM 集成模块崩溃问题
+增加了对改版的youtube网站的支持，下载面板可选择视频分类。
+修正了上一版6.12 build 24 的BUG。
+支持火狐13
+⒈重新设计的网页播放器的视频流识别，增加了支持新类型的视频网站。
+⒉修正未知错误
+⒊支持添加链接
+6.07
+⒈更新语言检测说明，会自动根据你使用的系统语言下载对应的语言程式。
+⒉修正部分资源整合异常
+⒊增加了对火狐7等一些游览器的扩展支持
+⒋修正部分BUG
+⒌修正了网页视频下载的分段错误
+
+
+
+
+
+        window.rsInsertData = window['rsInsertData'] || [];
+        var rsdataList = {"foot":[{"fentryTableId":20537,"fentryTableName":"\u4e0b\u8f7d\u7ba1\u7406\u7a0b\u5f0f","fentryTableType":1,"entryId":2431427,"templateId":0,"entryTitle":"\u4e0b\u8f7d\u7ba1\u7406\u7a0b\u5f0f","isManual":0,"isExpand":1}],"top":[]};
+
+        if (rsdataList.top || rsdataList.foot) {
+            rsInsertData.push([594708, rsdataList]);
+        }
+    
+
+参考资料
+
+
+
+1.
+  
+Internet Download Manager(IDM) 中文网站 
+．Internet Download Manager(IDM) 中文网站[引用日期2017-08-01]
+2.
+  
+Internet Download Manager News 
+．Internet Download Manager[引用日期2014-11-16]
+3.
+  
+internet download manager 6.03 Build 6 汉化版 
+．久友下载站[引用日期2013-03-09]
+4.
+  
+Internet Download Manager v6.19 中文绿色版 
+．121下载站[引用日期2014-02-08]
+5.
+  
+Internet Download Manager 
+．绿色先锋[引用日期2012-12-23]
+
+
+
+词条标签：
+
+
+软件
+
+，
+科技产品
+
+，
+科学
+
+，
+技术
+
+
+
+
+

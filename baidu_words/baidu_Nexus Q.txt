@@ -1,0 +1,209 @@
+
+
+
+
+
+
+
+
+
+
+收藏
+查看我的收藏
+
+
+
+0
+有用+1
+已投票
+
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nexus Q
+编辑
+锁定
+
+
+
+在2012年6月的Google I/O亮相的新品中，造型古怪的社交流媒体服务器Nexus Q赢得了大量关注。在发布会前爆出的神秘设备、被Google称作是“第一款社交流媒体播放器”的Nexus Q正式发布，谷歌在发布会上将Nexus Q描述成美国制造业的救星，称其为“完完全全的美国制造”。
+
+
+
+
+外文名
+
+Nexus Q
+
+发布时间
+
+2012年6月28日
+
+
+类    型
+
+社交流媒体服务器
+
+平    台
+
+Android系统平台
+
+
+
+
+目录
+
+
+
+1
+诞生
+
+
+2
+理念
+
+
+3
+结束
+
+
+4
+配置
+
+
+
+
+
+
+
+
+
+
+Nexus Q诞生
+编辑
+
+
+
+
+
+Nexus Q 2012年6月28日，谷歌2012年I/O开发者大会开幕，谷歌在大会上发布了一款名为“Nexus Q”的圆球状流媒体播放器，7月份开售。谷歌在I/O大会上发布的一款家庭多媒体娱乐终端娱乐设备。简单的来说，Nexus Q就相当于一个小型的电脑，基于Android系统平台，Nexus Q内置了德州仪器的OMAP 4460双核处理器，主频未透露，不过工作人员介绍Nexus Q与三星GALAXY NEXUSCPU配置一样，而值得注意的是它的功耗仅25mW。支持NFC、蓝牙以及Wifi。
+
+
+
+
+
+
+
+
+
+Nexus Q理念
+编辑
+
+
+
+
+
+
+Nexus背部的I/O接口
+
+Nexus Q并不是在靠硬件配置为卖点，而是靠一种连接、分享、无缝融合的理念，这款设备渗透了谷歌的云服务，首先Nexus Q具备两块无线网卡，可以随时组建用户的私有云空间。
+谷歌的工作人员强调Nexus Q是一款具备社交分享功能的播放器，因为它可以连接用户的平板电脑与手机设备，然后将上面的内容输出到TV上，比如你和你的朋友在家中看电视，你可以通过Google Play购买电影，当用户成功购买后，影片就会自动加载到Nexus Q的列表中，你可以用手机或者平板电脑来控制及播放，如果让笔者形容，那我认为手机或者是平板充当了遥控器的角色，而谷歌Nexus Q充当了资源中转站以及设备之前“桥梁”的角色。
+据悉谷歌Nexus Q售价为299美元，会在2012年7月中旬登录Google Play。
+
+
+
+
+Nexus Q结束
+编辑
+
+2012年11月1日开始，Google的官方Nexus页面将不会出现这款产品，尽管这款产品依然陈列在Google Play上，但已经不对外公开售卖。
+尽管在Play的Nexus Q页面旁边依然存在“当Nexus Q发售的时候通知我”的信息栏，但是想必这样的提示信息未来永远不会响起来。
+Google 本周四（2013年1月17日）更新了小萌球Nexus Q在 Google Play 上的页面，结果是“不再销售”。这使得这款流媒体播放器成为了 Google 唯一一款从未正式发售的产品，而早前预订用户将免费得到一台。此外，Galaxy Nexus 和 8GB 版 Nexus 7 的页面也显示“不再销售”。
+事实上，早在去年 7 月，Nexus Q 就被 Google 边缘化了，当时 Google 撤回了这款产品，重新开发新功能。10 月份，Google 还在 Nexus 产品页面上移除了 Nexus Q。人们一直预期 Google 会在2013年的 Google I/O 大会上发布一款功能更多、价格更低的 Nexus Q。没想到现在却被腰斩了。
+
+
+
+
+Nexus Q配置
+编辑
+
+
+
+
+
+
+Nexus Q 主板
+
+16GB内部存储空间
+1GB内存
+OMAP4460 (双核ARM Cortex-A9 CPU 和SGX540 GPU)
+32 RGB环形LED指示灯和1 RGB静音指示灯
+Android 4.0操作系统
+
+
+
+
+词条图册
+更多图册
+
+
+
+
+
+
+
+
+
+
+
+
+
+        window.rsInsertData = window['rsInsertData'] || [];
+        var rsdataList = {"foot":[{"fentryTableId":30639,"fentryTableName":"Android","fentryTableType":1,"entryId":2566550,"templateId":0,"entryTitle":"Android","isManual":0,"isExpand":1}],"top":[]};
+
+        if (rsdataList.top || rsdataList.foot) {
+            rsInsertData.push([8851431, rsdataList]);
+        }
+    
+
+词条标签：
+
+
+科技产品
+
+，
+电子产品
+
+
+
+
+
