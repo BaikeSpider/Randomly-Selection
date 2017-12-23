@@ -1,0 +1,804 @@
+Virtual Boy
+
+Virtual Boy
+
+
+
+
+
+
+
+制造商
+任天堂
+
+
+型式
+便携式游戏机
+
+
+世代
+第五世代
+
+
+产品生命周期
+
+
+日本：1995年7月21日
+北美：1995年8月14日
+
+
+
+
+停产日期
+
+日本：1995年12月22日
+北美：1996年3月2日
+
+
+销售台数
+770,000
+
+
+媒体
+游戏卡带（卡带）
+
+
+CPU
+NEC V810
+
+
+Virtual Boy是任天堂在N64上市之前用来打算取代Game Boy的32位便携式游戏机，其利用十分前卫的类似3D电影的技术产生立体效果，由设计Game Boy的横井军平设计。1995年7月21日在日本发售，售价15000日元。由于商业失败Virtual Boy没有在欧洲和澳大利亚发售，全球销量77万台，是任天堂除64DD外销量最差的硬件。1995年12月22日停产，不过也因为销量低迷，在VR重新热门后变得奇货可居。
+
+
+
+目录
+
+
+1 硬件
+2 游戏
+3 影响
+4 参见
+5 参考文献
+
+
+
+硬件[编辑]
+
+CPU:NEC V810
+RAM:1MB
+SRAM:512KB
+画面:红白双色屏幕，384 × 224 分辨率，50.2 Hz 垂直刷新率
+声音:16位立体声
+电源:6节AA 电池 (9 VDC)或者变压器（10 VDC）
+重量:750克
+
+游戏[编辑]
+任天堂最初发布了三款游戏，并计划每月推出两到三款。但是由于主机的寿命极短，最终只有22个游戏发行，19个日本版本，14个美国版本。
+相对于其他任天堂主机，Virtual Boy的第三方支持极为有限。为了游戏质量任天堂只允许少数第三方厂商为Virtual Boy开发游戏。[1]
+虽然任天堂承诺将带给玩家虚拟现实的体验，但是单色显示屏限制了体验效果。并且绝大多数游戏并未实现所宣传的“虚拟现实”。
+影响[编辑]
+任天堂将Virtual Boy失败的责任归咎于设计者横井军平身上，主机的商业失败导致横井军平从任天堂辞职。
+Virtual Boy虽然在推出当年是一个失败的产品，但由于数量极少，对许多游戏机收藏家来讲是一个难以取得的游戏机之一。
+参见[编辑]
+
+任天堂3DS
+
+参考文献[编辑]
+
+
+^ An Audience with... Gumpei Yokoi. Next Generation (Imagine Media). April 1995, (4): 44–46. 
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+任天堂游戏硬件
+
+
+
+
+
+
+家用主机
+
+
+
+Color TV-Game
+红白机
+
+夏普任天堂电视
+Famicom Titler
+Twin Famicom
+mini（英语：NES Classic Edition）
+
+
+超级任天堂
+
+mini
+
+
+任天堂64
+
+神游机
+
+
+GameCube
+Wii
+
+Mini
+
+
+Wii U
+任天堂Switch
+
+
+
+
+
+
+
+
+
+
+
+掌上游戏机
+
+
+
+Game & Watch
+Game Boy
+
+GB
+GBP
+GBL
+GBC
+
+
+Virtual Boy
+Game Boy Advance
+
+GBA
+GBA SP
+GBM
+
+
+任天堂DS家族
+
+NDS
+NDSL
+NDSi
+
+
+任天堂3DS家族
+
+3DS
+2DS
+新3DS
+新2DS XL/LL
+
+
+
+
+
+
+
+
+
+
+大型电玩基板
+
+
+
+任天堂对战系统
+
+
+
+
+
+
+
+
+周边配件
+
+
+
+
+
+红白机
+
+
+
+
+3D System（日语：ファミコン3Dシステム）
+磁盘机
+Family BASIC（日语：ファミリーベーシック）
+光线枪系列（日语：光線銃シリーズ）
+Power Glove（日语：パワーグローブ）
+Family Trainer（日语：ファミリートレーナー）
+Family Computer Robot.（日语：ファミリーコンピュータ ロボット）
+
+
+
+
+
+
+
+
+
+Game Boy家系
+
+
+
+
+CARDe（日语：カードe）
+PocketCamera（日语：ポケットカメラ）
+PocketPrinter（日语：ポケットプリンタ）
+Game Link Cable（日语：通信ケーブル (ゲームボーイ)）
+播放君
+
+
+
+
+
+
+
+
+
+超级任天堂
+
+
+
+
+Satellaview
+Mouse（日语：スーパーファミコンマウス）
+Sufami Turbo（日语：スーファミターボ）
+Super Game Boy
+Super Scope（日语：スーパースコープ）
+
+
+
+
+
+
+
+
+
+任天堂64
+
+
+
+
+64DD
+振动包（日语：振動パック）
+
+
+
+
+
+
+
+
+
+GameCube
+
+
+
+
+大金刚康加鼓（日语：タルコンガ）
+Game Boy Player（日语：ゲームボーイプレーヤー）
+GBA传输线
+
+
+
+
+
+
+
+
+
+Wii
+
+
+
+
+Wii平衡板（英语：Wii Balance Board）
+传统控制器（英语：Classic Controller）
+Wii遥控器
+Wii Speak（日语：Wiiスピーク）
+
+
+
+
+
+
+
+
+
+Wii U
+
+
+
+
+Wii U GamePad（英语：Wii U GamePad）
+
+
+
+
+
+
+
+
+
+其他
+
+
+
+
+任天堂力量
+NTDEC（英语：NTDEC）
+
+
+
+
+
+
+
+
+
+
+
+技术
+
+
+
+任天堂光盘
+FC（Ricoh 2A03（英语：Ricoh 2A03））
+SFC（Super FX Chip（日语：スーパーFXチップ）
+SPU（日语：SPU））
+GameCube（Gekko（日语：Gekko））
+Wii（Broadway）
+Wii U（Espresso）
+Switch（Erista）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+电子游戏机 （第五世代）
+
+
+
+
+
+
+类型
+
+
+
+家用游戏机
+
+列表
+
+
+掌上游戏机
+
+列表
+
+
+微型游戏机
+专用游戏机
+街机
+
+列表
+
+
+
+
+
+
+
+
+
+
+世代
+
+
+
+第一（1972–1980）
+第二（1976–1992）
+第三（1983–2003）
+第四（1987–2004）
+第五（1993–2006）
+第六（1998–2013）
+第七（2005–2017）
+第八（2012–）
+
+
+
+
+
+
+
+
+第五世代
+
+
+
+
+家用游戏机
+
+
+
+3DO
+Amiga CD32
+雅达利Jaguar
+卡西欧Loopy
+CP System
+FM Towns Marty
+任天堂64
+PC-FX
+Pippin
+Playdia
+PlayStation
+世嘉土星
+
+
+
+
+
+
+
+
+掌上游戏机
+
+
+
+世嘉Nomad
+Virtual Boy
+Game Boy
+
+Light
+Color
+
+
+Game.com
+Neo Geo Pocket
+WonderSwan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+掌上游戏机
+
+
+
+
+
+
+万代
+
+
+
+WonderSwan
+
+WonderSwan Color
+SwanCrystal
+
+
+拓麻歌子
+携带机
+
+
+
+
+
+
+
+
+Entex
+
+
+
+Select-A-Game
+Adventurevision
+
+
+
+
+
+
+
+
+Game Park（英语：Game Park）/Holdings（英语：GamePark Holdings）
+
+
+
+GP32（英语：GP32）
+GP2X（英语：GP2X）
+XGP（英语：XGP）（从未发售）
+GP2X Wiz（英语：GP2X Wiz）
+GP2X Caanoo（英语：GP2X Caanoo）
+
+
+
+
+
+
+
+
+任天堂
+
+
+
+Game & Watch
+Game Boy
+
+Pocket
+Light
+Color
+
+
+Game Boy Advance
+
+SP
+Micro
+
+
+任天堂DS
+
+任天堂DS Lite
+任天堂DSi
+
+
+任天堂3DS
+
+2DS
+新3DS
+新2DS XL/LL
+
+
+任天堂Switch
+
+
+
+
+
+
+
+
+诺基亚
+
+
+
+N-Gage
+N-Gage QD（英语：N-Gage QD）
+
+
+
+
+
+
+
+
+世嘉
+
+
+
+Game Gear
+Nomad
+Jewelpod
+
+
+
+
+
+
+
+
+SNK
+
+
+
+Neo Geo Pocket
+Neo Geo Pocket Color
+Neo Geo X（英语：Neo Geo X）
+
+
+
+
+
+
+
+
+索尼
+
+
+
+PlayStation Portable
+
+Slim & Lite
+PSP Go
+
+
+PlayStation Vita
+
+PlayStation Vita TV
+
+
+
+
+
+
+
+
+
+
+其它
+
+
+
+
+
+1970年代
+
+
+
+
+Microvision
+
+
+
+
+
+
+
+
+
+1980年代
+
+
+
+
+Nelsonic Industries（英语：Nelsonic Industries）
+Electronika（英语：Electronika）
+Epoch Game Pocket Computer
+Atari Lynx
+
+
+
+
+
+
+
+
+
+1990年代
+
+
+
+
+TurboExpress（英语：TurboExpress）
+Game Master (游戏机)（英语：Game Master (console)）
+Gamate（英语：Gamate）
+Barcode Battler（英语：Barcode Battler）
+Watara Supervision（英语：Watara Supervision）
+Mega Duck（英语：Mega Duck）
+R-Zone（英语：R-Zone）
+Game.com（英语：Game.com）
+
+
+
+
+
+
+
+
+
+2000年代
+
+
+
+
+Tapwave Zodiac（英语：Tapwave Zodiac）
+GameKing（英语：GameKing）
+GPANG service（英语：GPANG）
+Didj（英语：Leapfrog Didj）
+Leapster（英语：Leapster）
+Gizmondo（英语：Gizmondo）
+Coleco Sonic（英语：Coleco Sonic）
+Dingoo（英语：Dingoo A320）
+V-Smile Pocket（英语：V-Smile Pocket）
+
+
+
+
+
+
+
+
+
+2010年代
+
+
+
+
+JXD devices（英语：JXD）
+Pandora (游戏机)（英语：Pandora (console)）
+DragonBox Pyra（英语：DragonBox Pyra）
+Shield Portable
+GCW Zero（英语：GCW Zero）
+GPD Win（英语：GPD Win）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+列表
+
+
+
+
+
+
+
+
+
+
+
+
+分类：任天堂游戏机掌上游戏机第五世代游戏机1995年面世的产品隐藏分类：使用Pathnav的主名字空间页面使用过时图像语法的页面

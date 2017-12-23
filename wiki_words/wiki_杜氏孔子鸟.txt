@@ -1,0 +1,645 @@
+孔子鸟属
+
+
+
+ 
+
+孔子鸟
+化石时期： 125–120 Ma
+
+PreЄ
+Є
+O
+S
+D
+C
+P
+T
+J
+K
+Pg
+N
+
+
+
+↓
+
+
+
+下白垩纪
+
+
+
+目前的圣贤孔子鸟想像图
+
+
+
+保护状况
+
+
+
+化石
+
+
+
+科学分类
+
+
+
+
+
+界：
+动物界 Animalia
+
+
+门：
+脊索动物门 Chordata
+
+
+纲：
+鸟纲 Aves
+
+
+科：
+孔子鸟科 Confuciusornithidae
+
+
+属：
+孔子鸟属 Confuciusornis
+Hou, Zhou, Gu & Zhang, 1995[1][2][3]
+
+
+
+
+
+种
+
+
+
+
+圣贤孔子鸟 C. sanctus
+Hou et al., 1995
+杜氏孔子鸟 C. dui
+Hou et al., 1999[4]
+费氏孔子鸟 C. feducciai
+Zhang et al., 2009[5]
+建昌孔子鸟 C. jianchangensis
+Li, Wang & Hou, 2010[6]
+
+
+
+
+异名
+
+
+
+
+？锦州鸟 Jinzhouornis
+Hou et al., 2002
+孙氏孔子鸟 C. suniae
+Hou, 1997[7][8]
+川州孔子鸟 C. chuonzhous
+Hou, 1997[7][8]
+
+
+
+
+孔子鸟（学名：Confuciusornis，或根据拉丁文音译作孔夫子鸟）是一种原始鸟类，化石遗迹在中国辽宁省北票市的热河组（即四合屯和李八郎沟等白垩纪时期的沉积岩）中发现，并在此地层中广泛发现了许多该鸟类的化石标本[9] 。在已公开的化石标本中，孔子鸟的骨骼结构十分完整，并有着清晰的羽毛印迹。这一切使得孔子鸟成为最出名的中生代鸟类。根据出土地点的地质形成史推断，这种鸟生活在距今约1.25亿年到1.2亿年，即西方学者所称的白垩纪早期或中国学者所称的晚侏罗纪。孔子鸟是目前已知最早拥有无齿角质喙部的鸟类，体型约和现今的鸽差不多，翼展约0.7米，体重可能在0.2[10]至1.5公斤[11]之间；其属名来自中国春秋时期著名哲学家孔子。
+
+
+
+目录
+
+
+1 发现和研究史
+2 鸟类的起源和进化
+3 孔子鸟的解剖比较
+4 分类
+
+4.1 孔子鸟属下的种
+4.2 孔子鸟科中的属
+4.3 中生代鸟类谱系
+
+
+5 飞行能力和生活方式
+6 两性异形和交配行为
+7 生长和发育
+8 作为热河组鸟群之一孔子鸟属的意义
+9 注释
+10 参考文献
+11 延伸阅读
+
+11.1 一般，历史
+11.2 解剖，分类，种系发生
+11.3 飞行能力，生活方式，社会行为，繁殖
+11.4 生长和个体发育
+11.5 热河组生物志
+
+
+12 参看
+13 外部链接
+
+
+
+发现和研究史[编辑]
+
+
+
+
+早期的圣贤孔子鸟（Confuciusornis sanctus）重构图（作者：Luis M. Chiappe, 时间：1999年）
+
+
+在发现长有羽毛的恐龙之前，即早在1993年，辽宁北票市附近的四合屯农民杨雨山釆集到一副近30厘米的鸟类化石，后来化石收集者张和又收集到一些鸟类的前肢和颅骨的化石。及至1995年，由中国古鸟类学家侯连海所带领的研究小组对该鸟进行了描述并命名为“圣贤孔子鸟”。很快人们就发现四合屯是个鸟类化石库，中国随即成为世界古鸟类研究的中心。到2000年前后，共发现了超过1000件孔子鸟属的化石标本。
+圣贤孔子鸟并不是孔子鸟属的唯一种。研究小组在1997年和1999年间再发现三个新种，但其中两种的存在受到争议。2009年，北京师范大学的张子慧等人在中国辽宁省西部约1亿2000万年前的下白垩统义县组地层发现了孔子鸟新种的完整化石，并命名为“费氏孔子鸟”（Confuciusornis feducciai）。在同一出土地点，也分别在1996年、1999年发现了辽宁鸟（Liaoningornis）与长城鸟（Changchengornis）等新的鸟属。遗憾的是，1990年代末盗挖行为使很多化石流失。孔子鸟化石是目前化石黑市最抢手的化石之一。当局采取措施防范盗挖化石行为时，已经有数以百计的标本，被非法挖掘并流到国外。中国科学院古脊椎动物与古人类研究所（IVPP）的古生物学家周忠和表示，大约80%的孔子鸟化石被走私出境或在国内非法贩卖。大部分买主是日本、德国和美国的私人收藏家，原因是这些国家没有法律禁止这类化石的进口[1]。
+当孔子鸟属被首次描述之时，人们就已经相信，四合屯和尖山沟所属的热河组和发现始祖鸟的索伦霍芬石灰岩年纪相仿。1999年从放射性碳测定法得到的数据来看，四合屯化石层的同位素年龄为 1.24 亿年，就是说热河组年纪比霍伦索芬的更轻（下白垩纪相对于晚侏罗纪）。根据和始祖鸟（1亿5千万年前）的解剖学对比，孔子鸟明显更“年轻”一点。
+鸟类的起源和进化[编辑]
+鸟类的起源是个谜。现在一般认为鸟类起源于恐龙，但也有观点认为鸟类是恐龙的近亲。恐龙起源说以在中国发现的带羽毛的恐龙和孔子鸟、以及在德国发现的始祖鸟为根据，但这一说法并没有被普遍接受。孔子鸟的描述者侯连海就坚持认为：从拥有双弓型头骨的杜氏孔子鸟来看，鸟类起源于初龙类，而非恐龙。也就是说，初龙类是鸟类、恐龙、鳄鱼和鳄蜥（Tuatara, 学名：Sphenodon）等的共同祖先[2]。也有人认为，长鳞龙这种动物的羽毛是该种非恐龙动物向鸟类进化的标志[3]。但是这种长鳞龙也是恐龙同时代的生物，因此这种假设并没有否定鸟类出现于约1.5亿年前的中生代。
+即使是接受恐龙起源说的学者之间，也存在很多不同的观点。比如，有学者认为：两脚直立的恐龙首先从地上转移到树上生活，上肢仍然短小。经过一段时间后，这些恐龙会在两树之间跳跃，上肢变长，开始出现羽毛。后来这些带羽毛的上肢成为它们的“降落伞”进行滑翔，直到最后成为可以飞行的翅膀。在热河组发现的中国鸟龙、尾羽龙、小盗龙等带羽毛的恐龙，是恐龙起源说的直接证据。从始祖鸟的化石来看，这1亿5千万年前的鸟类始祖虽然有明显的鸟类特征，但同时也带有明显的爬行动物特征。其爬行类的特征为：口有牙齿；尾由18-21个分离的尾椎骨构成；前肢有3枚分离的学骨，指端具爪。其鸟类的特征为：有羽毛，有翼；骨盘为“开放式”；后足具4趾，3前1后。体形大小如乌鸦，只能滑翔，尚不能飞行[4]。它正是当时达尔文进化论在鸟类进化上所预言的“缺失的一环”，同时也是进化论正确性的一个证据。而孔子鸟，根据其解剖特征（例如尾椎融合为尾综骨和无牙的喙部）则在始祖鸟的基础上向现代鸟类更进一步。虽然孔子鸟还保留了某些爬行类动物的特征（如双窝型颅骨），但孔子鸟离“爬行类动物”的血缘关系无疑比起爬行类与始祖鸟来说是更远了。
+羽毛是鸟类起源与进化的另一个重要问题。因为只有解释清楚羽毛的出现，才能真正厘清鸟类的起源。以前一直认为羽毛来自鳞片，但这种看法与新近得到的观察结果相抵触。有些专家认为，孔子鸟的羽毛和始祖鸟所披的一样，是第五阶段的羽毛：外羽片与内羽片不对称，羽小枝之间已出现钩连，这些都是现代鸟类的羽毛常见形式。而在早期带羽毛的恐龙（如小盗龙）的羽毛则是对称的，是第四阶段的羽毛。另外，羽毛和鳞片都是由β-角蛋白构成。羽毛基底部鞘与哺乳动物的毛发的成分相同——都是α-角蛋白。
+让人难以理解的是，鸟类在短短3千万年内的演化是如此之快：因食物性质的改变和鸟类嗉囊的出现，使得由始祖鸟的有牙口部发展到孔子鸟无牙的角质喙；而始祖鸟23节尾椎骨到了孔子鸟身上，则融合为尾综骨。
+孔子鸟的解剖比较[编辑]
+1980年代起，当始祖鸟被证实时间上和解剖学结构上有异于当时已发现的鸟类化石之时，人们也发现了很多填补进化史空缺的过渡物种——孔子鸟就是其中之一。孔子鸟和始祖鸟相似，它的外形既显示了一些鸟类祖先（兽脚亚目）已有的近同形特征，也显示了一些在鸟类进化过程中新出现的离态特征。这些特征在表1列举。“非鸟兽脚亚目”是一个英语概念，指的是不包括它们后代，即鸟类的兽脚亚目动物。
+
+
+
+表 1: 孔子鸟与其它鸟类比较得出的原有的和新出现的特征
+
+
+
+解剖特征
+兽脚亚目
+（“非鸟兽脚亚目”)
+始祖鸟
+孔子鸟
+高等鸟类
+
+
+牙齿
+大部分物种有
++
+-
+大部分
+白垩纪鸟类有
+
+
+双颞孔（双颞孔型头骨）
++
+-
++
+-
+
+
+骨性尾缩短，
+最后几节尾椎骨融合为尾综骨
+少部分是
+-
++
++
+
+
+叉骨（Furcula）
+部分有
+（回力镖状）
+回力镖状
+回力镖状
+锐角型
+（V字形，叉状）
+
+
+喙突 （Coracoid）
+长，撑柱形
+-
+-
++
++
+
+
+胸骨 （Sternum）
+有龙骨突 （Carina sterni）
+-
+-
+- （其中一些有
+短突起）
++
+（有飞行能力的鸟类有）
+
+
+胸骨肋
+（和胸骨相连的肋骨）
+部分有
+-
++
++
+
+
+腹膜肋 （Gastralia）
++
++
++
+-
+
+
+有钩突的肋骨
+（Processus uncinatus）
+部分有
+-
++
+大部分有
+
+
+上肢有膨大的
+带孔的三角胸肌突起 （自体衍征）
+-
+-
++
+-
+
+
+掌骨 I- III 融合成
+腕掌骨（Carpometacarpus）
+-
+-
++ （融合之发生在
+近手腕处）
++
+
+
+跖骨 II- IV 融合为跗跖骨
+（Tarsometatarsus）
+部分有
++
++
++
+
+
+存在跖骨 V
++
++
++
+-
+
+
+不对称的翎毛
+部分有
++
++
++
+
+
+小翼羽 （Alula）
+部分有
+-
+-
++
+
+
+孔子鸟的颅骨有一些很特别的地方：孔子鸟的喙和现代鸟类一样没有牙齿，但同时代的鸟属如辽宁鸟（Liaoningornis）和燕鸟（Yanornis）却是有牙的；枕骨部分有如双颞孔型爬行动物的构造：在(Orbita)眼眶后有成对的颞孔（下颞孔和上颞孔），其它的鸟类包括始祖鸟，都没有这样的颞孔。
+
+
+
+
+圣贤孔子鸟颅骨的重构。红色的部分是无牙的喙部和颞孔（根据Chiappe et al. 1999，有修改）
+
+
+孔子鸟的飞行器官比始祖鸟的有所改进。一些标本的胸骨有一扁平的突起，这和现代鸟类的龙骨突相似。能飞行的鸟类发展出膨大的龙骨突，为重要的飞行肌肉提供附着点，使得翅膀能够上下拍动。与始祖鸟相比，孔子鸟有延长了的喙突 (Coracoid)，这表明了孔子鸟的肩部肌肉在向现代鸟类进化过程中比始祖鸟更进一步。
+
+
+
+
+圣贤孔子鸟（C. sanctus）的翅膀。红色的部分是肱骨上的气孔和腕掌骨 (根据Chiappe et al. 1999 有修改)
+
+
+孔子鸟的胸腔通过带钩突的肋骨和胸骨肋得到加强。叉骨和始祖鸟和各种(非鸟)兽脚类动物一样，不是叉状，而是飞去来器状。
+在大量的重构图中(请看最上面的一幅)，孔子鸟的手显得更原始。实际上掌骨 (Metacarpalia) II 和 III在近腕骨处和月骨融合为腕掌骨（Carpometacarpus）。现代的鸟类，其手的融合更进一步，只有第一只手指能活动:即拇指，上有小翼羽，作用是飞行时控制气流。以目前的资料来看，孔子鸟和始祖鸟都没有小翼羽。这个身体构造直到一个例外（小盗龙），才在高等鸟类中如Eoalulavis（拉丁语：早期小翼羽鸟）出现。
+孔子鸟的上肢终于一个膨大的胸部突起，上有一椭圆的孔。但目前这个孔的作用仍不清楚，但这是孔子鸟的一个自体衍征，就是说这个属与众不同之处，能借此将其与其他鸟属独立开来的特征。2002年，同样是在热河组的地层中被发现的会鸟（Sapeornis）被描述，它有这类似的上肢构造。据此认为，这个特征比以前推测的更广泛存在于早期的鸟类当中。
+孔子鸟（和会鸟）借以与始祖鸟，胁空鸟龙（Rahonavis）和热河鸟（Jeholornis）相区别的重要特征是骨性尾的缩短和最后几节尾椎融合成为尾综骨。这样的身体构造对飞行定向有很大的好处。
+分类[编辑]
+孔子鸟属下的种[编辑]
+
+
+
+
+圣贤孔子鸟的化石。
+
+
+直到目前为止五个属于孔子鸟属的种中，根据美国古生物学家 Luis M. Chiappe 带领的研究小组 (Chiappe u. a. 1999)有两种作废: 孙氏孔子鸟（Confuciusornis suniae）和川州孔子鸟（Confuciusornis chuonzhous），它们与圣贤孔子鸟（Confuciusornis sanctus）所谓的种间差别是不存在的。所有属于这两个种的标本和当时大部分的标本一样归到圣贤孔子鸟中。
+杜氏孔子鸟（Confuciusornis dui），1999年被描述的第四个种，和圣贤孔子鸟的区别在于手的比例，颅骨的外形和构造以及胸骨和胸骨肋的构造上。
+孔子鸟科中的属[编辑]
+孔子鸟科除了孔子鸟属外还有长城鸟（Changchengornis），两者的区别是，后者的喙部更短，上肢孔缺失，肩胛带各结构的外形区别，还有第一个向后的脚趾(后趾Hallux)的长度。根据后趾的长度推测，长城鸟抓取的能力强于孔子鸟。
+孔子鸟属的共有特征是喙部无牙，上肢三角胸突起的近四边形外形，胸骨V形后边和手爪比例。
+在2001年被描述的锦州鸟（Jinzhouornis）也是出土自热河组岩层，同样属于孔子鸟属。但目前缺乏细节描述。
+中生代鸟类谱系[编辑]
+
+
+始祖鸟
+
+
+
+
+
+胁空鸟龙
+
+
+
+
+
+
+
+
+热河鸟
+
+
+
+
+
+
+
+
+
+
+
+
+会鸟
+
+
+
+
+
+
+孔子鸟科
+
+
+
+
+
+孔子鸟
+
+
+
+
+
+
+
+
+长城鸟
+
+
+
+
+
+
+
+
+
+
+
+
+鸟胸骨类
+
+
+
+
+
+反鸟亚纲
+
+
+
+
+
+
+
+
+今鸟亚纲
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+（支序图2004.）
+在尾综骨鸟目（Pygostylia）中的孔子鸟科的动物属于鸟类中较原始的形式。其较高级的后代，属于鸟胸骨类，它们脊椎骨数目（Thoracalia）较少，第一个手指形成小翼羽Alula（参看上面的解剖比较列表。）所有的现代鸟类都是来源于鸟胸骨类。
+飞行能力和生活方式[编辑]
+不同的古鸟类研究小组对孔子鸟的飞行能力有不同的看法。孔子鸟的手和脚有大的弯曲的爪子。这让人想到，孔子鸟的飞行器官没有足够的力量原地起飞。为此，孔子鸟会用爪子爬到树上，然后从上面坠落，在这种自由下落的过程中开始拍打翅膀起飞。这种观点却有违一个事实，就是孔子鸟的脚相比近现代鸟类的在抓取方面相对较弱。这种理论的反对者认为，孔子鸟的骨骼其实已经足够强去起飞，比如通过助跑加速完成起飞。
+侯连海小组认为，孔子鸟可能是一种植食性动物（Hou u. a. 1999），但有别于其他在热河组发现的鸟类化石，直到目前仍没能找到有关孔子鸟胃内容物的标本，以直接证明该观点的正确。
+大量的孔子鸟骨骼化石是在四河屯的湖沉积物中发现的，这可以推断孔子鸟喜欢寻觅湖边地带生活。在有些地层的标本密度超过40件/100 m²，推断可能是由于自然灾害造成的集体死亡：在一次火山爆发中很多孔子鸟同时死亡，它们的尸体被雨水从岸上冲刷到湖中。这种理论有一个推论，就是孔子鸟和其他很多近现代鸟类一样，过的是群居生活，起码会有一段时间集中在一起。
+两性异形和交配行为[编辑]
+
+孔子鳥的化石樣品在羽毛上顯示了樣品差異：大概 5 到 10% 的樣品顯示有一對長的尾羽。很多研究人員相信這是性別特徵。
+如果這一觀點成立，孔子鳥就是最早的兩性異形鳥類。
+
+这种两性异性在行为学上有着很多可能性：首先存在择偶，来自其中一别性的个体会观察异性的羽毛。如果有长尾羽的是雄性的话，根据上面提到的性别比例失调，可能出现一夫多妻制现象。但是，若雄性参与护幼活动，例如保护雏鸟等，这种制度有其经济性的一面。
+这种羽毛上的差别提示，早在下白垩纪的鸟类，就可能有复杂的社会行为。
+
+
+
+
+孔子鸟与人类的体型比较
+
+
+生长和发育[编辑]
+人们根据圣贤孔子鸟和其他早期鸟类的肢体骨骼去研究鸟类的进化情况。骨从内向外的生长（增积）有着与树的年轮（请见 树轮年代学）相似的过程，这样就可以了解它们个体的发育过程。在显微镜下，人们通过观察骨的横切面就可以了解到孔子鸟不同生长时期的状况。
+观察的结果是，孔子鸟和其他白垩纪的鸟类的骨外层生长非常缓慢，比起恐龙和现代鸟类有着更少的血管组织。因此认为古鸟类比现代鸟类要更长的时间达到成熟。对化石胚胎的研究使人们明白了其中可能的原因：第一批鸟是早成雏，甚至孵化后不久就能飞。这种理论认为，雏鸟把大部分能量花费在飞行上而非生长上。这种状态一直到新鸟品种的出现，这种鸟非常细心的照顾新生的雏鸟。雏鸟就不必在出生后如此快地学会飞行，以脱离双亲独自生活，而是将自己摄得的能量大部分用在生长上，也就进化出完成雏。
+另一种观点认为，在鸟类的进化过程中，鸟类的生长因受到限制而导致体型越来越小，比起其恐龙祖先要小得多。
+作为热河组鸟群之一孔子鸟属的意义[编辑]
+在下面的地层学列表中，以古老(下方)到年轻(上方)的顺序，列举了热河组鸟类发现的地层。
+
+
+
+表 2: 热河组的地层学顺序鸟类志
+
+
+
+组
+层
+古鸟
+Ornithothoraces
+
+
+反鸟亚纲
+今鸟亚纲
+
+
+九佛堂组
+孔子鸟属
+朝阳会鸟
+（Sapeornis chaoyangensis）
+原始热河鸟
+（Jeholornis prima）
+三塔中国鸟
+（Sinornis santanensis）
+三燕龙城鸟
+（Longchengornis sanyanensis）
+侯氏尖嘴鸟
+（Cuspirostrisornis houi）
+Largirostrornis sexdentorius
+郑氏波罗赤鸟
+（Boluochia zhengi）
+朝阳长翼鸟
+（Longipteryx chaoyangensis）
+北山朝阳鸟
+（Chaoyangia beishanensis）
+马氏燕鸟
+（Yanornis martini）
+葛氏义县鸟
+（Yixianornis grabaui）
+凌河松岭鸟
+（Songlingornis linghensis）
+
+
+热河组
+金刚山层
+孔子鸟属
+---
+---
+
+
+大王杖子层
+孔子鸟属
+娇小辽西鸟
+（Liaoxiornis delicatus）
+---
+
+
+尖山沟层
+圣贤孔子鸟
+杜氏孔子鸟
+横道子长城鸟
+（Changchengornis hengdaoziensis）
+丰宁原羽鸟
+（Protopteryx fengningensis）
+步氏始反鸟
+（Eoenantiornis buhleri)
+长趾辽宁鸟（Liaoningornis longiditris）
+
+
+和其他的鸟种类不同，孔子鸟的存在历史超过1500万年，就是热河组地层的形成时。这些表明，孔子鸟相比与之竞争的鸟类虽然在飞行方面略逊一筹，但在身体构造方面却更先进一些。
+从中还可看到进化的轨迹，直到九佛堂组的形成之前，反鸟亚纲一直在其在白垩纪灭绝之前主宰着多个生态系统。有趣的是，比起孔子鸟，与始祖鸟更相似的原始热河鸟（Jeholornis prima）直到热河组形成末期才出现。
+注释[编辑]
+
+^ 参看链接“沈阳海关追回2364件化石 上亿岁孔子鸟化石回家”。
+^ 参看链接“侯连海坚持说：鸟类不起源于恐龙”。
+^ 参看链接“化石引起鸟类进化新辩论”。
+^ 引自链接“始祖鸟”。
+
+参考文献[编辑]
+
+
+^ Hou L., Zhou Z., Gu Y., Zhang H. "Confuciusornis sanctus, a new Late Jurassic sauriurine bird from China". Chinese Science Bulletin. 1995, 40: 1545–1551. 
+^ 侯连海, 周忠和, 顾玉才, 张和. "侏罗纪鸟类化石在中国的首次发现". 科学通报. 1995, 40 (8): 726–729. 
+^ Lian-hai Hou, Zhonghe Zhou, Larry D. Martin & Alan Feduccia. "A beaked bird from the Jurassic of China". Nature. 1995, 377: 616–618. 
+^ Lianhai Hou, Larry D. Martin, Zhonghe Zhou, Alan Feduccia & Fucheng Zhang. "A diapsid skull in a new species of the primitive bird Confuciusornis". Nature. 1999, 399: 679–682. doi:10.1038/21411. 
+^ Zihui Zhang, Chunling Gao, Qingjin Meng, Jinyuan Liu, Lianhai Hou, Guangmei Zheng. "Diversification in an Early Cretaceous avian genus: evidence from a new species of Confuciusornis from China.". Journal of Ornithology. 2009, 150 (4): 783–790. 
+^ 李莉, 王晶琦, 侯世林. 辽宁建昌早白垩世孔子鸟一新材料. 世界地质. 2010, 29 (2): 183–187. doi:10.3969/j.issn.1004-5589.2010.02.002. 
+^ 7.0 7.1 侯连海. 中国中生代鸟类. 台湾, 南投: 台湾省立凤凰谷鸟园. 1997: pp.45-110, fig.14-40. ISBN 957-02-0484-2.  引文格式1维护：冗余文本 (link)
+^ 8.0 8.1 Dong-Sheng Li（李东升）, Corwin Sullivan, Zhong-He Zhou（周忠和）, Fu-Cheng Zhang（张福成）. "Basal Birds from China: A Brief Review"（中国基干鸟类综述）. Chinese Birds. 2010, 1 (2): 83–96. doi:10.5122/cbirds.2010.0002. （原始内容存档于2016-03-06）. 
+^ Xu, X.（徐星） and Norell, M.A. "Non-Avian dinosaur fossils from the Lower Cretaceous Jehol Group of western Liaoning, China.". Geological Journal. 2006, 41 (3-4): 419–437. doi:10.5122/cbirds.2010.0002. 
+^ Gregory S. Paul. "Comment on“Narrow Primary Feather Rachises in Confuciusornis and Archaeopteryx Suggest Poor Flight Ability”". Science. 2010, 330 (6002): pp.320. doi:10.1126/science.1192963.  引文格式1维护：冗余文本 (link)
+^ Robert L. Nudds & Gareth J. Dyke. "Narrow primary feather rachises in Confuciusornis and Archaeopteryx suggest poor flight ability.". Science. 2010, 328 (5980): pp.887–889. PMID 20466930. doi:10.1126/science.1188895.  引文格式1维护：冗余文本 (link)
+
+
+延伸阅读[编辑]
+一般，历史[编辑]
+
+
+Ursula B. Göhlich, Gerald Mayr: Zu Besuch bei Confuciusornis & Co. in Nordost-China. In: Natur und Museum. Senckenbergische Naturforschende Gesellschaft, Frankfurt M. 131.2001, S. 401-409. ISSN 0028-1301
+Erik Stokstad: Exquisite Chinese Fossils Add New Pages to Book of Life. In: Science. Washington DC 291.2001, S. 232-236. ISSN 0036-8075
+Carl C. Swisher III, 王元青，汪筱林，徐星，王原: Cretaceous age for feathered dinosaurs of Liaoning, China. In: Nature. Macmillan Jounals, London 400.1999, S. 58-61. ISSN 0028-0836
+周忠和，侯连海：《中国中生代鸟类化石的发现和研究》In: Luis M. Chiappe, Lawrence M. Witmer (Hrsg.): Mesozoic Birds. Above the Heads of the Dinosaurs. University of California Press, Berkeley CA 2002, S. 160-182. ISBN 978-0-520-20094-4
+
+
+解剖，分类，种系发生[编辑]
+
+
+Luis M. Chiappe, Shu'an Ji, Qiang Ji, Mark A. Norell: Anatomy and Systematics of the Confuciusornithidae (Theropoda: Aves) from the Late Mesozoic of Northeastern China. In: Bulletin of the American Museum of Natural History. American Museum of Natural History, New York 242.1999. ISSN 0003-0090
+Andrea Goernemann: Osteologie eines Exemplars von Confuciusornis aus der unteren Kreide von West-Liaoning, China. In: Archaeopteryx. Pfeil, Eichstätt (München) 17.1999, S. 41-54. ISSN 0933-288X
+侯连海，周忠和，Larry D. Martin, Alan Feduccia: A beaked bird from the Jurassic of China. In: Nature. Macmillan Jounals, London 377.1995, S. 616-618. ISSN 0028-0836
+Qiang Ji, Luis M. Chiappe, Shu'an Ji: A new Late Mesozoic confuciusornithid bird from China. In: Journal of Vertebrate Paleontology. Chicago Ill 19.1999,1, S. 1-7. ISSN 0272-4634
+Larry D. Martin, 周忠和，侯连海， Alan Feduccia: Confuciusornis sanctus compared to Archaeopteryx lithographica. In: Die Naturwissenschaften. Springer, Berlin-Heidelberg 85.1998, S. 286-289. ISSN 0028-1042
+吴启成: 《辽宁古生物化石珍品》 地质出版社, 北京 2002. ISBN 978-0-520-20094-4
+周忠和: 鸟类起源和早期进化: discoveries, disputes and perspectives from fossil evidence. In: Die Naturwissenschaften. Springer, Berlin-Heidelberg 91.2004, S. 455-471. ISSN 0028-1042
+侯连海: 《中国古鸟类》 云南科学技术出版社, 2002. ISBN 978-7-5416-1724-9
+
+
+飞行能力，生活方式，社会行为，繁殖[编辑]
+
+
+Luis M. Chiappe, Shu'an Ji, Qiang Ji, Mark A. Norell: 见上
+J. David Ligon: The Evolution of Avian Breeding Systems. Oxford University Press, Oxford 1999. ISBN 978-0-19-854913-0
+David J. Varricchio, Frankie D. Jackson: Origins of avian reproduction: answers and questions from dinosaurs. In: Palaeovertebrata. Montpellier 32.2003,2-4, S. 149-169. ISSN 0031-0247
+
+
+生长和个体发育[编辑]
+
+
+Anusuya Chinsamy, Andrzey Elzanowski: Evolution of growth patterns in birds. In: Nature. Macmillan Jounals, London 412.2001, S. 402-403. ISSN 0028-0836
+Kevin Padian, Armand J. de Ricqlès, John R. Horner: Dinosaurian growth rates and bird origins. In: Nature. Macmillan Jounals, London 412.2001, S. 405-408. ISSN 0028-0836
+
+
+热河组生物志[编辑]
+
+
+汪筱林，王元青，张福成，张江永，周忠和，金帆，胡耀明，顾罡，张海春:〈辽宁凌源及内蒙古宁城地区下白垩统义县组〉，《古脊椎动物学报》，科学出版社，北京 38.2000,2, S. 81-99. ISSN 1000-3118
+周忠和，Paul M. Barett, Jason Hilton: An exceptionally preserved Lower Cretaceous ecosystem. In: Nature Macmillan Jounals, London 421.2003, S. 807-814. ISSN 0028-0836
+
+
+参看[编辑]
+
+古鸟类学
+
+外部链接[编辑]
+
+
+
+维基物种中的分类信息：
+
+孔子鸟属
+
+
+
+
+
+这是本条目的朗读版本（info/dl）
+
+
+
+
+
+
+
+
+
+
+
+此音频文件是根据2008年5月2日的“孔子鸟属”条目的修订版本创建的，以语音朗读，不会反映对该条目的后续编辑。（媒体帮助）
+更多有声条目
+
+
+圣贤孔子鸟 (圣孔儒鸟)
+繁体 有详细的图片描述和背景资料
+网页上有孔子鸟的化石图和复原图 中文
+（英文）Confuciusornis im Dinosauricon
+（简体中文）我国发现新鸟类化石郑氏始孔子鸟. 新浪网. 2008年5月13日 [2010-09-13]. 
+
+
+
+
+
+分类：孔子鸟科侏罗纪鸟类白垩纪鸟类热河生物群隐藏分类：引文格式1维护：冗余文本含有英语的条目本地相关图片与维基数据不同含有拉丁语的条目有声条目嵌入hAudio微格式的条目使用ISBN魔术链接的页面
