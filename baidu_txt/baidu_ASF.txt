@@ -1,0 +1,3 @@
+ASF
+
+ASF是（Advanced Streaming Format） 高级串流格式的缩写，是 Microsoft 为 Windows 98 所开发的串流多媒体文件格式。同JPG、MPG文件一样，ASF文件也是一种文件类型，但是特别适合在IP网上传输。ASF是微软公司Windows Media的核心，这是一种包含音频、视频、图像以及控制命令脚本的数据格式。这个词汇当前可和 WMA 及 WMV 互换使用。利用ASF文件可以实现点播功能、直播功能以及远程教育，具有本地或网络回放、可扩充的媒体类型等优点。

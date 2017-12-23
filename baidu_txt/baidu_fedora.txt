@@ -1,0 +1,4 @@
+fedora
+
+发音：英 [fɪ'dɔːrə]，美 [fɪ'dɔrə]Fedora 是一个 Linux 发行版，是一款由全球社区爱好者构建的面向日常应用的快速、稳定、强大的操作系统。它允许任何人自由地使用、修改和重发布，无论现在还是将来。它由一个强大的社群开发，这个社群的成员以自己的不懈努力，提供并维护自由、开放源码的软件和开放的标准。Fedora 项目由 Fedora 基金会管理和控制，得到了 Red Hat 的支持。Fedora （第七版以前为Fedora Core）是一款基于 Linux 的操作系统，也是一组维持计算机正常运行的软件集合。Fedora 由Fedora Project社区开发、红帽公司赞助，目标是创建一套新颖、多功能并且自由和开源的操作系统。Fedora 项目以社区的方式工作，引领创新并传播自由代码和内容，是世界各地爱好、使用和构建自由软件的社区朋友的代名词。[1] 
+Fedora基于Red Hat Linux，在Red Hat Linux终止发行后，红帽公司计划以Fedora来取代Red Hat Linux在个人领域的应用，而另外发行的Red Hat Enterprise Linux（Red Hat企业版Linux，RHEL）则取代Red Hat Linux在商业应用的领域。Fedora的功能对于用户而言，它是一套功能完备、更新快速的免费操作系统，而对赞助者Red Hat公司而言，它是许多新技术的测试平台，被认为可用的技术最终会加入到Red Hat Enterprise Linux中。Fedora 大约每六个月发布新版本。美国当地时间2015年11月3日，北京时间11月4日， Fedora Project 宣布 Fedora 23 正式发布。

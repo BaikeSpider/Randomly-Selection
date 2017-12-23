@@ -1,0 +1,625 @@
+麦克白
+
+
+
+
+
+
+
+
+关于与“麦克白”名称相近或相同的条目，请见“麦克白 (消歧义)”。
+
+
+
+
+
+
+1884年美国某剧院麦克白的公演海报，主演托马斯·W·肯尼[1]。左上：遇见女巫；左中：谋杀之后；左下：班柯鬼魂；右上：麦克白；右下：最后的决斗
+
+
+《麦克白》（英语：Macbeth）是莎士比亚最短的悲剧，也是他最受欢迎的作品。常被认为是他悲剧中最为阴暗、最富震撼力的作品。故事的地点设在苏格兰，并以戏剧的方式、通过心理作用、政治争斗的方式观察了追逐权势而背信弃义的邪恶。它大致根据苏格兰哲学家赫克托·波伊斯的《苏格兰国王麦克白》而写成。
+戏剧讲述了勇敢的苏格兰将军麦克白从三女巫得到预言，称他某日会成为苏格兰国王。出于野心和妻子的怂恿，麦克白暗杀了国王邓肯，自立为王。在自责与幻想的折磨下，他很快堕落成为一名暴君，不得不通过持续的狠手来保护自己，打压敌意与猜忌。大屠杀与内战使得马克白与他的夫人变得自大、疯狂，直至二人最后的灭亡。舞台上，因麦克白夫人的情绪起伏多变，很多人都认为那是最难演的女性角色。
+《麦克白》拥有不少“道德剧”[2]的特征。学者因其中支持詹姆士一世掌权，普遍认为它是一出典型地写于詹姆斯一世时代的戏剧，大概写成于1606年。西蒙·弗曼[3]在环球剧场看戏的笔记大概是本剧演出的最早记录，时间为1611年4月。剧本则在1623年的《对开本》中第一次出现，大概是戏台的台词本。不少证据显示现有的文字曾被托马斯·米德尔顿修改。米德尔顿从他自己的剧作《The Witch》（1615年）加入了不少在原作颇受欢迎的段落，如女巫和赫卡忒的那一场。这些修改（整个第三幕第五场，及部分第四幕第一场）一般而言也被收录。莎士比亚剧作的资料来源于《霍林希德编年史》[4]中苏格兰王麦克白、麦克德夫、邓肯一世的相关记录。史书记录了英格兰、苏格兰、爱尔兰的相关事件，与莎士比亚和他同年代的类似。戏剧将史实改编，与真实事件有不少出入。
+
+
+
+目录
+
+
+1 角色表
+2 概要
+3 资料
+4 时代与文本
+5 主旨要义
+
+5.1 狼子野心
+5.2 男子气概
+5.3 重复出现的要素与主题
+
+
+6 分析
+
+6.1 角色的悲剧
+6.2 道德的悲剧
+6.3 巫术与邪恶
+
+
+7 其它
+
+7.1 迷信
+7.2 绘画
+
+
+8 参考
+
+8.1 脚注
+8.2 文献
+
+
+9 改编作品
+10 外部链接
+
+
+
+角色表[编辑]
+
+
+
+
+邓肯(Duncan)– 苏格兰国王
+
+马尔康(Malcolm)– 邓肯的长子
+道纳本(Donalbain)- 邓肯的幼子
+
+
+麦克白(Macbeth)- 邓肯王麾下的一名将军；葛莱密斯勋爵，之后成为考特勋爵，苏格兰国王。
+麦克白夫人(Lady Macbeth)– 麦克白的妻子，之后成为苏格兰王后
+班柯(Banquo)– 麦克白的朋友，邓肯王麾下的将军
+
+弗里恩斯(Fleance)– 班柯的儿子
+
+
+麦克德夫(Macduff)– 法夫勋爵
+
+麦克德夫夫人(Lady Macduff??)– 麦克德夫的妻子
+麦克德夫的儿子
+
+
+
+
+
+
+洛斯(Ross)、列诺克斯(Lennox)、安格斯、孟提斯、凯士纳斯 – 苏格兰贵族
+西华德 – 英格兰将军
+
+小西华德 – 西华德的儿子
+
+
+西登 – 麦克白的仆人
+赫卡忒 – 巫后
+三位女巫 – 预言麦克白将成为国王，班柯的后裔也将成为国王
+三个凶手
+门房 – 麦克白家的看门人
+医生 – 麦克白夫人的医生
+贵夫人 – 麦克白夫人的仆人
+
+
+
+
+概要[编辑]
+
+
+
+
+《麦克白》中的一个场景，威廉·瑞莫（英语：William Rimmer）绘
+
+
+戏剧在电闪雷鸣中开场，三位女巫正讨论她们将与麦克白见面的事。下一幕，一位受伤的士官向苏格兰王邓肯报告：两位将军——葛莱密斯勋爵麦克白与班柯，刚刚击退了以麦克唐华德为首的叛军与挪威及爱尔兰两军对苏格兰的入侵。国王的族人麦克白因作战英勇备受嘉奖。
+当二人走进石南树丛，三位女巫以预言迎接他们。第一位女巫称麦克白为葛莱密斯勋爵，第二位称他为考特勋爵，第三位则指他是未来的君王。三位女巫亦指班柯的子孙将要君临一国。班柯虽然不能当统治者，但他的后人会成为国王。二人正在思量，女巫消失了，王的使者洛斯出现，并告诉麦克白之前的考特勋爵因谋反而被处死，他已成为新的考特勋爵－－第一个预言应验了。麦克白立时开始生出成为国王的欲望。
+邓肯王对两位将军的凯旋大为高兴，赞扬了二人，并决定在麦克白位于殷佛纳斯的城堡留宿。麦克白写信给他的妻子，告诉她女巫的种种预言。麦克白夫人没有丝毫的犹豫，要求他杀死邓肯并夺其王位。麦克白为弑君一事感到不安，但其夫人对他反唇相讥，指责他不配做男人，称“这是成为国君的唯一途径”。当晚，二人将仆人灌醉，因此当仆人醒来时头脑空空，无言以对。
+虽然麦克白心生不忍，并有一系列异象出现，如染血匕首的幻像等等，但他依然在邓肯熟睡时将后者刺死。他全身颤抖，以至于麦克白夫人不得不对他下达刺杀的命令。按照计划，她染血匕首放到仆人手中，嫁祸予人。次日清晨，苏格兰贵族列诺克斯与费辅勋爵麦克德夫一同来到。门房开启闸门，麦克白引领他们到了王的寝室，麦克德夫在那儿发现了邓肯的尸首。麦克白在仆人们为己申辩前把他们杀死，并谎称自己这样做是出于义愤。邓肯的两个儿子—马尔康与道纳本分别逃往英格兰与爱尔兰，并成为了嫌疑犯。因原来的王位继承人失踪，作为先王亲属的麦克白得以继承王位，成为新的苏格兰王。
+麦克白虽然成功了，却因“班柯的子孙将要君临一国”的预言仍感不安。他遂认为班柯将会危害自己的统治。越发偏执冷酷的麦克白于是邀班柯出席王室宴会，并暗地派刺客杀死他与儿子弗里恩斯；但是在刺杀中弗里恩斯却侥幸逃脱。麦克白倍感愤怒，深恐班柯后裔的潜在威胁。宴会中，麦克白宴请贵族吃喝做乐，未想班柯的鬼魂出现并坐在麦克白的位子上。麦克白立刻发疯，因为麦克白是唯一能看见那鬼魂的人，他的胡言乱语令在场的所有人倍感震惊、不解——所有人看着他对着空座咆哮，直到夫人告诉大家麦克白不过是偶然疾病，没什么大碍。镇定之后，大家继续吃喝，不想鬼魂再次出现，导致更大的混乱。麦克白夫人只得请贵客离去，宴会尴尬收场。
+深受困扰的麦克白再次造访女巫们，也从她们那里获得预言的真相。女巫招出恐怖的幽灵以缓和麦克白的恐惧。首先，女巫招出披甲的头颅，提醒他要“留心麦克德夫”(4.1.72)。然后，一个血淋淋的儿童告诉他“没有一个妇人所生下的人可以伤害麦克白”。第三，一个加冕的小孩告诉他“不会被人打败，除非有一天勃南的树林会向邓西嫩高山移动”。麦克白感到释然，因为所有人都是从妇人而生，而森林不会自己移动。当麦克白问及班柯的后裔时，女巫召唤了八个带着冠冕的国王，长相都与班柯相似，最后一个则拿着镜子，折射出更多的国王。麦克白认出这都是班柯的后裔，并且他们的国度繁多。
+
+
+
+
+《麦克白夫人梦游》，亨利·菲斯利[5]绘
+
+
+在女巫离去后，列诺克斯出现，告诉麦克白麦克德夫流亡英格兰。麦克白随即把持住麦克德夫的城堡，进行大屠杀。所有人，包括麦克德夫的妻儿在内全都惨死。
+麦克白夫人被罪疚感折磨，渐渐精神崩溃。晚上，医生和贵妇人正讨论麦克白夫人奇怪的梦游行为，突然麦克白夫人手持蜡烛出现。哀嚎着邓肯、麦克德夫夫人和班柯的死，麦克白夫人尝试把手上虚幻的血污洗净，并喃喃着自己如何迫使丈夫的所作所为。她之后离开，留下惊呆的医生和贵妇人。麦克白夫人手上洗不净的血是一种反讽，在此之前她向麦克白夸口“一点点水足以洗净我们”(2.2.66)。
+在英格兰，麦克德夫被洛斯告知“你的城堡受到袭击；你的妻子和儿女都惨死在野蛮的刀剑之下” (4.3.204-5)。麦克德夫万分悲痛，誓言报复。邓肯的儿子马尔康王子成功地在英格兰集结部队，与麦克德夫计划夺回苏格兰。由于麦克白的暴政和残忍，这个计划获得了苏格兰贵族们的支持。麦克德夫带领一队有伪装的军队，与马尔康及英格兰人西华德(诺森伯兰伯爵)同赴邓西嫩堡。同时，马尔康的军队砍下树木，伪装为移动的树林而前进。
+在敌人部队到来之前，麦克白得悉其夫人自杀身亡，导致他陷入深深的绝望，遂道出一段广为人知的“虚无主义者的独白”:“明天，明天，再一个明天……”(5.5.17–28)。虽然感到生命的空虚与短暂，但他依然积极进行防御。麦克白相信女巫的预言可以使自己无敌，但当他得知敌军伪装为成移动的树林前进时，显然女巫预言中的一条实现了。 战争开始，英格兰军队占压倒性优势，麦克德夫与麦克白终于见面。麦克白声称他不必害怕麦克德夫，因为他不会被任何妇人所生之人杀死。麦克德夫于是指出自己“没有足月就从他母亲的腹中剖出来的”(5.8.15–16)，因此不算是“从妇人生出来的”(文学双关语)，这满足了女巫的第二条预言。麦克白终于发现自己误解了女巫模棱两可的说话。二人搏斗，麦克白被麦克德夫斩首，实现了女巫的后续预言。
+麦克德夫将麦克白的首级重新带出戏台，马尔康则讨论如何恢复秩序。至于麦克白夫人，马尔康表示“他的魔鬼一样的王后，据说也已经亲手杀害了自己的生命” (5.9.71–72)，虽然她自杀的方式没有说明。剧中最后一幕，马尔康被加冕为合法的苏格兰王，这意味着国度回复了和平。至于女巫对班柯的预言（“班柯的子孙将要君临一国”），莎士比亚时代的观众都认为是真实的，因为詹姆士一世(前苏格兰的詹姆士六世)据说是班柯的子孙。[6]
+资料[编辑]
+
+
+
+
+《霍林希德编年史》(1577)中“麦克白与班柯遇见女巫”[7]
+
+
+莎士比亚的《麦克白》常与他的《安东尼与克莉奥佩屈拉》做对比。安东尼与麦克白都积极寻求新世界，并以旧世界作为其代价。两人都积极争夺王位，并在途中遇到“对手”。安东尼的对手是屋大维，麦克白的对手是班柯。在某一时刻，麦克白甚至将自己与安东尼对比，称"under Banquo / My Genius is rebuk'd, as it is said / Mark Antony's was by Caesar."不但如此，两个剧本中都存在着具有强大影响力的女性角色：克莉奥佩屈拉和麦克白夫人。[8]
+《霍林希德编年史》是当时在不列颠群岛流行的历史，莎士比亚从中借用了许多典故。在《编年史》中，一位名叫邓华德[9]的人发现自己的家人因涉嫌与女巫来往而被国王德夫(King Duff)杀死。在他妻子的压力下，邓华德和他四个仆人将国王杀死在自己家中。在《编年史》中，麦克白被描述成努力维持国家运转，而邓肯王则昏庸无能。他与班柯遇到了三个女巫，后者所述的预言与莎士比亚的剧本中的一样。麦克白便与班柯一道谋反，麦克白夫人则对此表示支持并催促。麦克白统治了国家十年，并最终被麦克德夫和马尔康推翻。两个版本的对比十分明显。然而，有的学者认为乔治·布坎南的 Rerum Scoticarum Historia与莎士比亚的剧本更加贴切。布坎南的作品在莎士比亚时代已有拉丁文版本。[10]
+就麦克白将国王杀死在自己城堡内的故事没有其它版本可循。学者认为莎士比亚这么写使得麦克白显得罪大恶极。在当时流行的故事则叙述了邓肯在去往印威内斯的途中受到埋伏，而非死于城堡中。莎士比亚将邓华德、德夫王与戏剧的合成是一大重要改编。[11]
+莎士比亚做了另一重大改编。在《编年史》中，班柯是麦克白的同谋，他们一道刺杀了邓肯王。他在之后帮助了麦克白，而非马尔康夺取了王位。[12]在莎士比亚的时代，班柯被认为是斯图亚特王朝詹姆斯一世的直系袓先[13][14]。班柯在历史中的形象与莎士比亚笔下的形象大相径庭。评论家为此做出了几种推断。一、将王室先袓写成杀人犯太冒险了。当时的其它作家在写班柯时也改编了历史，如让·迪·施兰德[15]在他的作品《斯图提得》[16]中也将班柯描述成一位高尚正直的人，而不是杀人犯；这应该是出于同样的原因。[17]二、莎士比亚将班柯的角色反转或许是因为没有必要为谋杀添加什么从犯；然而，需要有一个角色来反衬麦克白——对此，许多学者认为这个角色是由班柯来完成。[12]
+时代与文本[编辑]
+《麦克白》的编撰日期无法被准确定位，因为该剧在日后被几经修订。戏剧在表面上恭庆1603年斯图尔特的詹姆士王登基(詹姆士认为自己是班柯的后裔)，[18] 学者们则认为戏剧的编撰不可能早于1603年，提出第四场中女巫们向麦克白出示了八位代表英国斯图亚特王朝的国王，是对詹姆士王的恭维。绝大多数的学者认为戏剧写于1606年的火药阴谋之后，因为戏剧中有对1605年的暗示以及之后的审判。[19]1605年，为纪念詹姆士王的脱险，荣誉勋章上印制了一条蛇藏在了百合花与玫瑰花之后。麦克白夫人曾对她丈夫说：“让人家瞧您像一朵纯洁的花朵，可是在花瓣底下却有一条毒蛇潜伏”(1.5.74-5)，这或许是对前者的暗示。[20]
+值得特别注意的是，从门卫的台词(2.3.1–21)可以看到他在给富农、裁缝和说话“暧昧含糊”的家伙开地狱的门(2.3.8-13)，并被认为是对耶稣会的亨利·加尼特[21]的暗示，后者在1606年3月28日受审，5月3日被处决。“暧昧含糊”暗指对加尼特对“暧昧含糊（英语：Doctrine of mental reservation）”的辩护。[22]然而，暧昧含糊早在1583年伊丽莎白一世的大顾问伯利爵士[23]就被讨论过，1584年西班牙高级教士马丁·阿兹皮尔库塔[24]提出“暧昧含糊教义”[25]，并在欧洲传播，又于十六世纪90年代传到了英国。[26]然而，门房称讲起话来暧昧含糊的家伙"committed treason enough for God's sake"(当着上帝的面叛国) (2.3.9-10)，由此将暧昧含糊于叛国联系了起来，暗指耶稣会的信仰：暧昧含糊用于“服务上帝”是合法的；这更加表明暗示与加尼特有关。门房继续说“可是他那条暧昧含糊的舌头却不能把他送上天堂去”(2.3.10-11)，回应了加尼特处决前夕的黑色幽默：即加尼特会被“毫不含糊地上绞架”，并在处决时不允许为自己做“暧昧含糊的辩护。”[27]门房提到的富农也是对加尼特的暗示，后者使用“富农”作了自己的别名。
+
+
+
+
+《第一对开本》中《麦克白》第一页的副本，1623年出版
+
+
+门房为“英吉利裁缝”开地狱门(2.3.13)，是对休·格里芬[28]的暗示，后者于1607年11月27日和12月3日被坎特伯雷大主教质询，调查他是否参与了加尼特的“奇迹稻草”[29]。这是一个名声狼藉的稻草头，沾满了加尼特的血，凝固成类似加尼特外貌的形状，被天主教徒们称作是奇迹。裁缝格里芬从此臭名昭著，成为诗歌调侃的对象，并在书籍的扉页上印上了他的肖像。[30]
+学者们引述了詹姆士王在1605年夏牛津看的一出剧，主打三位“女预言家”，类似三位女巫；柯默德[31]推测莎士比亚或许听说了这些，并将其引述为三位女巫。[32]然而，布兰米勒[33]在新剑桥修订本中发现这个1605-6年推论无法得到结论，这个推论只对1603年早期版本有效。[34]戏剧的写作日期被认为早于1607年，因此，柯默德写道，戏剧“可能写于1607年”。[32]
+除此之外，有的人提出一些暗示表明戏剧写于1606年末，根据是女巫们的对话包涵了船长的妻子：“‘滚开，妖巫！’那个吃鱼吃肉的贱人喊起来了。她的丈夫是‘猛虎号’的船长，到阿勒坡去了” (1.6-7)。这被认为是对“猛虎号”的暗示，后者在1606年6月27日回到英格兰，许多船员在途中被海盗所害。几行字后，女巫们说起船长："He shall live a man forbid：Weary se'nnights nine times nine"(翻译：骨瘦如柴血色干；一年半载海上漂，后半句字义“受苦7昼夜的9乘以9”)(1.21-2)。现实中船在海上呆了567天，正好等于7x9x9，并被认为是暗示的证据，若是正确的，证明戏剧不可能早于1606年7月写成。[35]
+1623年，《麦克白》在《第一对开本》中第一次出现，《对开本》则是戏剧唯一的文字资料。流传的文本则是日后的手抄本，又被几经更改。值得注意的是戏剧后来将托马斯·米德尔顿[36]所著《女巫》中两首歌纳入了其中，米德尔顿部分之所以被加入是为三位女巫和赫卡忒增加一出戏份，后者受到观众的好评。这些修订在1869年克拉伦登版[37]后就一直保留在第三幕，第五场中，而第四幕，第一场常表现出现代文字形式。[38]综上所述，许多学者认为巫后赫卡忒出现的三个间歇是真本。虽然加入了赫卡忒的相关材料，但戏剧依然出了奇的短，或许是《对开本》是台词本的衍生品，因演出的需要而大肆删减，或是戏剧被改编人自己删掉了许多。
+主旨要义[编辑]
+狼子野心[编辑]
+
+
+
+肯勃兰亲王！这是一块横在我的前途的阶石，我必须跳过这块阶石，否则就要颠仆在它的上面。星星啊，收起你们的火焰！不要让光亮照见我的黑暗幽深的欲望。眼睛啊，别望这双手吧；可是我仍要下手，不管干下的事会吓得眼睛不敢看。
+
+
+《麦克白》第一幕，第四场
+《麦克白》中的重要主题是当野心超越道德束缚是所造成的毁灭与破坏。麦克白是位勇敢的将军，自身并没有犯罪倾向，但他野心勃勃，渴望权势。他弃绝了自己的理性判断，杀死了邓肯王，陷入了内疚与偏执当中。在戏剧的末尾，他开始狂妄地自夸。麦克白夫人在追逐目标上更为执着，但对自己离经叛道所造成的愧疚则更加无能为力。作为莎士比亚戏剧中最强悍的女性角色，她怂恿丈夫将邓肯无情地杀死，并在此之后要他坚强起来，但最终因自己良心的谴责而变得疯狂。每一出剧中都有女巫预言，后者驱动二人施行强暴。戏剧所表明的一个问题是当某人决定使用暴力来获取权势时，情况会变得骑虎难下。麦克白发现王位总是处在威胁之中——如来自班柯、弗里恩斯、麦克德夫的威胁——对此，他决定使用暴力来铲除异己。
+背叛与权力欲是密不可分的，因此也是本剧的一大主题。麦克白背叛了他的国王邓肯、朋友班柯；二人皆被麦克白刺杀而死。此外，因前任考特爵士背叛国王被处死，麦克白得以继承其爵位；后来作为考特爵士的麦克白却又背叛国王且把他杀死。
+男子气概[编辑]
+
+
+
+来，注视着人类恶念的魔鬼们！解除我的女性的柔弱，用最凶恶的残忍自顶至踵贯注在我的全身；凝结我的血液，不要让怜悯钻进我的心头，不要让天性中的恻隐摇动我的狠毒的决意！来，你们这些杀人的助手，你们无形的躯体散满在空间，到处找寻为非作恶的机会，进入我的妇人的胸中，把我的乳水当作胆汁吧！来，阴沉的黑夜，用最昏暗的地狱中的浓烟罩住你自己，让我的锐利的刀瞧不见它自己切开的伤口，让青天不能从黑暗的重衾里探出头来，高喊“住手，住手！”。
+
+
+《麦克白》第一幕，第五场
+莎士比亚表现出了男人气概、暴力和野心之间的连接点。麦克白夫人就是通过质疑丈夫的男子气概来达到对他的控制，并希望自己摆脱女性的柔弱[39]，这与麦克白称像他夫人一样的妇女应该只生男孩子一样不谋而合。在开头麦克白夫人说：“当你能那么做，那么，你就是男人。”（1.7.48） 当麦克白雇凶杀人时，他也利用同样的方式，即通过质疑对方的男子气概来来怂恿当事人。这些都表明麦克白和麦克白夫人都将男子气概与赤裸裸的暴力攻击做了等同——每次他们讨论这个话题时，总是与暴力有关。他们所理解的男子气概导致戏剧中的政治秩序陷入了混乱。
+不但如此，《麦克白》中的妇女都持有暴力与邪恶倾向。女巫们使麦克白的野心苏醒，之后麦克白夫人驱使麦克白去刺杀邓肯王。在读到丈夫的来信，得知女巫的预言后，麦克白夫人称：
+
+你本是葛莱密斯爵士，现在又做了考特爵士，
+将来还会达到那预言所告诉你的那样高位。
+可是我却为你的天性忧虑：
+它充满了太多的人情的乳臭，
+使你不敢采取最近的捷径；
+你希望做一个伟大的人物，你不是没有野心，
+可是你却缺少和那种野心相联属的奸恶
+            ——麦克白夫人，《麦克白》第一幕，第五场
+
+不但如此，全剧唯一出现的神灵是巫后赫卡忒，因为“麦克白”的罪恶来自于女性；一些评论家因此辩称本剧是莎士比亚戏剧中最为厌女的作品。剧中的男性角色和女性角色一样邪恶，但女性角色之所以可恶的惊人，是因为她们的行为与社会的期望大相径庭。麦克白夫人的行为毫无疑问地显明女性在野心与残忍上绝不逊于男性。或许是出于社会对其性别的制约，或许她的胆量不足，麦克白夫人采用了通过对她丈夫的摆布来达到自己的目的。
+男子气概的暴力倾向在戏剧末尾有所降低。当麦克德夫得知自己的妻儿遇害时，马尔康冷漠地安慰了他，并要他用“男人”的方式解决问题，以此激怒麦克德夫。麦克德夫告诉小王子，称这是对男子气概的误解。马尔康称“拿出男子汉的气概来，”对此，麦克德夫回敬“我要拿出男子汉的气概来；可是我不能抹杀我的人类的感情。”(4.3.221–223)。当得知麦克德夫家人的噩耗时，西华德对此甚至有些幸灾乐祸。马尔康则回敬道：“他是值得我们更深的悲悼的，我将向他致献我的哀思。”(5.11.16–17)。马尔康的态度表明他从麦克德夫的教诲中学到了男子气概的真正含义。戏剧也通过马尔康的加冕暗示着苏格兰王国恢复了秩序。
+重复出现的要素与主题[编辑]
+
+吊诡、对比：麦克白当中，不少状况和角色的挣扎都是吊诡的；另外也有不少对比。二者有点相似，但并非完全相同。自剧中前段（“败军高奏凯歌回”第一幕第一场），二者皆不断出现。其他例子包括：
+
+“美即丑恶丑即美”（第一幕第一场）
+“非让尸骸铺满原野，决不罢手”（第一幕第二场）
+“为陛下尽忠效命，它的本身就是一种酬报。”（第一幕第四场）
+“我抓不到你，可是仍旧看见你。”（第二幕第一场）
+“不惮辛劳不惮烦”（第四幕第一场）
+
+
+
+
+幻象：
+
+麦克白在幻象中看见一把染血匕首飘浮于空中，指向邓肯王的寝室（“在我面前摇晃着、它的柄对着我的手的，不是一把刀子吗？”第二幕第一场）。麦克白清楚知道此举将改变他的一生—弑君是不可饶恕的罪行。这幻象或是女巫的超自然能力所做成的，又或只是他的幻觉。
+麦克白夫人不能消除自己因谋划杀死邓肯而生的罪疚感，因此在梦游中以为自己手上有不能洗净的血污（“去，该死的血迹！去吧！”第五幕第一场）。
+有些人认为，麦克白在王室宴会中所看见的班柯的鬼魂，其实是麦克白罪疚感的产物。（当然，另一解释会是，因剧中有女巫、幽灵等元素，有鬼魂出现也是正常不过的。）
+
+
+
+
+血与流血事件：麦克白是莎士比亚最血腥的剧作之一。开场不久，麦克白的军队刚刚在一场惨烈的战役中击退了来自挪威的入侵者。一名受了重伤的军曹被国王这样形容：“那个流血的人是谁？看他的样子，也许可以向我们报告…”（第一幕第二场）血因此象征了使者将临，是神的警告，或是对他未来的预警。女巫的大釜也满是血污。流血事件在剧中一再出现，其中不少与麦克白有莫大关系；剧末麦克白被马克德夫所杀，马克德夫更向马尔康出示麦克白还在滴血的头颅。此外，血也能象征罪疚感。麦克白杀死邓肯王时手上的血污正象征他的罪疚感；麦克白夫人夜半梦游时亦看到自己满手血污。
+
+
+婴儿与小孩：孩子虽然甚少在剧中出现，却经常被提及。孩子的天真无邪多次与麦克白或其他角色的心术不正构成对比。麦克白夫人是一个好例子：“我曾经哺乳过婴孩，知道一个母亲是怎样怜爱那吮吸她乳汁的子女；可是我会在它看着我的脸微笑的时候，从它的柔软的嫩嘴里摘下我的乳头，把它的脑袋砸碎，要是我也像你一样，曾经发誓下这样毒手的话。”（第一幕第七场）
+
+
+自然秩序：麦克白把邓肯取而代之，并非“正常的”皇位继承，这扰乱了皇位继承的秩序。莎士比亚时期，人们相信国王是神所拣选的，皇位的神圣很受重视。因此，麦克白以非正途弑君夺位，会被视为得罪上苍。自然秩序受到扰乱，以致出现不寻常的骚动：马儿相咬相吞，小猫头鹰杀掉大猎鹰。
+
+
+失眠：睡眠在剧中多次被提及。邓肯在梦中被杀，同时其守卫亦在沉睡。麦克白在杀死邓肯后道：“不要再睡了！麦克白已经杀害了睡眠，那清白的睡眠，把忧虑的乱丝编织起来的睡眠……”（第二幕第二场） 事实上，此后麦克白及其夫人分别被失眠及梦游困扰；这明确显示出他们的罪疚感。同时，麦克白害怕睡觉这一点，也许代表了他对自己无法避免的死亡所感到的恐惧。
+
+
+婚姻：剧中的女人都只能得知她们冠夫姓，譬如“麦克白夫人”和“Macduff女士”。麦克白夫妇共同商量他们要成为苏格兰国王及皇后的计划。莎士比亚是提出夫妻是一个单位，并且需要对彼此的举止负责的概念的发起人。在第四幕第二场里，当Macduff与Malcolm 前往英国时， Macduff女士说： "From Whence himself [Macduff] does fly? / He loves us not He wants the natural touch; for the poor wren, / The most diminutive of birds, will fight, / Her young ones in her nest, against the owl. / all is the fear and nothing is the love." 她是说Macduff应该陪同他的妻子和家人住在城堡里守护他们。（根据莎士比亚）当麦克白的杀手杀害Macduff家人时，他已经犯了错因为他不在他们身边保护他们。
+
+
+外观与现实：这个剧本充满了矛盾对比的言论例如：“当战争胜利与失败的同时。”（1.1.4）－－战争实际上应该只有一方胜利，一方失败。还有：“公平是犯规，犯规是公平。”（1.1.12） 乃是在第一幕从女巫口中说出的。麦克白在剧中第一句对白是：“因此,公平犯规一天我没有看到。”（1.3.38） 莎士比亚笔下麦克白的世界的写照乃是困惑和混乱的。这种思想在麦克白刺杀国王时的犹豫不决及面临道德上进退两难的情况得以返照出来。无论如何，那句句子似乎是想呈现“看来不会有什么”。
+
+
+邪恶：是要在剧中说明女巫、恶魔的使者，及他们的黑暗预言督导麦克白。麦克白的邪恶面也在剧中成长。 起初他原本是不想杀人，但是渐渐杀人就变得很普遍，在剧中的转折点麦克白说： "Stepped in so far that, should I wade no more, / Returning were as tedious as go o'er." （3.4.138-139） 他决定了目前先继续杀人之后才来改悔回头。并且麦克白越邪恶，女巫们也能在剧中有更多的戏份。
+
+
+冲突与对立：其他主题包含了幻想与现实
+
+
+战争
+
+
+情绪本身的侵蚀之力[40]
+
+
+内在的挣扎：在本剧前两幕的表现中，麦克白挣扎于其道德与野心
+
+分析[编辑]
+在莎士比亚的悲剧中，《麦克白》则有些一反常态。它很短：比《奥赛罗》、《李尔王》短了近一千行，略多于《哈姆雷特》的一半。评论家们认为这些特点说明目前的版本是根据大幅删减后的资料改编成的，或许是某一场次的台词本之类的。戏剧章节的短小也伴随着其它异常的特色：第一幕的速度极快，似乎“将行动剥离了出去”；除了麦克白以外，其它角色平淡无奇；麦克白与其它莎士比亚悲剧人物相比，也显得有些异常。
+角色的悲剧[编辑]
+至少从亚历山大·蒲柏和塞缪尔·约翰逊，对戏剧的分析就集中在麦克白的野心上，这被认为是角色的核心特征。约翰逊认为麦克白虽然在战场上表现神勇，但却在剧中被斥责。这种观点在文学评论中反复出现，而且卡洛琳·斯珀吉翁[41]认为，莎士比亚自己也是这么做的。莎士比亚的贬损方式是给麦克白穿错衣服，让他丑态百出：他的衣服要么太大要么太小——好比他的野心太大，而他作王却一塌糊涂。当他被封为考特勋爵，被洛斯证实(I, 3, ll. 108–109)，并满足女巫预言时，感到似乎“穿上借来的衣服”。班柯称：“新的尊荣加在他的身上，就像我们穿上新衣服一样，在没有穿惯以前，总觉得有些不大适合身材。”(I, 3, ll. 145–146)。在结尾处，当暴君陷入绝境时，凯士纳斯看到他好像一个人试图将大外套穿在身上，但是皮带却太小了：“却说那是一个猛士的愤怒；可是他不能自己约束住他的惶乱的心情”(V, 2, ll. 14–15)，而安格斯则做出类似的比喻：“现在他已经感觉到他的尊号罩在他的身上，就像一个矮小的偷儿穿了一件巨人的衣服一样束手绊脚。”(V, 2, ll. 18–20)。[42]
+类似《理查三世》，麦克白在血腥中跋涉，直到他最终的必然倾覆。肯尼斯·缪尔(Kenneth Muir)写道：“麦克白本身并没有谋杀倾向；但他的野心出来奇的大，以至于在对比失去王位的问题上，谋杀之类的不足一提。”一些学者，如斯托尔[43]解释称这种描述是塞涅卡或中世纪传统的延伸。由此，莎士比亚的观众期望反面角色是完全邪恶的。
+另一些评论家则认为回答麦克白的动机并不容易。罗伯特·布里奇斯(Robert Bridges)发现了一个悖论：在谋杀邓肯一事上感到颇为恐怖的人，是不太可能去行凶的。对于许多评论家来说，第一幕中麦克白的动机显得模糊、不充分。约翰·多佛·威尔逊[44]在莎士比亚的原始文献上做出了推论，假设有一些附加场景，丈夫与妻子在其中讨论谋杀计划。这种解释也没有得到完全的证明；然而，麦克白的动机来自野心是被广泛认可的。这种由野心驱动的邪恶行为导致他陷入了恶性循环，正如麦克白自己承认的那样：“我已经两足深陷于血泊之中，要是不再涉血前进，那么回头的路也是同样使人厌倦的。”(第三幕、第四场)
+道德的悲剧[编辑]
+麦克白野心的悲剧不仅仅局限于他个人。几乎在谋杀的同一时刻，戏剧描述了苏格兰大地的自然秩序被颠覆了。莎士比亚似乎想要提出伟大的存在之链[45]，然而戏剧中的细节并不足以支持这种论述。他或许也试图恭维詹姆士君权神授的信念，但这也只是假说，亨利·N·保罗[46]用了大量篇幅来论述这种说法并不普世。在《凯撒大帝》中，政治动乱甚至波及到了物质世界。戏剧中，对自然秩序的最大颠覆是睡眠。麦克白称自己“谋杀了熟睡的人”，反应在了麦克白夫人的梦游上。
+基本上，《麦克白》收到中世纪悲剧的影响，这可以从剧中对道德秩序的处理上看出。格林尼·威科姆[47]认为作者通过门房的台词提及了地狱的痛苦。霍华德·菲尔普林[48]则辩称戏剧比“传统基督教悲剧”更为复杂；他看到戏剧中的宗族关系，以及暴政剧与中世纪礼拜剧之间的关系。
+颠倒性别这一主题也是秩序混乱的一大看点。对性别的颠倒最著名的联系出现在第一幕中女巫和麦克白夫人的身上。无论莎士比亚对颠倒错乱怎么写，戏剧都以回归正常性别秩序与价值告终。一些女性心理分析家[49]，如简·阿德尔曼[50]将戏剧中的性别错乱归结为自然秩序颠覆的一部分。在此，麦克白因破坏道德秩序而被处以剥夺自然存在的判罚；自然本身(如勃南树林的移动)也是道德秩序恢复的一部分。
+巫术与邪恶[编辑]
+
+
+
+
+《麦克白、班柯与女巫》，亨利·菲斯利绘[51]
+
+
+在剧中，三位女巫代表了黑暗、混乱、争斗，她们的角色就是上述邪恶的使者和证人。[52]她们的出现代表了背叛与毁灭。在莎士比亚时期，女巫被视为比叛乱更为可恶的事情，“是能发现的最为臭名昭著的叛乱”。[53]她们不但是政治上的叛徒，而且是灵魂的叛徒。许多混乱是由于她们可以在现实与超自然之间来回穿行所致。她们任性而为，以至于无法确定是她们控制了命运，还是命运的使者而已。她们蔑视逻辑，不受现实世界的控制。[54] 女巫的第一句话：“美即丑恶丑即美，翱翔毒雾妖云里”常被认为是确立戏剧混乱的根基。的确，戏剧充满了错乱，将邪恶误认为良善，将良善却误认为是邪恶。这些话都显明了女巫的意图：她们只想为活人找麻烦。[55]
+虽然女巫们没有直接告诉麦克白杀死邓肯王，但她们使用了更为狡猾的诱惑，即告诉麦克白他终将为王。将这个观点植入他的脑中，女巫们成功地将麦克白带入迷途，引向毁灭。这些写作风格属于莎士比亚时代的特色。第一，她们争辩，如果一个想法被植入某人的脑中，那么他要么沉迷于此，要么断然拒绝。麦克白沉迷了，而班柯对此表示拒绝。[55]
+其它[编辑]
+迷信[编辑]
+剧中第四幕巫师对麦克白展现八位君王的影像，一般认为八位君王是代表英国斯图亚特王朝的历代君王。并侧重称颂当时刚刚即位为英格兰国王的詹姆士一世。
+虽然人们在今天会说演出所带来的意外是偶然的，但演员或剧院中其它人却常常认为提及“麦克白”不是件吉利的事情，因此一般会迷信地称之为“那出苏格兰剧”而不会直呼其名。[56]他们或将戏剧代称为"MacBee"，或将麦克白两夫妇称为“M先生/夫人”或“苏格兰国王”。
+这是因为据说莎士比亚在剧本中直接使用了女巫的咒语，导致戏剧被女巫所诅咒。[57]因此，在剧院中谈及它的名字被认为会导致演出失败、演员受伤、遭到意外等。许多故事或意外都与演出有关。[56]阿斯托暴动[58]也为戏剧增添了神秘色彩。暴动是因为上演的两出《麦克白》之间的冲突。 [59]还有一些方法声称可以破除诅咒，如在提及剧名后立即离开剧院，原地转三圈，从左肩膀吐唾沫等等。[60][61]
+绘画[编辑]
+
+
+
+
+
+
+
+约翰·佐法尼[62]绘[63]
+
+
+
+
+
+
+
+
+
+亨利·菲斯利[64]绘[65]
+
+
+
+
+
+
+
+
+
+麦克白见女巫，詹姆斯·考德威尔[66]刻[67]
+
+
+
+
+
+
+
+
+
+遗憾，威廉·布雷克[68]绘[69]
+
+
+
+
+
+
+
+
+
+约书亚·雷诺兹[70]绘[71]
+
+
+
+
+
+
+
+
+
+约翰·萨金特[72]绘[73]
+
+
+
+
+参考[编辑]
+脚注[编辑]
+除非另外说明，否则所有的“马克白”引述为Muir (1984)，莎士比亚其它作品则引述为Wells and Taylor (2005).
+
+
+^ Thomas W. Keene
+^ morality play
+^ Simon Forman
+^ Holinshed's Chronicles, 1587
+^ Henry Fuseli
+^ Muir, Kenneth, ed. (1984) [1951] Macbeth. The Arden Shakespeare, Second Series, 11th ed., p. xxxvi.
+^ Orgel (2002, 33)
+^ Coursen (1997, 11–13)
+^ Donwald
+^ Coursen (1997, 15–21)
+^ Coursen (1997, 17)
+^ 12.0 12.1 Nagarajan, S. A Note on Banquo. Shakespeare Quarterly. 1956, 7 (4): 371–376. JSTOR 2866356. 
+^ Palmer, J. Foster. The Celt in Power: Tudor and Cromwell. Transactions of the Royal Historical Society. 1886, 3: 343–370. doi:10.2307/3677851. 
+^ 班柯的斯图尔特身份在十九世纪被证伪，日后发现菲茨泽兰兹(Fitzalans)实际上市来自于布里敦（Breton）家族
+^ Jean de Schelandre
+^ Stuartide
+^ Maskell, D. W. The Transformation of History into Epic: The 'Stuartide' (1611) of Jean de Schelandre. The Modern Language Review. 1971, 66 (1): 53–65. JSTOR 3722467. 
+^ Braunmuller. Macbeth (PDF). Cambridge: Cambridge University Press. 1997: 2–3. ISBN 0-521-29455-X. 
+^ Brooke (2008, 59–64)
+^ Paul, Henry Neill. The Royal Play of Macbeth: When, Why, and How It Was Written by Shakespeare. New York: Macmillan. 1950: 227. 
+^ Henry Garnet
+^ Kermode, Frank. Macbeth. The Riverside Shakespeare. Boston: Houghton Mifflin. 1974: 1308. ISBN 0-395-04402-2.  For details on Garnet, see Zagorin, Perez. The Historical Significance of Lying and Dissimulation—Truth-Telling, Lying, and Self-Deception. Social Research. 1996, 63 (3): 863–912. 
+^ Lord Burghley
+^ Martin Azpilcueta
+^ Doctrine of Equivocation
+^ Braunmuller (1997) pp. 5–8.
+^ Rogers, H. L. "An English Tailor and Father Garnet's Straw". Review of English Studies 16: 61 (February 1965), 44-9; pp. 44-5.
+^ Hugh Griffin
+^ "miraculous straw"
+^ Rogers (1965) pp. 45-7.
+^ Kermode
+^ 32.0 32.1 Kermode, Riverside Shakespeare, p. 1308.
+^ A. R. Braunmuller
+^ Braunmuller (1997), pp. 5–8
+^ Loomis, E.A. "The Master of the Tiger", Shakespeare Quarterly, 7:4 (Winter, 1956); Brooke, Nicholas (ed.) The Tragedy of Macbeth (Oxford: Oxford University Press, 1990), 59–64
+^ Thomas Middleton
+^ Clarendon edition
+^ Brooke (2008, 57)
+^ 原文"unsexed"
+^ Corrupting Power of Pure Emotion
+^ Caroline Spurgeon
+^ Caroline Spurgeon, Shakespeare's Imagery and What It Tells Us. In: John Wain (ed.): Shakespeare. Macbeth. A Casebook. Bristol: Western Printing Services (1968), pp. 168–177
+^ E. E. Stoll
+^ John Dover Wilson
+^ Great Chain of Being
+^ Henry N. Paul
+^ Glynne Wickham
+^ Howard Felperin
+^ feminist psychoanalytic critics
+^ Janet Adelman
+^ Henry Fuseli
+^ Kliman, 14.
+^ Perkins, William. A Discourse of the Damned Art of Witchcraft, So Farre forth as it is revealed in the Scriptures, and manifest by true experience. London: Cantrell Legge, Printer to the Universitie of Cambridge. 1618: 53 [24 June 2009]. 
+^ Coddon, Karin S. 'Unreal Mockery': Unreason and the Problem of Spectacle in Macbeth. ELH. 1989, 56 (3): 485–501. JSTOR 2873194. 
+^ 55.0 55.1 Frye, Roland Mushat. Launching the Tragedy of Macbeth: Temptation, Deliberation, and Consent in Act I. The Huntington Library Quarterly. 1987, 50 (3): 249–261. 
+^ 56.0 56.1 Robert Faires, "The curse of the play", Austin Chronicle, 13 October 2000.
+^ Tritsch, Dina. The Curse of 'Macbeth'. Is there an evil spell on this ill-starred play?. pretallez.com. April 1984 [28 November 2010]. 
+^ Astor Place Riot
+^ Dunning, Brian. Toil and Trouble: The Curse of Macbeth. skeptoid.com. 7 September 2010 [28 November 2010]. 
+^ Babylon 5 – The Scripts of J. Michael Straczynski, Volume 6 by J. Michael Straczynski, Synthetic Labs Publishing (2006).
+^ Garber, Marjorie B. Profiling Shakespeare. Routledge. 2008: 77. ISBN 978-0-415-96446-3. 
+^ Johann Zoffany
+^ Orgel (2002, 248)
+^ Henry Fuseli
+^ 引用错误：没有为名为Orgel 2007, 74的参考文献提供内容
+^ James Caldwell
+^ 引用错误：没有为名为Orgel 2007, 76的参考文献提供内容
+^ William Blake
+^ 引用错误：没有为名为Macbeth 1 2007的参考文献提供内容
+^ Joshua Reynolds
+^ 引用错误：没有为名为Gay 2002, 159的参考文献提供内容
+^ John Singer Sargent
+^ Schoch (2002,59)
+
+
+
+文献[编辑]
+
+
+Adams, Joseph Quincy. Shakespearean Playhouses. Houghton Mifflin. 1917. 
+Bald, Robert Cecil. Macbeth and the "Short" Plays. Review of English Studies (Oxford University Press). 1928, 4: 429–31. 
+Banham, Martin; Mooneeram, Roshni and Plastow, Jane Shakespeare and Africa in Wells and Stanton (2002, 284-299)
+Barnet, Sylvan. Macbeth on Stage and Screen. (编) Barnet, Sylvan. Macbeth. Signet Classics. New American Library. 1998: 186–200. ISBN 978-0451524447. 
+Bentley, Gerald Eades. The Jacobean and Caroline Stage 6. Clarendon Press. 1941. 
+Billington, Michael Shakespeare and the Modern British Theatre in Wells and Orlin (2003, 595-606)
+Bloom, Harold. Shakespeare: The Invention of the Human. 1999. ISBN 1-57322-751-X. 
+Booth, Michael R. Nineteenth-Century Theatre in Brown (1995, 299-340)
+Braunmuller, Albert R. Introduction. (编) Braunmuller, Albert R. Macbeth. Cambridge University Press. 1997: 1–93 [16 August 2012]. ISBN 0-521-22340-7. 
+Brode, Douglas. Shakespeare at the Movies: From the Silent Era to Today. Berkley Boulevard. 2001. 
+Brooke, Nicholas (ed.) and Shakespeare, William. The Oxford Shakespeare: Macbeth. Oxford University Press. 2008. ISBN 978-0-19-953583-5. 
+Brown, John Russell (ed.). The Oxford Illustrated History of the Theatre. Oxford University Press. 1995. ISBN 0-19-285442-9. 
+Brown, Langdon. Shakespeare around the Globe: A Guide to Notable Postwar Revivals. Greenwood Press. 1986. 
+Bryant, Jr., J. A. Hippolyta’s View: Some Christian Aspects of Shakespeare’s Plays. University of Kentucky Press. 1961 [1 November 2009]. 
+Burnett, Mark Thornton and Wray, Ramona (eds.). Screening Shakespeare in the Twenty-First Century. Edinburgh University Press. 2006. ISBN 0 7486 2351 5. 
+Chambers, E. K. The Elizabethan Stage 2. Clarendon Press. 1923. ISBN 0-19-811511-3. OCLC 336379. 
+Coddon, Karin S. 'Unreal Mockery': Unreason and the Problem of Spectacle in Macbeth. ELH (Johns Hopkins University). 1989, 56 (3): 485–501. doi:10.2307/2873194. 
+Coursen, Herbert R. Macbeth: A Guide to the Play. Greenwood Press. 1997 [15 August 2012]. ISBN 0-313-30047-X. 
+Dunning, Brian. Toil and Trouble: The Curse of Macbeth. Skeptoid: Critical analysis of Pop Phenomena. Skeptoid.com. [28 November 2010]. 
+Faires, Robert. The curse of the play. The Austin Chronicle. 13 October 2000 [19 August 2012]. 
+Forsyth, Neil Shakespeare the Illusionist: Filming the Supernatural in Jackson (2000, 274-294)
+Freedman, Barbara Critical Junctures in Shakespeare Screen History: The Case of Richard III in Jackson (2000, 47-71)
+Garber, Marjorie B. Profiling Shakespeare. Routledge. 2008. ISBN 978-0-415-96446-3. 
+Gay, Penny Women and Shakespearean Performance in Wells and Stanton (2002, 155-173)
+Gillies, John; Minami, Ryuta; Li, Ruri and Trivedi, Poonam Shakespeare on the Stages of Asia in Wells and Stanton (2002, 259-283)
+Greenhalgh, Susanne Shakespeare Overheard: Performances, Adaptations and Citations on Radio in Shaughnessy (2007, 175-198).
+Guntner, J. Lawrence Hamlet, Macbeth and King Lear on Film in Jackson (2000, 117-134), especially the section Macbeth: of Kings, Castles and Witches at 123-128.
+Halliday, F. E. A Shakespeare Companion 1564-1965. Penguin. 1964. 
+Hawkes, Terence Shakespeare's Afterlife: Introduction in Welles and Orlin (2003, 571-581)
+Hodgdon, Barbara and Worthen, W. B. (eds.). A Companion to Shakespeare and Performance. Blackwell Publishing Limited. 2005. ISBN 978-1-4051-8821-0. 
+Holland, Peter Touring Shakespeare in Wells and Stanton (2002, 194-211)
+Holland, Peter Shakespeare Abbreviated in Shaughnessy (2007, 26-45)
+Hortmann, Wilhelm Shakespeare on the Political Stage in the Twentieth Century in Wells and Stanton (2002, 212-229)
+Howard, Tony Shakespeare on Film and Video in Wells and Orlin (2003, 607-619)
+Jackson, Russell (ed.). The Cambridge Companion to Shakespeare on Film. Cambridge University Press. 2000. ISBN 0 521 63975 1. 
+Jess-Cooke, Carolyn Screening the McShakespeare in Post-Millennial Shakespeare Cinema in Burnett and Wray (2006, 163-184).
+Kermode, Frank. Macbeth. (编) Evans, C. Blakemore. The Riverside Shakespeare. Houghton Mifflin. 1974: 1307–11. ISBN 0-395-04402-2. 
+Kliman, Bernice; Santos, Rick. Latin American Shakespeares. Fairleigh Dickinson University Press. 2005. ISBN 0-8386-4064-8. 
+Lanier, Douglas. Shakespeare and Modern Popular Culture. Oxford Shakespeare Topics. Oxford University Press. 2002. ISBN 0-19-818703-3. 
+Marsden, Jean I. Improving Shakespeare: from the Restoration to Garrick in Wells and Stanton (2002, 21-36).
+Maskell, David W. The Transformation of History into Epic: The 'Stuartide' (1611) of Jean de Schelandre. Modern Language Review (Modern Humanities Research Association). 1971, 66: 53–65. doi:10.2307/3722467. 
+Mason, Pamela Orson Welles and Filmed Shakespeare in Jackson (2000, 183-198), especially the section Macbeth (1948) at 184-189.
+McKernan, Luke and Terris, Olwen. Walking Shadows: Shakespeare in the National Film and Television Archive. British Film Institute. 1994. ISBN 0-85170-486-7. 
+McLuskie, Kathleen Shakespeare Goes Slumming: Harlem '37 and Birmingham '97 in Hodgdon & Worthen (2005, 249-266)
+Moody, Jane Romantic Shakespeare in Wells and Stanton (2002, 37-57).
+Morrison, Michael A. Shakespeare in North America in Wells and Stanton (2002, 230-258)
+Muir, Kenneth. Introduction. (编) Muir, Kenneth. Macbeth 11. The Arden Shakespeare, Second Series. 1984: xiii–lxv [1951]. ISBN 978-1-90-343648-6. 
+Nagarajan, S. A Note on Banquo. Shakespeare Quarterly (Folger Shakespeare Library). 1956, 7 (4): 371–6. 
+O'Connor, Marion Reconstructive Shakespeare: Reproducing Elizabethan and Jacobean Stages in Wells and Stanton (2002, 76-97)
+Orgel, Stephen. The Authentic Shakespeare. Routledge. 2002. ISBN 0-415-91213-X. 
+Orgel, Stephen Shakespeare Illustrated in Shaughnessy (2007, 67-92)
+Osborne, Laurie Narration and Staging in Hamlet and its Afternovels in Shaughnessy (2007, 114-133)
+Palmer, J. Foster. The Celt in Power: Tudor and Cromwell. Transactions of the Royal Historical Society (Royal Historical Society). 1886, 3: 343–70. doi:10.2307/3677851. 
+Paul, Henry Neill. The Royal Play of Macbeth: When, Why, and How It Was Written by Shakespeare. Macmillan Publishers. 1950. 
+Perkins, William. A Discourse of the Damned Art of Witchcraft, So Farre forth as it is revealed in the Scriptures, and manifest by true experience. Cambridge University Press. 1618 [24 June 2009]. 
+Potter, Lois Shakespeare in the Theatre, 1660-1900 in Wells and de Grazia (2001, 183-198)
+Rosenthal, Daniel. 100 Shakespeare Films. British Film Institute. 2007. ISBN 978-1-84457-170-3. 
+Sanders, Julie. Shakespeare and Music: Afterlives and Borrowings. Polity Press. 2007. ISBN 978-07456-3297-1. 
+Schoch, Richard W. Pictorial Shakespeare in Wells and Stanton (2002, 58-75)
+Shaughnessy, Robert (ed.). The Cambridge Companion to Shakespeare and Popular Culture. Cambridge University Press. 2007. ISBN 978-0-521-60580-9. 
+
+
+Shirley, Francis. Shakespeare's Use of Off-stage Sounds. University of Nebraska Press. 1963. 
+Smallwood, Robert Twentieth-Century Performance: The Stratford and London Companies in Wells and Stanton (2002, 98-117)
+Spurgeon, Caroline. Shakespeare's Imagery and What It Tells Us. (编) Wain, John. Shakespeare: Macbeth: A Casebook. Casebook Series, AC16. Macmillan. 1969: 168–177. ISBN 0-876-95051-9. 
+Straczynski, J. Michael. Babylon 5 – The Scripts of J. Michael Straczynski, Vol. 6. Synthetic World. 2006. 
+Tanitch, Robert. London Stage in the 20th Century. Haus Publishing. 2007. ISBN 978-1-904950-74-5. 
+Tanitch, Robert. Olivier. Abbeville Press Publishing. 1985. 
+Tatspaugh, Patricia Performance History: Shakespeare on the Stage 1660-2001 in Wells and Orlin (2003, 525-549)
+Taylor, Gary Shakespeare Plays on Renaissance Stages in Wells and Stanton (2002, 1-20)
+Tritsch, Dina. The Curse of 'Macbeth'. Is there an evil spell on this ill-starred play?. Showbill (Playbill). April 1984 [28 November 2010]. 
+Walter, Harriet. Actors on Shakespeare: Macbeth. Faber and Faber. 2002. ISBN 978-0571214075. 
+Wells, Stanley and de Grazia, Margreta (eds.). The Cambridge Companion to Shakespeare. Cambridge University Press. 2001. ISBN 0 521 65881 0. 
+Wells, Stanley and Orlin, Lena Cowen (eds.). Shakespeare: An Oxford Guide. Oxford University Press. 2003. ISBN 0-19-924522-3. 
+Wells, Stanley and Stanton, Sarah (eds.). The Cambridge Companion to Shakespeare on Stage. Cambridge University Press. 2002. ISBN 0 521 79711 X. 
+Wells, Stanley and Taylor, Gary (et al.)(eds.). The Oxford Shakespeare: The Complete Works (Second Edition). Oxford University Press. 2005. ISBN 978-0-19-926718-7. 
+Willems, Michèle Video and its Paradoxes in Jackson (2000, 35-46)
+Williams, Simon The Tragic Actor and Shakespeare in Wells and Stanton (2002, 118-136)
+Zagorin, Perez. The Historical Significance of Lying and Dissimulation—Truth-Telling, Lying, and Self-Deception. Social Research (The New School for Social Research). 1996, 63 (3): 863–912. 
+Raphael Holinshed's Chronicles of England, Scotland, and Ireland, based on Hector Boece's 1527 Scotorum Historiae.
+Reginald Scot's Discovery of Witchcraft
+King James I of England's 1599 Daemonologie
+Macbeth's words on dogs and men in Act 3, scene 1, (91-100), likely came from Erasmus' Colloquia
+Compare also the Witch of Endor.
+
+
+改编作品[编辑]
+
+黑泽明《蜘蛛巢城》
+吴兴国《欲望城国》（当代传奇剧场）
+吕柏伸《莎士比亚不插电3麦克白》（台南人剧团）
+罗家英《英雄叛国》
+电影《麦克白》
+
+外部链接[编辑]
+
+
+
+英语维基文库中与本条目相关的原始文献：
+麦克白
+
+
+
+麦克白原文
+The Text of Shakespeare's Macbeth
+Search and analyze the text of Shakespeare's Macbeth on-line or in a downloadable eBook
+Macbeth - searchable, indexed version
+The Tragedie of Macbeth - HTML version of this title.
+Macbeth - plain vanilla text from Project Gutenberg
+Macbeth - About.com text of Macbeth
+Slashdoc : Macbeth - Scholarly essays on Shakespeare's Macbeth
+Unabridged dramatic audio production of Macbeth - RealAudio
+麦克白中文版
+麦克白（简体中文）
+莎士比亚的全部作品集（简体中文）
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+威廉·莎士比亚作品
+
+
+
+
+
+
+悲剧
+
+《安东尼与克丽奥佩托拉》 · 《科利奥兰纳斯》 · 《哈姆雷特》 · 《朱利叶斯·凯撒》 · 《李尔王》 · 《麦克白》 · 《奥赛罗》 · 《雅典的泰门》 · 《泰特斯·安特洛尼克斯》 · 《脱爱勒斯与克莱西达》 · 《辛白林》 · 《罗密欧与朱丽叶》
+
+
+
+
+
+
+
+
+
+
+
+
+
+喜剧
+
+《终成眷属》 · 《皆大欢喜》 · 《错中错》 · 《爱的徒劳》 · 《一报还一报》 · 《威尼斯商人》 · 《温莎的风流妇人》 · 《仲夏夜之梦》 · 《无事生非》 · 《泰尔亲王佩利克尔斯》 · 《驯悍记》 · 《暴风雨》 · 《第十二夜》 · 《维洛那二绅士》 · 《两位贵族亲戚》 · 《冬天的故事》
+
+
+
+
+
+
+历史剧
+
+《约翰王》 · 《理查二世》 · 《亨利四世 (第一部)》 · 《亨利四世 (第二部)》 · 《亨利五世》 · 《亨利六世 (第一部)》 · 《亨利六世 (第二部)》 · 《亨利六世 (第三部)》 · 《理查三世》 · 《亨利八世》
+
+
+
+
+
+
+诗
+
+《十四行诗》 · 《维纳斯和阿多尼斯》 · 《鲁克丽丝失贞记》 · 《热情的朝圣者》 · 《凤凰和斑鸠》 · 《爱人的怨诉》
+
+
+
+
+
+
+
+
+
+
+
+规范控制
+
+
+
+WorldCat标识符
+VIAF: 316638172
+LCCN: n82011242
+GND: 4099361-9
+BNF: cb119537089（数据）
+
+
+
+
+
+
+
+
+
+
+
+
+分类：莎士比亚悲剧作品1603年戏剧自杀相关作品真人真事改编作品苏格兰背景作品改编成电影的戏剧隐藏分类：有参考文献错误的页面包含规范控制信息的维基百科条目

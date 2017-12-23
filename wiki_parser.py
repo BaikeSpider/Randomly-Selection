@@ -103,10 +103,13 @@ class HtmlParser(object):
         #categories crawl
         categories = soup.find("div", class_="mw-normal-catlinks")
         category = []
-        for child in categories.contents[2].contents:
-            category.append(child.text)
-        if len(category) == 0:
+        if categories is None:
             category.append("None_Category!!!")
+        else:
+            for child in categories.contents[2].contents:
+                category.append(child.text)
+            if len(category) == 0:
+               category.append("None_Category!!!")
 
         #references crawl
         references = soup.find_all("ol", class_="references")  # it will find all references, including the references, cites and notes.
@@ -330,9 +333,12 @@ class HtmlParser(object):
         edit_history_url = edit_history_url_temp['href']
         headers = {
             'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36'}
-        edit_history_cont = requests.get(edit_history_url, headers=headers)
+        edit_history_cont = requests.get(edit_history_url)
         edit_history_soup = BeautifulSoup(edit_history_cont.text, 'html.parser')
         edit_history_tables = edit_history_soup.find_all('table')
+        # print(len(edit_history_tables), " ", edit_history_soup)
+        # print(edit_history_url)
+        # print(page_url) 
         edit_history_table = edit_history_tables[3]
         hh = 0
         users = []

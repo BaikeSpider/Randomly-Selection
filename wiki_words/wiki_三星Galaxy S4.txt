@@ -1,0 +1,578 @@
+三星Galaxy S4
+
+
+
+
+
+
+
+
+
+
+
+Samsung Galaxy S4 (i9500/i9505/i337/i337m)
+
+
+
+
+
+
+
+生产商
+三星电子
+
+
+标语
+
+与你心意合一
+Life Companion
+
+
+系列
+Samsung Galaxy S 系列
+
+
+兼容的网络
+2.5G GSM/GPRS/EDGE – 850, 900, 1800, 1900 MHz、3G HSPA+ – 850, 900, 1900, 2100 MHz
+
+
+首次发布
+2013年3月14日
+
+
+上市日期
+2013年4月27日
+
+
+前代型号
+Samsung Galaxy S III
+
+
+后继型号
+Samsung Galaxy S5
+
+
+相关型号
+Samsung Galaxy S4 Mini
+Samsung Galaxy Mega 6.3
+Samsung Galaxy S4 Zoom
+Samsung Galaxy S4 Active
+Samsung Galaxy J
+
+
+尺寸
+136.6 mm（5.38英寸）（高）
+69.8 mm（2.75英寸）（宽）
+7.9 mm（0.31英寸）（厚）
+
+
+重量
+130 g（4.6 oz）
+
+
+操作系统
+Android 4.2.2 (Jelly Bean) with TouchWiz Nature UX 2.5
+Android 4.4（可更新版本）
+Android 5.0.2（可更新版本）
+
+
+CPU
+1.6GHz Samsung Exynos 5410 Octa / Qualcomm Snapdragon 600 1.9GHz Quad / Qualcomm Snapdragon 800 2.3GHz Quad
+
+
+GPU
+IT PowerVR SGX 544MP3 / Adreno 320 GPU
+
+
+内存
+2GB LPDDR3 RAM
+
+
+移动存储
+支持最大 64GB
+
+
+电池
+2600mAh（可更换充电式锂电池）
+
+
+感应器类型
+电容式多点触控显示屏
+
+
+显示器
+5" (4.99") FHD Super AMOLED (1920×1080)
+
+
+后置相机
+1300万像素
+
+
+前置相机
+200万像素
+
+
+连接能力
+GPS / GLONASS, Wi-Fi (802.11 a/b/g/n/ac), Bluetooth 4.0, MHL 2.0, NFC, IR LED
+
+
+目前状态
+已发布
+
+
+Samsung Galaxy S4是韩国三星电子于2013年推出的新一代旗舰型智能手机[1]，是Samsung Galaxy S 系列的第四代[2]。手机重量只有130克， 刚推出市面被誉为全球最轻5寸以上的智能平板手机。
+三星电子于2013年3月14日在纽约时代广场举办的 Samsung Unpacked 2013 Episode 1 上正式发布[3]。同年4月开始于155个国家发售。
+根据三星电子公布的数据，截至2013年5月22日，Galaxy S4在全球共出货一千万支，目前已知销售量4000万支。而Galaxy S4同期的最大竞争对手是Apple iPhone 5及HTC One (M7)。
+
+
+
+目录
+
+
+1 型号
+2 特殊功能
+3 争议与批评
+4 意外事故
+5 参看
+6 参考资料
+
+
+
+型号[编辑]
+以下机型以国际销售情况为准：
+
+
+型号
+GT-I9500[4]
+GT-I9505[5][6]
+GT-I9506[7]
+GT-I9508[8]
+SCH-I959[9]
+GT-I9502[10]
+SGH-I337(M)[11][12]
+
+
+国家或地区
+国际
+ 中国大陆
+ 加拿大、 美国
+
+
+运营商
+国际
+中国移动
+中国电信
+中国联通
+(SGH-I337:AT&T)
+国际
+
+
+
+2G
+850, 900, 1800, 1900 MHz
+GSM、GPRS、EDGE
+900, 1800, 1900 MHz
+GSM、GPRS、EDGE
+850, 900, 1800, 1900 MHz
+GSM、GPRS、EDGE
+
+
+3G
+850, 900 MHz, PCS、IMT
+UMTS、HSPA+
+850, 900, 1900, 2.1 GHz, HSPA+
+1880, 2010 MHz
+TD-SCDMA
+900 MHz, IMT
+UMTS / HSPA+
+800, 1900 MHz
+EVDO Rev. A
+850, 900 MHz, PCS、IMT
+UMTS、HSPA+
+850, 1900, 2100, 2.1 GHz, HSPA+(SGH-I337M:850, 900, 1900, 2100, 2.1 GHz, HSPA+)
+
+
+4G
+LTE
+无
+800, 850, GSM, 1800 MHz、IMT、IMT-E
+800, 850, 900, 1800 MHz 2.1 GHz 2.6 GHz
+无
+700 (Band 17), 850, 1700, 1900, 2100, 2600 MHz、IMT、IMT-E(SGH-I337M:700, 800, 850, 900, 1700, 2100, 2600 MHz、IMT、IMT-E)
+
+
+最大网速
+DC-HSPA+: 42 Mbit/s
+LTE: 100 Mbit/s
+DC-HSPA+: 42 Mbit/s
+
+LTE: 100 Mbit/s
+
+
+尺寸
+136.6×69.8×7.9mm（5.38×2.75×0.31in）
+
+
+重量
+130 g（4.6 oz）
+132 g（4.7 oz）
+130 g（4.6 oz）
+
+
+操作系统
+Android 4.4.2
+Android 4.3
+Android 4.4.2
+
+
+SoC
+Samsung Exynos 5410
+Qualcomm Snapdragon 600 APQ8064T
+Qualcomm Snapdragon 800 MSM8974
+Qualcomm Snapdragon 600 APQ8064T
+Samsung Exynos 5 Octa Exynos 5410
+Qualcomm Snapdragon 600 APQ8064AB
+
+
+CPU
+1.6 GHz 四核 ARM Cortex-A15 和
+1.2 GHz 四核 ARM Cortex-A7
+1.9 GHz 四核 Qualcomm Krait 300
+2.3 GHz 四核 Qualcomm Krait 400
+1.9 GHz 四核 Qualcomm Krait 300
+1.6 GHz 四核 ARM Cortex-A15 和
+1.2 GHz 四核 ARM Cortex-A7
+1.9 GHz 四核 Qualcomm Krait 300
+
+
+GPU
+IT SGX544MP3
+Qualcomm Adreno 320
+Qualcomm Adreno 330
+Qualcomm Adreno 320
+IT SGX544MP3
+Qualcomm Adreno 320
+
+
+RAM
+2 GB
+
+
+存储
+16/32/64 GB
+16 GB
+16/32 GB
+16 GB
+16/32/64 GB
+
+
+SAR[13]
+头部：0.85 W/Kg
+身体：1.55 W/Kg
+头部：0.77 W/Kg
+身体：1.17 W/Kg
+头部：0.926 W/Kg
+身体：1.389 W/Kg
+头部：0.85 W/Kg
+身体：1.55 W/Kg
+
+
+特殊功能[编辑]
+
+双镜摄影（Dual Camera）：把前置和后置镜头所拍摄的照片融合的特效。
+
+
+戏剧效果（Drama Shot）：可辨识移动的对象，合并数张连拍照，将动作过程完整记录。
+
+
+有声拍摄（Sound & Shot）：可于拍照时同时录下长达 9 秒的声音，在浏览照片时播放。
+
+
+多机共乐（Group Play）：使用 Mobile AP 与周围设备分享音乐、照片、文件和游戏。
+
+
+智能传译（S Translator）：即时文字或语音翻译。
+
+
+智能暂停（Smart Pause）：让用户以眼睛移动来控制屏幕。
+
+
+智能滚动（Smart Scroll）: 让用户无须触控屏幕移动滚动条。
+
+
+悬浮预览（Air View）、 悬浮手势（Air Gesture）：让用户以手掌悬浮在内容上预览内容。
+
+
+Samsung Optical Reader:OCR 辨识文字、名片或 QR 码信息。
+
+
+电视遥控（Samsung Watch ON）：红外线遥控器。
+
+
+画中画（Pop Up Play）：在一个页面同时显示两个大小不等的窗口，可用于视频播放。
+
+
+智能休眠（Smart Stay）：通过检测用户的眼睛是否注视屏幕来控制屏幕休眠。
+
+
+无线充电: 提供无线充电功能，类似 Nokia Lumia 920 的无线充电。
+
+争议与批评[编辑]
+
+无新意 ：有评论指 S4 外型与 2012 年式 Galaxy S3 相似度极高[14]。
+散热不良 ：由于机身散热系统不良，自制的 Exynos 处理器又会散发高热，使得 Galaxy S4 容易产生高温，最高温甚至可达摄氏 58 度，可能有烫伤人体的机会，更可能因此过热致电池爆炸。[15]。
+疑似在各个网站派出广大网军抹黑对手产品 ：引导消费者购买三星手机[16]。
+性能测试作弊 ：在进行如 Geekbench 等性能测试时使 CPU/GPU 以高于平常最大可工作量的频率进行测试，美化跑分数据，但实际使用时并不会达到测试时的高效率[17]。
+突然死机或无法开机 ：三星 Note、S 系列深陷“字库门”，已成为众多三星手机 NOTE 系列及 S 系列机主的共同烦恼。这是因为三星产品设计本身存在缺陷，存储芯片的擦除指令存在问题，该芯片相当于电脑硬盘，业内称之为“字库门”。
+系统内置应用程序过大：由于系统内置的ChatOn、S Travel等程序，以致16GB版本的可用空间仅有8 GB，近50%存储容量都被手机的操作系统及内置应用程序占据，限制用户可使用的存储空间[18][19]。三星回应“目的为了提供更高的显示分辨率及更强大的功能”，而“为了提供用户最佳的移动产品经验，三星让 Galaxy S4 提供microSD存储卡插槽，以扩充记忆容量”[19]。
+不允许 app 安装在存储卡：CNET报导指出，三星并不允许 app 安装在存储卡上，导致很多游戏无法安装在S4上。一些先进的游戏需要大量记忆空间支持，例如《Real Racing 3》便需要 1.2GB 的手机空间支持。因此 S4 若只剩 8GB 可用硬盘空间，很容易就不够用[19]。事后三星于更新时支持应用程序可移至存储卡的设计，但该功能仅限某些特定的应用程序，没太大分别。[20]。
+事故频生：采用2安培充电器输出电压过大,令传输线接头充电时容易过热.加上电池质量参差.导致多宗火警爆炸事故
+
+意外事故[编辑]
+
+2013年7月8日，中国一位网友的Galaxy S4发生爆炸，该网民在微博中发布称“想着昨晚手机着火真是怕，三星S4也不过如此，还最新款还好醒的及时，不然死定了。”[21]。
+
+
+2013年7月10日，阿拉伯联合酋长国一位机主将使用一个多月的Galaxy S4彻夜连接充电器进行充电，半夜起火，幸及时发现并扑熄[22]。
+
+
+2013年7月28日，香港的杜先生在使用Galaxy S4时突然过热爆炸引起大火，全屋烧毁熏黑[23][24]。
+
+
+2013年8月13日，巴基斯坦一位机主的Galaxy S4在充电时候发现有烧焦味，在检查时发现USB接头有烧焦现象[25]。
+
+
+2013年8月28日，美国俄亥俄州有一位妇人[26]在睡梦中感觉背部灼烫剧痛，随即意识到自己睡梦间将自己的Galaxy S4手机压在身下，皮肤彻底的接收了强大高温的威力。妇人前往医院检查，确认已经造成灼伤，不但起了水泡、之后亦免不了留下疤痕。妇人已向美国主管产品安全部门提出申诉。
+
+
+2013年9月23日，美国奥勒冈州一男子在商店购物时，其Galaxy S4在他的夹克胸前口袋中自燃，之后将手机拿出来时手指头又被烫伤，最后爆炸后掉在商店地上，烧毁商店地板[27]。男子其后表示手机发生自燃时并未处于阳光直射下，且该手机电池也是原装电池，因此他认为该款手机完全有可能在手中发生爆炸，威胁用户生命安全，要求三星公司召回已售出的2千万部手机[28]。三星拒绝对此事发表评论。
+
+
+2013年9月26日，济州岛一名64岁金姓大学教授在购入S4不足1个月的时间后，手机在无外力冲击的形况下爆炸，造成液晶破损、机身弯曲，但韩国三星辩称是用户贪图30万韩元修理费而说谎[29]。同日，中国一名网民在睡觉时正进行充电的Galaxy S4突然爆炸，事主指在购买后就发现手机只在用一会后就发烫，因此已经减少使用时间[30]。
+
+
+2013年10月4日，来自中国福建福州的一名用户于游台湾期间，其Galaxy S4在外套口袋突然冒烟，随后电池与机身爆开，电池开始冒火，机身显示屏破裂，幸未有受伤。事后三星表示愿意赔偿一部新手机，但并未交代手机自燃原因[31]。
+
+
+2013年10月9日，英格兰一位母亲推著有一对双胞胎的婴儿车，走到停车场取车时她的Galaxy S4突然爆炸并发出黑烟。她吓了一大跳，幸好火势没有波及婴儿车。当地的三星公司发言人表示将回收该手机进行起火原因的调查[32][33]。
+
+
+2013年11月19日在印度邦加罗尔的一位摄影师，表示他突然感觉到S4烫热，赶紧拿出来拔开背盖分离电池，但同时S4电池就在他的眼前爆炸，喷出火花和大量烟雾，他的办公桌惨遭烧焦一块。当时手机并非充电中，也没有插著任何连接线。对于如此危险的手机产品，作者认为应当进行回收[34]。
+
+
+2013年11月28日，意大利一名20岁青年在睡梦中，被身旁木制床头柜上正在充电的S4之奇怪噪音吵醒，随即发现手机电源端口冒出火花，青年将手机拨落地面时灼伤手指。[35]
+
+
+2013年12月7日，加拿大一名网友 Ghostlyrich 的Galaxy S4起火燃烧，他使用的是原厂配给的三星充电器，但三星事后要他签署协议书，承诺删除视频、不追究法律责任及不公开协议内容才肯换机[36]，因此受害者拍下视频上网抱怨，引起其他网友共鸣，抨击三星服务质量不佳，还有网友嘲笑：“Galaxy S4 可以改名为‘C4’”[37][38]。事件发生后数天，美国诺基亚在Twitter上向受害人承诺送他一部全新Nokia Lumia手机，更声言会帮他处理电信公司方面的复杂手续[39]。
+
+
+2013年12月11日，奥地利一位36岁的母亲听到一声怪响，赶紧跑去安置一岁婴儿的隔壁房间，看到Galaxy S4像烟雾弹一样炸开[40]，冒出大量烟雾并引燃毛织物，幸好爆炸没有伤及附近的小婴儿。这位母亲大受打击[41]。同日，俄罗斯一部Galaxy S4在充电时出现烧焦[42]。
+
+
+2013年12月12日，一名Reddit论坛用户在回家时手上拿着的 Galaxy S4 突然传出巨响，在查看时发现手机出现少许火花并开始冒烟[43]。
+
+
+2013年12月13日，一名来自俄罗斯的女士表示其S4手机侧面发生自燃，产生烟雾与焦味，并烧毁主机侧边附近的组件。[44]
+
+
+2013年12月19日，一部购买了4-5个月左右的S4在机主厨房中充电时传出烧焦味，机主随即发现S4着火并发出焦臭与烟雾，在用水扑灭了火势后发现手机背盖、充电接口、充电线皆已融化，三星维修部表示无法维修。[45]
+
+
+2014年1月2日，一名中国用家的三星Galaxy S4在未充电的情况下发生爆炸，手机被完全烧毁，并且装载着手机的背包也被烧黑，事主其后将手机送到三星维修部处理，但三星以手机是港行机为由拒绝受理。[46]。
+
+
+2014年1月4日， 来自瑞士的Michele Crivelli在参加一场位于瑞士Davos Platz GR的Ochsen餐厅西洋除夕宴会时，其放置于餐厅桌上的S4突然爆炸，传出一声巨响[47]。
+
+
+2014年2月14日，英国高云地利一名用户在送儿子到学校后驾车回家时，S4突然爆炸并喷发出蓝色火焰，事主形容手机是“炸弹”。[48]
+
+
+2014年4月9日，一名英国女公务员在清晨将S4充电时听到烧着东西的声音，并闻到浓烟，手机掉在地上后将地毯烧出一个洞。[49]
+
+
+2014年5月6日， 英国格雷夫森德一名Galaxy S4用家在凌晨一点发现充电中的S4突然发生爆炸，并喷发出大量浓烟和火焰。她表示充电器为原装正货。[50]
+
+参看[编辑]
+
+三星Galaxy S系列
+
+参考资料[编辑]
+
+
+^ 三星将推 GalaxyS4 再抢 iPhone 市场 互联网档案馆的存档，存档日期2013-03-17.，亚太日报，2013年3月15日
+^ 三星 Galaxy S4 下周发布 新华网
+^ 三星全新 Galaxy S4/LTE 于 3 月 14 日面市
+^ Samsung I9500 Galaxy S4 - Full phone specifications. GSMArena. [24 Mar 2013]. 
+^ Samsung I9505 Galaxy S4 - Full phone specifications. GSMArena. [24 Mar 2013]. 
+^ Samsung Galaxy S4, 4G, 3G, WiFi, 13MP Camera, 5" Full HD, 1.9 GHz. Samsung. [28 Apr 2013]. 
+^ Samsung GT-i9506 Galaxy S4 LTE-A Specs. PDAdb. [1 Sep 2013]. 
+^ （中文） 三星 I9508 - Samsung Galaxy S4 请检查|url=值 (帮助). Samsung. [28 Apr 2013]. 
+^ （中文） 三星 I959 - Samsung GALAXY S4(电信版) 请检查|url=值 (帮助). Samsung. [28 Apr 2013]. 
+^ （中文） 三星 I9502 - Samsung Galaxy S4(联通版) 请检查|url=值 (帮助). Samsung. [28 Apr 2013]. 
+^ Specs - AT&T Cell Phones SGH-I337. Samsung. [17 Apr 2013]. 
+^ Samsung. Specs - Samsung Galaxy S4 SGH-I337M (Canada). Samsung. [9 Dec 2013]. 
+^ SAR information. Samsung Electronics. [19 May 2013]. 
+^ 三星 Galaxy S4 了无新意 被 HTC 高管批评没创新 互联网档案馆的存档，存档日期2013-10-29.
+^ 用三星 Galaxy S4 煎鸡蛋？ 开 3D 功能飙 58 度 - 巴士三星 互联网档案馆的存档，存档日期2013-10-29.
+^ http://www.mobile01.com/topicdetail.php?f=568&t=3284729&last=45966870
+^ http://www.mobile01.com/topicdetail.php?f=568&t=3479372
+^ 16GB版Galaxy S4可用存储空间仅8.8GB
+^ 19.0 19.1 19.2 三星坦言S4实际容量仅半 “可用存储卡扩充啊”
+^ 纾解手机存储容量 Galaxy S4发布新版固件实测 互联网档案馆的存档，存档日期2013-06-27.
+^ 三星手机再发生爆炸 这次是 Galaxy S4
+^ 天气太热手机也受不了 Galaxy S4 无故自燃
+^ Exploding Samsung Galaxy S4 Allegedly Starts Fire, Destroys House
+^ 三星 s4 爆炸喷火焚宅 -230032312.html 三星 S4 爆炸喷火焚宅
+^ Another Samsung Galaxy S4 found burned at the bottom during charging
+^ [1]
+^ Galaxy S4 手机爆炸案例，美国男子将雇律师提告三星迫其招回
+^ 男子以威胁生命为由要求三星召回 Galaxy S4
+^ 韩教授 S4 LTE-A 手机无冲击爆炸　三星：用户说谎
+^ 不敢再爱了 云南一用户三星S4半夜爆炸. 2013-09-06 [2014-05-14]. （原始内容存档于2014-07-03）. 
+^ 陆客游台湾 %E3%80%80 三星手机突自燃 陆客游台湾　三星 S4 突自燃
+^ Exploding phone’ sets pram on fire
+^ Exploding phone' sets children's stroller on fire
+^ Samsung S4 is Dangerous to Life 互联网档案馆的存档，存档日期2014-01-02.
+^ Samsung Galaxy S4: ecco il primo caso di autocombustione in Italia
+^ 三星逼网民删 S4 烧毁片. 2013-12-12 [2013-12-12]. 
+^ 三星 S4 又爆炸 网友讽：Galaxy “C4” 互联网档案馆的存档，存档日期2013-12-12.
+^ samsung galaxy s4 caught fire proof for samsung
+^ 科技 三星爆机要求封口 诺基亚赠手机趁机修理 请检查|url=值 (帮助). 2013-12-11 [2013-12-12]. 
+^ [2]
+^ [3]
+^ ЭКСКЛЮЗИВ. В РОССИИ ЗАФИКСИРОВАН СЛУЧАЙ ВОЗГОРАНИЯ SAMSUNG GALAXY S4
+^ Samsung Galaxy S4 再爆炸，原厂电也没保障？ 互联网档案馆的存档，存档日期2016-03-17.
+^ У минчанки загорелся Galaxy S4, эксперты и Samsung подозревают СВЧ-печь
+^ Another Samsung Galaxy S4 Catches Fire VIDEO
+^ 三星S4再现爆炸事件 S5也不能让人放心？ 互联网档案馆的存档，存档日期2014-05-14.
+^ Michele Crivelli (27) explodierte in der Beiz das Handy. Bei Anruf bumm!
+^ Video: 'It was like a bomb' - dad's shock as mobile bursts into flames while driving
+^ 三星S4充电起火　地毯烧出一个洞
+^ Mobile phone battery explodes in Gravesend home
+
+
+
+
+前任：
+Samsung Galaxy S III
+Samsung Galaxy S4
+2013
+继任：
+Samsung Galaxy S5
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+三星Galaxy S系列
+
+
+
+
+
+
+手机
+
+
+
+Samsung Galaxy S
+Samsung Galaxy S 4G
+Samsung Galaxy S Advance
+Samsung Galaxy S Duos
+Samsung Galaxy S Duos 2
+Samsung Galaxy S Duos 3
+Samsung Galaxy S Hoppin
+Samsung Galaxy SL
+Samsung Galaxy S Lightray 4G
+Samsung Galaxy S Plus
+Samsung Galaxy S Relay 4G
+Samsung Galaxy S II
+Samsung Galaxy S II Epic 4G Touch
+Samsung Galaxy S II HD LTE
+Samsung Galaxy S II Lite
+Samsung Galaxy S II Plus
+Samsung Galaxy S II Skyrocket
+Samsung Galaxy S II Skyrocket HD
+Samsung Galaxy S II WiMAX
+Samsung Galaxy S II X
+Samsung Galaxy S III
+Samsung Galaxy S III Mini
+Samsung Galaxy S III Neo
+Samsung Galaxy S III Slim
+Samsung Galaxy S4
+Samsung Galaxy S4 Active
+Samsung Galaxy S4 Mini
+Samsung Galaxy S5
+Samsung Galaxy S5 Active
+Samsung Galaxy S5 Mini
+Samsung Galaxy S5 Neo
+Samsung Galaxy S5 Sport
+Samsung Galaxy S6
+Samsung Galaxy S6 Active
+Samsung Galaxy S6 Edge
+Samsung Galaxy S6 Edge+
+Galaxy S7
+Samsung Galaxy S7 Active
+Galaxy S7 Edge
+Galaxy S8
+Galaxy S8+
+
+
+
+
+
+
+
+
+
+
+
+平板电脑
+
+
+
+Samsung Galaxy Tab S 10.5
+Samsung Galaxy Tab S 8.4
+Samsung Galaxy Tab S2 8.0
+Samsung Galaxy Tab S2 9.7
+Samsung Galaxy Tab S3 9.7
+
+
+
+
+
+
+
+
+其他
+
+
+
+Samsung Galaxy S WiFi 3.6
+Samsung Galaxy S WiFi 4.0
+Samsung Galaxy S WiFi 4.2
+Samsung Galaxy S WiFi 5.0
+Samsung Galaxy S4 Zoom
+
+
+
+
+
+
+
+
+
+
+
+
+分类：三星Galaxy触控手机2013年面世的手机隐藏分类：Webarchive模板wayback链接含有网址格式错误的引用的页面使用Pathnav的主名字空间页面

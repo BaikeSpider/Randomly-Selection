@@ -1,0 +1,3 @@
+变性梯度凝胶电泳
+
+变性梯度凝胶电泳（denatured gradient gel electrophoresis，DGGE）最初是Lerman 等人于20 世纪80 年代初期发明的，起初主要用来检测DNA 片段中的点突变。Muyzer 等人在1993 年首次将其应用于微生物群落结构研究 。后来又发展出其衍生技术，温度梯度凝胶电泳（temperature gradient gel electrophoresis，TGGE）。此后十年间，该技术被广泛用于微生物分子生态学研究的各个领域，目前已经发展成为研究微生物群落结构的主要分子生物学方法之一。

@@ -1,0 +1,4 @@
+三星Galaxy S4
+
+三星Galaxy S4（Samsung Galaxy S4）是三星电子在2013年推出的一款手机，搭载Exynos 5410双四核处理器，安卓系统支持ARM big.LITTLE Processing省电技术，是A7+A15的组合（基于Cortex-A15架构，主频1.6GHz、基于Cortex-A7架构，主频1.2GHz。 GPU为Imagination PowerVR SGX544 MP3）。三星Galaxy S4配有1300万像素摄像头，运行Android4.2.2+TouchWiz系统，机身厚度为7.9mm，内置Rom16/32/64GB，RAM为2GB。[1] 
+

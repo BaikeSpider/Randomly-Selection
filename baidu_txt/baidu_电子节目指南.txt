@@ -1,0 +1,3 @@
+电子节目指南
+
+电子节目指南（electrical program guide，简称EPG）是Electronic Program Guide的英文缩写，意思是电子节目菜单。 IPTV所提供的各种业务的索引及导航都是通过电子节目指南系统来完成的。

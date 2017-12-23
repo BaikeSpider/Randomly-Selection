@@ -1,0 +1,168 @@
+
+
+
+
+
+
+
+
+
+
+收藏
+查看我的收藏
+
+
+
+0
+有用+1
+已投票
+
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OPML
+编辑
+锁定
+
+本词条缺少名片图，补充相关内容使词条更完整，还能快速升级，赶紧来编辑吧！
+
+
+大纲处理标记语言其实建立在可扩展标记语言（标准通用标记语言的子集）之上的标记语言，主要用于描述一份资料的结构，这份资料可能是计划书、黄页的目录，甚至是MP3的播放清单。如果每个软件可以遵循大纲处理标记语言的格式对所处理资料输入、输出，那这些信息就可以在不同系统不同软件之间传递，使不同软件实现直接“对话”。
+
+
+
+
+中文名
+
+大纲处理标记语言
+
+外文名
+
+Outline Processor Markup Language
+
+
+外语缩写
+
+OPML（也做文件扩展名）
+
+类型格式
+
+大纲
+
+
+
+
+目录
+
+
+
+1
+简介
+
+
+2
+示例
+
+
+
+
+
+
+
+
+
+
+OPML简介
+编辑
+
+<opml version=”1.0”>
+这是根元素。OPML文档需要包括版本信息以及一个head和一个body元素。
+<head>
+包含元数据，可以包括以下的可选元素：title, dateCreated, dateModified, ownerName, ownerEmail, expansionState, vertScrollState, windowTop, windowLeft, windowBottom, windowRight。每种元素是简单的文本信息，创建日期以及修改日期的内容符合RFC 822指定的日期格式。展开状态(expansionState）元素包含了一个由逗号分割的行号列表，指明在显示时需要展开的行。WindowXXX元素定义了显示窗口的位置的大小。OPML处理器可能会忽略所有的头部子元素，如果一个大纲是在另一个大纲内显示，则处理器必须忽略窗口元素的内容。
+<body>
+含大纲的内容，必须有一个或多个大纲元素。
+<outline>
+表示大纲中的一行，可以包含任意数量的自定义属性，通用的属性包括文本与类型。大纲元素可包含任意数量的大纲子元素。
+
+
+
+
+OPML示例
+编辑
+
+<?xml version="1.0" encoding="GB2312"?>
+<opml version="1.0">
+      <head>
+            <title>百度百科</title>
+            <ownerName>百度百科词条</ownerName>
+
+            <windowTop>164</windowTop>
+            <windowLeft>50</windowLeft>
+            <windowBottom>672</windowBottom>
+            <windowRight>455</windowRight>
+
+            </head>
+      <body>
+            <outline text="百度百科词条">
+                  <outline text="读者在读百度百科词条"/>
+            </outline>
+            </body>
+      </opml>
+[1] 
+
+
+参考资料
+
+
+
+1.
+  
+playlist 
+．Outline Processor Markup Language[引用日期2013-12-23]
+
+
+
+词条标签：
+
+
+科技产品
+
+，
+互联网产品
+
+，
+互联网
+
+
+
+
+

@@ -1,0 +1,73 @@
+
+
+
+
+
+
+
+收藏
+查看我的收藏
+
+
+
+0
+有用+1
+已投票
+
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+余有限空间
+编辑
+锁定
+
+本词条缺少概述、信息栏、名片图，补充相关内容使词条更完整，还能快速升级，赶紧来编辑吧！
+
+
+
+
+若一个集X的子集Y，使得补集X − Y为有限集，则称Y为X的余有限集（cofinite）。
+类似地，若一个集X的子集Y，使得补集X − Y为可数集，则称Y为余可数集（cocountable）。
+余有限拓扑是将集内所有余有限集定义为开集的拓扑，这样的拓扑空间称为余有限空间。其性质有：
+可传子：余有限空间的子空间也是余有限的。 紧致、列紧 T1空间而非T2空间 Lindel&ouml;f空间 连通空间 可析空间 类似地可定义余可数空间。它必是Lindel&ouml;f空间和连通空间。
+
+
+
+
+
+        window.rsInsertData = window['rsInsertData'] || [];
+        var rsdataList = {"foot":[{"fentryTableId":32011,"fentryTableName":"\u70b9\u96c6\u62d3\u6251\u7cfb\u5217","fentryTableType":1,"entryId":2584892,"templateId":0,"entryTitle":"\u70b9\u96c6\u62d3\u6251\u7cfb\u5217","isManual":0,"isExpand":1}],"top":[]};
+
+        if (rsdataList.top || rsdataList.foot) {
+            rsInsertData.push([2670738, rsdataList]);
+        }
+    

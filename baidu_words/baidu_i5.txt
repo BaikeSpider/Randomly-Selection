@@ -1,0 +1,475 @@
+
+
+
+
+
+
+
+收藏
+查看我的收藏
+
+
+
+0
+有用+1
+已投票
+
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+i5
+（处理器型号）
+编辑
+锁定
+
+
+
+i5，是一个多义项词，分别有几个不同的含义。Core i5，是英特尔新型处理器.
+
+
+
+
+中文名
+
+酷睿i5
+
+外文名
+
+core i5
+
+
+全    称
+
+英特尔新型处理器
+
+公    司
+
+英特尔公司
+
+
+
+
+目录
+
+
+
+1
+市场分析
+
+
+2
+台式机
+
+
+3
+Ivy Bridge
+
+
+
+
+
+
+
+
+
+
+i5市场分析
+编辑
+
+面对着价格昂贵的Core i7，新架构处理器很难走进广大消费者的生活之中，不过曝光了又一款基于Nehalem架构的双核处理器，其依旧采用整合内存控制器，三级缓存模式，L3达到8MB，支持Turbo Boost等技术的新处理器——Core i5酷睿I5。Core i5 采用的是成熟的DMI（Direct Media Interface），相当于内部集成所有北桥的功能，采用DMI用于准南桥通信，并且只支持双通道的DDR3内存。结构上它用的是LGA1160（后改为LGA1156）接口，Core i7用的是LGA1366。
+英特尔将Lynnfield定位于200美元以下的主流市场。但Lynnfield不全等于酷睿I5
+09年六月，英特尔公关部主任BILL CALDER详细描述了英特尔消费级桌面处理器的品牌体系，并且公布了CORE
+
+
+
+I5 CORE I3两个子品牌。
+Lynnfield的确会与CORE I5有一定关联，但是不会一刀切，支持HT的Lynnfield和移动版Lynnfield将归于酷睿I7系列。而不支持HT的Lynnfield，会被归于酷睿I5系列。
+据悉，首批上市的Lynnfield，会有2.93G 2.8G 2.66G三个版本,其中前两种会支持HT，可能归于酷睿I7系列。
+I5应该是最终取代老迈的酷睿2四核的产品。
+
+
+
+
+i5台式机
+编辑
+
+Clarkdale(32nm)
+※CPU支持：MMX, SSE, SSE2, SSE3, SSSE3,SSE4.1, SSE4.2, EIST, Intel 64, XD bit , TXT, Intel VT-x, Intel VT-d,Hyper-Threading, Turbo Boost, Smart Cache, AES-NI
+型号
+步进
+主频
+加速频率
+GPU频率
+二级缓存
+三级缓存
+总线速度
+TDP
+插槽
+Core i5-650
+C2/K0
+3.2GHz
+3.46GHz
+733MHz
+256KBX2
+4MB
+2.5GT/s
+73W
+1156
+Core i5-655K
+K0
+3.2GHz
+3.46GHz
+733MHz
+256KBX2
+4MB
+2.5GT/s
+73W
+1156
+Core i5-660
+C2/K0
+3.33GHz
+3.6GHz
+733MHz
+256KBX2
+4MB
+2.5GT/s
+73W
+1156
+Core i5-661
+C2
+3.33GHz
+3.6GHz
+900MHz
+256KBX2
+4MB
+2.5GT/s
+87W
+1156
+Core i5-670
+C2
+3.46GHz
+3.73GHz
+733MHz
+256KBX2
+4MB
+2.5GT/s
+73W
+1156
+Core i5-680
+K0
+3.6GHz
+3.86GHz
+733MHz
+256KBX2
+4MB
+2.5GT/s
+73W
+1156
+Lynnfield(45nm)
+※CPU支持：MMX, SSE, SSE2, SSE3, SSSE3, SSE4.1, SSE4.2, EIST, Intel 64,XD bit, Intel VT-x, Turbo Boost, Smart Cache
+型号
+步进
+主频
+加速频率
+二级缓存
+三级缓存
+总线速度
+TDP
+插槽
+Core i5-740
+B1
+2.53GHz
+3.06GHz
+256KBX4
+8MB
+2.5GT/s
+95W
+1156
+Core i5-750
+B1
+2.66GHz
+3.2GHz
+256KBX4
+8MB
+2.5GT/s
+95W
+1156
+Core i5-750S
+B1
+2.4GHz
+3.2GHz
+256KBX4
+8MB
+2.5GT/s
+82W
+1156
+Core i5-760
+B1
+2.8GHz
+3.33GHz
+256KBX4
+8MB
+2.5GT/s
+95W
+1156
+笔记本
+Arrandale(32nm)
+※CPU支持：MMX, SSE, SSE2, SSE3, SSSE3, SSE4.1, SSE4.2, EIST, Intel 64,XD bit, Intel VT-x, Turbo Boost, Smart Cache
+型号
+步进
+主频
+加速频率
+GPU频率
+二级缓存
+三级缓存
+总线速度
+TDP
+插槽
+Core i5-430M
+C2/K0
+2.26GHz
+2.53GHz
+500/667MHz
+256KBX2
+3MB
+2.5GT/s
+35W
+1288
+Core i5-450M
+K0
+2.4GHz
+2.66GHz
+500/667MHz
+256KBX2
+3MB
+2.5GT/s
+35W
+1288
+Core i5-460M
+K0
+2.53GHz
+2.8GHz
+500/667MHz
+256KBX2
+3MB
+2.5GT/s
+35W
+1288
+Core i5-520M
+C2/K0
+2.4GHz
+2.93GHz
+500/667MHz
+256KBX2
+3MB
+2.5GT/s
+35W
+1288
+Core i5-520E
+C2/K0
+2.4GHz
+2.93GHz
+500/667MHz
+256KBX2
+3MB
+2.5GT/s
+35W
+1288
+Core i5-540M
+C2/K0
+2.53GHz
+3.06GHz
+500/667MHz
+256KBX2
+3MB
+2.5GT/s
+35W
+1288
+Core i5-560M
+K0
+2.66GHz
+3.2GHz
+500/667MHz
+256KBX2
+3MB
+2.5GT/s
+35W
+1288
+Core i5-580M
+K0
+2.66GHz
+3.33GHz
+500/667MHz
+256KBX2
+3MB
+2.5GT/s
+35W
+1288
+Core i5-430UM
+K0
+1.2GHz
+1.73GHz
+166/500MHz
+256KBX2
+3MB
+2.5GT/s
+18W
+1288
+Core i5-520UM
+C2/K0
+1.06GHz
+1.86GHz
+166/500MHz
+256KBX2
+3MB
+2.5GT/s
+18W
+1288
+Core i5-540UM
+K0
+1.2GHz
+2GHz
+166/500MHz
+256KBX2
+3MB
+2.5GT/s
+18W
+1288
+Core i5-560UM
+K0
+1.33GHz
+2.13GHz
+166/500MHz
+256KBX2
+3MB
+2.5GT/s
+18W
+1288
+Core i5-480M
+k0
+2.66GHz
+2.93GHz
+500/667MH
+256KBX2
+3MB
+2.5GT/s
+35W
+1288
+
+
+
+
+
+i5Ivy Bridge
+编辑
+
+型号
+代号
+市场区隔
+制程
+核心/执行绪
+速度
+L2快取
+L3快取
+记忆体控制器
+汇流排介面
+TDP
+插槽
+出品日期
+价格/美元
+3570K
+Ivy Bridge
+桌上型
+22nm
+4C/4T
+3.40 GHz
+256KB x4
+共用6MB
+双鍊结　　DDR3 1600/
+1333
+5.0GT/s DMI
+77W
+LGA 1155
+2012年Q2
+$225
+3570
+5.0GT/s DMI
+77W
+LGA 1155
+2012年Q2
+$205
+3550
+3.30 GHz
+5.0GT/s DMI
+77W
+LGA 1155
+2012年Q2
+$205
+3470
+3.20 GHz
+5.0GT/s DMI
+77W
+LGA 1155
+2012年Q2
+$184
+3450
+3.10 GHz
+5.0GT/s DMI
+77W
+LGA 1155
+2012年Q2
+$184[1] 
+
+
+参考资料
+
+
+
+1.
+  
+Intel Core i5 
+．维基百科[引用日期2013-03-19]
+
+
+
+词条标签：
+
+
+音乐作品
+
+，
+音乐
+
+
+
+
+

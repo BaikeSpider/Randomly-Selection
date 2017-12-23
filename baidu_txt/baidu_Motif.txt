@@ -1,0 +1,3 @@
+Motif
+
+Motif 最初是由 OSF(开放基金协会)开发的一个工业标准的GUI(图形用户接口)。1996年，OSF 与 X/Open 合并为 Open Group，1997年初，X 联盟结束，并将其归属的项目移交给 Open Group。Open Group 继续开发和支持X窗口系统，Motif，CDE，和其他技术。2000年5月15日，Open Group 使用公共许可证向开放源代码团体发布了 Motif 的源代码。在开放系统(如Linux)上，可以使用免费的 Motif。

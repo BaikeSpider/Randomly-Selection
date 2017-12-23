@@ -1,0 +1,3 @@
+本徵值方程
+
+以物理学来说本徵值方程（Eigenvalue Equation），那么薛丁格（Schr&ouml;dinger）的波动方程就是一个很好的谈论对象。

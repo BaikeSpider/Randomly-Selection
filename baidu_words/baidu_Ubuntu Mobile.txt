@@ -1,0 +1,147 @@
+
+
+
+
+
+
+
+
+
+
+收藏
+查看我的收藏
+
+
+
+0
+有用+1
+已投票
+
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ubuntu Mobile
+编辑
+锁定
+
+本词条缺少信息栏、名片图，补充相关内容使词条更完整，还能快速升级，赶紧来编辑吧！
+
+
+ubuntu Mobile 是移动版Ubuntu，为互联网设备而生，基于当下非常流行的Ubuntu Linux发行版，开源，具有完整的网络支持以及丰富自定义项目。[1] 
+
+
+
+
+
+目录
+
+
+
+1
+简介
+
+
+2
+特点
+
+
+
+
+
+
+
+
+
+
+Ubuntu Mobile简介
+编辑
+
+ubuntu Mobile 是移动版Ubuntu，为互联网设备而生，基于当下非常流行的Ubuntu Linux发行版，开源，具有完整的网络支持以及丰富自定义项目。[1] 
+
+
+
+
+
+Ubuntu Mobile特点
+编辑
+
+* 完整的Web 2.0/AJAX，以及Adobe Flash, Java等等支持；
+* 突出的媒体回放功能；
+* 满足各种人群使用的软件包；
+* Facebook, MySpace, YouTube, Dailymotion, 3D 游戏, GPS, maps等等Web 2.0体验让移动设备更加强大、完整。
+设备支持方面：
+* 小尺寸元素
+* 4-7 寸触摸屏
+* 物理虚拟键盘
+* Wi-Fi, 3G, Bluetooth, GPS, WiMAX
+* 2GB-8GB 闪存卡，256MB+ 内存/512MB+ 推荐
+* OpenGL 3D
+* USB, 摄像头, 耳机接口, 扬声器, 话筒等硬件支持。[1] 
+
+
+
+
+
+
+
+
+        window.rsInsertData = window['rsInsertData'] || [];
+        var rsdataList = {"foot":[{"fentryTableId":24959,"fentryTableName":"Ubuntu","fentryTableType":1,"entryId":2492357,"templateId":0,"entryTitle":"Ubuntu","isManual":0,"isExpand":1},{"fentryTableId":27715,"fentryTableName":"Linux\u64cd\u4f5c\u7cfb\u7edf","fentryTableType":1,"entryId":2527828,"templateId":0,"entryTitle":"Linux\u64cd\u4f5c\u7cfb\u7edf","isManual":0,"isExpand":1}],"top":[]};
+
+        if (rsdataList.top || rsdataList.foot) {
+            rsInsertData.push([5571214, rsdataList]);
+        }
+    
+
+参考资料
+
+
+
+1.
+  
+手机操作系统 Ubuntu Mobile 分享 
+．开源社区网[引用日期2012-09-10]
+
+
+
+词条标签：
+
+
+科技产品
+
+，
+科学
+
+
+
+
+

@@ -1,0 +1,4 @@
+Ubuntu Mobile
+
+ubuntu Mobile 是移动版Ubuntu，为互联网设备而生，基于当下非常流行的Ubuntu Linux发行版，开源，具有完整的网络支持以及丰富自定义项目。[1] 
+

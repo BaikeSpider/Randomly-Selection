@@ -1,0 +1,3 @@
+HSPA+
+
+HSPA+的英文全称为 High-Speed Packet Access+，增强型高速分组接入技术，是HSPA的强化版本，最高的下行21Mbps，大部分HSPA+手机基本都是支持5.76Mbps的最高上行速度和21Mbps或者28Mbps的最高下行速度，相比较HSPA的速度更快。总的来说HSPA+比HSPA的速度更快，性能更好，技术更先进，同时网络也更稳定，是目前LTE技术运用之前的最快的网络！ITU已经把HSPA+列为4G网络的一个标准，目前4G标准有LTE-Advanced、WirelessMAN-Advanced、WIMAX、HSPA+、LTE（FDD-LTE和TDD-LTE）5个标准。

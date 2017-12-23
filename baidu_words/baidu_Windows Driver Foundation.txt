@@ -1,0 +1,173 @@
+
+
+
+
+
+
+
+
+
+
+收藏
+查看我的收藏
+
+
+
+0
+有用+1
+已投票
+
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Windows Driver Foundation
+编辑
+锁定
+
+本词条缺少概述、信息栏、名片图，补充相关内容使词条更完整，还能快速升级，赶紧来编辑吧！
+
+
+
+
+
+
+目录
+
+
+
+1
+User-Mode Driver Framework
+
+
+2
+Kernel-Mode Driver Framework
+
+
+3
+PREfast
+
+
+▪
+PREfast的工作
+
+
+4
+Kernel-Mode Code Signing
+
+
+
+
+
+Windows Driver Foundation（视窗驱动程序基础，简称WDF），是微软公司所提供的驱动程序开发技术的集合，包括Kernel-Mode Driver Framework（核心模式驱动程序架构，KMDF）、User-Mode Driver Framework（用户模式驱动程序架构，UMDF）以及PREfast plug-in for Drivers（PFD），目的是要改善目前Windows平台的驱动程序品质，可支持Windows 2000、Windows XP、Windows Server 2003、Windows Vista、Windows Server 2008和 Windows 7，以及更新的操作系统上之最新驱动程序架构。WDF架构提供了异步输入输出、分层式驱动程序、随插即用（PNP）、电源管理（Power Manager），以及视窗管理规范（Windows Management Instrumentation，WMI）等功能。
+
+
+
+
+Windows Driver FoundationUser-Mode Driver Framework
+编辑
+
+用户模式驱动程序框架（User-Mode Driver Framework）是核心模式驱动程序框架（Kernel-Mode Driver Framework）的子集合，提供随插即用（PNP）、电源管理（Power Manager）、异步输出输入等功能。
+
+
+
+
+Windows Driver FoundationKernel-Mode Driver Framework
+编辑
+
+Kernel-Mode Driver Framework（核心模式驱动程序架构，简称KMDF），是美国微软公司推出的视窗驱动程序基础（Windows Driver Foundation）之一，建构 Windows XP 与 Windows Server 2003 的核心模式（Kernel-Mode）驱动程序所需的基本功能，包括对随插即用（PNP）、电源管理（Power Manager）、I/O 队列、直接存储器访问（DMA）、Windows Management Instrumentation（WMI）和同步处理等的完整支持。KMDF 的设计并不能用来取代 WDM，它提供“Skeletal WDM”（一个骨架）建置来替代WDM；目前，KMDF并不支持总线筛选驱动程序（Bus Filter Driver）。
+
+
+
+
+Windows Driver FoundationPREfast
+编辑
+
+PREfast（Prefast.exe）是静态的源代码分析工具（static source code analysis tool），可侦测原始代码中不易用一般编译器找到的特定类型错误，目前已集成至Visual Studio 2005 Team Suite中，使用时只要设置‘Enable Code Analysis For C/C++’为Yes即可。
+
+
+
+
+
+Windows Driver FoundationPREfast的工作
+
+变量未初始化 
+void init() 
+{
+int a;
+int b;
+b =a;
+}
+运算对象优先权的问题 
+void priority()
+{
+int a =1;
+int b =1;
+int c =1;
+if(a &b ==c)
+return;
+}
+存储器溢出问题 
+void overrun()
+{
+charbuf[100];
+charbuf2[200];
+int i =100;
+sprintf(buf, "size%d", i);
+strcpy(buf, buf2);
+}
+
+
+
+
+Windows Driver FoundationKernel-Mode Code Signing
+编辑
+
+微软提供测试时期的类型签章认证，可以让用户产生所需要的CER档与CAT档。
+首先，使用文本编辑器创建一个 .cdf 文件，包含要加入目录的文件及其属性的清单。
+[CatalogHeader]Name=Good.cat
+PublicVersion=0x0000001
+EncodingType=0x00010001
+CATATTR1=0x10010001:OSAttr:2:6.0
+[CatalogFiles]
+... 
+产生一个cer档 
+makecert -pe -ss PrivateCertStore -n CN=Contoso.com(Test)ContosoTest.cer 
+makecert.exe可制作cer格式的证书，即X.509证书。
+产生一个cat档 
+MakeCat -v Good.cdf 
+Signability.exe /auto /cat /driver:package_directory /os:512 
+产生cat档签证 
+SignTool sign /v /ac CrossCertificateFile /s SPCCertificateStore /n SPCSubjectName /t http://timestamp.verisign.com/scripts/timestamp.dll Good.cat 
+安装签证过的cat档 
+使用CryptCATAdminAddCatalogAPI
+验证 
+Signtool verify/kp /c tstamd64.cat toaster.sys 

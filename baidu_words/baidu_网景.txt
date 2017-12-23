@@ -1,0 +1,380 @@
+
+
+
+
+
+
+
+收藏
+查看我的收藏
+
+
+
+0
+有用+1
+已投票
+
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+网景
+（网景通信公司）
+编辑
+锁定
+
+
+
+网景是网景通信公司（Netscape Communications Corporation）的常用简称。网景通信公司曾经是一家美国的计算机服务公司，以其生产的同名网页浏览器Netscape Navigator而闻名。1998年11月，网景被美国在线（AOL）收购。
+
+
+
+
+公司名称
+
+网景通信公司
+
+外文名称
+
+Netscape Communications Corporation
+
+
+成立时间
+
+1994年4月4日
+
+被收并时间
+
+2003年7月5日
+
+
+
+
+目录
+
+
+
+1
+发展简史
+
+
+▪
+初期
+
+
+▪
+源代码
+
+
+▪
+收购
+
+
+▪
+解散
+
+
+▪
+退出
+
+
+2
+产品服务
+
+
+3
+Gecko
+
+
+▪
+发展简史
+
+
+▪
+未来发展
+
+
+4
+经验教训
+
+
+
+
+
+
+
+
+
+
+网景发展简史
+编辑
+
+
+
+
+
+
+
+网景初期
+
+1993年，美国伊利诺州的伊利诺大学的国家
+
+
+
+超级计算机应用中心（National Center for Supercomputing Applications，简称NCSA），发表了一个浏览器，命名为“Mosaic”，在当时人气爆发的大受欢迎，Mosaic的出现，算是点燃后来因特网热潮的火种之一。
+1994年4月4日，MOSAIC开发的中心人物马克·安德森和Silicon Graphic(计算机绘图用的高性能计算机制造公司，简称为SGI，中译则是“视算科技”或“硅图”)公司的创始人吉姆·克拉克在美国加州设立了“MOSAIC Communication Corp”。
+Mosaic公司成立后，由于美国伊利诺伊大学的NCSA拥有Mosaic的商标版权，且伊利诺伊大学已将技术转让给望远镜娱乐公司（Spyglass Entertainment），开发团队必须彻底重新撰写浏览器代码。
+1994年10月13日，该公司开发的浏览器Mosaic Netscape 0.9发布，虽然仍是beta版本，该浏览器获得重大成功，成为当时最热门的浏览器。
+1994年11月14日，为了避免和NCSA的商标拥有权问题，更名为网景通信公司（Netscape Communications Corporation）。同年12月15日，网景浏览器1.0正式版发布，软件改名为网景导航者（Netscape Navigator）。 网景导航者是以共享软件的方式贩卖，因为功能追加得很快，所以当时占有率相当地高。经历后续版本的用户积累，网景成为浏览器市场占有率的首位。
+1995年8月9日，公司首次公开募股获得巨大成功。原本股票价值，为每股14美元，但因一个临时决定，股价倍增至每股28美元。第一天收市，股价升至每股75美元，几乎是当时创记录的“首日获利”。1995年，该公司的收入每季上升一倍。
+稍后时间，网景公司更多次尝试创做一种能够让用户通过浏览器操作的网络应用系统。这引起微软注意，担心网景可能威胁到微软的操作系统和应用程序市场，于是在1995年向望远镜娱乐公司（Spyglass Entertainment）买下Mosaic的授权，以此为基础开发了Internet Explorer ，进军浏览器市场，双方激烈竞争就此展开。网景公司的Netscape Navigator与微软公司的Internet Explorer之间的竞争，后来被称为“浏览器大战”。
+
+
+
+
+
+网景源代码
+
+
+
+
+
+
+Mozilla组织网站
+
+1998年1月，网景与微软IE浏览器竞争失利以后，为了挽回市场，网景通信公司公布旗下所有软件以后的版本皆为免费，并开放网景通信家（Netscape Communicator）4.0的源代码，成立了非正式组织Mozilla（谋智）。Mozilla项目启动，最终Mozilla组织开发出了在功能和稳定性上更出色的新一代网络应用软件套装“Mozilla Application Suite”，它所采用的新排版引擎最后被网景市场部门命名为“Gecko”。
+1998年10月，公司耗资100万美元收购Newhoo并重新命名为“Open Directory Project”，在内容开放条例下发布其数据库。
+
+
+
+
+
+网景收购
+
+1998年11月24日，美国在线以42亿美元、免税换股的方式，收购网景。而在2000年美国在线又与时代华纳合并。最终，网景的服务器产品和专业服务团体，成为iPlanet的一部分。iPlanet为美国在线和太阳微系统共有的营销和发展联盟。
+延迟近2年后，2000年11月14日，美国在线跳过了Netscape 5，终于发布了采用Gecko引擎的新版本Netscape 6。
+
+
+
+
+
+网景解散
+
+证实微软因滥用垄断能力而败讼后，美国在线向微软提出索偿诉讼。在2003年5月，微软和美国在线达成和解协议，愿意支付网景7.5亿美元，并同意向美国在线提供7年无限制的使用和散布Internet Explorer的权利。这被认为是“网景退出的信号”。
+2003年7月15日美国在线解散网景公司，大部分程序员被解雇，网景的标志也从办公大楼中去除。而Mozilla基金会（Mozilla Foundation）亦在当天成立。网景只作为一个商标存在。
+
+
+
+
+
+网景退出
+
+2007年12月28日，美国在线在博客表示将停止网景浏览器的开发[1] 
+，并于2008年3月1日停止安全更新和所有的技术支持，并建议用户转移使用Mozilla Firefox浏览器。这就意味着于1994年问世的 Netscape 将正式退出历史舞台。
+1998年11月，网景被美国在线（American OnLine，AOL）收购，而后来美国在线和时代华纳合并，之后再独立。美国在线依然使用网景这品牌，于2008年3月1日停止支持的网景浏览器后，保留了门户网站Netscape。此外也有经营着一个以网景为名的廉价互联网服务。
+
+
+
+
+网景产品服务
+编辑
+
+网景导航者（1.0—4.08）
+
+
+
+
+
+网景导航者
+
+Netscape Navigator（台湾译为“网景领航员”，中国大陆方面译为“网景导航者”）是网景浏览器1.0至4.08的名称。
+1994年10月13日，该公司发布了Mosaic Netscape 0.9。
+同年12月15日，经过修正后1.0正式版发布，软件改名为Netscape Navigator。 网景导航者的功能和市场占有率，在1.0版推出之后飇升。
+1995年起搭载cookie、框架和JavaScript等多样独自功能的2.0版上市。2.0版增加了一个全面的电邮阅读器，名为Netscape Mail。这亦把网景导航者由单纯的网页浏览器，转变成一个更全面的网络软件套装。
+1996年3.0版发布，此版本有分为“Standard Edition”和“Gold Edition”两个版本，后者具备邮件软件和所见即所得的网页编辑程序。
+网景通信家（4—4.8）
+Netscape Communicator（中译“网景通信家”）是网景版号4时整个软件套装的总称。内含网页浏览器网景导航者、电子邮件客户端和新闻组软件Netscape Mail and Newsgroups、Netscape Address Book和Netscape Composer等。在此之前，网景导航者既是整个软件套装的名字，亦是程序中的浏览器的名字，故引起一些混乱。
+
+
+
+
+网景通信家
+
+
+在1996年至1997年期间，网景发布了5款套装的预览版。1997年6月，网景通信家4.0正式推出市场。新版本强化JavaScript及其他功能，但由于当时着重产品功能特色多于修正错误，因此软件不太稳定，对网页标准支持不佳、时常宕机、各种漏洞等问题，也为用户带来困扰。尽管如此，当时网景通信家4.0仍然是一款广为使用的软件。
+1998年10月，网景通信家发布4.5版，改善了好几个功能，以合并电子邮件客户端和新闻组的“Mail and Newsgroups”最为重要。不过浏览器的核心引擎依然没有改变，功能与4.08相同。
+Netscape（6.0—7.2）
+
+
+
+
+
+Netscape
+
+从6.0版本开始，“网景通信家 (Netscape Communicator) ”改名为“Netscape”。
+1998年10月，网景公布网景6.0将会使用新开发的Gecko排版引擎，而该浏览器代码亦需要被大幅度重写。对于致力推动网络标准的人，这是一个令人振奋的消息。然而，对于网景开发者而言，这是一个需要花费漫长时间的大工程，而他们在Netscape 5上（包括Mariner排版引擎）所花的心血亦被白白浪费。
+2000年11月14日，将近2年未有新版本后，美国在线放弃了Netscape 5的开发，终于发布了采用Gecko引擎的新版本Netscape 6.0。与之前相似的，是套装包含了领航员和其他通信家组件。另外，亦包含了AOL Instant Messenger和Netscape Instant Messenger的客户端。不过，Netscape 6明显未准备好，就推出市场。它所基于的Mozilla Application Suite 0.6，有许多严重程序错误，可导致频常宕机、或加载页面渲染缓慢；而开发插件的厂商减少，市场占有率几乎没有回复。虽然之后的Netscape 6改善不少，却不能挽回用户的信心。
+2002年，Netscape 7.0发布，基于Mozilla 1.0.1，有相似于Netscape 6的组件。Netscape 7虽然吸引到一些用户，但仍是一个用户太少的浏览器。加上与Mozilla竞争，亦进一步降低网景占有率。而且Netscape 7.0除去了原有的弹出式广告拦截器，引起用户强烈不满。到Netscape 7.01，才恢复弹出式广告拦截器。
+2003年6月30日，Netscape 7.1（开发代号：Buffy，基于Mozilla 1.4）发布。
+2003年7月15日，美国在线解散了网景公司，并解雇网景雇员，又或调职。而Mozilla基金会亦在当天成立，接收了许多前网景员工。美国在线，继续内部开发网景，但没有专长于网景的员工，改善很少。
+2004年8月，最后一个基于Mozilla的Netscape 7.2（基于Mozilla 1.7.2）发布。
+Netscape Browser（8.0—8.1.3）
+
+
+
+
+
+Netscape Browser
+
+2005年至2007年期间，网景发布的程序，改名为“Netscape Browser”。美国在线选择将Netscape Browser建基于比较成功的Mozilla Firefox。因此，Netscape Browser不再追求成为“全面网络套装”，而是回到网页浏览器。另一个令人争议的改变，是Netscape Browser只有Windows版本。而且使用“双排版引擎”——Internet Explorer核心（Trident）及Mozilla Firefox核心（Gecko）。
+由于数年前网景解散，大众对于Netscape Browser交由加拿大外判商Mercurial Communications制作此事不太惊讶。
+2007年4月2日发布的最终版本Netscape Browser 8.1.3版，修正了8.0至8.1.2的各种程序错误。
+网景导航者 9
+
+
+
+
+
+网景导航者 9
+
+2007年1月23日，网景确定Netscape Browser 8系列将由第9版取代。新版本更配合当时的Netscape社区，包含改善讨论、提交和投票的方法。它又回复跨平台功能——支持Windows、Linux和Mac OS X，新版本继续基于Mozilla Firefox 2.0，以及支持Firefox的add-on和插件。新版浏览器，回用网景系列最初名称：Netscape Navigator（网景导航者）。官方声称这决定是为了避免用户混淆网景其他的产品。
+最终正式版于2007年10月15日推出，后续不断地有各种安全性更新。
+Netscape网站
+Netscape原本只是普通入门网站，提供搜索服务和一些会员专有服务，例如站内信箱和个人首页My Netscape。
+2006年6月，网景重新设计Netscape，把它变成一个类似Digg的网络社区新闻网站。它的主设计者：Brian Alvey；主开发者：Alex Rudloff。它是由Weblogs, Inc.的首席执行官Jason Calacanis负责，直至他于2006年11月离开美国在线为止。在网站内，用户可投票首页的故事，更可附上意见。
+这个设计直到2007年9月被改变，原本的社交网站改名为Propeller继续经营，原来的Netscape则回归为传统的门户网站。
+网景互联网服务
+美国在线以网景为名，提供一个廉价的调用互联网服务。它的主要竞争者为NetZero。网景互联网服务的广告对象，以年轻人为主，例如大学生和刚刚毕业的人。
+其他
+Netsite Communications web server
+Netsite Commerce web server
+Netscape Proxy Server
+Netscape Personal Edition（包含点对点协议和帐户创立向导）
+Netscape FastTrack和Enterprise网页服务器
+Netscape Collabra Server，一个NNTP新闻服务器
+Netscape Directory Server，一个LDAP服务器
+Netscape Messaging Server，一个IMAP和POP3电邮服务器
+Netscape Certificate Server，一个签发SSL证书的服务器
+Netscape Calendar Server，组群工作调度
+Netscape Compass Server，一个搜索引擎和网络蜘蛛
+Netscape Application Server，设计网络应用程序
+Netscape Publishing System
+Netscape Xpert Servers
+ECxpert，一个EDI信息交换服务器
+SellerXpert，一个B2B商用引擎
+BuyerXpert，一个eProcurement引擎
+BillerXpert，一个网上缴费引擎
+TradingXpert，一个HTML EDI交易前端
+CommerceXpert，一个网上零售商店引擎
+网景创建广为使用的JavaScript语言。它亦是“推送技术”（push technology）先驱者。“推送技术”容许网站，定时地“传送”天气、财经和包裹追踪等的信息，到客户端。网景将达成“推送技术”的方法，名为：Netcaster。不幸的，商界很快便发现人们利用“推送技术”来传送广告，被惹恼的用户，会关闭这功能。所以Netcaster只是短暂出现。
+网景最广为人知的，是它努力改善功能，达到适用于跨平台。它的客户端软件，可以在以下操作系统中运行，包括：Windows（3.1、95、98、NT）、Macintosh、Linux、OS/2、BeOS和很多版本的Unix，包括DEC、Solaris、BSDI、IRIX、AIX和HP-UX。它的服务器软件，通常不只用于Unix和Windows NT，某些版本更可在Linux运行，而一个版本的Netscape FastTrack Server，更能在Windows 95或98上运作。大部分的网景服务器软件继续在Sun Java System媒介延续。
+
+
+
+
+网景Gecko
+编辑
+
+Gecko是一套开放源代码、C++编写的网页排版引擎。主要为火狐浏览器（Mozilla Firefox）以及Netscape 6以后版本浏览器所使用。该引擎原本是由网景开发的，现则由Mozilla基金会维护，以多许可方式授权释出，包括Mozilla公共许可证（MPL）、GNU通用公共授权条款（GPL）以及GNU较宽松公共许可证（LGPL）。
+这套排版引擎提供了一个丰富的程序接口以供互联网相关的应用程序使用，例如：网页浏览器、HTML编辑器、客户端/服务器等等。虽然最初主要针对网景和Mozilla Firefox的Mozilla派生产品，但已有很多其他软件在使用这个排版引擎。Gecko是跨平台的，能在Microsoft Windows、Linux和Mac OS X等主要操作系统上运行。
+Gecko在互联网中是最流行的排版引擎之一，其他引擎如Trident（用于Internet Explorer4.0版本开始），其后尚有WebKit（用于Safari以及Google Chrome）以及Presto（用于Opera）。
+
+
+
+
+
+网景发展简史
+
+1997年，网景浏览器在各方面的表现已经比不上它的主要竞争对手Internet Explorer。于是，网景收购了DigitalStyle，开始研发下一代的排版引擎，并期望把新的排版引擎应用于下一版本的网景浏览器上。
+1998年1月，网景与微软IE浏览器竞争失利以后，为挽回市场，开放网景通信家4.0的源代码，成立了非正式组织Mozilla（谋智）。
+Mozilla项目启动，新开发的排版引擎名为Raptor，以开放源代码的方式发放于网络上。后来，因为商标问题，Raptor改名为NGLayout（即Next Generation Layout之意）。而最后NGLayout被网景市场部门重命名为Gecko。
+2003年7月15日，美国在线解散了网景公司。而Mozilla基金会亦在当天成立，继续推动着Gecko的发展。直到今天，Gecko仍继续由Mozilla的员工和义工所维护和发展。
+
+
+
+
+
+网景未来发展
+
+Gecko将会继续支持更多的网络标准，例如：XForms和SVG。Mozilla基金会作为WHATWG（网页超文本技术工作小组，全名：Web Hypertext Application Technology Working Group）的一份子，Gecko和其他排版引擎将会率先支持WHATWG所定下的规格，例如：可供绘画的Canvas。
+
+
+
+
+网景经验教训
+编辑
+
+某种意义上，网景的兴起也代表着网络的兴起。上世纪90年代中期，网景浏览器的市场占有率高达90%以上。1998年，这一数字跌至70%，并且不断快速下跌。也就是在那一年，美国在线收购了网景公司。到21世纪初时，网景浏览器差不多已在市场上销声匿迹。
+网景的失败很大程度上是微软IE浏览器造成的。微软采取操作系统捆绑IE浏览器策略事后被判决为垄断行为。网景在“浏览器大战”中，与微软竞相推出新功能，过度偏向“增加功能”，忽略了网络标准和软件稳定性。
+教训：如果某家更大型的公司意欲进军你所在的市场，你或许应该大幅改变现有战略。不要假装能打败这些公司，而是找到一块利基市场并从中突围。[2] 
+
+
+
+
+
+词条图册
+更多图册
+
+
+
+
+
+
+
+
+
+参考资料
+
+
+
+1.
+  
+网景博客表示将停止开发网景浏览器 
+
+2.
+  
+硅谷内幕：十大失败的市场先行者 网景名列其中 
+
+
+
+
+词条标签：
+
+
+公司
+
+，
+互联网
+
+
+
+
+

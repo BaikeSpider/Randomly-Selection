@@ -1,0 +1,3 @@
+制造资源计划
+
+制造资源计划简称为MRP II，它是ManufacturingResourcePlanning的英文缩写，是在物料需求计划上发展出的一种规划方法和辅助软件。它是以物料需求计划MRP（MaterialsRequirementsPlanning）为核心，覆盖企业生产活动所有领域、有效利用资源的生产管理思想和方法的人－机应用系统。

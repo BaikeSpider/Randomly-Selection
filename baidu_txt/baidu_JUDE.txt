@@ -1,0 +1,3 @@
+JUDE
+
+JUDE(Java and UML Developers' Environment)，一个小巧实用的UML建模软件，不到2M，绝对可以符合UML建模的要求，可以画CLASS，USECASE，STATECHART，ACTIVITY，OBJECT，SEQUENCE，COLLABORATION，COMPONENT和DEPLOYMENT图，可以导入JAVA源文件直接建模，也可以导入ROSE98的MDL文件，可以将模型导出成JAVA源文件，HTML和文本格式。当然它不可能具备ROSE等大型软件的众多强大的功能，但我相信绝大部分人在绝大部分时间用的仅仅是ROSE不到1%的功能，而且还存在着版权的问题。而JUDE是完全免费的，软件发布采用的SMALL RELEASE，一到两个星期就会发布一次，在不断开发新功能的同时，满足用户所提出的新功能的要求和修复前一版本可能存在BUG。

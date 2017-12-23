@@ -1,0 +1,3 @@
+WEEE
+
+WEEE即Waste Electrical and Electronic Equipment (WEEE) Directive (2002/96/EC)报废的电子电气设备，在指令75/442/EEC中对"waste"作出了详细的定义，在指令91/156/EEC中对其进行了修改。报废实际上是针对WEEE指令中附件Ⅰ中所有类别的产品，即使该产品并无达到使用寿命结束的阶段，只要被消费者丢弃都视为废弃物。

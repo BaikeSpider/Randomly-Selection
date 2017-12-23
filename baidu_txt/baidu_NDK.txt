@@ -1,0 +1,3 @@
+NDK
+
+Android NDK 是在SDK前面又加上了“原生”二字，即Native Development Kit，因此又被Google称为“NDK”。

@@ -1,0 +1,3 @@
+可扩展置标语言
+
+可扩展置标语言XML(eXtensible Markup Language)是万维网协会W3C(World Wide Web Consortium)所推荐的第二代Web语言。
