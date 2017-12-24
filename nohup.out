@@ -19,3 +19,24 @@ to interactively debug it.
 Extra-detailed tracebacks for bug-reporting purposes can be enabled via:
     %config Application.verbose_crash=True
 
+]0;IPython: bitnami/Randomly-Selection]0;IPython: bitnami/Randomly-SelectionTraceback (most recent call last):
+  File "wiki_crawl.py", line 49, in <module>
+    wiki.craw()
+  File "wiki_crawl.py", line 38, in craw
+    wiki_new_titles, wiki_keyword_times, wiki_new_data, wiki_urls, titles_len, edits, pageviews_url, editors, first_edit, totalviews, category, reference_count, users, users_edits, all_len, words = self.wiki_parser.parse(urls[i], wiki_soup)
+  File "/home/bitnami/Randomly-Selection/wiki_parser.py", line 426, in parse
+    wiki_new_data, edits, pageviews_url, editors, first_edit, totalviews, users, users_edits, all_len, words = self._wiki_get_new_data(wiki_url, wiki_soup)
+  File "/home/bitnami/Randomly-Selection/wiki_parser.py", line 336, in _wiki_get_new_data
+    edit_history_table = edit_history_tables[3]
+IndexError: list index out of range
+
+If you suspect this is an IPython bug, please report it at:
+    https://github.com/ipython/ipython/issues
+or send an email to the mailing list at ipython-dev@python.org
+
+You can print a more detailed traceback right now with "%tb", or use "%debug"
+to interactively debug it.
+
+Extra-detailed tracebacks for bug-reporting purposes can be enabled via:
+    %config Application.verbose_crash=True
+

@@ -330,7 +330,7 @@ class HtmlParser(object):
         edit_history_url = edit_history_url_temp['href']
         headers = {
             'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36'}
-        edit_history_cont = requests.get(edit_history_url, headers=headers)
+        edit_history_cont = requests.get(edit_history_url)
         edit_history_soup = BeautifulSoup(edit_history_cont.text, 'html.parser')
         edit_history_tables = edit_history_soup.find_all('table')
         edit_history_table = edit_history_tables[3]
