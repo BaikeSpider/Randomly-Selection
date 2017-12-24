@@ -1,0 +1,1992 @@
+Nexus One
+
+Nexus One
+
+
+
+
+
+
+
+生产商
+HTC
+
+
+上市日期
+2010年1月5日
+
+
+后继型号
+Nexus S（由三星电子研发）
+
+
+尺寸
+119 x 59.8 x 11.5 mm
+
+
+重量
+130 g
+
+
+操作系统
+Android 2.1（2010年1月上市搭载）
+Android 2.2（2010年5月）
+Android 2.2.1（2010年9月）
+Android 2.2.2（2011年1月）
+Android 2.3.3（2011年2月）
+Android 2.3.4（2011年5月）
+Android 2.3.6（2011年9月）
+
+
+CPU
+1 GHz 高通QSD8250
+
+
+内存
+512 MB ROM
+512 MB RAM
+
+
+电池
+1400mAh 锂离子电池
+
+
+感应器类型
+触摸屏
+
+
+显示器
+3.7 in. WVGA，AMOLED[1][2]
+
+
+后置相机
+500万像素CMOS
+
+
+连接能力
+GSM / GPRS, EDGE, HSDPA, HSUPA, Bluetooth, 802.11b/g/n, USB
+
+
+目前状态
+已发售
+
+
+参考
+[1][3][4][5][2][6]
+
+
+Nexus One是Google推出的运行Android手机操作系统的智能手机[7][8]。这也是Google自行推出的第一款手机[9]。该手机由HTC公司生产，于2010年1月5日发布[10]。手机的功能包括语音文字识别，内置的Gmail程序，以及驾驶中的语音导航等等。
+该手机目前在美国捆绑T-Mobile移动电话网络发行。Verizon（美国）和Vodafone（欧洲）网络的版本原计划在2010年第二季度上市，但后因市场反应不佳而取消。Google曾同时出售不绑定网络的解锁版，可以在全世界任何GSM网络上使用，但3G功能只在一些网络上可用，后者也已停止销售。
+
+
+
+目录
+
+
+1 硬件
+2 软件
+3 定价和发布日期
+4 历史
+5 名称
+6 参见
+7 参考文献
+8 外部链接
+
+
+
+硬件[编辑]
+Nexus One配有3.7英寸AMOLED显示屏，分辨率为800x480。屏幕具有100000:1的对比度，反应时间为1ms。手机上带有一个轨迹球，可以根据接收的消息类型发出不同颜色的光。该手机有一前一后两个麦克风，后者用于噪音消除，以减少通话背景噪音。手机上还提供一个标准的3.5mm耳机插孔[1]。
+这款手机采用了高通公司QSD 8250 1GHz处理器，4GB的microSD卡（可以扩展至32GB），512MB内存和512MB闪存，500万像素自动聚焦摄像头，LED闪光灯和数码变焦，GPS接收机，光线和距离传感器，蓝牙2.1 + EDR以及802.11b/g的无线功能。它还提供了硬件支持的H.263、H.264和MPEG-4视讯解码，并且可播放MP3、AAC+、AAC++[11]、Ogg Vorbis、WAV和MIDI音频，并显示JPEG、GIF、PNG和BMP等图像格式。该手机使用一个标准micro USB接口，而不是宏达电所专有的连接器。Android商店的应用程序最初的将被限制在内置的512MB闪存，但使用扩展SD卡的程序存储也将在安全和盗版问题得到解决后启用[1][12]。
+这款手机重130克，高119毫米（4.7英寸），宽59.8毫米（2.35英寸），厚度11.5毫米（0.45英寸），由一个可拆卸的1400mAh电池供电，预计待机时间为290小时，通话时间10小时，或接入3G网络5个小时[1]。
+手机的天线支持全球大多数GSM供应商，但不包括AT&T和罗杰斯（加拿大）使用的频段850MHz和1900MHz的UMTS 3G频段。具体覆盖的频段包括四频GSM的850、900、1800和1900以及UMTS 1（2100MHz）、4（1700MHz至）和8（900兆赫）[13]频段。
+软件[编辑]
+Nexus One运行Android 2.1操作系统，代号为“Eclair”（闪电泡芙：一种法式甜点）[1]。在2.1系统固件版本增加了诸如“动态壁纸”等美化功能，这些动画的背景会针对用户的输入而做出不同的反应。“应用程序抽屉”也被一个简单的按钮取代，按下该按钮可以进入手机上安装的应用程序列表。该缩略图列表可以向上和向下滚动，在滚动时，应用程序会收起到一个3D立方体，而不像以前一样简单的从屏幕上消失。当到达应用程序缩略图列表的最底部时，屏幕会像iPhone一样反弹。
+Android 2.1固件中没有提供通过“捏”(Multi touch)这一动作实现缩放的支持，但双击可以达到放大的效果。此外，“画廊”应用程序允许使用的手指滑动切换照片而不必使用“左”或“右”箭头键。
+2010年2月2日，Google官方博客宣布Nexus One的系统固件将会进行第一次升级，更新内容包括"修复3G网络连接问题和支持多点触控"。2010年五月，随着Android 2.2开发代号Froyo的推出，Nexus One成为第一批可更新到Android 2.2平台的系统。
+2011年10月26日，据英国每日电讯报报导，Google行动产品总监 Hugo Barra 表示，Nexus One的硬件设备已经无法支援新的Android操作系统Ice Cream Sandwich（4.0），所以将不提供4.0的更新[14]。
+定价和发布日期[编辑]
+Nexus One发布于2010年1月5日。这款手机通过Google网站销售，解锁版定价529美元，捆绑T-Mobile 2年合同的版本售价则为179美元[15]。可选的月租只有一种：$79.99，包括500分钟通话时间，以及夜间或周末无限通话，无限短信/MMS和网络数据[16]。179美元的T-Mobile的价格只针对目前非T-Mobile用户的个人。而目前已经是T-Mobile包月服务（不含数据）的用户的价格是279.99美元，而目前已经有语音和数据报月服务的T-Mobile用户的价格则是379.99美元。[17] [18]到2010年春季，Verizon和沃达丰的型号将分别在美国和欧洲发行，并计划在适当的时候扩大到其他手机运营商和国际市场。[12][16]
+Google已向英国，新加坡和香港的用户提供送货，而在这些国家地区和当地运营商的捆绑还没有最后确定，手机也会直接从美国发货。客户从英国订购的送货费是20美元，可选的AC充电器价格为19.99美元，此外还会收取17.5％的增值税和6.5％的关税。新加坡收取7％消费税，而香港则不会加收任何额外的税金[19]。
+历史[编辑]
+“Nexus One”的商标名称由Google在2009年12月10日[20]提交商标注册申请[20]。Nexus One商标作为国际商标第9类的“电脑及软件产品和机电产品的科学”与“移动电话的说明[21]提交。该商标被提交时是作为“意图使用”商标，没有任何商业利用的具体日期，表明可能是为未来的产品使用[20]。
+2009年12月12日，Google在博客中证实内部测试已经开始[22]。谷歌表示，已提供给其雇员“移动实验设备”，但未证实，将会把设备出售给消费者。设备的电话和数据服务并没有启动，也不会向Google计费，而由雇员来自行决定激活和支付无线服务费用[23]。
+2010年7月15日，Google在博客中表示在周内接受最后一批的Nexus One的订单后，将停止透过Google网站销售，现有使用者仍可以得到相关支援。而在欧洲、韩国等使用者，将继续从当地手机运营商，按当地的市场情况购买Nexus One。为使开发者继续取得最新的Android手机操作系统的智能手机，已登记的开发者仍可以透过伙伴购买Nexus One[24]。
+
+名称[编辑]
+Nexus One的名字被一些人认为是来自菲利普狄克（Philip K. Dick）的小说《银翼杀手》中的“机器人（Android）会不会梦见电子羊”。该小说后来改编为电影《银翼杀手》。“Android”一词在这本书中出现，但在此书之前也有过更广泛的使用。这本书和电影上都围绕着一群代号为Nexus-6的流亡机器人展开[25][26]。狄克先生的女儿伊萨哈克特（Isa Hackett）称Google对Nexus One的名称使用是“对我们的知识产权的明显侵犯”，并宣布将采取法律行动[27]。
+参见[编辑]
+
+Android装置列表
+
+参考文献[编辑]
+
+
+^ 1.0 1.1 1.2 1.3 1.4 1.5 Nexus One Phone. Google. [January 6, 2010] （英语）. 
+^ 2.0 2.1 OET List Exhibits Report. Federal Communications Commission. [January 6, 2010]. 
+^ Nexus One Owner's Manual NOOGG-220-101 (PDF). Google: 17–19. June 16, 2010 [2011-03-03]. （原始内容 (PDF)存档于三月 4, 2011）.  请检查|archive-date=中的日期值 (帮助)
+^ Nexus on Twitter. Twitter. 
+^ The Nexus One Arrives. [January 17, 2010]. 
+^ Nexus One Specifications. forums.t-mobile.com. T-Mobile USA, Inc. January 6, 2010 [2011-03-03]. （原始内容存档于三月 4, 2011）.  请检查|archive-date=中的日期值 (帮助)
+^ Miguel Helft. With a New Phone, Google May Challenge Apple. New York Times. December 13, 2009 [2009-12-13] （英语）. 
+^ Google Set To Market Own Phone Next Year. [January 6, 2010] （英语）. 
+^ Google Takes On Apple As It Unveils First Mobile Phone. [January 6, 2010] （英语）. 
+^ Google Reveals Nexus One 'Super Phone'. [January 6, 2010] （英语）. 
+^ http://www.google.com/phone/static/en_US-nexusone_tech_specs.html
+^ 12.0 12.1 Google Android Nexus One Live Blog Coverage. Technologizer (Technologizer). January 5, 2010 [Jenuary 6, 2010].  请检查|access-date=中的日期值 (帮助)
+^ Stokes, John. Liveblog: Google Android Press Event. Ars Technica (Ars Technica). January 5, 2010 [January 6, 2010] （英语）. 
+^ Android upgrade for Google Nexus S ‘in weeks’. The Daily Telegraph. [October 26, 2011] （英语）. 
+^ Google Phone Nexus One Available for Sale!. AndroidTapp.com. January 5, 2010 [January 6, 2010] （英语）. 
+^ 16.0 16.1 Nexus One Phone. Google. [January 6, 2010] （英语）. 
+^ Leaked Nexus One Documents: $530 Unlocked, $180 With T-Mobile - Nexus one. Gizmodo. December 29, 2009 [January 6, 2010] （英语）. 
+^ Cell Phone Plans: T-Mobile rate plans-cell phones, wireless plans, BlackBerry, Sidekick. T-Mobile. [January 6, 2010] （英语）. 
+^ Nexus One: Estimate your customs duties and taxes. Google. [January 6, 2010] （英语）. 
+^ 20.0 20.1 20.2 Free Trademark Search - NEXUS ONE Trademark. Google Inc. Trademarkia.com. 12/10/2009 [2010-01-05]. Trademark Registration: 77891022 （英语）.  请检查|date=中的日期值 (帮助)
+^ Exclusive: Google files for 'Nexus One' Trademark. Androidos.in. 2009-12-16 [2010-01-05] （英语）. 
+^ Official Google Mobile Blog: An Android dogfood diet for the holidays. Googlemobile.blogspot.com. 2009-12-12 [2010-01-05] （英语）. 
+^ How do Googlers activate the Nexus One? Just like you and I. - Nexus One Forum - Google Phone Forum. Nexus One Forum. 2009-12-22 [2010-01-05] （英语）. 
+^ Update: Nexus One changes in availability. googlenexusoneboard.blogspot.com. 2010-07-15 [2010-07-16] （英语）. 
+^ Wray, James; Stabe, Ulf. Google's Nexus One smartphone facing Blade Runner lawsuit? - Gadgets. The Tech Herald (Monsters and Critics). December 17, 2009 [January 6, 2010]. （原始内容存档于2010年1月6日） （英语）. 
+^ Wortham, Jenna. Is the Google Phone an Unauthorized Replicant?. The New York Times (The New York Times). December 15, 2010 [January 6, 2010] （英语）. 
+^ Koppel, Nathan. Nexus Name Irks Author's Estate. Wall Street Journal (The Wall Street Journal). January 6, 2010 [January 6, 2010] （英语）. 
+
+
+外部链接[编辑]
+
+（英文）官方网站
+（繁体中文）Engadget Google Nexus One大长篇评测
+（简体中文）Engadget Google Nexus One大长篇评测
+Nexus One Google Press Conference Overview[失效链接]
+Google Nexus One vs. Motorola Droid[失效链接]
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+Google Nexus
+
+
+
+
+
+
+智能手机
+
+
+
+HTC Nexus One
+Samsung Nexus S
+Samsung Galaxy Nexus
+LG Nexus 4
+LG Nexus 5
+LG Nexus 5X
+Motorola Nexus 6
+Huawei Nexus 6P
+
+
+
+
+
+
+
+
+
+
+
+平板电脑
+
+
+
+Asus Nexus 7
+
+第一代
+第二代
+
+
+HTC Nexus 9
+Samsung Nexus 10
+
+
+
+
+
+
+
+
+多媒体播放器
+
+
+
+Nexus Q
+Nexus Player
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+Android
+
+
+
+
+
+
+开发
+
+
+
+ART
+Android软件开发
+Android Studio
+APK
+App Inventor
+Dalvik
+OpenBinder（英语：OpenBinder）
+Android Developer Challenge（英语：Android Developer Challenge）
+Android Developer Lab（英语：Android Developer Lab）
+Eclipse
+Google Developers
+Google I/O
+Renderscript
+
+
+
+
+
+
+
+
+
+
+
+发行版本
+
+
+
+Android版本历史
+KitKat (4.4)
+Lollipop (5)
+Marshmallow (6)
+Nougat (7.0)
+Oreo (8.0)
+
+
+
+
+
+
+
+
+衍生平台
+
+
+
+Android Auto
+Android TV
+Android Wear
+
+
+
+
+
+
+
+
+Pixel设备
+
+
+
+Pixel/Pixel XL
+Pixel C
+Pixel 2/Pixel 2 XL
+
+
+
+
+
+
+
+
+Nexus设备
+
+
+
+HTC Nexus One
+Samsung Nexus S
+Samsung Galaxy Nexus
+LG Nexus 4
+LG Nexus 5
+LG Nexus 5X
+Motorola Nexus 6
+Huawei Nexus 6P
+Asus Nexus 7(2012)
+Asus Nexus 7(2013)
+HTC Nexus 9
+Samsung Nexus 10
+Nexus Q
+Nexus Player
+
+
+
+
+
+
+
+
+Google Play Edition
+
+
+
+HTC One (M7)
+HTC One (M8)
+LG G Pad 8.3（英语：LG G Pad 8.3）
+Motorola Moto G（英语：Motorola Moto G）
+Samsung Galaxy S4
+Sony Xperia Z Ultra
+
+
+
+
+
+
+
+
+分支版本、替代用户界面
+
+
+
+AOKP（英语：AOKP）
+Baidu Yi
+Barnes & Noble Nook
+CyanogenMod
+LineageOS
+Resurrection Remix OS
+Fire OS（英语：Fire OS）
+Flyme OS
+LeWa OS
+MIUI（米柚）
+MoKee（魔趣）
+OmniROM
+OPhone
+Replicant
+XobotOS
+YunOS
+Smartisan OS
+Zen UI
+Hive UI（英语：Hive UI）
+HTC Sense
+LG Optimus UI（英语：Optimus UI）
+三星TouchWiz
+华为EMUI
+Nokia X Software Platform（英语：Nokia X Software Platform）
+氢OS & Oxygen OS
+ColorOS
+Funtouch OS
+360OS
+
+
+
+
+
+
+
+
+应用程序
+
+
+
+地球
+Gmail
+Chrome
+Goggles
+环聊
+地图
+Play
+
+图书
+音乐
+书报摊
+
+
+Pay
+星空地图
+健身
+
+
+
+
+
+
+
+
+API
+
+
+
+Google云消息传递
+Google地图
+Google Play服务
+Google搜索
+
+
+
+
+
+
+
+
+其他
+
+
+
+Root
+
+
+
+
+
+
+
+
+相关
+
+
+
+Androidland（英语：Androidland）
+Android One
+Google
+Google Cardboard
+Material Design
+XDA Developers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+概述
+
+
+
+历史（英语：History of Google）
+公司收购列表
+产品列表
+对Google的批评
+审查
+玩笑和复活节彩蛋列表
+不做恶原则
+公开报告
+
+
+
+
+
+
+
+
+广告
+
+
+
+AdMob
+Adscape
+AdSense
+AdWords
+分析
+广告专家认证
+DoubleClick
+DoubleClick for Publishers（英语：DoubleClick for Publishers）
+电子钱包
+
+
+
+
+
+
+
+
+通讯
+
+
+
+Allo
+快讯（英语：Google Alerts）
+Apps Script（英语：Google Apps Script）
+Duo
+日历
+通讯录
+朋友群
+Gmail
+Google+
+网上论坛
+环聊
+Inbox
+同步（英语：Google Sync）
+Text-to-Speech（英语：Google Text-to-Speech）
+翻译（神经机器翻译系统）
+Transliteration（英语：Google transliteration）
+Voice
+Project Fi
+
+
+
+
+
+
+
+
+软件
+
+
+
+Chrome
+
+Chromium
+网上应用店
+
+
+云打印
+地球
+
+星空
+月球
+火星
+
+
+Gadgets（英语：Google Gadgets）
+Goggles
+输入法
+
+拼音
+粤语
+注音
+日文
+
+
+相册
+Keep
+新闻与天气
+即时
+
+即时桌面
+
+
+Picasa
+OpenRefine（英语：OpenRefine）
+工具栏
+
+
+
+
+
+
+
+
+平台
+
+
+
+账户
+Android
+
+历史版本
+Auto
+TV
+Wear
+Pay
+
+
+软件引擎
+Apps for Work
+
+教室（英语：Google Classroom）
+
+
+身份验证器
+BigTable
+Body
+图书
+
+图书馆计划
+
+
+Caja（英语：Caja project）
+Cardboard
+Chromecast
+Chrome OS
+
+Chromium OS
+Chromebit（英语：Chromebit）
+Chromebook
+Chromebox
+Chrome Zone（英语：Chrome Zone）
+
+
+计算引擎（英语：Google Compute Engine）
+Contact Lens（英语：Google Contact Lens）
+自定义搜索
+Dart
+Daydream
+地图引擎
+Fit
+眼镜
+Go
+文件系统
+Marketplace（英语：Google Apps Marketplace）
+Native Client
+Nexus
+OpenSocial
+Pixel
+Play
+
+音乐
+图书
+
+
+商店
+Public DNS
+问答
+电子钱包
+
+
+
+
+
+
+
+
+开发工具
+
+
+
+AJAX APIs（英语：Google APIs）
+应用开发者
+Closure Tools（英语：Google Closure Tools）
+代码（Google Gson）
+Gadgets API（英语：Google Gadgets API）
+GData（英语：GData）
+Googlebot（英语：Googlebot）
+Guava（英语：Google Guava）
+Guice（英语：Google Guice）
+KML
+Kythe（英语：Google Kythe）
+MapReduce
+Sitemaps（英语：Sitemaps）
+Storage（英语：Google Storage）
+夏日程式码大赛
+Web Toolkit
+网站管理员工具
+Website Optimizer（英语：Google Website Optimizer）
+Swiffy
+
+
+
+
+
+
+
+
+出版
+
+
+
+Blogger
+书签
+云端硬盘
+
+文档
+绘图（英语：Google Drawings）
+我的地图
+协作平台
+Fusion Tables（英语：Google Fusion Tables）
+
+
+Domains（英语：Google Domains）
+FeedBurner
+Map Maker
+Panoramio
+Picasa网络相册
+YouTube
+
+Vevo
+
+
+Zagat（英语：Zagat）
+
+
+
+
+
+
+
+
+搜索
+
+
+
+Appliance
+Audio
+博客搜索（英语：Google Blog Search）
+图书
+财经
+航班（英语：Google Flights）
+图片
+地图
+
+
+街景
+
+
+新闻
+
+新闻档案
+
+
+专利
+学术
+购物
+网上论坛
+
+
+
+
+算法
+
+
+
+PageRank
+Panda（英语：Google Panda）
+Penguin（英语：Google Penguin）
+Hummingbird（英语：Google Hummingbird）
+
+
+
+
+
+
+
+
+特征
+
+
+
+搜索历史
+个性化搜索
+实时搜索
+即搜即得
+安全搜索
+语音搜索
+
+
+
+
+
+
+
+
+分析
+
+
+
+搜索解析
+趋势
+知识图谱
+Knowledge Vault
+
+
+
+
+
+
+
+
+
+
+
+停止开发
+
+
+
+Aardvark（英语：Aardvark (search engine)）
+Answers
+Ara
+浏览器同步（英语：Google Browser Sync）
+Google Base（英语：Google Base）
+Buzz
+Checkout
+浏览器内嵌框架
+Reader
+Click-to-Call
+云端连接
+代码搜索
+潮流同步
+桌面
+词典（英语：Google Dictionary）
+Dodgeball
+Fast Flip（英语：Google Fast Flip）
+Gears
+GOOG-411
+Google TV
+Jaiku
+Knol
+健康（英语：Google Health）
+iGoogle
+Image Labeler（英语：Google Image Labeler）
+实验室
+纵横
+Lively
+混搭编辑器
+笔记本
+Offers（英语：Google Offers）
+Orkut
+软件精选
+Page Creator
+Picnik
+PowerMeter（英语：Google PowerMeter）
+脚本转换器（英语：Google Script Converter）
+SearchWiki
+网页注解
+Slide（英语：Slide.com）
+Squared
+Talk
+更新器
+Urchin（英语：Urchin）
+视频
+视频市场
+Wave
+网际加速器
+
+
+
+
+
+
+
+
+人物
+
+
+
+埃里克·施密特
+艾伦·尤斯塔斯（英语：Alan Eustace）
+约翰·杜尔
+约翰·轩尼诗
+雷蒙德·库茨魏尔
+安·马瑟（英语：Ann Mather）
+保罗·奥特利尼
+罗恩·康韦（英语：Ram Shriram）
+雪莉·蒂尔曼
+阿尔·戈尔
+拉基恩·西斯（英语：Rajen Sheth）
+文顿·瑟夫
+艾伦·穆拉利
+大卫·德拉蒙德（英语：David Drummond (Google)）
+帕特里克·皮谢特（英语：Patrick Pichette）
+阿米特·辛格尔
+杰夫·迪恩
+奥米德·科蒂斯坦尼（英语：Omid Kordestani）
+雷切尔·惠特斯通（英语：Rachel Whetstone）
+撒拉·卡曼加（英语：Salar Kamangar）
+桑德尔·皮蔡
+苏珊·沃西基
+乌尔斯·霍尔茨勒（英语：Urs Hölzle）
+
+
+
+
+创始人
+
+
+
+拉里·佩奇
+谢尔盖·布林
+
+
+
+
+
+
+
+
+
+
+
+其它
+
+
+
+Alphabet Inc.
+Art Project
+Calico
+Current（英语：Google Current）
+Chrome实验（英语：Google Chrome Experiments）
+Code-In
+Code Jam
+开发者日
+商业小组（英语：Google Business Groups）
+Data Liberation（英语：Google Data Liberation Front）
+
+Takeout（英语：Google Takeout）
+
+
+Developer Expert（英语：Google Developer Expert）
+Google Enterprise（英语：Google Enterprise）
+无人车
+
+光纤
+Express（英语：Google Express）
+Google化
+Grants（英语：Google Grants）
+Google.org
+商标
+涂鸦
+
+列表
+
+
+月球X大奖
+Material design
+先进科技与计划部门
+Ventures
+WiFi
+X
+
+
+
+
+活动
+
+
+
+Science Fair
+Searchology（英语：Google Searchology）
+I/O
+开发者日
+演讲
+Code Jam
+Highly Open Participation Contest（英语：Google Highly Open Participation Contest）
+Code-in
+Google EYE Program
+
+
+
+
+
+
+
+
+项目
+
+
+
+Loon
+Tango
+Zero
+
+
+
+
+
+
+
+
+房地产
+
+
+
+111 Eighth Avenue（英语：111 Eighth Avenue）
+Googleplex
+Google台湾资料中心
+
+
+
+
+
+
+
+
+谷歌中国
+
+
+
+谷歌时惠
+谷歌音乐
+谷歌金山词霸
+265上网导航
+谷歌涉黄事件
+谷歌退出中国大陆事件
+Google审查
+Google香港
+2014年中国大陆屏蔽谷歌服务事件
+
+
+
+
+
+
+
+
+
+
+
+相关
+
+
+
+AI Challenge（英语：AI Challenge）
+轰炸
+谷姐网
+Monopoly City Streets
+Unity
+
+
+
+
+
+
+
+
+
+
+
+ 主题页面
+ 相关分类
+ 共享资源
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+移动电话
+
+
+
+
+
+
+概括
+
+
+
+功能
+历史
+GSM（服务（英语：GSM services））
+操作系统（比较）
+安全
+移动电话
+SMS
+多媒体短讯
+垃圾信息（英语：Mobile phone spam）
+跟踪（英语：Mobile phone tracking）
+网页（英语：Mobile Web）
+
+HTML5（英语：HTML5 in mobile devices）
+
+
+
+
+
+
+
+
+
+
+应用
+
+
+
+飞行模式
+应用开发（英语：Mobile application development）
+应用发行平台
+行动商务
+即时短信（英语：Mobile instant messaging）
+行动学习
+本地搜索（英语：Mobile local search）
+本地追踪（英语：Mobile phone tracking）
+窃听
+移动营销
+彩信
+手机音乐（英语：Mobile music）
+手机新闻（英语：Mobile news）
+行动支付
+Push email
+Root
+Telephony电话通讯（英语：Mobile telephony）
+移动云计算（英语：Mobile cloud computing）
+
+
+
+
+
+
+
+
+手机文化
+
+
+
+手机吊饰
+手机漫画（英语：Mobile comic）
+手机约会
+日本手机文化
+手机小说
+电话铃声
+SMS语（英语：SMS language）
+移动电视
+手机广告
+
+
+
+
+
+
+
+
+移动设备
+
+
+
+Android Root
+Android装置列表
+Windows Phone手提电话列表
+功能型手机
+相机手机
+智能手机
+平板手机
+手机规格
+移动电话公司
+智能手机列表（英语：Comparison of smartphones）
+
+
+
+
+
+
+
+
+环境卫生
+
+
+
+电子垃圾
+移动电话辐射和健康
+
+
+
+
+
+
+
+
+法规
+
+
+
+Carrier IQ（英语：Carrier IQ）
+行车安全（英语：Mobile phones and driving safety）
+拍照（英语：Photography and the law）
+开车时发短信（英语：Texting while driving）
+监狱（英语：Mobile phones in prison）
+电话窃听
+
+
+
+
+
+
+
+
+网络
+
+
+
+信道容量
+手机频率（英语：Cellular frequencies）
+移动电话运营商列表
+手机信号（英语：Mobile phone signal）
+SIM卡
+USIM卡
+手机标准列表（英语：Comparison of mobile phone standards）
+VoIP
+VoLTE
+WAP
+XHTML MP
+
+
+时代（英语：List of mobile phone generations）：0G
+1G
+2G
+2.5G
+2.75G
+3G
+3.5G
+3.9G
+4G
+4.5G（英语：LTE Advanced Pro）
+5G
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+宏达电产品（Android）
+
+
+
+
+
+
+Butterfly
+
+
+
+
+
+2012年
+
+
+
+
+Butterfly（J Butterfly·Droid DNA）
+
+
+
+
+
+
+
+
+
+2013年
+
+
+
+
+Butterfly S（Butterfly S Hello Kitty Limited Edition）
+
+
+
+
+
+
+
+
+
+2014年
+
+
+
+
+Butterfly 2（J Butterfly HTL23）
+
+
+
+
+
+
+
+
+
+2015年
+
+
+
+
+Butterfly 3（J Butterfly HTV31）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Desire
+
+
+
+
+
+2011年
+
+
+
+
+Desire
+Desire HD（Inspire 4G）
+Desire S
+Desire Z
+
+
+
+
+
+
+
+
+
+2012年
+
+
+
+
+Desire C
+Desire V
+Desire VC
+Desire X
+Desire XC
+
+
+
+
+
+
+
+
+
+2013年
+
+
+
+
+Desire L
+Desire Q
+Desire P
+Desire U
+Desire 200
+Desire 300
+Desire 400
+Desire 500
+Desire 501（Desire·E1）
+Desire 600（Desire 600C·Desire 608T）
+Desire 601
+Desire 700（Desire 709D·Desire 7060·Desire 7088）
+
+
+
+
+
+
+
+
+
+2014年
+
+
+
+
+Desire 210
+Desire 310
+Desire 320
+Desire 510
+Desire 512
+Desire 516（Desire 516C·Desire 516G·Desire 316）
+Desire 610
+Desire 612
+Desire 616
+Desire 620（Desire 620G·Desire 820 Mini）
+Desire 816（Desire 816 Wefly光速版·Desire 816G）
+Desire 820（Desire 820G+·Desire 820Q·Desire 820S·Desire 820S全民飞扬版）
+Desire Eye
+
+
+
+
+
+
+
+
+
+2015年
+
+
+
+
+Desire 326G
+Desire 520
+Desire 526（Desire 526G·Desire 526G+）
+Desire 626（Desire 626G·Desire 626G+·Desire 626S）
+Desire 728（Desire 728G）
+Desire 826
+Desire 828
+
+
+
+
+
+
+
+
+
+2016年
+
+
+
+
+Desire 530
+Desire 628
+Desire 630
+Desire 825
+Desire 830
+Desire 650
+HTC Desire 10 Lifestyle
+HTC Desire 10 pro
+
+
+
+
+
+
+
+
+
+
+
+Evo
+
+
+
+
+
+2010年
+
+
+
+
+Evo 4G（Evo WiMAX）
+
+
+
+
+
+
+
+
+
+2011年
+
+
+
+
+Evo 3D（Evo V 4G）
+Evo 4G+
+Evo Design 4G（Hero S）
+Evo Shift 4G
+
+
+
+
+
+
+
+
+
+2012年
+
+
+
+
+Evo 4G LTE
+Evo Design
+
+
+
+
+
+
+
+
+
+
+
+One
+
+
+
+
+
+2012年
+
+
+
+
+One S（One S Special Edition）
+One SC
+One ST
+One SU
+One SV（Desire SV）
+One V
+One VX
+One X（One X+）
+One XC
+One XL（One XL+）
+One XT
+
+
+
+
+
+
+
+
+
+2013年
+
+
+
+
+One (M7)（One (M7) Google Play Edition·J One）
+One Max
+One Mini
+
+
+
+
+
+
+
+
+
+2014年
+
+
+
+
+One (E8)（One时尚版）
+One (M8)（One (M8) Google Play Edition·One (M8) Harman Kardon Edition·One (M8 Eye)·One M8S）
+One Mini 2（One Remix）
+
+
+
+
+
+
+
+
+
+2015年
+
+
+
+
+One A9
+One A9S
+One E9（One E9+）
+One E9S
+One M9（One M9 Prime Camera Edition·One M9 OIS光学防抖版·One M9(S)）
+One M9+（One M9+相机升级版·One M9+光学防手震极速对焦）
+One ME
+One X9
+
+
+
+
+
+
+
+
+
+2016年
+
+
+
+
+One S9
+HTC 10（HTC 10 Lifestyle）
+HTC 10 evo（HTC Bolt）
+
+
+
+
+
+
+
+
+
+2017年
+
+
+
+
+One X10
+One A9S
+
+
+
+
+
+
+
+
+
+
+
+Sensation
+
+
+
+
+
+2011年
+
+
+
+
+Sensation
+Sensation XE
+Sensation XL
+
+
+
+
+
+
+
+
+
+
+
+Wildfire
+
+
+
+
+
+2010年
+
+
+
+
+Wildfire
+
+
+
+
+
+
+
+
+
+2011年
+
+
+
+
+Wildfire S
+
+
+
+
+
+
+
+
+
+
+
+U
+
+
+
+
+
+2017年
+
+
+
+
+U Ultra
+U Play
+U11
+U11+
+U11 Life
+
+
+
+
+
+
+
+
+
+
+
+其他
+
+
+
+
+
+2008年
+
+
+
+
+Dream
+
+
+
+
+
+
+
+
+
+2009年
+
+
+
+
+Hero（Droid Eris）
+Magic（MyTouch 3G）
+Tattoo
+
+
+
+
+
+
+
+
+
+2010年
+
+
+
+
+Aria
+Legend
+Tianxi
+Droid Incredible
+MyTouch 3G Slide
+MyTouch 4G（Panache 4G）
+Nexus One
+
+
+
+
+
+
+
+
+
+2011年
+
+
+
+
+Amaze 4G
+ChaCha（Status）
+Explorer
+HTC Flyer（Evo View 4G）
+Incredible S（Droid Incredible 2）
+Jetstream
+Merge
+Salsa
+Raider 4G（Velocity 4G·Vivid）
+Rezound
+Rhyme
+ThunderBolt
+MyTouch 4G Slide
+
+
+
+
+
+
+
+
+
+2012年
+
+
+
+
+Droid Incredible 4G LTE
+J
+
+
+
+
+
+
+
+
+
+2013年
+
+
+
+
+First
+Infobar A-02
+
+
+
+
+
+
+
+
+
+2014年
+
+
+
+
+Nexus 9
+
+
+
+
+
+
+
+
+
+2016年
+
+
+
+
+Google Pixel
+Google Pixel XL
+
+
+
+
+
+
+
+
+
+2017年
+
+
+
+
+Google Pixel 2
+
+
+
+
+
+
+
+
+
+
+
+
+Re·Vive·UA Heathbox·UA Band·UA Heart Rate
+
+
+
+
+
+
+
+
+
+
+分类：Google NexusGoogle智能手机AndroidAndroid设备隐藏分类：CS1英语来源 (en)引文格式1错误：日期CS1含有外文文本带有失效链接的条目条目有永久失效的外部链接

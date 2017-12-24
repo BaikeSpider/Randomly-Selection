@@ -1,0 +1,391 @@
+纵膈
+
+
+纵膈
+
+
+
+Mediastinum. The division between superior and inferior is at the sternal angle（英语：sternal angle）.
+
+
+
+
+Mediastinum anatomy
+
+
+
+细节
+
+
+拉丁语
+mediastinus
+
+
+识别标示
+
+
+Gray's
+p.1090
+
+
+Dorlands
+m_06/12518945
+
+
+TA（英语：Terminologia Anatomica）
+A07.1.02.101
+
+
+FMA
+FMA:9826
+
+
+解剖学术语（英语：Anatomical terminology）
+
+
+纵膈（mediastinum）是描述胸腔中心为疏松结缔组织所包围的构造，并无一个明显的界限。本区域包含许多解剖构造，包含心脏及其周围血管系统、食道、气管、膈神经（英语：phrenic nerve）、心脏神经（英语：cardiac nerve）、胸导管、胸腺，以及胸腔淋巴结。
+
+
+
+目录
+
+
+1 语源
+2 解剖
+
+2.1 上纵膈
+2.2 胸平面
+2.3 下纵膈
+
+2.3.1 前纵膈
+2.3.2 中纵膈
+2.3.3 后纵膈
+
+
+
+
+3 临床意义
+4 参见
+5 参考文献
+6 外部链接
+
+
+
+语源[编辑]
+纵膈一词译自中世纪拉丁语“mediastinum”，该词源自于“mediastinus”，意为“中途”[1]。
+解剖[编辑]
+纵膈位于胸腔，左右被胸肋膜（英语：pulmonary pleurae）及肺脏所包围，前方有胸壁，后方则有脊椎股。该区的前后分别为胸骨及脊柱包夹，包含除了肺脏以外的所有器官。该区的疏松结缔组织与颈部的组织相连。
+纵膈主要可分为上纵膈（superior mediastinum）及下纵膈（inferior mediastinum）：
+
+上纵膈上方为胸廓上口（英语：superior thoracic aperture），下方则为胸平面（胸骨角（英语：sternal angle）水平，约为T4-T5椎间盘水平）[2][3][4]。
+下纵膈则包含胸平面以下至横膈膜的空间，可根据心包膜将该区分为前、中、后三部分。
+
+值得注意的是，解剖学、外科，和临床放射科对于纵膈的定义稍有不同。
+上纵膈[编辑]
+前纵膈被下列构造包围：
+
+上：胸腔入口（英语：thoracic inlet）
+下：胸平面（T4-T5椎间盘高度）
+外：肺脏及胸肋膜（英语：pulmonary pleurae）
+前：胸骨柄
+后：T1~T4节胸椎骨
+
+
+
+
+内容
+
+
+
+
+内容
+
+
+肌肉
+
+胸舌骨肌（英语：Sternohyoidei）及胸甲状肌（英语：Sternothyreoidei）起点
+颈长肌（英语：Longi colli）下头
+
+
+动脉
+
+主动脉弓
+头臂动脉干（英语：brachiocephalic artery）
+左总颈动脉胸段及左锁骨下动脉（英语：left subclavian）
+
+
+静脉
+
+头臂静脉（英语：brachiocephalic veins）
+上腔静脉上半部
+左最上肋间静脉（英语：highest intercostal vein）
+
+
+神经
+
+迷走神经
+心神经（英语：cardiac nerve）
+superficial and deep cardiac plexuses
+膈神经（英语：phrenic nerve）
+左喉返神经
+
+
+气管
+食道
+胸导管
+残余的胸腺
+淋巴结
+前纵韧带
+
+
+
+
+
+胸平面[编辑]
+
+胸平面（thoracic plane）是上下纵膈之间的分野。为以胸骨角（英语：sternal angle）为基准的解剖平面（英语：anatomical plane），约在胸椎T4-T5间的椎间盘[5][6][7]。
+
+胸平面会经过数个解剖构造，包含：
+
+主动脉弓的起点与终点
+上腔静脉上缘[8]
+胸导管
+气管分枝处[9]
+肺动脉分枝处
+胸骨角（英语：sternal angle）水平
+第二肋软骨与胸骨的交界处
+第四胸椎骨椎体（T4-T5椎间盘）
+奇静脉汇入上腔静脉处
+胸腺（部分案例）
+
+下纵膈[编辑]
+前纵膈[编辑]
+
+边界
+
+
+外：胸膜腔
+后：心包膜
+前：胸骨、左胸横肌（英语：transversus thoracis），及第五、六、七左肋软骨
+
+
+
+
+内容
+
+
+
+
+内容
+
+
+大量疏松结缔组织
+部分由肝脏凸面上行的淋巴管
+前纵膈淋巴结
+内胸动脉（英语：internal thoracic artery）纵膈支
+胸腺
+
+
+
+
+
+中纵膈[编辑]
+界线：心包 包含许多重要器官，并可分为纤维膜跟浆膜
+
+
+
+内容
+
+
+
+
+内容
+
+
+心脏
+升主动脉
+上腔静脉下半部，以及奇静脉（英语：azygos vein）入口
+气管分支（英语：bifurcation of the trachea）及两支气管
+肺动脉及其分支处
+左右肺静脉
+膈神经（英语：phrenic nerves）
+支气管淋巴结
+心包膈动脉
+
+
+
+
+
+后纵膈[编辑]
+
+边界
+
+
+前：心包
+下：横膈膜
+上：胸平面
+后：胸椎椎体（T5下方置T12）
+外：肋膜腔（英语：mediastinal pleura）（两侧）
+
+
+
+
+内容
+
+
+
+
+动脉
+
+胸主动脉（英语：Thoracic aorta）
+
+
+静脉
+
+奇静脉（英语：azygos vein）
+the 半奇静脉（英语：hemiazygos vein）以及副半奇静脉（英语：accessory hemiazygos vein）
+
+
+神经
+
+迷走神经
+内脏神经（英语：splanchnic nerves）
+交感神经链（英语：sympathetic chain）
+
+
+食道
+胸导管
+淋巴结
+
+
+
+
+
+
+
+
+
+
+
+
+A transverse section of the thorax, showing the contents of the middle and the posterior mediastinum.
+
+
+
+
+临床意义[编辑]
+
+
+
+
+纵隔淋巴结肿大
+
+
+纵膈腔与多种肿瘤（英语：mediastinal tumor）相关：
+
+前纵膈：胸骨下甲状腺肿、淋巴瘤、胸腺肿瘤（英语：thymoma），以及畸胎瘤。
+中纵膈：淋巴腺肿大，以及其他转移癌，如肺小细胞癌。
+后纵膈：神经源性肿瘤，可能为恶性或良性。
+
+纵膈炎（英语：Mediastinitis）是发生于纵膈的炎症，通常为细菌性，源自于纵膈腔器官受损。由于感染速度可能极快，因此在医疗需做紧急处置。
+纵膈腔气肿（英语：Pneumomediastinum）是描述纵膈腔内有空气的现象，如果不治疗可能会导致气胸、腹腔积气（英语：pneumoperitoneum），以及心包积气（英语：pneumopericardium）。上述状况常伴随Boerhaave's syndrome（英语：Boerhaave's syndrome）或食道破裂的状况。
+目前有许多技术能协助诊断纵膈腔的疾病，最常见的为胸部X光（英语：chest x-ray）。最常见者为创伤性主动脉破裂（英语：traumatic aortic rupture）、胸主动脉瘤（英语：thoracic aortic aneurysm），以及胸椎骨折等。
+参见[编辑]
+
+炭疽病
+睾丸纵膈（英语：Mediastinum testis）
+Mediastinal germ cell tumor（英语：Mediastinal germ cell tumor）
+Mediastinitis（英语：Mediastinitis）
+Mediastinal tumor（英语：Mediastinal tumor）
+Widened mediastinum
+
+参考文献[编辑]
+本条目包含来自属于公共领域版本的《格雷氏解剖学》之内容，而其中有些资讯可能已经过时。
+
+
+^ Mediastinum dictionary definition
+^ Thoracic Wall, Pleura, and Pericardium - Dissector Answers 互联网档案馆的存档，存档日期2012-09-01.
+^ Untitled Document
+^ UAMS Department of Anatomy - Topographical Anatomy - Thorax
+^ Thoracic Wall, Pleura, and Pericardium - Dissector Answers 互联网档案馆的存档，存档日期2012-09-01.
+^ Untitled Document
+^ UAMS Department of Anatomy - Topographical Anatomy - Thorax
+^ Arai et al. Radiographic landmarks of the upper margin of the superior vena cava (SVC) in children Canadian Journal of Anesthesia 49 (Supplement 1): 32
+^ Viscera of the Thorax UAMS Department of Anatomy
+
+
+外部链接[编辑]
+
+
+
+于维基词典中查询縱膈。
+
+
+
+1691353147 于 GPnotebook
+Anatomy figure: 21:01-03 at Human Anatomy Online, SUNY Downstate Medical Center - "Divisions of the mediastinum."
+Anatomy figure: 21:02-03 at Human Anatomy Online, SUNY Downstate Medical Center - "The anatomical divisions of the inferior mediastinum."
+（英文）thoraxlesson3, The Anatomy Lesson, Wesley Norman （乔治城大学） - "Subdivisions of the Thoracic Cavity"
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+胸腔解剖
+
+
+
+
+
+
+一般
+
+
+
+纵膈
+胸壁（英语：Thoracic wall）
+
+
+
+
+
+
+
+
+胸膜腔
+
+
+
+Parietal pleura
+Visceral pleura
+Pulmonary ligament（英语：Pulmonary ligament）
+隐窝
+
+Costomediastinal（英语：Costomediastinal recess）
+Costodiaphragmatic（英语：Costodiaphragmatic recess）
+
+
+Endothoracic fascia（英语：Endothoracic fascia）
+Suprapleural membrane（英语：Suprapleural membrane）
+
+
+
+
+
+
+
+
+
+
+
+
+分类：胸腔隐藏分类：Webarchive模板wayback链接使用GraySubject或GrayPage参数的医学信息框模板使用Dorlands参数的医学信息框模板含有拉丁语的条目

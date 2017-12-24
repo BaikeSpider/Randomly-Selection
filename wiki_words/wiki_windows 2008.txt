@@ -1,0 +1,641 @@
+Windows Server 2008
+
+
+
+
+
+
+
+Windows Server 2008
+
+
+Windows Server 2008 用户界面
+
+
+
+开发者
+Microsoft
+
+
+操作系统家族
+Microsoft Windows
+
+
+源码模式
+封闭
+
+
+发放给生产商
+RTM: 2008年2月4日
+2009年4月28日（SP2）/
+零售: 2008年2月27日
+
+
+最新版本
+6.0.6002 (SP2)（2009年4月28日）[1]
+
+
+内核类别
+混合
+
+
+许可证
+微软EULA
+
+
+前一代
+Windows Server 2003
+
+
+后一代
+Windows Server 2008 R2
+
+
+官方网站
+Windows Server 2008
+
+
+支持状态
+
+
+主流支持（2015年1月13日到期）
+扩展支持（2020年1月14日到期）[2]
+
+
+Windows Server 2008是微软的一个服务器操作系统，继承Windows Server 2003[3][4]。Windows Server 2008在进行开发及测试时的代号为Windows Server "Longhorn"。
+Windows Server 2008是一套和Windows Vista（代号为Longhorn）相对应的服务器操作系统，两者拥有很多相同功能。与Windows 2000的Professional版和Server版一样，两者在开发时共用大多数的代码，连Service Pack皆可共用；Vista和Server 2008、XP和Server 2003间存在相似的关系。（XP和Server 2003的代号分别为Whistler及Whistler Server）
+
+
+
+目录
+
+
+1 开发历程
+2 版本
+3 功能
+4 已知问题
+5 系统需求
+6 推广
+7 参见
+8 参考
+9 外部链接
+
+9.1 微软网页
+9.2 其它
+
+
+
+
+
+开发历程[编辑]
+Windows Server 2008的测试版本Server Longhorn Beta 1于2005年7月27日发布、Beta 2版本则于2006年5月23日公布，2007年4月发布了功能发展齐备的Beta 3版本。Release Candidate 0（下称RC）在2007年9月24日[5] 公布。RC 1发布在2007年12月25日。，这是推出市面前最后的一个测试版本。[3] 正式版2008年2月27日发布，版本号为6.0 (Build 6001)。在Windows Server 2008发布时，即已包含了SP1。2009年5月14日发布集成SP2的版本。
+2009年9月28日发布Windows Server 2008 R2。该系统为全新开发，和Windows Server 2008仅是名称相像而不像Windows Server 2003 R2那样仅仅是在Windows Server 2003的基础上附加一些功能，且仅有64位版本。
+版本[编辑]
+大多数的Windows Server 2008都同时拥有64bit和32bit两个版本，Windows Server 2008 for Itanium-based Systems支持IA-64处理器，IA-64版本被设计用来处理高工作量的工作，比如数据操作或者处理企业核心业务流程。但是IA-64版本没有对文件服务器或者多媒体服务器进行优化。微软宣称Windows Server 2008是该公司最后一个支持32bit的服务器操作系统，从Windows Server 2008 R2起只支持64位。下面是Windows Server 2008版本的列表，及微软公布的参考售价。它延续了Windows Server 2003的版本命名方式。
+
+Windows Server 2008 Standard Edition（x86 and x64）标准版（999美元，含5个客户端访问许可）
+Windows Server 2008 Enterprise Edition（x86 and x64）企业版（3999美元，含25个客户端访问许可）
+Windows Server 2008 Datacenter Edition（x86 and x64）数据中心版（2999美元/每一处理器）
+Windows HPC Server 2008
+Windows Web Server 2008 (x86 and x64)网络服务器版（469美元）
+Windows Storage Server 2008 (x86 and x64)存储中心版
+Windows Small Business Server 2008 (Codenamed "Cougar") (x64) for small businesses
+Windows Essential Business Server 2008 (Codenamed "Centro") (x64) for medium-sized businesses
+Windows Server 2008 for Itanium-based Systems（2999美元/每一处理器）
+
+其中标准版、企业版及数据中心版若选购不含Hyper-V的版本时则各减少28美元。
+功能[编辑]
+Windows Server 2008的核心编码与Windows Vista一样， 因此它包含有许多同样的改进。当中最引人注意的地方是它崭新的安装模式：它在安装时允许服务器的管理员选择安装整个服务器软件，又或是只安装“服务器核心”（Server Core）。
+“服务器核心”是一种恢复到从前的安装方式，没有用户图形接口，所有的设置与维护全都是由脚本控制，或者是利用Microsoft Management Console作远程连接操作。"服务器核心"同时也不会内置.NET Framework，Internet Explorer及其他许多跟核心服务器不相干的功能。一个“服务器核心”主机可以以四个身份来控制网域控制者、DNS服务器、DHCP服务器及文件服务器。
+
+活动目录网域控制站新增只读操作模式（RODC, Read-only Domain Controller）。
+政策式网络作业（Policy-based networking），改良了的管理界面及增强了的用户协调功能
+Internet Information Services 7，内置支持PHP网页程序。
+改良的即时更新方式，更新时不需要动到"核心程序"，因此也不需要重启。
+完全组件化的操作系统。
+WIM，图像为主的安装模式及工具使用
+控制角色为主的管理工具“服务器管理员”（Server Manager），结合了Windows Server 2003里的“管理你的服务器”（Manage Your Server）及“安全设置向导”（Security Cofiguration Wizard）。
+一个升级的终端机服务组件，支持远程桌面协议（Remote Desktop Protoco 6.0），最让人值得注意的改进是可以利用远程桌面连接来共享一个程序，而不像以前共享整个桌面（此即Terminal Service中的RemoteApp新功能）。
+在x86-64系统上，可由可扩展固件接口（EFI, Extensible Firmware Interface）开机
+Windows SharePoint Services 3.0
+DirectX 10（通过Platform Update更新，DirectX 11被引入，但桌面窗口管理器并未更新采用Direct3D 10.1功能）
+exFAT
+Windows PowerShell
+Hyper-V，一个虚拟系统的程序（处理器需支持INTEL VT/AMD的虚拟技术才能使用），但此功能只能在x64平台的Windows Server 2008上使用。
+可靠性显示器（Reliability Monitor）[6]
+
+已知问题[编辑]
+
+2007年3月15日，不支持扫描仪和摄像机
+2008年5月20日，RPC安全漏洞可导致内存泄漏
+2008年10月23日，RPC安全漏洞可导致远程代码执行
+2008年12月9日，EventLog服务可导致计算机无响应
+2009年4月3日，网络共享、自动播放可传播病毒
+2009年5月14日，在多处理器系统上休眠失败
+2009年6月15日，RPC安全漏洞可导致权限提升
+2010年1月27日，IE安全漏洞可导致远程代码执行
+2010年2月9日，IE安全漏洞可导致远程代码执行
+2011年6月20日，Windows NT 4 server转移到Windows 2008 server R2 (Migration)
+
+系统需求[编辑]
+Windows Server 2008的系统需求：[7]
+
+
+
+
+最低配置
+建议配置
+
+
+处理器
+1 GHz（x86）or 1.4 GHz（x64）
+2 GHz或者更快
+
+
+内存
+512 MB RAM
+2 GB RAM或者更多
+
+最大内存（32-bit）: 4GB RAM（标准版）或64GB RAM（企业版和数据中心版）
+最大内存（64-bit）: 32GB RAM（标准版）或2TB RAM（企业版，数据中心版和Itanium-Based版）
+
+
+
+
+显示卡和显示器
+Super VGA (800 x 600)
+Super VGA（800 x 600）或者更高分辨率
+
+
+磁盘可用空间
+10 GB
+40 GB或者更多
+
+
+驱动器
+DVD-ROM
+DVD-ROM或者更快
+
+
+其它设备
+键盘和鼠标
+键盘 和 鼠标
+
+
+
+推广[编辑]
+微软公司为推广Windows Server 2008，特地设立了多个架设了不同版本Windows Server 2008的虚拟实验室，让有兴趣的管理员申请每段90分钟的时段来测试服务器的功能[8]。
+参见[编辑]
+
+Windows Vista
+Microsoft Windows
+操作系统
+操作系统列表
+微软操作系统列表
+微软
+
+参考[编辑]
+
+
+^ http://www.microsoft.com/windowsserver2008/en/us/R2.aspx
+^ Microsoft. Windows Server 2008 Lifecycle Policy. Microsoft. [2012-09-25]. 
+^ 3.0 3.1 Paul Thurrott. Microsoft: Longhorn Server will be Named Windows Server 200x. Windows IT Pro. 2006年6月14日 [2006-06-17]. ——据微软服务器及工具高级副主席Bob Muglia所表示，微软将继续以出版年份决定其服务器产品的名称。而"Longhorn"则估计将于2007年底或2008年初公布。
+^ Microsoft To Ship Longhorn Server In Second Half Of 2007. CRN. 2006年4月25日 [2006-04-30]. 
+^ Ralston, Ward. Windows Server 2008 Rc0 Released!. Windows Server Division WebLog. Microsoft. 20079月24日 [20079月24日].  请检查|access-date=, |date=中的日期值 (帮助)
+^ 导读 - Using Reliability Monitor for Troubleshooting
+^ Windows Server 2008 System Requirements. 2008年3月31日 [2008-03-31]. 
+^ Windows Server 2008虚拟实验室
+
+
+外部链接[编辑]
+微软网页[编辑]
+
+微软Windows Server 2008官方网页 USA - Taiwan - China
+New Networking Features in Windows Server "Longhorn" and Windows Vista—lengthy article from Microsoft Technet covering new networking features in detail
+
+其它[编辑]
+
+ZDnet UK article
+News.com
+computerperformance.co.uk
+VistaBase Longhorn Server section[失效链接]
+winsupersite.com Preview
+winsupersite.com Preview 2
+CoreConfigurator……Basic GUI configuration utility for Windows Server Core 2008
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+ Microsoft Windows家族
+
+
+
+
+
+
+
+
+
+组件
+历史
+年表
+批评
+
+
+
+
+
+
+
+
+基于DOS
+
+
+
+Windows 1.x
+Windows 2.0
+Windows 2.1x
+Windows 3.x
+
+
+
+
+
+
+
+
+Windows 9x
+
+
+
+Windows 95
+Windows 98
+Windows Me
+
+
+
+
+
+
+
+
+Windows NT
+
+
+
+
+
+
+
+Windows NT 3.1
+Windows NT 3.5
+Windows NT 3.51
+Windows NT 4.0
+Windows 2000
+Windows XP
+
+版本
+x64
+媒体中心
+精简
+
+
+Windows Vista
+
+版本
+
+
+Windows 7
+
+版本
+
+
+Windows 8
+
+版本
+8.1
+RT
+RT 8.1
+
+
+Windows 10
+
+版本
+
+
+
+
+
+
+
+
+
+
+Windows Server
+
+
+
+Server 2003
+
+Home Server
+
+
+Server 2003 R2
+Server 2008
+
+EBS 2008
+HPC Server 2008
+
+
+Server 2008 R2
+
+Home Server 2011
+
+
+Server 2012
+Server 2012 R2
+Server 2016
+MultiPoint Server
+Server Essentials（英语：Windows Server Essentials）
+
+
+
+
+
+
+
+
+专用
+
+
+
+Windows预先安装环境
+
+
+
+
+
+
+
+
+
+
+
+Windows Embedded
+
+
+
+Embedded Compact
+
+CE 5.0
+Embedded CE 6.0
+Embedded Compact 7
+
+
+Embedded Automotive（英语：Windows Embedded Automotive）
+Embedded Industry
+Embedded 8
+
+
+
+
+
+
+
+
+Windows Mobile
+
+
+
+Pocket PC 2000
+Pocket PC 2002
+Mobile 2003
+Mobile 5.0
+Mobile 6.0
+Mobile 6.1
+Mobile 6.5
+
+
+
+
+
+
+
+
+Windows Phone
+
+
+
+Phone 7
+Phone 8
+Phone 8.1
+10 Mobile
+
+
+
+
+
+
+
+
+取消版本
+
+
+
+Cairo
+Nashville
+Neptune
+Odyssey
+
+
+
+
+
+
+
+
+
+
+
+ 版本列表
+ 分类
+ 共享资源
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+微软服务器
+
+
+
+
+
+
+服务器操作系统
+
+
+
+Windows Server
+Windows Server
+Windows Home Server
+Windows Compute Cluster Server
+
+
+
+
+
+
+
+
+中小企业专用
+
+
+
+Windows Small Business Server（英语：Windows Small Business Server）
+Windows Essential Business Server
+
+
+
+
+
+
+
+
+IT管理
+
+
+
+System Center
+Operation Manager (SCOM)（英语：System Center Operations Manager）
+Configuration Manager (SCCM)（英语：System Center Configuration Manager）
+Mobile Device Manager (SCMDM)（英语：System Center Mobile Device Manager）
+Virtual Machine Manager (SCVMM)（英语：System Center Virtual Machine Manager）
+Data Protection Manager (SCDPM)（英语：System Center Data Protection Manager）
+Essentials（英语：System Center Essentials）
+Windows Server Update Services（WSUS）
+
+
+
+
+
+
+
+
+应用程序平台
+
+
+
+Microsoft SQL Server
+BizTalk Server
+Commerce Server（英语：Commerce Server）
+IIS
+
+
+
+
+
+
+
+
+安全性
+
+
+
+Client Security
+Server Security
+Edge Security
+Intelligent Application Gateway（英语：Microsoft Intelligent Application Gateway）
+Identity Lifecycle Manager（英语：Identity Lifecycle Manager）
+
+
+
+
+
+
+
+
+企业生产力
+
+
+
+SharePoint Server
+Microsoft Office Forms Server
+Groove Server（英语：Microsoft Office Groove Server）
+Excel Services（英语：Excel Services）
+Exchange Server
+Project Server（英语：Microsoft Project Server）
+Search Server（英语：Microsoft Search Server）
+PerformancePoint Server（英语：Microsoft_Office_PerformancePoint_Server）
+
+
+
+
+
+
+
+
+虚拟化
+
+
+
+Hyper-V（英语：Hyper-V）
+Virtual Server（英语：Microsoft Virtual Server）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+规范控制
+
+
+
+GND: 7569644-7
+
+
+
+
+
+
+
+
+
+
+
+
+分类：Windows Server 2008隐藏分类：引文格式1错误：日期带有失效链接的条目条目有永久失效的外部链接包含规范控制信息的维基百科条目

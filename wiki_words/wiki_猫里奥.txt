@@ -1,0 +1,92 @@
+猫里奥
+
+
+
+
+
+
+
+
+
+
+猫里奥
+
+
+しょぼんのアクション
+
+
+
+猫里奥的标题画面，图中“Press”被刻意错误拼写成“Prece”
+
+
+
+类型
+平面动作
+
+
+平台
+Windows，Linux
+
+
+开发
+z_gundam_tanosii
+
+
+程序
+大川和树
+
+
+模式
+单人
+
+
+发行日
+2007年12月 (2007-12)
+
+
+《猫里奥》（日语：しょぼんのアクション, Syobon no Akushon，又称Cat Mario或Neko Mario），直译Syobon行动，是日本的一个免费二维横版闯关平台游戏，于2007年12月发布，以高难度著称，是《超级马里奥兄弟》的戏仿游戏。此游戏的直译名称为“Syobon行动”，而其中的Shobon是指2ch文字人物“（´･ω･｀）”，即玩家所操控的猫。
+
+
+
+目录
+
+
+1 游戏
+2 开发
+3 开源版本
+4 评价
+5 参考文献
+6 外部链接
+
+
+
+游戏[编辑]
+在《猫里奥》中，玩家需要扮演一个外貌像猫的角色，在一个横向卷轴地图上到达终点，即与超级马里奥兄弟相似。在《猫里奥》中，超级马里奥兄弟的蘑菇怪被一些白色的馒头怪取代，且其他怪物多为猫形或白色的。而砖块等其他设定则与超级马里奥兄弟游戏中的设定相近。此游戏包含八个关卡（后四关为隐藏关卡），全部均隐含了很多用来欺骗玩家而设的陷阱（例如隐形的砖块、尖刺、掉下物等），而一些在超级马里奥兄弟中不会伤害玩家的东西也会变得可能致玩家于死地（如红蘑菇、云团、旗杆等）。这些陷阱遍布整个关卡，并且会在玩家接近它们或接触它们时启动，使玩家难以完成游戏。一些游戏设计师指出，《猫里奥》要求玩家需要通过多次试错后，才可能完成游戏。[1]
+开发[编辑]
+《猫里奥》是由网络昵称叫“z_gundam_tanosii”的一名学生开发的。他说自己在学校中仅用了三天的时间来设计这个游戏，整个游戏的概念和灵感主要来自日本2ch论坛上的一个名叫“人生结束大冒险”（日语：人生ｵﾜﾀ＼(^o^)／の大冒険，另有译：变态人生大冒险）的Flash游戏[2]。
+开源版本[编辑]
+《猫里奥》的一个开放源代码版本以《开放的猫里奥》（Open Syobon Action）为名发布。此版本允许玩家于不同平台上玩这个游戏，可玩的平台包括AmigaOS4.1、Dreamcast[3]和Linux。1.0版本可以在SourceForge中下载。SDL引擎修复了一些BUG，且使非日文系统能够流畅地执行。此游戏亦通过自制软件频道（英语：Homebrew_Channel）被移植至任天堂Wii上，并增加了另外5个关卡，作为非官方续作《猫里奥2》的关卡。[4]
+评价[编辑]
+尽管《猫里奥》的游戏难度很困难且经常令人沮丧，但仍然获得了普遍的正面评价[1]。PC World的拉斯穆森说“这个游戏是如此的糟糕，同时几乎是不可能完成的，但它在人们的眼中却有了如同邪教的地位”[5]。TechNet的戴维则说：“这个游戏是这样的，若我们依靠过去玩超级马里奥的经验来玩猫里奥，我保证你们一定会在某处死亡”[6]。playthisthing.com的罗伯特·梅耶尔指出“随着时间的推移，你会憎恶《猫里奥》。这就是为什么你将会爱上它的原因”[7]。评论者指出游戏的成功在于其要求玩家运用试错和违反直觉的策略来胜出游戏的设计。评论者更加称《猫里奥》“有系统地破坏了二维平台游戏的每一个惯例”。[8]
+参考文献[编辑]
+
+
+^ 1.0 1.1 Patton, Ryan. Obstructing the view: An argument for the use of obstructions in art education pedagogy. The Journal of Social Theory In Art Education. 2010, 30: 49–59. （原始内容存档于2013-10-13）. 
+^ しょぼんのアクションについてのどーでもいい话, 检索于2012-11-19
+^ OPEN SYOBON ACTION DC Liberado 互联网档案馆的存档，存档日期2013-10-19.
+^ Syobon action for Wii
+^ Rasmussen, Povl. Er det her verdens dårligste spil?. PC World Denmark. [17 August 2012] （Danish）.  引文格式1维护：未识别语文类型 (link)
+^ Syobon Action: un jeu hardcore de Mario Bros pour la Wii!. Amériquébec. [17 August 2012] （French）.  Authors list列表中的|first1=缺少|last1= (帮助) 引文格式1维护：未识别语文类型 (link)
+^ Game Reviews | Free Games | Independent Games | Game Culture. Play This Thing!. [2012-08-16]. 
+^ Bogost, Ian. Persuasive Games: Video Game Pranks. Gamasutra. [17 August 2012]. 
+
+
+外部链接[编辑]
+
+官方网站（日文）
+
+
+
+
+
+分类：免费游戏平台游戏日本开发电子游戏电子游戏衍生作品隐藏分类：Webarchive模板wayback链接引文格式1维护：未识别语文类型引文格式1错误：缺少作者或编者含有日语的条目

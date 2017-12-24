@@ -1,0 +1,2 @@
+Windows Server 2008
+Windows Server 2008是微软的一个服务器操作系统，继承Windows Server 2003[3][4]。Windows Server 2008在进行开发及测试时的代号为Windows Server "Longhorn"。

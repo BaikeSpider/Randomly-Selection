@@ -1,0 +1,711 @@
+胡德号战列巡洋舰
+
+
+
+
+
+胡德 
+HMS Hood
+
+
+
+
+
+概观
+
+
+舰种
+战斗巡洋舰
+
+
+舰级
+海军上将级（1号舰）
+
+
+制造厂
+苏格兰克莱德班克
+
+
+动工
+1916年9月1日
+
+
+下水
+1918年8月22日
+
+
+服役
+1920年5月15日
+
+
+退役
+不适用
+
+
+结局
+1941年5月24日在丹麦海峡海战中被击沉
+
+
+除籍
+没有资料
+
+
+技术数据
+
+
+标准排水量
+42,100吨（1920年）
+
+
+满载排水量
+45,200吨（1920年）
+48,360吨（1941年）
+
+
+全长
+262.3米
+
+
+全宽
+31.7米
+
+
+吃水
+10.1米
+
+
+动力
+24座亚罗式重油水管锅炉（英语：Water-tube boiler）
+4部布朗·科蒂斯蒸气涡轮引擎，4轴三叶推进15寸螺旋桨
+
+
+功率
+151,200 匹
+
+
+最高速度
+31节(1920年)
+29节（1941年）
+
+
+续航距离
+5,332浬（20节）
+
+
+乘员
+1,169（1921年）
+1,418（1941年）
+
+
+侦搜系统
+279M型对空雷达
+284型水面侦搜雷达
+
+
+武器装备
+8门381毫米主炮(4×2)
+14门102毫米火炮(7×2)
+24门副炮（3×8）
+6管21英寸鱼雷发射管
+
+
+装甲
+侧舷水线装甲带(最大)305毫米
+上部装甲带127毫米
+隔舱102-127毫米
+主甲板38-76毫米
+上甲板76-19毫米
+炮塔(正面)381毫米
+炮座305毫米
+舰桥 228-254毫米。
+
+
+舰载机
+一架弹射器
+
+
+胡德号（英语：HMS Hood ，舷号：51），是英国建造的最后一艘战列巡洋舰，属于海军上将级战列巡洋舰；舰名典故为纪念18世纪英国皇家海军上将山缪·胡德（英语：Samuel Hood, 1st Viscount Hood）子爵，为历史上第4艘以“胡德”（Hood）命名的军舰。该级军舰在战争紧急应对法案（Emergency War Programme）之下的1916年下令建造，原先预定建造4艘，但是在日德兰海战显示英国军舰设计存在重大瑕疵；建造中的战舰实施大规模设计修正。然而英国人清楚设计先天弱点很难在后天追加改正中修复，所以海军上将级的后续舰在1917年取消建造，只有胡德号完工，也让胡德号成为英国皇家海军最后一艘战斗巡洋舰。
+胡德号完工时，她是英国最好、世界最强大的战舰之一，同时也成为英国皇家海军的象征与骄傲；称她为全能的胡德（The Mighty Hood）。
+从1920年代起，胡德号参与英国多次炮舰外交与国力展示演习，包括地中海训练、1924年实施的环球巡弋任务，1930年代西班牙内战爆发时，胡德号长期派驻地中海舰队作为吓阻武力运用。直到1939年才返回英国本土实施全面检整，虽然皇家海军有计划让她在1941年实施全面现代化工程，但是在1939年9月欧战爆发后该工程遭推延，胡德号只进行小规模改良即再度投入战场。
+1941年5月，胡德号与威尔士亲王号战舰奉命拦截试图穿越封锁线威胁大西洋航道的德国战舰俾斯麦号与欧根亲王号重巡洋舰；5月24日丹麦海峡海战一役，胡德号与德军俾斯麦号战舰交火，不到十分钟就被击沈。
+
+
+
+目录
+
+
+1 建造概况
+2 服役历程
+3 后续
+4 性能数据
+5 外部链接
+
+
+
+建造概况[编辑]
+第一次世界大战期间，1915年英国海军为对抗德国在建的马肯森级战列巡洋舰，根据第一次世界大战时的“战时应急计划”（Emergency War Programme），计划于1916年开工建造4艘战列巡洋舰（后人称为“海军上将级”）。当时新建的伊丽莎白女王级战列舰航速达到25节，所以新的战列巡洋舰航速计划超过30节。一号舰胡德号始建于1916年5月31日。原来设计方案排水量36,000吨，动力系统采用新型小水管锅炉，效率提高，航速达到32节。装甲防护与之前英国的战列巡洋舰一样未置于优先考虑的地位。在日德兰海战之后，胡德号推迟了开工日期，针对在这次海战反映出来的战列巡洋舰的防护问题，英国海军改进胡德号设计方案，增加了防御装甲厚度，例如侧舷主装甲带由8英寸增加到12英寸，强化要害部位的防护，改进防火设施。装甲总重量（由10100吨增加到13550吨）以及舰体结构重量增加，设计航速略有下降，吃水比原来设计有所增加，适航性受到影响。虽然防护水准得到一定加强，但是其水平防御装甲和隔舱防护仍然存在隐患。胡德号在舰体两侧水线以下安装突出的“防鱼雷隔舱”，提高对鱼雷防御能力的同时提供了额外的浮力。胡德号的主炮沿用当时英国海军战列舰装备的15英寸口径火炮，双联装主炮塔艏艉对称各两座，主炮塔座圈都未包含上层建筑之内。副炮全设于露天甲板之上，以减少高速航行与恶劣海况时海浪造成射击困难的影响。1916年9月1日胡德号正式开工建造，其他3艘同型舰也在当年开始建造。随着德国即将战败，1917年下令停建3艘同型舰，只留下建造进度较快的胡德号继续建造，于1918年8月下水。由于战争临近结束，下水后的舾装工作放慢了进度，1920年5月5日完工。
+服役历程[编辑]
+
+
+
+
+胡德号最后一张照片，从威尔士亲王号上摄得，图中可见胡德号正在前往寻找俾斯麦号
+
+
+胡德号服役时标准排水量达42,100吨，成为当时世界上最大的军舰，被视为英国皇家海军的骄傲，在其服役生涯中多次作为展示英国国威的礼仪舰巡游世界各国。1930年代胡德号进行了局部的改装，由于第二次世界大战爆发，计划中的大规模现代化改装被取消，仅拆除两舷副炮，换装高射炮。
+第二次世界大战初期，1940年法国战败投降后，英国为了防止法国舰队为德国所用，7月3日胡德号作为旗舰率领驻地中海的H舰队炮击并重创阿尔及利亚米尔斯克比尔军港的法国舰队。1941年5月24日，胡德号与威尔士亲王号战列舰一起拦截德国俾斯麦号战列舰，在丹麦海峡追踪到俾斯麦号。在随后的丹麦海峡海战中，胡德号与德舰交火6分钟后，胡德号上的指挥官霍兰中将下令本舰转向以便从侧射发扬全部火力，然而就在此时，被俾斯麦号的380毫米主炮炮弹贯穿甲板装甲，引发弹药库爆炸，舰体断裂迅速沉没。胡德号沉没前，A炮塔进行了最后一次射击，沉没的结果是包括舰队指挥官兰斯洛特·霍兰海军中将在内的全舰1,418名官兵中除了3人获救以外全数阵亡，这三人为泰德·布里格斯（英语：Ted Briggs）(Ted Briggs)、鲍勃·添邦利(Bob Tilburn)以及比尔·登打斯(Bill Dundas)，由英国巡防舰伊莱翠号（英语：HMS Electra (H27)）救起。
+后续[编辑]
+2012年，微软共同创办人保罗·艾伦出借他的游艇章鱼号给英国探测公司，以进行胡德号遗址打捞工作。2015年8月，胡德号的舰钟被打捞上岸。
+性能数据[编辑]
+
+排水量：42100吨（正常）/47430吨（满载），改装后最大排水量49133吨（1940年）
+尺度：全长262.3米/水线长259.2米/全宽31.7米/最大吃水10.2米
+动力：24座锅炉，主机功率(正常)144000马力/(过载)151280马力
+航速：31节（29节/1941年）；续航力：5950海里/18节
+武备：8门双联装15英寸/42倍口径主炮；12门140毫米/50倍口径副炮(1940年拆除)；14门102毫米防空炮（1940年），1930年代加装24门40毫米高射炮；4门3磅炮；533毫米鱼雷发射管.
+装甲：侧舷水线装甲带(最大)305毫米，上部装甲带127毫米，隔舱102-127毫米；主甲板38-76毫米，上甲板76-19毫米；炮塔(正面)381毫米，炮座305毫米；指挥塔 228-254毫米。装甲总重量13550吨
+舰员：1,341-1,421人
+
+外部链接[编辑]
+
+Hunt for the Hood，公共电视网（PBS）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+二战英国海军舰船
+
+
+
+
+
+
+航空母舰
+
+
+
+
+标准航空母舰
+
+
+
+光荣
+鹰（英语：HMS Eagle (1918)）S
+皇家方舟S
+光辉
+怨仇
+大胆（英语：Audacious-class aircraft carrier）C
+马耳他（英语：Malta-class aircraft carrier）X
+
+
+
+
+
+
+
+
+轻型航空母舰
+
+
+
+百眼巨人S
+竞技神S
+独角兽S
+巨像
+尊严C
+半人马（英语：Centaur-class aircraft carrier）C
+
+
+
+
+
+
+
+
+护航航空母舰
+
+
+
+射手（英语：HMS Archer (D78)）AVS
+大胆（英语：HMS Audacity）VS
+复仇者（英语：Avenger-class escort carrier）AV
+攻击者（英语：Attacker-class escort carrier）A
+统治者（英语：Ruler-class escort carrier）A
+活跃（英语：HMS Activity (D94)）VS
+普利托里亚城堡（英语：HMS Pretoria Castle (F61)）VS
+奈拉纳V
+
+
+
+
+
+
+
+
+商船航空母舰
+
+
+
+麦考潘（英语：Merchant aircraft carrier#New-build grain carriers）V
+麦凯布（英语：Merchant aircraft carrier#New-build oil tankers）V
+拉帕纳（英语：Template:Rapana class merchant aircraft carrier）V
+
+
+
+
+
+
+
+
+水上飞机母舰
+
+
+
+飞马（英语：HMS Ark Royal (1914)）S
+信天翁（英语：HMAS Albatross (1928)）S
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+战舰
+
+
+
+伊丽莎白女王
+复仇
+纳尔逊
+英王乔治五世
+狮X
+前卫CS
+
+
+
+
+
+
+
+
+战斗巡洋舰
+
+
+
+声望
+胡德S
+
+
+
+
+
+
+
+
+重巡洋舰
+
+
+
+霍金斯（英语：Hawkins-class cruiser）
+郡
+约克（英语：York-class cruiser）
+
+
+
+
+
+
+
+
+轻巡洋舰
+
+
+
+C（英语：C-class cruiser）
+达娜厄（英语：Danae-class cruiser）
+绿宝石（英语：Emerald-class cruiser）
+利安德（英语：Leander-class cruiser (1931)）
+林仙（英语：Arethusa-class cruiser (1934)）
+城（英语：Town-class cruiser (1936)）
+黛朵（英语：Dido-class cruiser）
+直辖殖民地（英语：Crown Colony-class cruiser）
+牛头人（英语：Minotaur-class cruiser (1943)）
+海王星（英语：Neptune-class cruiser）X
+虎（英语：Tiger-class cruiser）C
+
+
+
+
+
+
+
+
+驱逐领舰（英语：Flotilla leader）
+
+
+
+莎士比亚（英语：Thornycroft type destroyer leader）
+史考特（英语：Admiralty type flotilla leader）
+
+
+
+
+
+
+
+
+驱逐舰
+
+
+
+R（英语：R-class destroyer (1916)）
+S
+V及W（英语：V and W-class destroyer）
+城（英语：Town-class destroyer）A
+伏击（英语：HMS Ambuscade (D38)）S
+亚马逊（英语：HMS Amazon (D39)）S
+A及B（英语：A- and B-class destroyer）
+C及D（英语：C and D-class destroyer）
+E及F（英语：E and F-class destroyer）
+G及H
+I（英语：I-class destroyer）
+部族（英语：Tribal-class destroyer (1936)）
+J及K及N（英语：J-, K- and N-class destroyer）
+狩猎（英语：Hunt-class destroyer）
+L及M（英语：L and M-class destroyer）
+O及P（英语：O and P-class destroyer）
+Q及R（英语：Q and R-class destroyer）
+S及T（英语：S and T-class destroyer）
+U及V（英语：U and V-class destroyer）
+W及Z（英语：W and Z-class destroyer）
+C（英语：C-class destroyer (1943)）
+战斗（英语：Battle-class destroyer）
+兵器（英语：Weapon-class destroyer）C
+G（英语：G-class destroyer (1944)）X
+勇敢P
+
+
+
+
+
+
+
+
+巡防舰
+
+
+
+河流（英语：River-class frigate）
+舰长（英语：Captain-class frigate）A
+殖民地（英语：Colony-class frigate）A
+劳奇（英语：Loch-class frigate）
+湾（英语：Bay-class frigate）
+
+
+
+
+
+
+
+
+护卫舰
+
+
+
+花
+城堡（英语：Castle-class corvette）
+
+
+
+
+
+
+
+
+轻护卫舰
+
+
+
+24（英语：24-class sloop）
+桥水（英语：Bridgewater-class sloop）
+黑斯廷（英语：Hastings-class sloop）
+班夫（英语：Banff-class sloop）A
+肖汉（英语：Shoreham-class sloop）
+格林斯比（英语：Grimsby-class sloop）
+翠鸟（英语：Kingfisher-class sloop）
+麻鸭（英语：Bittern-class sloop）
+白鹭（英语：Egret-class sloop）
+黑天鹅（英语：Black Swan-class sloop）
+
+
+
+
+
+
+
+
+浅水重炮舰
+
+
+
+厄瑞玻斯（英语：Erebus-class monitor）
+罗伯茨（英语：Roberts-class monitor）
+
+
+
+
+
+
+
+
+布雷艇
+
+
+
+冒险（英语：HMS Adventure (M23)）S
+艾布德（英语：Abdiel-class minelayer）
+千鸟（英语：HMS Plover (M26)）S
+红雀（英语：Linnet-class minelayer）
+阿伽门农（英语：HMS Agamemnon (M10)）VS
+麦涅斯索斯（英语：HMS Menestheus (M93)）VS
+内皮尔港（英语：HMS Port Napier）VS
+魁北克港（英语：HMS Port Quebec）VS
+南王子（英语：HMS Southern Prince (M47)）VS
+蒂维厄特湾（英语：HMS Teviot Bank）VS
+
+
+
+
+
+
+
+
+扫雷舰
+
+
+
+狩猎（英语：Hunt-class minesweeper (1916)）
+哈尔希恩（英语：Halcyon-class minesweeper）
+班哥（英语：Bangor-class minesweeper）
+海雀（英语：Auk-class minesweeper）A
+阿尔吉利亚（英语：Algerine-class minesweeper）
+希柏利（英语：Cybele-class mine destructor vessel）
+
+
+
+
+
+
+
+
+近岸船只（英语：Coastal Forces of the Royal Navy）
+
+
+
+
+机动快艇（英语：Motor Launch）
+
+
+
+费尔迈尔A（英语：Fairmile A motor launch）
+费尔迈尔B（英语：Fairmile B motor launch）
+港口防御（英语：Harbour Defence Motor Launch）
+第二（英语：Type Two 63 ft HSL）
+
+
+
+
+
+
+
+
+鱼雷快艇
+
+
+
+近岸（英语：Coastal Motor Boat）
+费尔迈尔D（英语：Fairmile D motor torpedo boat）
+沃斯珀73英尺（英语：Vosper 73 ft motor torpedo boat）
+
+
+
+
+
+
+
+
+机动炮艇（英语：Motor Gun Boat）
+
+费尔迈尔C（英语：Fairmile C motor gun boat）
+
+
+
+
+
+
+其它
+
+
+
+蒸气炮艇（英语：Steam Gun Boat）
+
+
+
+
+
+
+
+
+
+
+
+潜艇
+
+
+
+
+大型
+
+
+
+H（英语：British H-class submarine）
+L（英语：British L-class submarine）
+奥丁（英语：Odin-class submarine）
+帕提亚（英语：Parthian-class submarine）
+彩虹（英语：Rainbow-class submarine）
+S
+河流（英语：River-class submarine）
+虎鲸（英语：Grampus-class submarine）
+T
+U（英语：British U-class submarine）
+P611（英语：Oruç Reis-class submarine）
+V（英语：British V-class submarine）
+安菲翁（英语：Amphion-class submarine）
+
+
+
+
+
+
+
+
+微型
+
+
+
+X（英语：X-class submarine）
+XE（英语：XE-class submarine）
+
+
+
+
+
+
+
+
+
+
+
+其它
+
+
+
+
+武装拖网船（英语：Naval trawler）
+
+
+
+群岛（英语：Isles-class trawler）
+葡萄牙人（英语：Portuguese-class naval trawler）
+树（英语：Tree-class trawler）
+
+
+
+
+
+
+
+战斗机弹射船
+辅助巡洋舰
+远洋交通艇（英语：Ocean boarding vessel）
+
+
+
+
+
+
+
+
+
+
+
+A
+在美国建造
+C
+战后完成
+P
+战后放置龙骨与完成
+S
+仅建一艘
+V
+由其他用途船只改装
+X
+计划取消
+
+
+
+
+
+
+
+
+
+
+
+
+
+规范控制
+
+
+
+WorldCat标识符
+VIAF: 131347653
+LCCN: n80081779
+
+
+
+
+
+
+
+
+
+
+
+
+分类：英国海军战列巡洋舰隐藏分类：含有英语的条目包含规范控制信息的维基百科条目
