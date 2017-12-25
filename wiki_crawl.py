@@ -15,7 +15,7 @@ class SpiderMain(object):
     def craw(self):
         urls = []
         titles = []
-        wikientries = open("wiki_result.txt", encoding='utf-8')
+        wikientries = open("wiki_result_test.txt", encoding='utf-8')
         # existentries.write('crawl failed ')
         # baiduentries.write('%s' % ii)
         # baiduentries.write('\n')

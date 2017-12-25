@@ -103,10 +103,13 @@ class HtmlParser(object):
         #categories crawl
         categories = soup.find("div", class_="mw-normal-catlinks")
         category = []
-        for child in categories.contents[2].contents:
-            category.append(child.text)
-        if len(category) == 0:
+        if categories is None:
             category.append("None_Category!!!")
+        else:
+            for child in categories.contents[2].contents:
+                category.append(child.text)
+            if len(category) == 0:
+               category.append("None_Category!!!")
 
         #references crawl
         references = soup.find_all("ol", class_="references")  # it will find all references, including the references, cites and notes.
@@ -360,15 +363,31 @@ class HtmlParser(object):
             editors = text1[0].find_all('td')[7].text
             ip_edits = text1[0].find_all('td')[11].text
         pos1 = ip_edits.find('·')
-        ip_edits = ip_edits[0: pos1].lstrip()
+        ip_edits = ip_edits[0: pos1]
         ip_edits = ip_edits.strip()
         # ip_edits = ip_edits.rstrip()
         edits = edits.strip()
+        editors = editors.strip()
         # edits = edits.rstrip()
         # edits= int(edits)  # remove spaces
-        editors = text1[0].find_all('td')[9].text
-        editors = editors.strip()
+        # editors = text1[0].find_all('td')[9].text
+        # editors = editors.strip()
         # editors = editors.rstrip()
+        p = re.compile(r'\d+,\d+?')
+        s = edits
+        for m in p.finditer(s):
+           mm = m.group()
+           s_back = s.replace(mm,mm.replace(',',''))
+           s = s_back
+        edits = s
+
+        s = ip_edits
+        for m in p.finditer(s):
+           mm = m.group()
+           s_back = s.replace(mm,mm.replace(',',''))
+           s = s_back
+        ip_edits = s
+
         edits = int(edits) - int(ip_edits)
 
 

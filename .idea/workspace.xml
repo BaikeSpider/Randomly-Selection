@@ -2,18 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26f106f7-003a-4451-a5da-2a221c6b06fa" name="Default" comment="data">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/convert_xlsx.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/baidu_result2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/baidu_result3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/baidu_result4.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/baidu_result6.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wiki_result2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wiki_result3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wiki_result4.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wiki_result6.txt" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/baidu_output.xlsx" afterPath="$PROJECT_DIR$/baidu_output.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wiki_history_xlsx/wiki_2015年中国女子足球协会杯比赛.xlsx" afterPath="$PROJECT_DIR$/wiki_history_xlsx/wiki_2015年中国女子足球协会杯比赛.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wiki_history_xlsx/wiki_俞佐庭.xlsx" afterPath="$PROJECT_DIR$/wiki_history_xlsx/wiki_俞佐庭.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wiki_history_xlsx/wiki_时光匣子.xlsx" afterPath="$PROJECT_DIR$/wiki_history_xlsx/wiki_时光匣子.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wiki_history_xlsx/wiki_美竹.xlsx" afterPath="$PROJECT_DIR$/wiki_history_xlsx/wiki_美竹.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wiki_history_xlsx/wiki_超级大坏蛋.xlsx" afterPath="$PROJECT_DIR$/wiki_history_xlsx/wiki_超级大坏蛋.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wiki_history_xlsx/wiki_马炳泰.xlsx" afterPath="$PROJECT_DIR$/wiki_history_xlsx/wiki_马炳泰.xlsx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wiki_output.xlsx" afterPath="$PROJECT_DIR$/wiki_output.xlsx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/baidu_crawl.py" afterPath="$PROJECT_DIR$/baidu_crawl.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/baidu_output.html" afterPath="$PROJECT_DIR$/baidu_output.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/baidu_outputer.py" afterPath="$PROJECT_DIR$/baidu_outputer.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/baidu_parser.py" afterPath="$PROJECT_DIR$/baidu_parser.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wiki_crawl.py" afterPath="$PROJECT_DIR$/wiki_crawl.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wiki_output.html" afterPath="$PROJECT_DIR$/wiki_output.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wiki_outputer.py" afterPath="$PROJECT_DIR$/wiki_outputer.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wiki_parser.py" afterPath="$PROJECT_DIR$/wiki_parser.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wiki_result6.txt" afterPath="$PROJECT_DIR$/wiki_result6.txt" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,29 +36,30 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Randomly_Selection$wiki_crawl1.coverage" NAME="wiki_crawl1 Coverage Results" MODIFIED="1511539050680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Randomly_Selection$Baidu_crawl1.coverage" NAME="Baidu_crawl1 Coverage Results" MODIFIED="1511535048073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Randomly_Selection$baidu_crawl.coverage" NAME="baidu_crawl Coverage Results" MODIFIED="1513951817383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Randomly_Selection$convert_xlsx.coverage" NAME="convert_xlsx Coverage Results" MODIFIED="1514121983369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Randomly_Selection$baidu_crawl.coverage" NAME="baidu_crawl Coverage Results" MODIFIED="1513966229363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Randomly_Selection$spider_main.coverage" NAME="spider_main Coverage Results" MODIFIED="1512809198131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Randomly_Selection$start.coverage" NAME="start Coverage Results" MODIFIED="1512808062036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Randomly_Selection$baidu_parser.coverage" NAME="baidu_parser Coverage Results" MODIFIED="1513531342649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Randomly_Selection$wiki_crawl.coverage" NAME="wiki_crawl Coverage Results" MODIFIED="1513951785140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Randomly_Selection$wiki_crawl.coverage" NAME="wiki_crawl Coverage Results" MODIFIED="1514054009590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="wiki_outputer.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wiki_outputer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="44" column="43" lean-forward="false" selection-start-line="44" selection-start-column="43" selection-end-line="44" selection-end-column="43" />
+            <state relative-caret-position="217">
+              <caret line="124" column="82" lean-forward="false" selection-start-line="124" selection-start-column="75" selection-end-line="124" selection-end-column="82" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="wiki_crawl.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="wiki_crawl.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wiki_crawl.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="17" column="39" lean-forward="false" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+            <state relative-caret-position="491">
+              <caret line="29" column="29" lean-forward="false" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
               <folding>
                 <element signature="e#0#63#0" expanded="true" />
               </folding>
@@ -58,11 +70,11 @@
       <file leaf-file-name="wiki_parser.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wiki_parser.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="173">
-              <caret line="104" column="0" lean-forward="false" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
+            <state relative-caret-position="501">
+              <caret line="373" column="35" lean-forward="false" selection-start-line="373" selection-start-column="35" selection-end-line="373" selection-end-column="35" />
               <folding>
                 <element signature="e#15#25#0" expanded="true" />
-                <element signature="e#10620#12559#0" expanded="false" />
+                <element signature="e#10728#12667#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -71,22 +83,34 @@
       <file leaf-file-name="baidu_parser.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/baidu_parser.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="768">
-              <caret line="422" column="215" lean-forward="false" selection-start-line="422" selection-start-column="215" selection-end-line="422" selection-end-column="215" />
+            <state relative-caret-position="201">
+              <caret line="301" column="29" lean-forward="false" selection-start-line="301" selection-start-column="17" selection-end-line="301" selection-end-column="29" />
               <folding>
                 <element signature="e#15#44#0" expanded="true" />
                 <element signature="e#3734#8653#0" expanded="false" />
-                <element signature="e#16197#16838#0" expanded="false" />
+                <element signature="e#16585#17226#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="baidu_outputer.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="baidu_outputer.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/baidu_outputer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2269">
-              <caret line="148" column="21" lean-forward="false" selection-start-line="148" selection-start-column="21" selection-end-line="148" selection-end-column="21" />
+            <state relative-caret-position="423">
+              <caret line="140" column="47" lean-forward="false" selection-start-line="140" selection-start-column="39" selection-end-line="140" selection-end-column="47" />
+              <folding>
+                <element signature="e#15#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="convert_xlsx.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/convert_xlsx.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
               <folding>
                 <element signature="e#15#28#0" expanded="true" />
               </folding>
@@ -97,11 +121,21 @@
       <file leaf-file-name="baidu_crawl.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/baidu_crawl.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="16" column="41" lean-forward="false" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+            <state relative-caret-position="607">
+              <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="24" />
               <folding>
                 <element signature="e#0#65#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ansitowin32.py" pinned="false" current-in-tab="false">
+        <entry file="file://D:/Program Files (x86)/Python36/Lib/site-packages/colorama/ansitowin32.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="43" column="7" lean-forward="false" selection-start-line="43" selection-start-column="7" selection-end-line="43" selection-end-column="7" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -122,6 +156,8 @@
       <find>convert</find>
       <find>articleinfo_url_temp</find>
       <find>reference_count</find>
+      <find>category</find>
+      <find>table</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -139,12 +175,13 @@
         <option value="$PROJECT_DIR$/spider_main.py" />
         <option value="$PROJECT_DIR$/baidu_crawl1.py" />
         <option value="$PROJECT_DIR$/wiki_crawl1.py" />
-        <option value="$PROJECT_DIR$/baidu_parser.py" />
         <option value="$PROJECT_DIR$/wiki_outputer.py" />
         <option value="$PROJECT_DIR$/baidu_outputer.py" />
-        <option value="$PROJECT_DIR$/wiki_parser.py" />
         <option value="$PROJECT_DIR$/baidu_crawl.py" />
         <option value="$PROJECT_DIR$/wiki_crawl.py" />
+        <option value="$PROJECT_DIR$/baidu_parser.py" />
+        <option value="$PROJECT_DIR$/convert_xlsx.py" />
+        <option value="$PROJECT_DIR$/wiki_parser.py" />
       </list>
     </option>
   </component>
@@ -154,9 +191,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2017" />
-    <option name="y" value="237" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="1902" />
+    <option name="y" value="5" />
     <option name="width" value="1936" />
     <option name="height" value="1066" />
   </component>
@@ -177,6 +214,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -188,7 +226,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -208,7 +245,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.baidu_crawl">
+  <component name="RunManager" selected="Python.convert_xlsx">
     <configuration name="baidu_crawl" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -241,6 +278,24 @@
       <module name="Randomly_Selection" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baidu_parser.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="convert_xlsx" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Randomly_Selection" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/convert_xlsx.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -281,38 +336,20 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="wiki_crawl1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Randomly_Selection" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wiki_crawl1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.spider_main" />
-      <item index="1" class="java.lang.String" itemvalue="Python.wiki_crawl1" />
-      <item index="2" class="java.lang.String" itemvalue="Python.baidu_crawl" />
-      <item index="3" class="java.lang.String" itemvalue="Python.wiki_crawl" />
-      <item index="4" class="java.lang.String" itemvalue="Python.baidu_parser" />
+      <item index="1" class="java.lang.String" itemvalue="Python.baidu_crawl" />
+      <item index="2" class="java.lang.String" itemvalue="Python.wiki_crawl" />
+      <item index="3" class="java.lang.String" itemvalue="Python.baidu_parser" />
+      <item index="4" class="java.lang.String" itemvalue="Python.convert_xlsx" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.baidu_crawl" />
+        <item index="0" class="java.lang.String" itemvalue="Python.convert_xlsx" />
         <item index="1" class="java.lang.String" itemvalue="Python.wiki_crawl" />
-        <item index="2" class="java.lang.String" itemvalue="Python.baidu_parser" />
-        <item index="3" class="java.lang.String" itemvalue="Python.spider_main" />
-        <item index="4" class="java.lang.String" itemvalue="Python.wiki_crawl1" />
+        <item index="2" class="java.lang.String" itemvalue="Python.baidu_crawl" />
+        <item index="3" class="java.lang.String" itemvalue="Python.baidu_parser" />
+        <item index="4" class="java.lang.String" itemvalue="Python.spider_main" />
       </list>
     </recent_temporary>
   </component>
@@ -338,20 +375,20 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1066" extended-state="6" />
+    <frame x="1912" y="-8" width="1936" height="1066" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27452025" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1119403" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3279743" sideWeight="0.50479746" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19506967" sideWeight="0.49520257" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290461" sideWeight="0.4968017" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290461" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3279743" sideWeight="0.49520257" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290461" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4072883" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21108742" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -417,24 +454,24 @@
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/wiki_outputer.py</url>
-          <line>107</line>
-          <option name="timeStamp" value="61" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/baidu_outputer.py</url>
           <line>164</line>
           <option name="timeStamp" value="78" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/baidu_parser.py</url>
-          <line>346</line>
+          <line>356</line>
           <option name="timeStamp" value="80" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/baidu_parser.py</url>
+          <line>251</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/wiki_parser.py</url>
-          <line>103</line>
-          <option name="timeStamp" value="82" />
+          <line>335</line>
+          <option name="timeStamp" value="85" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
@@ -444,24 +481,11 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="83" />
+      <option name="time" value="86" />
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="PythonConfigurationType">
-        <watch expression="soup.find(&quot;dd&quot;, class_=&quot;reference-list-wrap&quot;)" language="Python" />
-        <watch expression="len(users)-1" language="Python" />
-        <watch expression="record[int(jj['uid'])]" language="Python" />
-      </configuration>
-    </watches-manager>
+    <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://D:/Program Files (x86)/Python36-32/Lib/site-packages/requests/api.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="91" column="65" lean-forward="false" selection-start-line="91" selection-start-column="65" selection-end-line="91" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wiki_randomoutputer.py" />
     <entry file="file://D:/Program Files (x86)/Python36-32/Lib/urllib/request.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -484,7 +508,7 @@
           <folding>
             <element signature="e#15#44#0" expanded="true" />
             <element signature="e#3734#8653#0" expanded="false" />
-            <element signature="e#16197#16838#0" expanded="false" />
+            <element signature="e#16585#17226#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -497,7 +521,7 @@
           <caret line="303" column="36" lean-forward="false" selection-start-line="303" selection-start-column="36" selection-end-line="303" selection-end-column="36" />
           <folding>
             <element signature="e#15#25#0" expanded="true" />
-            <element signature="e#10620#12559#0" expanded="false" />
+            <element signature="e#10728#12667#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -667,13 +691,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spider_main2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1159">
-          <caret line="66" column="15" lean-forward="false" selection-start-line="66" selection-start-column="15" selection-end-line="66" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://D:/Program Files (x86)/Python36/Lib/site-packages/bs4/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="217">
@@ -693,7 +710,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="331">
           <caret line="70" column="0" lean-forward="false" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -716,14 +732,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
           <caret line="328" column="0" lean-forward="false" selection-start-line="328" selection-start-column="0" selection-end-line="328" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Program Files (x86)/Python36/Lib/site-packages/colorama/ansitowin32.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -735,63 +743,89 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wiki_outputer.py">
+    <entry file="file://D:/Program Files (x86)/Python36/Lib/site-packages/colorama/ansitowin32.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="44" column="43" lean-forward="false" selection-start-line="44" selection-start-column="43" selection-end-line="44" selection-end-column="43" />
+        <state relative-caret-position="300">
+          <caret line="43" column="7" lean-forward="false" selection-start-line="43" selection-start-column="7" selection-end-line="43" selection-end-column="7" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/baidu_parser.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="768">
-          <caret line="422" column="215" lean-forward="false" selection-start-line="422" selection-start-column="215" selection-end-line="422" selection-end-column="215" />
-          <folding>
-            <element signature="e#15#44#0" expanded="true" />
-            <element signature="e#3734#8653#0" expanded="false" />
-            <element signature="e#16197#16838#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/baidu_outputer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2269">
-          <caret line="148" column="21" lean-forward="false" selection-start-line="148" selection-start-column="21" selection-end-line="148" selection-end-column="21" />
-          <folding>
-            <element signature="e#15#28#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wiki_parser.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="104" column="0" lean-forward="false" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
-          <folding>
-            <element signature="e#15#25#0" expanded="true" />
-            <element signature="e#10620#12559#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/baidu_crawl.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="16" column="41" lean-forward="false" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+        <state relative-caret-position="607">
+          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="24" />
           <folding>
             <element signature="e#0#65#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/spider_main2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="882">
+          <caret line="53" column="50" lean-forward="false" selection-start-line="53" selection-start-column="37" selection-end-line="53" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/convert_xlsx.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="e#15#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baidu_parser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="301" column="29" lean-forward="false" selection-start-line="301" selection-start-column="17" selection-end-line="301" selection-end-column="29" />
+          <folding>
+            <element signature="e#15#44#0" expanded="true" />
+            <element signature="e#3734#8653#0" expanded="false" />
+            <element signature="e#16585#17226#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wiki_outputer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="124" column="82" lean-forward="false" selection-start-line="124" selection-start-column="75" selection-end-line="124" selection-end-column="82" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/wiki_crawl.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="17" column="39" lean-forward="false" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+        <state relative-caret-position="491">
+          <caret line="29" column="29" lean-forward="false" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
           <folding>
             <element signature="e#0#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wiki_parser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="501">
+          <caret line="373" column="35" lean-forward="false" selection-start-line="373" selection-start-column="35" selection-end-line="373" selection-end-column="35" />
+          <folding>
+            <element signature="e#15#25#0" expanded="true" />
+            <element signature="e#10728#12667#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baidu_outputer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="140" column="47" lean-forward="false" selection-start-line="140" selection-start-column="39" selection-end-line="140" selection-end-column="47" />
+          <folding>
+            <element signature="e#15#28#0" expanded="true" />
           </folding>
         </state>
       </provider>

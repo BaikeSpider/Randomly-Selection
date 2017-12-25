@@ -252,6 +252,16 @@ class HtmlParser(object):
         words = all_text.text
 
         #edits
+        if soup.find(class_='nslog:1021') is None:
+            edits = 0
+            pageviews = 0
+            history_link = 0
+            contributors_count = 0
+            time2 = 0
+            users = []
+            users_edits = []
+            return res_data, history_link, edits, pageviews, contributors_count, time2, all_len, category, reference_count, users, users_edits, words
+
         edits1 = soup.find(class_='nslog:1021').parent
         edits2 = edits1.text
         pos = edits2.rfind('次')
