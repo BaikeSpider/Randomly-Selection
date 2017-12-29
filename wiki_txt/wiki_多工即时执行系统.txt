@@ -1,0 +1,2 @@
+多工即时执行系统
+多工即时执行系统（Versatile Real-Time Executive，缩写为VRTX），一种即时操作系统，目前由Mentor Graphics公司所拥有与发展。它可以在嵌入式系统或系统单芯片（SoC）架构中运行，在哈伯太空望远镜中也运用了这个操作系统来执行任务。

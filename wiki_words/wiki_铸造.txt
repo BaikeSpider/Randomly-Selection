@@ -1,0 +1,869 @@
+铸造
+
+
+
+
+
+本条目需要精通或熟悉相关主题的编者参与及协助编辑。 
+请邀请适合的人士改善本条目。更多的细节与详情请参见讨论页。 
+
+
+
+
+
+
+正在进行铸造。
+
+
+
+
+
+
+将锡铸造成士兵模型。
+
+
+铸造是人类掌握比较早的一种热加工工艺，已有约6000年的历史。在中国地区的史前人类约在公元前1700～前1000年之间已进入青铜铸件的全盛期，工艺上已达到相当高的水准。铸造是指将加热后变成液态的物质，在融化状态时将其倒入预先做好的铸模内，待其冷却凝固后取出即得所需之铸件。被铸物质多为原为固态但加热至液态的金属（例：铜、铁、铝、锡、铅等），而铸模的材料可以是沙、金属甚至陶瓷。因应不同要求，使用的方法也会有所不同。
+
+
+
+目录
+
+
+1 铸造材料
+2 铸造种类
+3 外部链接
+4 参见
+
+
+
+铸造材料[编辑]
+金属为铸造技术使用最多的材料。其他材料有石膏、混凝土、塑胶等。.
+铸造种类[编辑]
+
+砂模铸造法（Sand Casting）
+
+
+利用砂作为铸模材料，依不同成分的砂可再细分为湿砂模铸造法（Green Sand Mold）、表面干砂模铸造法（Dry Sand Mold）等等，但并非所有砂均可用以铸造。
+好处是成本较低，因为铸模所使用的沙可重复使用；缺点是铸模制作耗时，铸模本身不能被重复使用，须破坏后才能取得成品。
+
+
+金属模铸造法
+
+
+利用熔点较原料高的金属制作铸模。其中细分为永久模铸造法（Permanent mold casting）、压铸法（Die casting）等。
+受制于铸模的熔点，可被铸造的金属也有所限制。
+
+
+脱蜡法（Investment casting、Lost-wax casting）
+
+
+这方法可以为外膜铸造法和固体铸造法。
+先以蜡复制所需要铸造的物件，然后浸入含陶瓷的池中并待干，使以蜡制的复制品覆上一层陶瓷外膜，一直重复步骤直到外膜足以支持铸造过程（约1/4寸到1/8寸），然后熔解模中的蜡，并抽离铸模。其后铸模需要多次加以高温，增强硬度后方可用以铸造。
+此方法具有良好的准确性，更可用作高熔点金属（如钛）的铸造。但由于陶瓷价格颇高，而且制作需要多次加热和复杂，故成本颇为昂贵。
+
+外部链接[编辑]
+
+铸造工. 行政院劳工委员会－职业训练局. 
+铸造. 
+
+参见[编辑]
+
+锻造
+铸铁
+精密铸造（英语：Investment casting）
+金属射出成型
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+金属加工
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+铸件（英语：Casting (metalworking)）
+
+
+
+
+
+
+流程
+
+
+
+离心（英语：Centrifugal casting (industrial)）
+连铸（英语：Continuous casting）
+压铸
+蒸发型铸造（英语：Evaporative-pattern casting）
+
+全模铸造（英语：Full-mold casting）
+失蜡铸造（英语：Lost-foam casting）
+
+
+Investment (Lost wax)（英语：Investment casting）
+永久模铸造法
+石膏模具铸造（英语：Plaster mold casting）
+砂铸造
+半固态金属铸造（英语：Semi-solid metal casting）
+邵氏工艺（英语：Ceramic mold casting#Shaw process）
+模塑
+旋转铸造（英语：Spin casting）
+
+
+
+
+
+
+
+
+组件
+
+
+
+Chill（英语：Chill (casting)）
+Cope and drag（英语：Cope and drag）
+核心（英语：Core (manufacturing)）
+Flask（英语：Flask (casting)）
+型砂（英语：Molding sand）
+Pattern（英语：Pattern (casting)）
+Riser（英语：Riser (casting)）
+Sprue（英语：Sprue (manufacturing)）
+
+
+
+
+
+
+
+
+术语
+
+
+
+铸造缺陷
+Draft (engineering)（英语：Draft (engineering)）
+浮渣（英语：Dross）
+锭（英语：Ingot）
+半成品铸造产品（英语：Semi-finished casting products）
+矿渣（英语：Slag）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+成形、加工和整理
+
+
+
+
+
+
+一般
+
+
+
+制造
+计件工作（英语：Piece work）
+钣金（英语：Sheet metal）
+
+
+
+
+
+
+
+
+成型工艺
+
+
+
+冲压
+轧制
+锻造
+绘图（英语：Drawing (manufacturing)）
+电液成型（英语：Electrohydraulic forming）
+电磁成形（英语：Electromagnetic forming）
+爆炸成型（英语：Explosive forming）
+液压成形（英语：Hydroforming）
+渐进冲压（英语：Progressive stamping）
+Sinking（英语：Sinking (metalworking)）
+Spinning（英语：Metal spinning）
+Swaging（英语：Swaging）
+Tube bending（英语：Tube bending）
+
+
+
+
+
+
+
+
+接合流程
+
+
+
+硬焊
+压接（英语：Crimp (joining)）
+铆钉
+软钎焊
+焊接
+
+
+
+
+
+
+
+
+表面处理
+
+
+
+阳极处理
+镀锌
+热处理
+Mass finishing（英语：Mass finishing）
+Patination（英语：Patina）
+Peening（英语：Peening）
+电镀
+抛光（英语：Polishing (metalworking)）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+机械加工和计算
+
+
+
+
+
+
+计算机辅助工程
+
+
+
+2.5D（英语：2.5D (machining)）
+电脑辅助设计（CAD）
+电脑辅助制造（CAM）
+G代码
+数控机床
+斯图尔特平台（英语：Stewart platform）
+
+
+
+
+
+
+
+
+钻孔和攻丝
+
+
+
+Die head（英语：Die head）
+电钻
+钻头
+Drill bit shank（英语：Drill bit shank）
+钻头大小
+钻孔
+List of drill and tap sizes（英语：List of drill and tap sizes）
+丝攻和丝板
+Tap wrench（英语：Tap wrench）
+Threading（英语：Threading (manufacturing)）
+
+
+
+
+
+
+
+
+磨削和研磨
+
+
+
+Abrasive（英语：Abrasive）
+Angle grinder（英语：Angle grinder）
+桌上型砂轮机
+Coated abrasive（英语：Coated abrasive）s
+Cylindrical grinder（英语：Cylindrical grinder）
+Diamond plate（英语：Diamond plate）
+Flick grinder（英语：Flick grinder）
+Grinding
+Grinding dresser（英语：Grinding dresser）
+磨床
+砂轮
+Jig grinder（英语：Jig grinder）
+Lapping（英语：Lapping）
+Sanding
+磨刀石
+Spark testing（英语：Spark testing）
+Surface grinder（英语：Surface grinding）
+Tool and cutter grinder（英语：Tool and cutter grinder）
+
+
+
+
+
+
+
+
+机械加工
+
+
+
+Boring（英语：Boring (manufacturing)）
+Broaching（英语：Broaching (metalworking)）
+电火花加工
+电化学加工
+Electron beam machining（英语：Electron beam machining）
+Endmill（英语：Endmill）
+雕版
+Facing（英语：Facing (machining)）
+Hobbing（英语：Hobbing）
+Jig borer（英语：Jig borer）
+机床
+机械加工
+车床
+铣刀
+铣床
+Pantograph（英语：Pantograph）
+Photochemical machining（英语：Photochemical machining）
+Planer（英语：Planer (metalworking)）
+绞刀
+旋转传送机（英语：Rotary transfer machine）
+Shaper（英语：Shaper）
+车削（英语：Turning）
+超声波加工（英语：Ultrasonic machining）
+
+
+
+
+
+
+
+
+机床
+
+
+
+Angle plate（英语：Angle plate）
+卡盘
+筒夹
+Fixture（英语：Fixture (tool)）
+Indexing head（英语：Indexing head）
+治具
+Lathe center
+Machine taper（英语：Machine taper）
+磁性底座
+顶杆（英语：Mandrel）
+回转工作台（英语：Rotary table）
+Wiggler（英语：Wiggler (tool)）
+
+
+
+
+
+
+
+
+术语
+
+
+
+切削液
+加工振动（英语：Machining vibrations）
+Speeds and feeds（英语：Speeds and feeds）
+切屑（英语：Swarf）
+公差
+工具和模具制造（英语：Tool and die maker）
+Tramp oil
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+锻造（英语：Metalsmith）
+
+
+
+
+
+
+工匠
+
+
+
+铁匠
+刀匠（英语：Bladesmith）
+铜匠（英语：Coppersmith）
+金匠（英语：Goldsmith）
+枪匠（英语：Gunsmith）
+锁匠
+锡匠
+银匠（英语：Silversmith）
+锡匠（英语：Tinsmith）
+
+
+
+
+
+
+
+
+过程
+
+
+
+锻造
+Pattern welding（英语：Pattern welding）
+Planishing（英语：Planishing）
+Raising（英语：Raising (metalworking)）
+Sinking（英语：Sinking (metalworking)）
+Swaging（英语：Swaging）
+
+
+
+
+
+
+
+
+工具
+
+
+
+铁砧
+熔炉
+Fuller（英语：Fuller (metalworking)）
+槌
+Hardy tool（英语：Hardy tool）
+Pritchel（英语：Pritchel）
+Steam hammer（英语：Steam hammer）
+Swage block（英语：Swage block）
+Trip hammer（英语：Trip hammer）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+工具
+
+
+
+
+
+
+切割机
+
+
+
+Bandsaw（英语：Bandsaw）
+Cold saw（英语：Cold saw）
+激光
+Miter saw（英语：Miter saw）
+Plasma cutting（英语：Plasma cutting）
+水刀
+
+
+
+
+
+
+
+
+切削工具
+
+
+
+Broach（英语：Broaching (metalworking)）
+Burr（英语：Burr (cutter)）
+凿
+凿
+Counterbore（英语：Counterbore）
+Countersink（英语：Countersink）
+End mill（英语：Endmill）
+锉刀
+Hand scraper（英语：Hand scraper）
+铣刀
+Nibbler（英语：Nibbler）
+绞刀
+Shears（英语：Shear (sheet metal)）
+Tipped tool（英语：Tipped tool）
+车刀
+
+
+
+
+
+
+
+
+成型工具
+
+
+
+Brake（英语：Brake (sheet metal bending)）
+Die（英语：Die (manufacturing)）
+English wheel（英语：English wheel）
+液压冲床
+Machine press（英语：Machine press）
+Punch press（英语：Punch press）
+螺旋压力机
+冲床
+
+
+
+
+
+
+
+
+手工具
+
+
+
+夹钳
+Combination square（英语：Combination square）
+Drift pin（英语：Drift pin）
+Hacksaw（英语：Hacksaw）
+槌
+Hand scraper（英语：Hand scraper）
+Machinist square（英语：Machinist square）
+Needlegun scaler（英语：Needlegun scaler）
+Piercing saw（英语：Piercing saw）
+钳
+打洞机（英语：Punch (tool)）
+Scriber（英语：Scriber）
+丝攻和丝板
+Tongs（英语：Tongs）
+万力
+工作台
+扳手
+
+
+
+
+
+
+
+
+机模具
+
+
+
+角度板
+夹头
+Angle plate（英语：Angle plate）
+卡盘
+Fixture（英语：Fixture (tool)）
+Indexing head（英语：Indexing head）
+治具
+卡箍
+Machine taper（英语：Machine taper）
+磁性底座
+Mandrel（英语：Mandrel）
+Rotary table（英语：Rotary table）
+Wiggler（英语：Wiggler (tool)）
+
+
+
+
+
+
+
+
+测量仪器
+
+
+
+Bore gauge（英语：Bore gauge）
+卡尺
+Center gauge（英语：Center gauge）
+Dial indicator（英语：Indicator (distance amplifying instrument)）
+Engineer's blue（英语：Engineer's blue）
+Engineer's spirit level（英语：Engineer's spirit level）
+厚薄规
+Gauge（英语：Gauge (instrument)）
+块规
+Go/no go gauge（英语：Go/no go gauge）
+高度规
+Machinist square（英语：Machinist square）
+Marking blue（英语：Marking blue）
+Marking gauge（英语：Marking gauge）
+Marking out（英语：Marking out）
+千分尺
+Optical comparator（英语：Optical comparator）
+半径样板
+尺子
+Sine bar（英语：Sine bar）
+直尺
+Surface plate（英语：Surface plate）
+卷尺
+螺纹规
+游标卡尺
+
+
+
+
+
+
+
+
+锻造工具
+
+
+
+铁砧
+熔炉 (熔炼金属)
+Fuller（英语：Fuller (metalworking)）
+Hardy tool（英语：Hardy tool）s
+Pritchel（英语：Pritchel）
+Steam hammer（英语：Steam hammer）
+Swage block（英语：Swage block）
+Trip hammer（英语：Trip hammer）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+焊接
+
+
+
+
+
+
+电弧焊
+
+
+
+原子氢焊接（英语：Atomic hydrogen welding）
+气电立焊（英语：Electrogas welding）
+闪光焊接（英语：Flash welding）
+药芯焊丝电弧焊（英语：Flux-cored arc welding）
+熔化极气体保护电弧焊
+钨极气体保护电弧焊
+等离子弧焊（英语：Plasma arc welding）
+手工电弧焊
+埋弧焊
+
+
+
+
+
+
+
+
+其他工艺（英语：List of welding processes）
+
+
+
+电阻焊
+电子束焊接（英语：Electron beam welding）
+电渣焊
+放热焊接（英语：Exothermic welding）
+锻焊
+摩擦焊接（英语：Friction welding）
+搅拌摩擦焊
+摩擦螺柱焊（英语：Friction stud welding）
+激光焊
+激光混合焊（英语：Laser-hybrid welding）
+磁脉冲焊接（英语：Magnetic pulse welding）
+气焊和气割
+点焊（英语：Spot welding）
+超声波焊接
+电阻对焊（英语：Upset welding）
+
+
+
+
+
+
+
+
+设备
+
+
+
+电极
+填充金属（英语：Filler metal）
+焊接头盔（英语：Welding helmet）
+焊接电源（英语：Welding power supply）
+机器人焊接（英语：Robot welding）
+屏蔽气体（英语：Shielding gas）
+
+
+
+
+
+
+
+
+相关
+
+
+
+热影响区（英语：Heat-affected zone）
+雪盲症
+残余应力（英语：Residual stress）
+焊接性（英语：Weldability）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+铸造
+金属制造（英语：Metal fabrication）
+成型过程（英语：Forming processes）
+珠宝
+机械加工
+冶金学
+锻造（英语：Metalsmith）
+工具和术语（英语：Outline of metalworking）
+焊接
+
+
+
+
+
+
+
+
+
+
+
+
+分类：铸造冶金工程学隐藏分类：需要专业人士关注的页面

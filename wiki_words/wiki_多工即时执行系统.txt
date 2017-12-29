@@ -1,0 +1,197 @@
+多工即时执行系统
+
+
+
+
+
+本条目没有列出任何参考或来源。（2010年12月2日） 
+维基百科所有的内容都应该可供查证。请协助添加来自可靠来源的引用以改善这篇条目。无法查证的内容可能被提出异议而移除。 
+
+
+
+多工即时执行系统
+
+开发者
+Mentor Graphics
+
+
+操作系统家族
+即时操作系统
+
+
+运作状态
+Current
+
+
+初始版本
+1980年
+
+
+市场取向
+嵌入式系统与系统单芯片
+
+
+支援平台
+ARM, MIPS, PowerPC, RISC
+
+
+内核类别
+即时操作系统
+
+
+许可证
+Proprietary
+
+
+官方网站
+www.mentor.com
+
+
+多工即时执行系统（Versatile Real-Time Executive，缩写为VRTX），一种即时操作系统，目前由Mentor Graphics公司所拥有与发展。它可以在嵌入式系统或系统单芯片（SoC）架构中运行，在哈伯太空望远镜中也运用了这个操作系统来执行任务。
+历史[编辑]
+1980年，詹姆士·雷迪与科林·杭特（Colin Hunter）创办了杭特与雷迪公司（Hunter & Ready），开始发展这个系统。1986年，杭特与雷迪公司（Hunter & Ready）改名为雷迪系统（Ready System），1993年被Microtec Research 并购，并于1994年公开上巿。
+1995年，明导国际公司（Mentor Graphics）并购了雷迪系统，因此这个操作系统目前属于明导国际公司所拥有。
+系统概况[编辑]
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+实时操作系统（RTOS）
+
+
+
+
+
+
+
+
+
+实时操作系统比较（英语：Comparison of real-time operating systems）
+
+
+
+
+
+
+
+
+开放源代码
+
+
+
+Mynewt OS（英语：Apache Mynewt OS）
+BeRTOS（英语：BeRTOS）
+ChibiOS/RT（英语：ChibiOS/RT）
+Contiki
+ECOS
+ERIKA Enterprise（英语：ERIKA Enterprise）
+FreeRTOS
+Fuchsia
+FunkOS（英语：FunkOS）
+Nano-RK（英语：Nano-RK）
+NuttX（英语：NuttX）
+RIOT（英语：RIOT (operating system)）
+RTAI（英语：RTAI）
+RTEMS
+RTLinux
+RT-Thread（英语：RT-Thread）
+Talon DSP RTOS（英语：Talon DSP RTOS）
+TI-RTOS（英语：TI-RTOS）
+TRON
+Wombat OS（英语：Wombat OS）
+Xenomai
+Zephyr（英语：Zephyr (operating system)）
+
+
+
+
+
+
+
+
+专有软件
+
+
+
+4690 OS（英语：4690 Operating System）
+DioneOS（英语：DioneOS）
+Integrity（英语：Integrity (operating system)）
+Junos OS（英语：Junos OS）
+LynxOS
+µC/OS-II（英语：Micro-Controller Operating Systems）
+MQX（英语：MQX）
+Multiuser DOS（英语：Multiuser DOS）
+Nucleus RTOS
+OpenComRTOS（英语：OpenComRTOS）
+OSE（英语：Operating System Embedded）
+OS-9（英语：OS-9）
+OS2000（英语：OS2000）
+PikeOS（英语：PikeOS）
+QNX
+REX OS（英语：REX OS）
+ScreenOS（英语：ScreenOS）
+L4微内核系列
+ThreadX（英语：ThreadX）
+TPF（英语：Transaction Processing Facility）
+VRTX
+VxWorks
+Windows Embedded Compact
+
+
+
+
+
+
+
+
+历史上的
+
+
+
+DNIX（英语：DNIX）
+DSOS（英语：DSOS）
+EROS（英语：EROS (microkernel)）
+FlexOS（英语：FlexOS）
+MERT/UNIX-RT（英语：Multi-Environment Real-Time）
+pSOS（英语：pSOS (real-time operating system)）
+RMX
+RSX-11
+RT-11（英语：RT-11）
+Sintran III（英语：Sintran III）
+Symbian
+THEOS（英语：THEOS）
+UNOS（英语：UNOS (operating system)）
+
+
+
+
+
+
+
+
+
+
+
+分类:实时操作系统
+
+
+
+
+
+
+
+
+
+
+
+
+分类：实时操作系统嵌入式操作系统隐藏分类：自2010年12月缺少来源的条目含有英语的条目

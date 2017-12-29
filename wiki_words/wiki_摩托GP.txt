@@ -1,0 +1,991 @@
+世界摩托车锦标赛
+
+
+
+
+
+本条目部分链接不符合格式手册规范。跨语言链接及章节标题等处的链接可能需要清理。（2015年12月11日） 
+请协助改善此条目。参见WP:LINKSTYLE、WP:MOSIW以了解细节。突出显示跨语言链接可以便于检查。 
+
+
+
+
+提示：本条目的主题不是世界超级摩托车锦标赛。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+世界摩托车锦标赛
+
+当前赛季、赛事或届次：
+ 2017年世界摩托车锦标赛
+
+
+
+
+
+运动
+摩托赛
+
+
+创立
+1949年
+
+
+队伍数
+12
+
+
+国家
+世界各地
+
+
+应届冠军
+Marc Márquez
+ Repsol Honda Team
+
+
+官方网站
+www.motogp.com
+
+
+世界摩托车锦标赛（Grand Prix motorcycle racing，简称MotoGP），是指摩托车赛中最重要的一项赛事，相当于四轮赛车的一级方程式赛车地位。赛事由国际摩托车赛车协会（FIM）主办，各分站赛主办国负责承办的每场具体的比赛，具体管理和争端仲裁则由MotoGP赛事委员会执行。
+目前MotoGP这项赛事又根据引擎排气量分为3个级别：Moto 3 (250cc),Moto 2 (600cc),Moto GP (1000cc)，3个级别就意味着每个分站会有三组赛事，由于MotoGP组的技术指标远远高于其他组，这组比赛往往是赛事中的焦点。但出于对安全性的考虑，MotoGP于2007年限定引擎排气量最高为800cc，但在2012年，官方又将其改回1000cc。
+尽管MotoGP在这里作为一个级别的名称，但也作为三个级别赛事的统称，这种用法是官方于2002年规定的，但更多的场合“MotoGP”指的是MotoGP级别。
+
+
+
+目录
+
+
+1 历史概览
+2 技术规格
+
+2.1 现今车辆规格
+
+
+3 近年赛势
+4 赛事内容
+
+4.1 自由练习（Free Practice，FP）
+4.2 排位赛（Qualify Practice，QP）
+4.3 热身赛（Warm-Up Practice，WUP）
+4.4 正式比赛（Race，RAC）
+
+
+5 得分标准
+6 近二年Moto GP车手名单
+
+6.1 2018 ( *为官方车队 )
+6.2 2017 ( *为官方车队 )
+
+
+7 历届总冠军
+8 外部链接
+
+
+
+历史概览[编辑]
+MotoGP于1949年由国际摩托车赛车协会（FIM）统一规则后形成的世界摩托车公路锦标赛，比一级方程式赛车还早一年成立，开始时称为WGP，全部赛事在欧洲进行，且一年只有6站比赛。1951年增加至8站比赛，到1961年再增至10站，且加入了阿根廷的布宜诺斯艾利斯站，赛事进入南美洲。1964年，比赛首次加入美国站；1967年首次加入加拿大站；1969年，增加为12个分站。在整个20世纪70年代，赛事发展缓慢，仅仅于1972年增加为13站。进入20世纪80年代，比赛开始在全球范围内飞速发展；首次加入的分站有：1983年南非站、1987年日本站、1988年巴西站、1990年澳洲站、1991年马来西亚站、1996年印度尼西亚站、2004年卡塔尔和中国。其间2000到2003年，日本有两个分站。分站数量在1987年增为15站，从1999年为16站，2005年为17站，2010年至2017年为18站，2018年新增为19站，分散在全球五大洲。
+从20世纪70年代中期到2002年，GP赛的最高级别被限制在四个气缸500cc。因而当时所有摩托车都是二行程的，以在引擎排气量既定的情况下获得更大动力输出。2002年，规则变更了，名称也改变了，国际摩托车赛车协会把最高级别的500cc级别和整个赛事名称都改称为MotoGP，不再是WGP。制造商们这才得到许可扩大四行程摩托车的引擎排气量到990cc并可以选择性地使用3到6个气缸。所以，2002年以后MotoGP才有较快的发展。
+理论上来说，500cc二行程的摩托车的动力弱于990cc四行程的摩托车。2002年的赛场上成了各种引擎车型的混战，很快大家就发现四行程摩托车因大排气量之因素，明显比最高仅有500cc的二行程摩托车来得出色。所以2003年二行程车就在MotoGP级别组的赛场上消失了，而125cc和250cc级别组则只用二行程车。
+从2007年开始，MotoGP级别的摩托车将被限制在最高排气量800cc。公布的原因是要照顾车手安全，因为GP级别摩托车的动力输出和最高速度在2002年以来已经有了充分的增长。
+从2010年开始，250cc级别的赛事将改变为使用四行程四缸600cc的赛车，并更名为Moto2。
+从2012年开始，125cc级别的赛事将改变为使用四行程单缸250cc的赛车，并更名为Moto3；而MotoGP级别的赛车排气量限制恢复至1000cc；主因是车队反应800cc赛车让经营成本增加，却让厂车的过弯速度降低可看性。
+技术规格[编辑]
+早期125cc的级别被限制为单缸且最低重量80KG，250cc的级别则被限制为双汽缸最低重量100KG，这两种级别组的比赛只有二冲程车。
+因为大多中高级（大于250cc）的摩托车都是四行程，在比赛中使用四行程车能让制造商借机开发技术积累经验，从而获益更多。尽管没有任何来自官方的声明作依据，最近欧盟关于阻止向大众出售二行程车的决议还是让人们对二行程车比赛能否长期存在产生了疑问。
+GP级赛车允许选择性使用3到6个汽缸，根据汽缸数不同，重量限制也不同。因为既定排量下，汽缸越多，动力越大，所以最低重量限制就升高了，作为一种平衡手段。2004年，有3、4、5个汽缸的配置，2005年Blata车队甚至使用了V型6缸的引擎。目前GP级赛车汽缸数限制为4个，形式则不限。
+由于原厂车队与卫星车队在金钱与技术等其他资源的不对等，赛会组织Dorna近年来为了比赛的可看性而致定了许多规定，像是卫星车队可以在赛季中使用较多具的引擎与油量、可以使用抓地力更好的软性轮胎、允许在赛季中针对引擎进行开发、不限制车队与车手的私人测试次数等规定，甚至于在2016年，所有车队均使用统一的发动机控制器软件。
+GP级摩托车是特制的赛车，追求速度和可观赏性，最高转速18000转／分，直线速度一般达到340km/h以上，平均圈速也能达到250km/h以上，丝毫不亚于F1。目前MotoGP最高速度记录为杜卡迪车队的杜维西奥索在2015年意大利穆杰罗赛道的自由练习时创下的 361千米每小时（224英里每小时），正式纪录则是以安诺尼在2016年意大利穆杰罗赛道的354.9千米每小时（221英里每小时）。而目前F1赛事最高速度记录为2005年由麦拉伦车队的怕布罗在意大利国立蒙札赛车场创下的 372.6千米每小时（232英里每小时）纪录。
+也正由于速度太高，2007年的新规则选择降低最高排气量，减少动力输出，比如减少传送档数量这类降动力的措施也被讨论过，但遭到反对。这个将实行的新规则对本田车队有利，因为它现在用的是5汽缸车，只要减少一个汽缸就行，其他厂商则需要重新设计发动机。
+MotoGP级别组使用的GP级摩托车不能对大众出售，都是世界级比赛专用车，这点和众多产品类的比赛不同，比如世界超级摩托车锦标赛里所使用的摩托车都是以对外出售的产品进行改良。而其他级别——250cc、600cc排量的GP级摩托车有相应对外发售的普通版本，甚至Moto2级别所使用的引擎都来自于本田市售车CBR600RR的引擎。一辆250cc的车和一辆小汽车差不多价钱，这种车往往用来进行种类繁多的国家级比赛。
+像F1赛车一样，GP级摩托车也并不仅仅是用来比赛，更要用来展示制造商的技术和设计实力。因此所有GP级摩托车大都是昂贵的轻材料制成，比如钛合金、镁合金或碳纤维等制品(但禁止使用碳纤维轮框)。这些技术的应用成本一般不能被大众接触和购买。这种例子还有很多，包括精密电子器件，遥感勘测，引擎管理系统和牵引控制，碳素纤维闸，还有高级引擎技术，像本田的V5引擎配置和Aprilia的RS3。后者甚至使用了F1赛车用的Cosworth设计的气阀制动系统。但一些制造商原先仅在赛场上使用的技术，后续也慢慢下放在市售车上，例如本田的UNIT Pro-link悬吊、山叶的CrossPlane曲轴与DeltaBox车架、杜卡迪的Desmodromic汽门与Monocoque车架等。
+车手和摩托设计师面临的一个主要难题是，怎样把强大的动力在一个轮胎与地面之间烟盒宽的地方全部施展出来。一般来说，GP级摩托车的动力在240马力（179千瓦）左右，相比而言，一辆F1赛车（未改制为涡轮引擎为例）不仅可以从3升发动机启动最高800制动马力（600千瓦）的动力，还有10倍大的轮胎磨擦面。所以，MOTOGP可能是唯一会故意降低发动机的现代机动车比赛，这样可以帮助车手用不到180、190制动马力（135-140千瓦）之间的动力控制赛车。
+
+现今车辆规格[编辑]
+
+
+等级
+MotoGP
+Moto2
+Moto3
+
+
+引擎类型
+V型四缸、直列四缸
+直列四缸(本田CBR600RR统规引擎)
+单汽缸
+
+
+制造商
+本田、山叶、铃木、杜卡迪、艾普利亚、KTM
+Kalex、Speed Up、Suter、Tech3、KTM(均为车架制造商)
+本田、KTM、马恒达、宝狮、胡斯瓦纳
+
+
+排气量
+1000c.c
+600c.c
+250c.c
+
+
+最低车重
+158千克（348英磅）
+135千克（298英磅）
+84千克（185英磅）
+
+
+引擎形式
+四行程，双凸轮轴，每汽缸拥有四个汽门
+
+
+散热形式
+水冷
+
+
+燃料
+无铅汽油(辛烷值100)
+
+
+燃料供给形式
+喷射式
+
+
+进气形式
+自然进气
+
+
+动力
+> 240匹制动马力（180千瓦特）
+> 140匹制动马力（100千瓦特）
+> 80匹制动马力（60千瓦特）
+
+
+转速限制
+17,500 - 18,000 rpm
+
+
+速度
+> 350千米每小时（217英里每小时）
+> 290千米每小时（180英里每小时）
+> 250千米每小时（155英里每小时）
+
+
+近年赛势[编辑]
+
+从各个车队的情况看，本田、山叶、铃木等日本厂商提供车辆、技术及资金支持的车队占尽了优势，雄厚的技术资金实力使它们自1975年开始近三十年的时间几乎垄断了冠军领奖台。
+意大利车厂杜卡迪车队于2003年进军Moto GP赛事，在2007年由于知名车手凯西·斯通纳的加入，该年囊括车队总冠军和车手总冠军两项大奖，成功打破近30多年日本厂商的长期垄断；但由于本田、山叶车队阵中仍拥有马克·马尔克斯、丹尼‧佩卓沙、瓦伦蒂诺·罗西、豪尔赫‧洛伦佐等明星车手，往后的颁奖台仍几乎为这两个日本车厂的车手占据。
+铃木于2011年赛季结束后便宣布退出，但于2015年重新加入Moto GP赛事，车队名为Team Suzuki Ecstar。[1]
+80年代在125与250级别活跃的艾普利亚于2015年重返Moto GP赛事，与原本的开放组车队Gresini Racing合作，车队名为Aprilia Racing Team Gresini。[2]
+在Moto3组别称霸已久的奥地利车厂KTM，宣布在2017年同时加入Moto2与Moto GP级别。[3]
+Moto2的统规引擎供应商即将在2019年由凯旋提供，采用引擎为旗下Street Triple车型所使用的765c.c直列三缸引擎。[4]
+
+赛事内容[编辑]
+各分站进行为期三天的赛事，第一天为自由练习第一、二节（Free Practice），第二天为自由练习第三、四节（Free Practice）与排位赛（Qualify Practice），最后一天为热身赛（Warm-Up Practice）与正式比赛（Race）
+自由练习（Free Practice，FP）[编辑]
+车手可以熟悉场地特性，并提供数据给车队针对场地进行车辆调校。
+
+Moto3：拥有三段的练习赛事，每段时间各为40分钟
+Moto2：拥有三段的练习赛事，每段时间各为45分钟
+MotoGP：拥有四段的练习赛事，前三段时间各为45分钟，并计算综合成绩，决定排位赛的晋级资格；第四段排在Moto3排位赛之后，时间为30分钟，不列入成绩计算
+时程顺序：Moto3 → MotoGP → Moto2
+
+排位赛（Qualify Practice，QP）[编辑]
+决定于正式比赛中起跑的顺序。
+
+Moto3：时间为40分钟
+Moto2：时间为45分钟
+MotoGP：拥有二阶段的排位赛，时间各为15分钟。第一阶段为综合成绩排名第11名之后的车手参加，成绩前两位可以晋级第二阶段的排位赛，与已晋级的前10名车手进行较量；其余未晋级的车手则是按照第一阶段排位的成绩，于正式比赛中起跑位置第13名后开始排序
+时程顺序：Moto3 QP → MotoGP FP4 → MotoGP QP1 → MotoGP QP2 → Moto2 QP
+
+热身赛（Warm-Up Practice，WUP）[编辑]
+各级别均为20分钟，提供车手与车厂于正式比赛前做最后的练习与车辆调教。
+
+时程顺序：Moto3 → Moto2 → MotoGP
+
+正式比赛（Race，RAC）[编辑]
+同级别的所有车手下场，在数十圈的比赛一较高下；而按照每个分站场地的不同，赛事圈数也有所不同。
+
+时程顺序：Moto3 → Moto2 → MotoGP
+
+得分标准[编辑]
+积分由前15名分别获得，而选手必须要跑完该赛事才可获得。
+
+
+排位
+ 冠军 
+ 亚军 
+ 季军 
+ 殿军 
+ 第五 
+ 第六 
+ 第七 
+ 第八 
+ 第九 
+ 第十 
+ 十一 
+ 十二 
+ 十三 
+ 十四 
+ 十五 
+
+
+积分
+25
+20
+16
+13
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+
+
+近二年Moto GP车手名单[编辑]
+2018 ( *为官方车队 )[编辑]
+
+
+
+
+
+车队
+制造商
+赛车型号
+号码
+车手
+
+
+* Ducati Team
+杜卡迪
+Desmosedici GP18
+4
+ 杜维西奥索
+
+
+99
+ 洛伦佐
+
+
+ Octo Pramac Racing
+9
+ 普楚士
+
+
+Desmosedici GP17
+43
+ 米勒
+
+
+ Pull & Bear Aspar Team
+Desmosedici GP16
+17
+ 亚伯拉罕
+
+
+Desmosedici GP17
+19
+ 包提斯塔
+
+
+ Reale Avintia Racing
+Desmosedici GP16
+16
+ 西米恩
+
+
+Desmosedici GP17
+53
+ 雷贝特
+
+
+* Repsol Honda Team
+本田
+RC213V
+26
+ 佩德罗沙
+
+
+93
+ 马奎斯
+
+
+ Estrella Galicia 0,0 Marc VDS
+12
+ 卢西
+
+
+21
+ 莫比德利
+
+
+ LCR Honda
+30
+ 中上贵晶
+
+
+35
+ 克拉奇罗
+
+
+* Movistar Yamaha MotoGP
+山叶
+YZR-M1
+25
+ 维纳勒斯
+
+
+46
+ 罗西
+
+
+ Monster Yamaha Tech 3
+5
+ 扎尔科
+
+
+94
+ 佛格
+
+
+* Team Suzuki Ecstar
+铃木
+GSX-RR
+29
+ 以安诺尼
+
+
+42
+ 林斯
+
+
+* Aprilia Racing Team Gresini
+艾普利亚
+RS-GP
+41
+ 艾斯帕葛罗
+
+
+45
+ 雷丁
+
+
+* Red Bull KTM Motorsport
+KTM
+RC16
+38
+ 史密斯
+
+
+44
+ 艾斯帕葛罗
+
+
+
+
+
+
+
+
+2017 ( *为官方车队 )[编辑]
+
+
+
+
+
+车队
+制造商
+赛车型号
+号码
+车手
+
+
+* Ducati Team
+杜卡迪
+Desmosedici GP17
+4
+ 杜维西奥索
+
+
+99
+ 洛伦佐
+
+
+ Octo Pramac Yakhnich
+9
+ 普楚士
+
+
+Desmosedici GP16
+45
+ 雷丁
+
+
+ Pull & Bear Aspar Team
+Desmosedici GP15
+17
+ 亚伯拉罕
+
+
+Desmosedici GP16
+19
+ 包提斯塔
+
+
+ Avintia Racing
+8
+ 巴贝拉
+
+
+Desmosedici GP15
+76
+ 贝兹
+
+
+* Repsol Honda Team
+本田
+RC213V
+26
+ 佩德罗沙
+
+
+93
+ 马奎斯
+
+
+ Estrella Galicia 0,0 Marc VDS
+43
+ 米勒
+
+
+53
+ 雷贝特
+
+
+ LCR Honda
+35
+ 克拉奇罗
+
+
+* Movistar Yamaha MotoGP
+山叶
+YZR-M1
+25
+ 维纳勒斯
+
+
+46
+ 罗西
+
+
+ Monster Yamaha Tech 3
+5
+ 扎尔科
+
+
+94
+ 佛格
+
+
+* Team Suzuki Ecstar
+铃木
+GSX-RR
+29
+ 以安诺尼
+
+
+42
+ 林斯
+
+
+* Aprilia Racing Team Gresini
+艾普利亚
+RS-GP
+22
+ 瓦倫蒂諾·羅西
+
+
+41
+ 艾斯帕葛罗
+
+
+* Red Bull KTM Motorsport
+KTM
+RC16
+38
+ 史密斯
+
+
+44
+ 艾斯帕葛罗
+
+
+
+
+
+
+
+
+历届总冠军[编辑]
+
+
+年份
+车手
+国籍
+车队
+
+
+1949
+雷斯理‧葛拉汉（Leslie Graham）
+英国
+AJS
+
+
+1950
+翁贝托‧马萨迪（Umberto Masetti）
+意大利
+Gilera
+
+
+1951
+杰夫‧杜克（Geoff Duke）
+英国
+Norton
+
+
+1952
+翁贝托·马萨迪（Umberto Masetti）
+意大利
+Gilera
+
+
+1953
+杰夫‧杜克（Geoff Duke）
+英国
+Gilera
+
+
+1954
+杰夫‧杜克（Geoff Duke）
+英国
+Gilera
+
+
+1955
+杰夫‧杜克（Geoff Duke）
+英国
+Gilera
+
+
+1956
+约翰‧索迪斯（John Surtees）
+英国
+MV Agusta
+
+
+1957
+利贝罗‧利巴拉迪（Libero Liberati）
+意大利
+Gilera
+
+
+1958
+约翰‧索迪斯（John Surtees）
+英国
+MV Agusta
+
+
+1959
+约翰‧索迪斯（John Surtees）
+英国
+MV Agusta
+
+
+1960
+约翰‧索迪斯（John Surtees）
+英国
+MV Agusta
+
+
+1961
+盖瑞‧贺京（Gary Hocking）
+中非联邦
+MV Agusta
+
+
+1962
+麦克‧海伍德（Mike Hailwood）
+英国
+MV Agusta
+
+
+1963
+麦克‧海伍德（Mike Hailwood）
+英国
+MV Agusta
+
+
+1964
+麦克‧海伍德（Mike Hailwood）
+英国
+MV Agusta
+
+
+1965
+麦克‧海伍德（Mike Hailwood）
+英国
+MV Agusta
+
+
+1966
+贾科莫‧奥古斯提尼（Giacomo Agostini）
+意大利
+MV Agusta
+
+
+1967
+贾科莫‧奥古斯提尼（Giacomo Agostini）
+意大利
+MV Agusta
+
+
+1968
+贾柯莫‧奥古斯提尼（Giacomo Agostini）
+意大利
+MV Agusta
+
+
+1969
+贾科莫‧奥古斯提尼（Giacomo Agostini）
+意大利
+MV Agusta
+
+
+1970
+贾科莫‧奥古斯提尼（Giacomo Agostini）
+意大利
+MV Agusta
+
+
+1971
+贾科莫‧奥古斯提尼（Giacomo Agostini）
+意大利
+MV Agusta
+
+
+1972
+贾科莫‧奥古斯提尼（Giacomo Agostini）
+意大利
+MV Agusta
+
+
+1973
+菲尔‧雷德（Phil Read）
+英国
+MV Agusta
+
+
+1974
+菲尔‧雷德（Phil Read）
+英国
+MV Agusta
+
+
+1975
+贾科莫‧奥古斯提尼（Giacomo Agostini）
+意大利
+Yamaha
+
+
+1976
+贝瑞‧施尼（Barry Sheene）
+英国
+Heron Suzuki
+
+
+1977
+贝瑞‧施尼（Barry Sheene）
+英国
+Heron Suzuki
+
+
+1978
+肯尼‧罗伯兹（Kenny Roberts）
+美国
+Marlboro Yamaha
+
+
+1979
+肯尼‧罗伯兹（Kenny Roberts）
+美国
+Marlboro Yamaha
+
+
+1980
+肯尼‧罗伯兹（Kenny Roberts）
+美国
+Marlboro Yamaha
+
+
+1981
+马可‧尤辛尼（Marco Lucchinelli）
+意大利
+Gallina-Nava Olio Fiat Suzuki
+
+
+1982
+马可‧尤辛尼（Marco Lucchinelli）
+意大利
+Gallina-Nava Olio Fiat Suzuki
+
+
+1983
+弗雷迪‧史宾赛（Freddie Spencer）
+美国
+HRC Honda
+
+
+1984
+艾迪‧劳森（Eddie Lawson）
+美国
+Yamaha Team Agostini
+
+
+1985
+弗雷迪‧史宾赛（Freddie Spencer）
+美国
+Rothmans HRC Honda
+
+
+1986
+艾迪‧劳森（Eddie Lawson）
+美国
+Yamaha Team Agostini
+
+
+1987
+韦恩‧贾特纳（Wayne Gardner）
+澳洲
+Rothmans HRC Honda
+
+
+1988
+艾迪‧劳森（Eddie Lawson）
+美国
+Yamaha Team Agostini
+
+
+1989
+艾迪‧劳森（Eddie Lawson）
+美国
+Rothmans HRC Honda
+
+
+1990
+韦恩‧雷尼（Wayne Rainey）
+美国
+Marlboro Yamaha
+
+
+1991
+韦恩‧雷尼（Wayne Rainey）
+美国
+Marlboro Yamaha
+
+
+1992
+韦恩‧雷尼（Wayne Rainey）
+美国
+Marlboro Yamaha
+
+
+1993
+凯文‧施瓦兹（Kevin Schwantz）
+美国
+Lucky-Strike Suzuki
+
+
+1994
+米克‧杜汉（Mick Doohan）
+澳洲
+Rothmans HRC Honda
+
+
+1995
+米克‧杜汉（Mick Doohan）
+澳洲
+Repsol Honda
+
+
+1996
+米克‧杜汉（Mick Doohan）
+澳洲
+Repsol Honda
+
+
+1997
+米克‧杜汉（Mick Doohan）
+澳洲
+Repsol Honda
+
+
+1998
+米克‧杜汉（Mick Doohan）
+澳洲
+Repsol Honda
+
+
+1999
+艾力克斯‧基维利（Àlex Crivillé）
+西班牙
+Repsol Honda
+
+
+2000
+小罗伯兹（Kenny Roberts, Jr.）
+美国
+Rizla Suzuki
+
+
+2001
+瓦伦铁诺·罗西（Valentino Rossi）
+意大利
+Nastro Azzurro Honda
+
+
+2002
+瓦伦铁诺·罗西（Valentino Rossi）
+意大利
+Repsol Honda
+
+
+2003
+瓦伦铁诺·罗西（Valentino Rossi）
+意大利
+Repsol Honda
+
+
+2004
+瓦伦铁诺·罗西（Valentino Rossi）
+意大利
+Gauloises Fortuna Yamaha
+
+
+2005
+瓦伦铁诺·罗西（Valentino Rossi）
+意大利
+Gauloises Yamaha
+
+
+2006
+尼奇‧海登（Nicky Hayden）
+美国
+Repsol Honda
+
+
+2007
+凯西‧史东拿（Casey Stoner）
+澳洲
+Ducati Corse
+
+
+2008
+瓦伦铁诺·罗西（Valentino Rossi）
+意大利
+Fiat Yamaha
+
+
+2009
+瓦伦铁诺·罗西（Valentino Rossi）
+意大利
+Fiat Yamaha
+
+
+2010
+荷黑‧洛伦佐（Jorge Lorenzo）
+西班牙
+Fiat Yamaha
+
+
+2011
+凯西‧史东拿（Casey Stoner）
+澳洲
+Repsol Honda
+
+
+2012
+荷黑‧洛伦佐（Jorge Lorenzo）
+西班牙
+Yamaha Factory Racing
+
+
+2013
+马克‧马奎斯（Marc Márquez）
+西班牙
+Repsol Honda
+
+
+2014
+马克‧马奎斯（Marc Márquez）
+西班牙
+Repsol Honda
+
+
+2015
+荷黑‧洛伦佐（Jorge Lorenzo）
+西班牙
+Movistar Yamaha
+
+
+2016
+马克‧马奎斯（Marc Márquez）
+西班牙
+Repsol Honda
+
+
+2017
+马克‧马奎斯（Marc Márquez）
+西班牙
+Repsol Honda
+
+
+外部链接[编辑]
+
+MotoGPMagazine.com MotoGP Magazine Online 2007
+MotoGP Pocket Pocket PC Calendar
+官方网站（英文）
+
+
+
+
+^ Suzuki return to MotoGP™ with Aleix Espargaro and Maverick Viñales in 2015 http://www.motogp.com/en/news/2014/09/30/suzuki-return-to-motogp-with-aleix-espargaro-and-maverick-vinales-in-2015/165264
+^ Aprilia marks return to MotoGP™ with factory team launch http://www.motogp.com/en/news/2015/03/09/aprilia-marks-return-to-motogp-with-factory-team-launch/171520
+^ Red Bull KTM Factory racing unveil 2017 http://www.motogp.com/en/news/2017/02/20/red-bull-ktm-factory-racing-unveil-2017/2198270[失效链接]
+^ Triumph announced as Moto2™ engine supplier from 2019 http://www.motogp.com/en/news/2017/06/03/triumph-announced-as-moto2-engine-supplier-from-2019/230116
+
+
+
+
+
+分类：赛车摩托赛格兰披治世界锦标赛隐藏分类：自2015年12月连结格式不正确的条目使用未知infobox sports league参数的页面带有失效链接的条目条目有永久失效的外部链接

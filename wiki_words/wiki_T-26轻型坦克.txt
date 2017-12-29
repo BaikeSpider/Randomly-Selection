@@ -1,0 +1,697 @@
+T-26坦克
+
+
+
+
+
+本条目需要扩充。（2013年10月1日） 
+请协助改善这篇条目，更进一步的信息可能会在讨论页或扩充请求中找到。请在扩充条目后将此模板移除。 
+
+
+
+
+
+
+
+
+
+T-26坦克 
+Light Tank
+
+
+
+
+
+
+
+展示于基洛夫斯克的T-26坦克
+
+
+概观
+
+
+类型
+轻型坦克
+步兵坦克
+
+
+服役
+1932年
+
+
+产量
+约11000辆
+
+
+主要用户
+ 苏联、 中华民国、
+ 罗马尼亚、
+ 土耳其、 匈牙利、
+ 保加利亚、 芬兰、
+ 西班牙、 克罗地亚、
+ 叙利亚
+
+
+技术数据
+
+
+乘员
+3人（车长、炮手、驾驶员）
+
+
+重量
+9.35吨
+
+
+功率
+T-26(90匹)
+T-26F(130匹)
+
+
+马力重量比
+T-26(9.62匹/吨)
+T-26F(13.9匹/吨)
+
+
+悬挂系统
+T-26或T-26M(弹簧悬挂)
+
+
+速度
+36公里/小时（道路）、
+16公里/小时（越野）
+
+
+装甲及武器装备
+
+
+装甲
+炮塔15/15/15(正/侧/后)(10°)
+炮塔顶10mm
+车身15/15/15(前/侧/后)
+
+
+主要武器
+37mm B-3或
+45mm 20K或
+37mm ZIS-19或
+
+
+辅助武器
+7.62毫米DPM轻机枪
+
+
+T-26坦克是苏联红军自1930年代开始所使用的一型轻型步兵坦克。它广泛的被使用于1930年代的多次冲突及第二次世界大战之中，直到1960年代自芬兰退役为止。
+
+
+
+目录
+
+
+1 历史
+
+1.1 使用国
+
+
+2 设计
+3 衍生型
+
+3.1 T-26T性能诸元[11]
+
+
+4 相关条目
+5 参考书目
+6 外部链接
+
+
+
+历史[编辑]
+苏联早期坦克，如T-18、T-19、T-20，由于发动机问题始终无法进入批量生产。1929年5月28日，苏联政府和维克斯公司签订协议，进口首批15辆维克斯六吨坦克（维克斯MK.E A型坦克），被称为V-26。1930年，列宁格勒布尔什维克工厂参照这批坦克改进设计制造20辆TMM-1和TMM-2坦克。经过与T-19、T-20坦克过对比实验，1931年2月13日，苏联革命军事委员会决定采用TMM-2，正式命名为T-26轻型坦克，从1932年起由哈尔科夫机车车辆工厂和列宁格勒布尔什维克工厂同时投入生产。[1]。
+苏联一共生产超过11,000辆T-26坦克[2]，远超过同一时期其他国家生产的任何坦克。其衍生型大约有53种，包括火焰发射车、战斗工兵车、遥控坦克、自行火炮与人员运输车等；其中23种型号进入量产[3]。
+1930年代之中，T-26坦克在西班牙内战、诺门罕战役与冬季战争中均扮演极为吃重的角色。1941年6月，在第二次世界大战席卷苏联开始之际，它也是红军在巴巴罗萨作战中所配备数量最多的坦克[4]。这型坦克虽然在二战当时性能已经过时，但直到1945年苏联入侵满州时仍可见到该型坦克的身影[5]。
+除了苏联使用以外，T-26坦克也外销到其他国家，包括西班牙、芬兰、中华民国、土耳其等。另外包括芬兰，德国、罗马尼亚与匈牙利等国也都曾使用过在战场上掳获的T-26坦克[6] 。T-26的优点包括可靠性高与容易维护，且在1931年到1941年间它的设计不断跟随时代的演进而改良。1940年后，T-26系列即没有再推出新发展的车款。
+使用国[编辑]
+
+ 苏联
+ 西班牙
+ 芬兰
+ 土耳其
+ 纳粹德国
+ 罗马尼亚王国
+ 匈牙利王国
+ 阿富汗
+
+
+ 中华民国 - 82辆T-26B(1933年型)[7]，另接收有不明数量的T-26B(1937年型)，以及T-26A（有照片为证）[8]
+
+
+
+
+
+中华民国陆军于抗日战争时使用的T-26坦克
+
+
+中华民国陆军曾经向苏联订购两种型式的T-26坦克：T-26B 1933年后期型(炮塔为方型顶门盖)，以及T-26B 1937年型(有P40车长指挥塔装有防空机枪，其盖为圆型，炮手仍为方型盖，另有部分在炮塔后侧加装机枪，注意左图即是。)这些坦克在主炮的炮盾上方装有两个探照灯。这些坦克都有无线电通讯设备，在当时属于相当先进的设计[9]。
+这些T-26坦克第一次是在1938年（民国27年）5月参加兰封战役[10]，其后也参加过昆仑关战役等多次作战。在国共内战期间有部分T-26坦克被摧毁或者是掳获，最后剩下的坦克与其他装甲车辆一起运到台湾后除役[9]。
+设计[编辑]
+底盘采用平衡式悬挂系统，每侧的8个小直径负重轮分为两组，每组共用弹簧构成车架与车体连接。具有良好的行驶平稳性和良好的战场通行性能。
+90马力8缸空冷汽油发动机。
+横向并列两个单人7.62mm机枪塔
+
+衍生型[编辑]
+苏联曾经以T-26轻坦克的车体为基础，推出一系列试验性的轻型装甲车，包括自走防空炮、弹药车等等，而当中亦有轻型火炮牵引车，包括1934年至1936年生产，全装甲的T-26T以及只有部分装甲的T-26T2，但两者产量都不大，前者有183辆，而后者更只有数辆。最后苏军改为大量生产T-20作为主力的轻型牵引车。但由T-26改造的牵引车在二战中一直继续使用，甚至参与了1945年的八月风暴行动。
+
+
+
+
+红军的T-26T装甲牵引车
+
+
+T-26T性能诸元[11][编辑]
+
+组员：2人
+重量：8.5 ton （推估值）
+长度：4.8 m
+寛度：3.41 m
+高度：1.83 m
+引擎：66.2 kW (90 hp) 4缸汽油引擎
+极速：30 km/h
+最大行程：175km
+
+相关条目[编辑]
+
+维克斯六吨坦克
+T-20 装甲拖车“共青团(Komsomolets)”
+
+参考书目[编辑]
+
+
+Appel, Erik; 等. Finland i krig 1939–1940 - första delen. Espoo, Finland: Schildts förlag Ab. 2001: 261. ISBN 951-50-1182-5 （瑞典语）.  引文格式1维护：显式使用等标签 (link)
+Baryatinskiy, Mikhail. Legkiy tank T-26 (Light Tank T-26). Modelist-Konstruktor. Special Issue No. 2. Moscow: Modelist-Konstruktor. 2003: 64 （俄语）.  Subscription index in the Rospechat Catalogue 73474.
+Baryatinskiy, Mikhail. Light Tanks: T-27, T-38, BT, T-26, T-40, T-50, T-60, T-70. Hersham, Surrey: Ian Allen. 2006: 96. ISBN 0-7110-3163-0. 
+Baryatinskiy, Mikhail. Sovetskie tanki v boyu. Ot T-26 do IS-2 (Soviet tanks in action. From T-26 to IS-2). Moscow: YAUZA, EKSMO. 2006: 352. ISBN 5-699-18740-5 （俄语）. 
+Candil, Antonio J. (1999). "Aid Mission to the Republicans Tested Doctrine and Equipment" in Armor, March 1, 1999. Fort Knox, KY: US Army Armor Center. ISSN 0004-2420.
+Daley, Dr. John (1999). "Soviet and German Advisors Put Doctrine to the Test" in Armor, May 1, 1999. Fort Knox, KY: US Army Armor Center. ISSN 0004-2420.
+Franco, Lucas M. (2006). "El Tanque de la Guerra Civil Española" in Historia de la Iberia Vieja （西班牙文）, No. 13. ISSN 1699-7913.
+Franco, Lucas Molina. Panzer I: El inicio de una saga. Madrid, Spain: AF Editores. 2005: 64. ISBN 84-96016-52-8 （西班牙语）. 
+García, José María; Lucas Molina Franco. La Brunete. Valladolid: Quiron Ediciones. 2005: 80. ISBN 84-96016-28-5 （西班牙语）.  引文使用过时参数coauthors (帮助)
+García, José María; Lucas Molina Franco. Las Armas de la Guerra Civil Española. 28002 Madrid: La Esfera de los Libros. 2006: 613. ISBN 84-9734-475-8 （西班牙语）.  引文使用过时参数coauthors (帮助)
+Glantz, David M. Stumbling Colossus. Lawrence, Kansas: Kansas Press. 1998: 374. ISBN 0-7006-0879-6. 
+Glantz, David M.; Jonathan M. House. When Titans Clashed: How the Red Army Stopped Hitler. Lawrence, Kansas: Kansas Press. 1995: 414. ISBN 0-7006-0899-0.  引文使用过时参数coauthors (帮助)
+House, Jonathan M. Toward Combined Arms Warfare: A Survey of 20th-Century Tactics, Doctrine, and Organization. Fort Leavenworth, Kansas 66027-6900: U.S. Army Command and General Staff College. 1984: 231. 
+Hughes-Wilson, John (2006). "Snow and Slaughter at Suomussalmi" in Military History, January 1, 2006. ISSN 0889-7328.
+Jorgensen, Christer; Chris Mann. Strategy and Tactics: Tank Warfare. Osceola, USA: MBI Publishing Company. 2001: 176. ISBN 0-7603-1016-5.  引文使用过时参数coauthors (帮助)
+Kantakoski, Pekka. Punaiset panssarit - Puna-armeijan panssarijoukot 1918–1945 [Red tanks: the Red Army's armoured forces 1918–1945]. Hämeenlinna: Ilves-Paino Oy. 1998: 512. ISBN 951-98057-0-2 （芬兰语）. 
+Kolomiets, Maxim. Tanki v Zimnei voine 1939–1940 (Tanks during the Winter War 1939–1940). Frontline Illustration No. 3. Moscow: Strategiya KM. 2001: 82. ISBN 978-5-699-20928-6 （俄语）. 
+Kolomiets, Maxim; Svirin Mikhail. Legkiy tank T-26. 1931–1941 (The Light Tank T-26. 1931–1941). Frontline Illustration No. 1. Moscow: Strategiya KM. 2003: 79. ISBN 5-901266-01-3 （俄语）.  引文使用过时参数coauthors (帮助)
+Kolomiets, Maxim; Svirin Mikhail. T-26: mashiny na ego base (T-26: The Vehicles on its Base). Frontline Illustration No. 4. Moscow: Strategiya KM. 2003: 80. ISBN 5-901266-01-3 （俄语）.  引文使用过时参数coauthors (帮助)
+Kolomiets, Maxim. T-26. Tyazhelaya sud'ba legkogo tanka (T-26. The Heavy Fate of the Light Tank). Moscow: Yauza, Strategiya KM, EKSMO. 2007: 128. ISBN 978-5-699-21871-4 （俄语）. 
+Macksey, Kenneth. Tanks: A History of the Armoured Fighting Vehicle. United States of America: Charles Scribner's Sons. 1970: 160. SBN 684-13651-1. 
+Miller, David. Illustrated Directory of Tanks and Fighting Vehicles: From World War I to the Present Day. Zenith Press. June 30, 2000: 480. ISBN 0-7603-0892-6. 
+Muikku, Esa; Jukka Purhonen. Suomalaiset Panssarivaunut 1918–1997 (The Finnish Armoured Vehicles 1918–1997). Jyväskylä: Apali. 1998: 208. ISBN 952-5026-09-4 （Finnish/English）.  引文使用过时参数coauthors (帮助) 引文格式1维护：未识别语文类型 (link)
+Raus, Erhard. Peter G. Tsouras, 编. Panzers on the Eastern Front: General Erhard Raus and his Panzer Divisions in Russia, 1941–1945. United States of America: Greenhill Books. 2002: 253. ISBN 0-7394-2644-3. 
+Regenberg, Dr. Werner; Horst Scheibert. Captured Tanks Under the German Flag. United States of America: Schiffer. 1990: 49. ISBN 0-88740-201-1.  引文使用过时参数coauthors (帮助)
+Rybalkin, Yuriy. Operatsiya "X". Sovetskaya voennaya pomoshch respublikanskoy Ispanii 1936–1939 (Operation X. The Soviet Military Aid to Republican Spain 1936–1939). Moscow: AIRO-XX. 2000: 149. ISBN 5-88735-067-9 （俄语）. 
+Solyankin, Alexander; Pavlov Ivan, Pavlov Mikhail, Zheltov Igor. Otechestvennye bronirovannye mashiny. XX vek. Tom 1: 1905–1941 (Native Armoured Vehicles. XX century. Vol. 1: 1905–1941). Moscow: Exprint. 2002: 344. ISBN 5-94038-030-1 （俄语）.  引文使用过时参数coauthors (帮助)
+Svirin, Mikhail; Kolomiets Maxim. Legkiy tank T-26 (Light Tank T-26) ARMADA No. 20. Moscow: Exprint. 2000: 58. ISBN 5-94038-003-4 （俄语）.  引文使用过时参数coauthors (帮助)
+Svirin, Mikhail. Bronya krepka. Istoriya Sovetskogo tanka 1919–1937 (The armour is strong. A history of Soviet tank 1919–1937). Moscow: Yauza, EKSMO. 2007: 384. ISBN 978-5-699-13809-8 （俄语）. 
+Weeks, John. Men Against Tanks: A History of Anti-Tank Warfare. New York, United States of America: Mason Charter. 1975: 189. 
+Woodel, Rosemary C. (April 2003). Freezing in hell in Military History, Vol. 20 Issue 1. ISSN 0889-7328
+Zaloga, Steven J., James Grandsen (1981). Soviet Heavy Tanks. London: Osprey Publishing. ISBN 0-85045-422-0.
+Zaloga, Steven J., James Grandsen (1984). Soviet Tanks and Combat Vehicles of World War Two. London: Arms and Armour Press. ISBN 0-85368-606-8.
+Zaloga, Steven J. "Soviet Tank Operations in the Spanish Civil War", in Journal of Slavic Military Studies, vol 12, no 3, September 1999.
+
+
+外部链接[编辑]
+
+T-26: Development History and combat employment, short info about the T-26
+T-26 mod. 1931, photos of twin-turreted T-26
+T-26 mod. 1933, photos of T-26 mod. 1933
+Vehicles Based on T-26's Chassis
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+苏联第二次世界大战装甲战斗车辆
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+坦克
+
+
+
+
+
+
+超轻型坦克
+
+T-27 · T-20
+
+
+
+
+
+
+高速坦克（巡航坦克）
+
+BT-5/BT-7
+
+
+
+
+
+
+轻型坦克
+
+T-18 · T-26 · T-50 · T-60 · T-70/T-80 · 遥控坦克
+
+
+
+
+
+
+中型坦克
+
+T-28 · T-32 · T-34 · T-44
+
+
+
+
+
+
+重型坦克
+
+T-35 · T-100 · T-150 · SMK · KV-1/KV-2 · KV-85 · IS-1 · IS-2 · IS-3 · KV-1S
+
+
+
+
+
+
+两栖坦克
+
+T-37 · T-38 · T-40
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+自行火炮
+
+
+
+
+
+
+突击炮与坦克歼击车
+
+ZiS-30 · SU-5 · SU-76 · SU-85 · SU-100 · SU-122 · SU-152 · ISU-122 · ISU-152
+
+
+
+
+
+
+自行防空炮
+
+ZSU-37 · T-60Z · T-70Z · T-90
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+装甲车
+
+
+
+
+
+
+轻型
+
+D-8（英语：D-8 Armored Car） · D-12 · D-13 · FAI · BA-20（英语：BA-20） · BA-64 · PB-4 · PB-7 · BA-30
+
+
+
+
+
+
+重型
+
+BA-27 · BA-I · BA-3 · BA-6 · BA-10（英语：BA-10）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+战斗雪橇
+
+
+
+
+
+
+战斗雪橇
+
+ANT-IV · NKL-16 · NKL-26 · RF-8 · ASD-400
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+火炮牵引车
+
+
+
+
+
+
+装甲火炮牵引车
+
+AT-42 artillery tractor · T-26-T · T-20共青团 · 共产国际 · 佛罗希洛夫
+
+
+
+
+
+
+火炮牵引车
+
+S-2 Stalinets · ChTZ S-60 · ChTZ S-65 · 共产主义 · STZ-3 · STZ-5 · YA-12
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+实验与简易型装甲车辆和曾有的设计
+
+
+
+
+
+
+实验型
+
+SU-14 · T-43坦克 · SU-100Y自行火炮 · PPG小坦克 · T-34原型 · IS-7 · KV-6 · KV-13
+
+
+
+
+
+
+简易型
+
+KhTZ-16 · IZNI tank
+
+
+
+
+
+
+曾有的设计
+
+A-40飞行坦克 · KV-4 · KV-5 · IS-6 · LTP · T-42重型坦克 · ST-I重型坦克
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+ 二战后苏联装甲战斗车辆
+
+
+
+
+
+
+主战坦克
+
+T-54/T-55 · T-62 · T-64 · T-72 · T-80 · T-90
+
+
+
+
+
+
+
+
+
+步兵战车
+
+BMD-1 · BMD-2 · BMD-3 · BMD-4 · BMP-1 · BMP-2 · BMP-3
+
+
+
+
+
+
+装甲运兵车
+
+BTR-50 · BTR-60 · BTR-70 · BTR-80 · BTR-90
+
+
+
+
+
+
+自行火炮
+
+ASU-57空降自行火炮 · ASU-85空降自行火炮 · 2S5“风信子”自行火炮 · SU-122-54自行反坦克炮
+
+
+
+
+
+
+自行高射炮
+
+ZSU-57-2自行高射炮
+
+
+
+
+
+
+曾有的设计 · 原型车
+
+139工程 · 140工程 · 142工程 · 150工程 · 167工程 · 261工程 · 263工程 · 266工程 · 268工程 · 277工程 · 278工程 · 279工程 · 292工程 · 416工程 · 430工程 · 432工程 · 435工程 · 530工程 · 770工程 · 775工程 · 907工程
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+ 抗战时期中华民国军用车辆
+
+
+
+
+
+
+迷你坦克
+
+PzKpfw 1 · CV-35/33 · 考登劳尔特小坦克 · 维克斯-考登劳尔特水陆两栖轻型坦克 · 雷诺 UE Chenillette · 雷诺FT-17坦克
+
+
+
+
+
+
+轻型坦克
+
+M24霞飞 · T-26 · BT-5 · M3A3 · 维克斯六吨坦克
+
+
+
+
+
+
+中型坦克
+
+M4A4
+
+
+
+
+
+
+轮型装甲车
+
+M3 · Sd.Kfz.221/222/223 · BA-3
+
+
+
+
+
+
+军用汽车
+
+吉普车 · Typ320WK
+
+
+
+
+
+
+摩托车
+
+K800
+
+
+
+
+
+
+
+^ Franco, El Tanque de la Guerra Civil Española, p. 74
+^ Candil, p. 34
+^ Svirin, Kolomiets (2000), p. 4
+^ Baryatinskiy, pp. 34–35
+^ Baryatinskiy (2003), pp. 44–57
+^ Kolomiets (2007), p. 5
+^ 烽火中国的装甲兵1925~1949 王立本 ISBN 957-30497-5-9 164~165页
+^ 抗战时期国军机械化/装甲部队画史1929-1945，滕昕云，ISBN957-30497-6-7 73~77页 122页
+^ 9.0 9.1 滕昕云，抗战时期国军机械化/装甲部队画史 1929～1945，军事文粹，ISBN 9573049767
+^ 我国装甲部队之沿革与坦克史[失效链接]
+^ David Porter作，卡米柚子译，《赤色风暴：苏联坦克部队》，台北，枫书坊，2010年，P.174。
+
+
+
+
+
+分类：苏联坦克苏联二战武器苏联二战坦克中国二战坦克中华民国坦克抗战时期中国武器隐藏分类：自2013年10月扩充中的条目引文格式1维护：显式使用等标签CS1瑞典语来源 (sv)CS1俄语来源 (ru)CS1西班牙语来源 (es)含有过时参数的引用的页面CS1芬兰语来源 (fi)引文格式1维护：未识别语文类型使用ISBN魔术链接的页面带有失效链接的条目条目有永久失效的外部链接

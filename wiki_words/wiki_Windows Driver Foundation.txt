@@ -1,0 +1,554 @@
+Windows Driver Frameworks
+
+
+
+
+
+本条目包含指南或教学内容。（2014年10月18日） 
+请借由移除或重写指南段落来改善条目，或在讨论页提出讨论。 
+
+
+
+
+
+
+
+Windows Driver Frameworks（Windows驱动程序框架，简称WDF，前称Windows Driver Foundation），是微软公司所提供的驱动程序开发技术的集合，包括Kernel-Mode Driver Framework（核心模式驱动程序架构，KMDF）、User-Mode Driver Framework（用户模式驱动程序架构，UMDF）以及PREfast plug-in for Drivers（PFD），目的是要改善目前Windows平台的驱动程序质量，可支持Windows 2000、Windows XP、Windows Server 2003、Windows Vista、Windows Server 2008和Windows 7，以及更新的操作系统上之最新驱动程序架构。WDF架构提供了异步输入输出、分层式驱动程序、即插即用（PNP）、电源管理（Power Manager），以及视窗管理规范（Windows Management Instrumentation，WMI）等功能。
+
+
+
+目录
+
+
+1 User-Mode Driver Framework
+2 Kernel-Mode Driver Framework
+3 PREfast
+
+3.1 PREfast的工作
+
+
+4 Kernel-Mode Code Signing
+5 相关条目
+6 外部链接
+
+
+
+User-Mode Driver Framework[编辑]
+主条目：UMDF
+用户模式驱动程序框架（User-Mode Driver Framework）是内核模式驱动程序框架（Kernel-Mode Driver Framework）的子集合，提供即插即用（PNP）、电源管理（Power Manager）、异步输入输出等功能。
+Kernel-Mode Driver Framework[编辑]
+主条目：KMDF
+Kernel-Mode Driver Framework（核心模式驱动程序架构，简称KMDF），是美国微软公司推出的视窗驱动程序基础（Windows Driver Foundation）之一，建构Windows XP与Windows Server 2003的核心模式（Kernel-Mode）驱动程序所需的基本功能，包括对即插即用（PNP）、电源管理（Power Manager）、I/O队列、直接内存访问（DMA）、Windows Management Instrumentation（WMI）和同步处理等的完整支持。KMDF的设计并不能用来取代WDM，它提供“Skeletal WDM”（一个骨架）建置来替代WDM；目前，KMDF并不支持总线筛选驱动程序（Bus Filter Driver）。
+PREfast[编辑]
+主条目：PREfast
+PREfast（Prefast.exe）是静态的源代码分析工具（static source code analysis tool），可侦测原始代码中不易用一般编译器找到的特定类型错误，目前已集成至Visual Studio 2005 Team Suite中，使用时只要设置‘Enable Code Analysis For C/C++’为Yes即可。
+PREfast的工作[编辑]
+
+变量未初始化
+
+
+
+ void init() {
+     int a;
+     int b;
+     b = a;
+ }
+
+
+运算对象优先权的问题
+
+
+
+ void priority() {
+     int a = 1;
+     int b = 1;
+     int c = 1;
+     if(a & b == c)
+        return ;
+ }
+
+
+内存溢出问题
+
+
+
+ void overrun() {
+      char buf[100];
+     char buf2[200];
+     int  i = 100;
+ 
+     sprintf(buf, "size%d" , i);
+     strcpy(buf, buf2);
+ }
+
+Kernel-Mode Code Signing[编辑]
+微软提供测试时期的类别签名认证，可以让用户产生所需要的CER档与CAT档。
+首先，使用文本编辑器创建一个 .cdf 文件，包含要加入目录的文件及其属性的清单。
+
+
+ [CatalogHeader]
+ Name=Good.cat
+ PublicVersion=0x0000001
+ EncodingType=0x00010001
+ CATATTR1=0x10010001:OSAttr:2:6.0
+ 
+ [CatalogFiles]
+ ...
+
+
+产生一个cer档
+
+
+
+ makecert -pe -ss PrivateCertStore -n CN=Contoso.com(Test) ContosoTest.cer
+
+makecert.exe 可制作cer格式的证书，即X.509证书。
+
+产生一个cat档
+
+
+
+ MakeCat -v Good.cdf
+ Signability.exe /auto /cat /driver:package_directory /os:512
+
+
+产生cat档签证
+
+
+
+ SignTool sign /v /ac CrossCertificateFile /s SPCCertificateStore /n SPCSubjectName /t
+ http://timestamp.verisign.com/scripts/timestamp.dll Good.cat
+
+
+安装签证过的cat档
+
+使用CryptCATAdminAddCatalog API
+
+验证
+
+
+
+ Signtool verify /kp /c tstamd64.cat toaster.sys
+
+相关条目[编辑]
+
+Windows Driver Model
+KMDF
+UMDF
+
+外部链接[编辑]
+
+Kernel-Mode Code Signing Walkthrough
+Windows Driver Foundation Homepage
+Windows Driver Kit
+[1] OSR Online, including many articles about WDF, KMDF, and Windows driver development.
+Introducing Windows Driver Framework，written by well-known Windows driver developer, Walter Oney.
+Building and deploying a basic WDF Kernel Mode Driver，CodeProject
+Developing a WDF USB Kernel Mode Driver for the OSR USB FX2，CodeProject
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+微软应用程序开发接口与框架
+
+
+
+
+
+
+图形接口
+
+
+
+桌面窗口管理器
+DirectX
+Direct2D
+Direct3D
+D3DX
+GDI / GDI+
+WPF
+Silverlight
+WinRT XAML（英语：Windows Runtime XAML Framework）
+Windows色彩系统
+Windows Image Acquisition（英语：Windows Image Acquisition）
+Windows Imaging Component（英语：Windows Imaging Component）
+DXGI
+Windows高级光栅化平台（WARP）
+WinG标准
+
+
+
+
+
+
+
+
+音乐与音效
+
+
+
+DirectMusic
+DirectSound
+DirectX插件（英语：DirectX plugin）
+跨平台音频创作工具（XACT）
+Speech API（英语：Microsoft Speech API）
+XAudio2（英语：XAudio2）
+
+
+
+
+
+
+
+
+多媒体
+
+
+
+DirectX
+
+Media Objects
+DXVA
+
+
+Xinput
+DirectInput
+DirectShow
+Image Mastering API
+Managed DirectX（英语：Managed DirectX）
+Media Foundation
+XNA
+Windows Media
+Video for Windows
+
+
+
+
+
+
+
+
+Web
+
+
+
+MSHTML
+RSS平台（英语：Windows RSS Platform）
+JScript
+VBScript
+浏览器协助工具对象
+XMLHTTP
+SideBar小工具
+TypeScript
+
+
+
+
+
+
+
+
+数据访问
+
+
+
+数据访问组件集
+
+ADO
+ADO.NET
+
+Entity Framework
+
+
+ODBC
+OLE DB
+
+
+可扩展存储引擎
+WCF Data Services
+同步框架（英语：Microsoft Sync Framework）
+Jet数据库引擎
+微软XML剖析器
+OPC
+
+
+
+
+
+
+
+
+网络
+
+
+
+Winsock
+
+LSP
+
+
+Winsock内核（英语：Windows Vista networking technologies#Winsock Kernel）
+Windows筛选平台
+网络驱动程序接口规格（NDIS）
+Windows Rally
+后台智能传输服务（BITS）
+点对点通信API（英语：Windows Vista networking technologies#Peer-to-peer communication）
+MSMQ（英语：Microsoft Message Queuing）
+MS MPI（英语：Microsoft Messaging Passing Interface）
+DirectPlay
+Active Directory Service Interface
+
+
+
+
+
+
+
+
+通信
+
+
+
+消息API（英语：Messaging Application Programming Interface）
+电话API
+WCF
+
+
+
+
+
+
+
+
+管理
+
+
+
+Win32控制台
+Windows Script Host
+WMI
+PowerShell
+工作调度器
+Offline Files（英语：Windows Vista I/O technologies#Offline Files）
+磁盘区阴影复制服务
+Windows Installer
+Windows错误回报（英语：Windows Error Reporting）
+事件记录器
+通用日志文件系统
+
+
+
+
+
+
+
+
+组件与模型
+
+
+
+COM
+COM+
+ActiveX
+DCOM
+.NET框架
+
+
+
+
+
+
+
+
+库
+
+
+
+框架类库（英语：Framework Class Library）
+MFC
+活动模板库（ATL）
+WTL
+
+
+
+
+
+
+
+
+驱动程序
+
+
+
+WDM
+WDF
+
+KMDF
+UMDF
+
+
+WDDM
+NDIS
+UAA
+BDA（英语：Broadcast Driver Architecture）
+VxD
+
+
+
+
+
+
+
+
+安全性
+
+
+
+Crypto API
+
+CAPICOM
+
+
+Windows CardSpace
+数据保护API
+安全支持提供者接口（SSPI）
+
+
+
+
+
+
+
+
+.NET
+
+
+
+ASP.NET
+ASP.NET AJAX
+ADO.NET
+Remoting
+Silverlight
+任务并行库（英语：Task Parallel Library）（TPL）
+WCF
+Windows CardSpace
+WPF
+WF
+Core家族
+
+.NET Core
+ASP.NET Core
+Entity Framework Core
+ASP.NET Core MVC
+
+
+
+
+
+
+
+
+
+
+软件工厂
+
+
+
+EFx Factory（英语：EFx Factory）
+Enterprise Library（英语：Microsoft Enterprise Library）
+复合用户界面（英语：Composite UI Application Block）
+CCF（英语：Microsoft Customer Care Framework）
+CSF（英语：Microsoft Connected Services Framework）
+
+
+
+
+
+
+
+
+进程间通信
+
+
+
+MSRPC（英语：Microsoft RPC）
+动态数据交换（DDE）
+Remoting
+WCF
+
+
+
+
+
+
+
+
+可协助性
+
+
+
+Active Accessibility（英语：Microsoft Active Accessibility）
+用户界面自动化（英语：Microsoft UI Automation）
+
+
+
+
+
+
+
+
+文字与多语系支持
+
+
+
+DirectWrite
+文本服务框架（英语：Text Services Framework）
+文本对象模型（英语：Text Object Model）
+输入法编辑器
+语言接口包（英语：Language Interface Pack）
+多语系用户界面（英语：Multilingual User Interface）
+Uniscribe
+
+
+
+
+
+
+
+
+游戏开发
+
+
+
+Direct3D
+D3DX
+DirectSound
+DirectInput
+DirectPlay
+DirectMusic
+Managed DirectX（英语：Managed DirectX）
+XNA
+
+
+
+
+
+
+
+
+
+
+
+
+分类：微软API驱动程序隐藏分类：自2014年10月维基百科包含指南或教学内容的条目

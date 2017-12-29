@@ -1,0 +1,57 @@
+废电子电机设备指令
+
+
+
+
+废电子电机设备指令徽标。
+
+
+废弃电子电机设备指令（Waste Electrical and Electronic Equipment Directive 2002/96/EC，缩写：WEEE）是欧洲联盟在2003年2月所通过的一项环保指令，制订所有废弃电子电机设备收集、回收、再生的目标。
+规范对象[编辑]
+WEEE的规范对象为工作电压小于1000V AC或1500V DC的设备，分别为：
+
+大型家用电器
+小型家用电器
+资讯技术及电信通讯设备
+消费性耐久设备
+照明设备
+电气和电子工具（大型静态工业工具除外）
+玩具、休闲和运动设备
+医用设备（所有被植入和被感染产品除外）
+监视、控制设备
+自动售货机
+
+WEEE指令要求所有在欧盟贩卖上述物品的制造商必须考虑到产品废弃时所造成的环境污染问题，采用易于回收且环保的设计，并负起回收的责任和费用。
+参看[编辑]
+
+危害性物质限制指令（RoHS）
+能源使用产品生态化设计指令（EuP）
+绿色化学
+
+外部链接[编辑]
+
+European Commission WEEE page
+
+RoHS directive (PDF)
+WEEE directive (PDF)
+WEEE directive报废电子电气设备指令 (in Simplified Chinese简体中文)
+
+
+Guidance on WEEE registration in every EEA (EU+EFTA) member state
+RoHS resource for lead-free test
+EIATRACK - Electronic Industries Alliance Regulatory Tracking Tool
+WEEE Man
+The Royal Society of Arts
+Technosteria- an informative page on WEEE and RoHS
+WEEE Recycling Directory
+WEEE and RoHS Legislation in Europe
+Product Development for RoHS and WEEE Compliance
+RoHS, WEEE, and ELV Environmental Compliance
+WEEE Recycling Directory for the UK
+Basic summary of the WEEE Directive
+
+
+
+
+
+分类：欧盟政策环境保护2003年环境
