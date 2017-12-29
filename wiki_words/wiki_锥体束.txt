@@ -1,0 +1,526 @@
+锥体束
+
+
+锥体束
+
+
+
+Deep dissection of brain-stem. Lateral view.（"pyramidal tract" visible in red, and "pyramidal decussation" labeled at lower right.）
+
+
+
+
+Diagram of the principal fasciculi of the spinal cord.
+
+
+
+细节
+
+
+拉丁语
+tractus corticospinalis
+
+
+识别标示
+
+
+Gray's
+p.759
+
+
+MeSH
+A08.186.854.633
+
+
+NeuroNames
+ancil-373
+
+
+TA（英语：Terminologia Anatomica）
+A14.1.04.102
+
+
+FMA
+FMA:72634
+
+
+解剖学术语（英语：Anatomical terminology）
+
+
+皮层脊髓束（英语：Corticospinal tract，又称皮质脊髓路径、皮质脊髓束、皮质脊髓径），又称锥状束（pyramidal tract），为一种大脑皮质及脊髓间大量聚集之轴突集结。皮质脊髓束大部分由运动神经之轴突组成。事实上脊髓中有两种束状结构（路径）：一为侧皮质脊髓束，另一为前皮质脊髓束。这些束状路径解释了为何身体大部分的同侧功能是由相反侧之脑部所掌管。皮质延髓径（corticobulbar tract）也被认为是锥状束（径）中的一种。
+皮质延髓束（径）处理脑神经核通往运动神经的讯号，而非脊髓通往运动神经的部分。
+锥状束的神经元虽然称为锥状神经元，但这却不是它名称的由来，因为锥状神经元大部分的轴突皆通向别处。锥状神经元的之所以被称为锥状，是源自于皮质脊髓束（corticospinal tract）所集结时所形成的轴突形状；当锥状束经过髓质（medulla）时会集结为高密度的神经束，并于其他区块形成三角锥状（金字塔型）。
+附图[编辑]
+
+
+
+
+
+
+
+Dissection of brain-stem. Lateral view.
+
+
+
+
+
+
+
+
+
+Superficial dissection of brain-stem. Ventral view.
+
+
+
+
+
+
+
+
+
+The motor tract.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+中脑解剖
+
+
+
+
+
+
+顶盖（英语：Midbrain tectum）
+（背侧）
+
+
+
+
+表面
+
+
+
+四叠体：
+下丘
+
+下丘臂
+
+
+上丘（英语：Superior colliculus）
+
+上丘臂（英语：Brachium of superior colliculus）
+
+
+
+
+
+
+
+
+
+
+灰质
+
+
+
+前顶盖区（英语：Pretectal area）
+
+
+
+
+
+
+
+
+白质：感觉/上行
+
+
+
+脊髓顶盖束（英语：Spinotectal tract）
+被盖中央束（英语：Central tegmental tract）
+
+
+
+
+
+
+
+
+白质：运动/下行
+
+
+
+顶盖脊髓束（英语：Tectospinal tract）
+
+
+
+
+
+
+
+
+
+
+
+大脑梗（英语：Cerebral peduncle）
+（腹侧）
+
+
+
+
+　被盖
+
+
+
+
+白质：感觉/上行
+
+
+
+丘系
+
+内侧（英语：Medial lemniscus）
+外侧（英语：Lateral lemniscus）
+
+
+上行MLF（英语：Medial longitudinal fasciculus）
+
+前庭-动眼纤维（英语：Vestibulo-oculomotor fibers）
+
+
+脊髓丘脑束
+前三叉丘脑束（英语：Anterior trigeminothalamic tract）
+齿状丘脑束（英语：Dentatothalamic tract）
+
+
+
+
+
+
+
+
+白质：运动/下行
+
+
+
+红核脊髓束（英语：Rubrospinal tract）
+红核橄榄束（英语：Rubro-olivary tract）
+下行MLF（英语：Medial longitudinal fasciculus）
+
+
+
+
+
+
+
+
+灰质：脑核
+
+
+
+GSA
+
+中脑 - GSE
+动眼、滑车 - GVE
+
+
+
+
+
+
+动眼神经副核
+
+
+
+
+
+
+
+
+
+
+灰质：其它
+
+
+
+
+
+
+
+导水管周围灰质
+中缝核
+
+背缝神经核
+
+
+
+
+
+
+
+
+
+
+
+
+
+腹侧被盖区
+脚桥核
+红核
+
+
+
+
+
+
+
+
+
+
+
+riMLF（英语：Rostral interstitial nucleus of medial longitudinal fasciculus）
+
+
+
+
+
+
+
+
+
+
+
+脑室系统
+
+
+
+大脑导水管（英语：Cerebral aqueduct）
+
+
+
+
+
+
+
+
+
+
+
+基底
+
+
+
+
+白质：运动/下行
+
+
+
+大脑脚：皮质脊髓束
+皮质延髓束
+皮质脑桥束/额叶脑桥纤维/颞叶脑桥纤维
+
+
+
+
+
+
+
+
+灰质：黑质
+
+
+
+致密部（英语：Substantia nigra pars compacta）
+网质部（英语：Pars reticulata）
+
+
+
+
+
+
+
+
+表面
+
+
+
+上小脑脚（英语：Superior cerebellar peduncle）
+
+交叉（英语：Decussation of superior cerebellar peduncles）
+
+
+脚间窝（英语：Interpeduncular fossa）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+中枢神经系统疾病
+
+
+
+
+
+
+描述
+
+
+
+解剖
+
+脑膜
+皮质
+
+联络纤维（英语：Template:Association fibers）
+连合纤维（英语：Template:Commissural fibers and septum）
+
+
+侧脑室（英语：Template:Lateral ventricles）
+基底核
+间脑
+中脑
+桥脑
+小脑
+髓质
+脊髓
+
+管道
+
+
+
+
+生理
+
+神经传递
+
+酵素
+中间物
+
+
+
+
+发育（英语：Template:Development of nervous system）
+
+
+
+
+
+
+
+
+疾病
+
+
+
+脑性瘫痪（英语：Template:Cerebral palsy）
+脑膜炎（英语：Template:Diseases of meninges）
+脱髓鞘疾病（英语：Template:Demyelinating diseases of CNS）
+癫痫
+头痛
+中风（英语：Template:Cerebrovascular diseases）
+睡眠
+先天性（英语：Template:Congenital malformations and deformations of nervous system）
+损伤（英语：Template:Neurotrauma）
+肿瘤
+其他
+
+瘫痪疾病（英语：Template:Cerebral palsy and other paralytic syndromes）
+ALS（英语：Template:Amyotrophic lateral sclerosis）
+
+
+症状
+
+头颈部
+齐名（英语：Template:Eponymous medical signs for nervous system）
+病灶（英语：Template:Lesions of spinal cord and brain）
+
+
+测试
+
+CSF（英语：Template:CSF tests）
+
+
+
+
+
+
+
+
+
+
+治疗
+
+
+
+程序（英语：Template:Neuro procedures）
+药物
+
+全身麻醉药
+镇痛药
+抗成瘾
+抗癫痫药
+胆碱类（英语：Template:Cholinergics）
+抗偏头痛
+抗帕金森氏症
+抗晕眩
+其他
+
+
+
+
+
+
+
+
+
+
+
+
+
+Template:脑桥 Template:脊髓 Template:神经束
+
+
+
+
+分类：中枢神经系统通路运动系统隐藏分类：使用GraySubject或GrayPage参数的医学信息框模板

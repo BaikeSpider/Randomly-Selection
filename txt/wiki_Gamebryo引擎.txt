@@ -1,2 +1,0 @@
-Gamebryo
-Gamebryo引擎是NetImmerse引擎的后继版本，是由Numerical Design Limited最初开发的游戏中间层，在与Emergent Game Technologies公司合并后，引擎改名为Gamebryo Element。

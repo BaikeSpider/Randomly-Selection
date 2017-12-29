@@ -1,0 +1,555 @@
+Spotlight
+
+
+关于商店的Spotlight，请见“百宝商”。
+
+
+
+Spotlight（聚光灯）
+
+
+
+
+开发者
+苹果公司
+
+
+操作系统
+macOS和iOS
+
+
+类型
+桌面搜索
+
+
+网站
+Spotlight官方网站
+
+
+Spotlight是苹果公司旗下的macOS和iOS操作系统上的一项快速搜寻、随打即显、系统内置的桌面搜索引擎，工作原理的概念类似Windows索引服务。
+Spotlight最早宣布与2004年的苹果全球开发者大会（WWDC），[1]并在2005年4月随Mac OS X v10.4 "Tiger"一同发布。[2]
+同样的搜索引擎在2009年3月17日随iOS 3.0发布。
+工作原理[编辑]
+Spotlight和传统搜寻主要的差异，在于Spotlight是使用索引（Index Search）的方式，而传统搜寻是传统的文件扫描方式；Spotlight就像是电脑里面所有的档案建立一目录里面存放索引文件，而要搜寻的时候是去搜寻这个目录中的索引文件，所以减少了许多一个一个档案扫描的时间，而传统扫描则是把整个档案内容扫描过，所以Spotlight在理论上来说，还是无法取代传统搜寻功能的。
+Spotlight使用元数据搜索引擎，spotlight被设计为可以找到任何位于电脑中档案，包含文件、图片、音乐、应用程序、系统喜好设定控制台，也可以是文件或是PDF中指定的字。在Mac OS X v10.5中，在Spotlight直接打数学方程式，Spotlight就会立即显示计算结果；打英文单字，便可出现定义。Spotlight在使用者的硬盘中建立metadata关键字的数据库，一开始当Mac OS X 被安装后，就会持续在更新。
+Spotlight提供使用者API，允许使用者建立自己的附加元件，意思就是使用者可以增加他们自己程式所有拥有的特有资料格式到Spotlight搜寻的能力中。
+参考资料[编辑]
+
+
+^ Ina Fried. For Apple's Tiger, the keyword is search. June 28, 2004 [November 15, 2009]. 
+^ Apple, Inc. Apple to Ship Mac OS X "Tiger" on April 29. April 12, 2005 [November 15, 2009]. （原始内容存档于2009年8月15日）. Spotlight searches the contents inside documents and information about those documents, or metadata 
+
+
+外部链接[编辑]
+
+（繁体中文）Spotlight官方网站
+（简体中文）Spotlight官方网站
+（英文）Spotlight官方网站
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+macOS
+
+
+
+
+
+
+版本
+
+
+
+Server 1.0 Hera
+Public Beta Kodiak
+10.0 Cheetah
+10.1 Puma
+10.2 Jaguar
+10.3 Panther
+10.4 Tiger
+10.5 Leopard
+10.6 Snow Leopard
+10.7 Lion
+10.8 Mountain Lion
+10.9 Mavericks
+10.10 Yosemite
+10.11 El Capitan
+10.12 Sierra
+10.13 High Sierra
+
+
+
+
+
+
+
+
+
+
+
+
+
+应用程序
+
+
+
+
+
+
+
+Automator
+计算器
+日历
+国际象棋（英语：List of macOS components#Chess）
+通讯录
+Dashboard
+字典
+DVD播放程序
+FaceTime
+Finder
+Grapher（英语：Grapher）
+iTunes（版本历史）
+Mac App Store
+邮件
+信息
+备忘录
+通知中心
+Photo Booth
+预览
+QuickTime
+提醒事项
+Safari（版本历史）
+便笺
+文字编辑
+地图
+
+
+
+
+
+
+
+
+
+停止开发
+
+
+
+
+Front Row
+iChat
+iSync
+Sherlock
+
+
+
+
+
+
+
+
+
+
+
+实用工具
+
+
+
+
+
+
+
+活动监视器
+AirPort工具程式
+音讯MIDI设定
+Bluetooth档案交换程式
+BOMArchiveHelper（英语：BOMArchiveHelper）
+ColorSync（英语：ColorSync）
+系统监视程式
+Crash Reporter（英语：Crash Reporter）
+DigitalColor Meter（英语：DigitalColor Meter）
+Directory Utility
+DiskImageMounter
+磁盘工具程式
+Grab（英语：Grab_(software)）
+Help Viewer（英语：Help Viewer）
+Image Capture（英语：Image Capture）
+Installer
+钥匙串访问
+Migration Assistant（英语：Migration Assistant）
+Network Utility（英语：Network Utility）
+ODBC Administrator（英语：ODBC Administrator）
+Screen Sharing（英语：Screen Sharing）
+系统偏好设定（英语：System Preferences）
+System Information（英语：System Information）
+终端机
+Universal Access（英语：Universal Access）
+VoiceOver
+Apple X11
+
+
+
+
+
+
+
+
+
+停止开发
+
+
+
+
+Apple Software Update
+Remote Install Mac OS X（英语：Remote Install Mac OS X）
+
+
+
+
+
+
+
+
+
+
+
+技术与
+使用者界面
+
+
+
+
+
+
+
+AirDrop
+Command键
+Option键
+Apple Push Notification Service
+AppleScript
+Aqua
+Audio Units（英语：Audio Units）
+Bonjour
+Boot Camp
+Carbon
+Cocoa
+Core Audio（英语：Core Audio）
+Core Data
+Core Image
+Core Video（英语：Core Video）
+Core Animation（英语：Core Animation）
+Darwin
+Dock
+Exposé
+FileVault（英语：FileVault）
+Kernel panic
+钥匙串
+Launchpad
+Mach-O
+Mission Control
+OpenGL
+Property list
+Quartz
+QuickTime
+QuickLook
+Spotlight
+堆叠
+Time Machine
+Uniform Type Identifier（英语：Uniform Type Identifier）
+Universal binary
+WebKit
+XNU
+XQuartz
+Metal
+
+
+
+
+
+
+
+
+
+停止开发
+
+
+
+
+Classic Environment
+Rosetta
+Spaces
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+iOS与iOS设备
+
+
+
+
+
+
+设备
+
+
+
+iPhone
+
+1
+3G
+3GS
+4
+4s
+5
+5s
+5c
+6
+6 Plus
+6s
+6s Plus
+SE
+7
+7 Plus
+8
+8 Plus
+X
+
+
+iPod touch
+
+4
+5
+6
+
+
+iPad
+
+1
+2
+3
+4
+Air
+Air 2
+
+
+iPad Pro
+iPad mini
+
+1
+2
+3
+4
+
+
+Apple Watch
+
+Series 1
+Series 2
+Series 3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+软件
+
+
+
+AirDrop
+通知中心
+iTunes
+iOS
+
+版本历史
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+
+
+watchOS
+
+版本历史
+1
+2
+3
+4
+
+
+tvOS
+Siri
+VoiceOver
+FaceTime
+iBooks Author
+Cocoa Touch
+Core Animation
+SDK
+WebKit
+CarPlay
+
+
+
+
+
+
+
+
+内建应用
+
+
+
+iBooks
+日历
+通讯录
+音乐
+
+Apple Music
+
+
+邮件
+地图
+讯息
+书报摊
+备忘录
+提醒事项
+Game Center
+Podcast
+通知中心
+Safari
+
+版本历史
+
+
+Wallet
+Spotlight
+
+
+
+
+
+
+
+
+苹果应用
+
+
+
+Cards（英语：Cards (iOS)）
+寻找我的iPhone
+寻找我的朋友
+GarageBand
+iWork
+
+
+
+
+
+
+
+
+服务
+
+
+
+App Store
+iAd
+iCloud
+iMessage
+iBookstore
+iTunes Store
+Siri
+
+
+
+
+
+
+
+
+其他
+
+
+
+300页账单
+FairPlay（英语：FairPlay）
+历史（英语：History of the iPhone）
+iFund（英语：iFund）
+Metal
+越狱
+
+
+
+
+
+
+
+
+
+
+
+苹果牛顿
+
+OS（英语：Newton OS）
+MessagePad（英语：MessagePad）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+分类：IOS软件Mac OS界面桌面搜索引擎隐藏分类：使用过时图像语法的页面含有拉丁语的条目

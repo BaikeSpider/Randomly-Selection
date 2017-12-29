@@ -1,0 +1,52 @@
+二次剩余
+在数论中，特别在同余理论里，一个整数
+
+
+
+X
+
+
+{\displaystyle X}
+
+对另一个整数
+
+
+
+p
+
+
+{\displaystyle p}
+
+的二次剩余（英语：Quadratic residue）指
+
+
+
+X
+
+
+{\displaystyle X}
+
+的平方
+
+
+
+
+X
+
+2
+
+
+
+
+{\displaystyle X^{2}}
+
+除以
+
+
+
+p
+
+
+{\displaystyle p}
+
+得到的余数。

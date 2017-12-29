@@ -1,0 +1,1229 @@
+放射性废料
+
+
+
+
+
+
+
+
+
+泰国的废料
+
+
+放射性废料是一种包含放射性物质的废料，一般在如核裂变一类的核反应中产生。事实上，一些不与核工业直接关联的的产业在各自的生产活动中也会排放出一定量的放射性废料。放射性废料按其单位体积或单位质量的放射性强弱，共分为高、中、低三级，其中低放射性废物占据主要部分，中级与高放射性废物较少。
+一般来说，物质的放射性会随时间的推移而减弱，所以原则上所有放射性废料都可以与外界隔绝一段时间，达到使其组分不再能引起危害的目的。医用放射性物质或工业放射性物质的封存时间一般为几小时至几年，而高级废料则需要封藏上千年。如今，处置这几类放射性废料的主要途径有：
+
+隔离或贮藏短寿命的废料；
+近地面处理低级废料和一部分中级废料；
+地下深入保护性掩埋（深地质处置）长寿命的高级废料。
+
+作为联合国国际原子能机构的《乏燃料管理安全和放射性废料管理安全联合公约》章程的一部分，签署协议的大部分发达国家放射性核废料的储量及处理办法的概要会定期地公布并被进行评审。[1]
+
+
+
+目录
+
+
+1 基本性质
+
+1.1 物理性质
+1.2 药代动力学性质
+
+
+2 来源
+
+2.1 首端
+2.2 末端
+
+2.2.1 与化石燃料的比较
+2.2.2 自然的例子
+
+
+2.3 核燃料的成分以及长远的放射性活动
+
+2.3.1 使用钍的核燃料
+2.3.2 核燃料的活性
+
+
+2.4 医疗
+2.5 工业
+2.6 天然放射性物质（NORM）
+
+2.6.1 煤炭的放射性
+2.6.2 石油和天然气的放射性
+
+
+
+
+3 处理放射性废料
+
+3.1 初步的放射性废料处理方法
+
+3.1.1 核废料玻璃化
+
+
+3.2 海抛核废料
+
+
+4 参考资料
+5 延伸阅读
+6 外部链接
+
+
+
+基本性质[编辑]
+放射性废料都含有放射性同位素——一类因原子核的不稳定而容易发生衰变的元素，它们以不同形式、不同强弱进行持续时间长短不同的衰变。衰变中产生的电离辐射不论对人类生命健康还是对自然环境都会造成一定伤害。
+物理性质[编辑]
+
+中等寿命裂变产物
+
+项：
+单位：
+t½
+a
+产额
+%
+Q*
+KeV
+βγ
+*
+
+
+155Eu
+4.76
+.0803
+252
+βγ
+
+
+85Kr
+10.76
+.2180
+687
+βγ
+
+
+113mCd
+14.1
+.0008
+316
+β
+
+
+90Sr
+28.9
+4.505
+2826
+β
+
+
+137Cs
+30.23
+6.337
+1176
+βγ
+
+
+121mSn
+43.9
+.00005
+390
+βγ
+
+
+151Sm
+90
+.5314
+77
+β
+
+
+
+长寿命裂变产物
+
+项：
+单位：
+t½
+Ma
+产额
+%
+Q*
+KeV
+βγ
+*
+
+
+99Tc
+0.211
+6.1385
+294
+β
+
+
+126Sn
+0.230
+0.1084
+4050
+βγ
+
+
+79Se
+0.295
+0.0447
+151
+β
+
+
+93Zr
+1.53
+5.4575
+91
+βγ
+
+
+135Cs
+2.3 
+6.9110
+269
+β
+
+
+107Pd
+6.5 
+1.2499
+33
+β
+
+
+129I
+15.7 
+0.8410
+194
+βγ
+
+
+放射性废料中含有的所有放射性同位素都具有各自的半衰期（使自身的一半衰变为其他物质所需要的时间），最终放射性废料会衰变作完全不具放射性的物质。某些乏燃料中的放射性元素（如钚-239）在自然放置上千年后对人类及其他生命仍然还是有害的，另外，甚至还存在上百万年都不能衰变完全的同位素。因此，这些废料必须被封存几个世纪并与自然环境隔离更长时间。[2]某些元素具有较短的半衰期（如碘-131的半衰期约为8天），所以相对于其他放射性元素而言，它们造成的危害较小，不过它们在衰变初期由于衰变急剧，其实更加活跃、危险。右侧的两张表给出了几种主要的放射性同位素的资料，包含它们各自的半衰期和它们作为铀-235的裂变产物的裂变产物产量。
+一种同位素衰变得越快，它的放射性越强。[来源请求]某种纯的放射性物质的危险程度是由它衰变产生的辐射种类与能量等重要因素界定的，而这种物质的活泼性、扩散入环境及被生物吸收的难易程度则由它的化学性质决定。对于许多不能很快衰变至较稳定的状态，而是继续产生放射性衰变产物或引起衰变链的放射性同位素，它们和自身的衰变产物的性质和影响更加复杂。
+药代动力学性质[编辑]
+
+
+
+锕系元素和裂变产物的半衰期
+
+
+查
+论
+编
+
+
+
+
+
+
+锕系
+半衰期
+范围(年)
+裂变产物
+
+
+244Cm
+241Pu f
+250Cf
+243Cmf
+10～30 y
+137Cs
+90Sr
+85Kr
+
+
+
+232U  f
+
+238Pu
+f代表
+“裂变”
+69～90 y
+
+
+151Sm nc➔
+
+
+4n
+249Cf  f
+242Amf
+141～351 y
+没有半衰期为
+102年至2×105年
+的裂变产物
+
+
+241Am
+
+251Cf  f
+431–898
+
+
+240Pu
+229Th
+246Cm
+243Am
+5～7 Ky
+
+
+4n
+245Cmf
+250Cm
+239Pu f
+8～24 Ky
+
+
+233U    f
+230Th
+231Pa
+32～160 Ky
+
+
+4n+1
+234U
+4n+3
+211～290 Ky
+99Tc
+
+126Sn
+79Se
+
+
+248Cm
+242Pu
+340～373 Ky
+长寿命裂变产物
+
+
+
+237Np
+4n+2
+1～2 My
+93Zr
+135Cs nc➔
+
+
+
+236U
+4n+1
+247Cmf
+6～23 My
+
+107Pd
+129I
+
+
+244Pu
+
+8 My
+>7%
+>5%
+>1%
+>.1%
+
+
+232Th
+238U
+235U    f
+0.7～12 By
+裂变产物产额
+
+
+暴露在高强度的放射性废料的辐射中可能会导致严重损伤，甚至死亡。对成熟的动物进行辐照或其他能导致变异的处理（如化学疗法中的细胞毒类肿瘤药物治疗，该药物本身也是致癌物），可能导致该生物体患上癌症。经计算，5希沃特的辐射剂量对于人类已是致命。另外，一剂0.1希沃特的辐射令人死亡的概率是8‰，该概率随单剂剂量每增加0.1希沃特增加一倍。[3] 电离辐射可能导致染色体片段的缺失。[4] 如果一个发育中的有机体（如未出生的婴儿）接受了辐射，可能会导致先天性畸形等先天性疾病，不过这些缺陷却不会出现在同样接受了辐照形成的配子或由配子融合形成的细胞中。由于人们对辐射诱变的机理尚不明确、不能以人类意志控制人工诱变的结果，所以由辐射导致的突变对人类的影响仍是不定向的（既不能预期它对人类的影响是利是弊）。[5]
+暴露在放射性同位素的辐射中的危险性取决于该放射性同位素的衰变形式及该放射性同位素所属元素的药物动力学性质（即该元素的代谢方式与代谢速度）。例如，虽然碘-131是一种短寿命、并以β、γ两种形式衰变的放射性同位素，但它却因为会在甲状腺中聚集而对生命体造成比一般以水溶性化合物形式存在的铯-137更大的伤害（能溶解在水中的物质更易随尿液排出）。同样地，主要以α衰变的锕系元素（如镭、铀等），由于它们一般具有较长的生理学半衰期与较高的线性能量转移值，所以也被认为对生命体有较大危害。因为在上述几个方面的不同，放射性同位素能造成的生理学损伤较难简单判断。
+来源[编辑]
+放射性废料的来源有很多种，其中最主要的包括核燃料循环及核武器的再加工。其他来源包括医用放射性物质、工业放射性物质及在加工、使用一些化石燃料（如煤、石油和天然气）或其他矿物的过程中浓缩的天然放射性物质（naturally occurring radioactive materials，NORM）。
+首端[编辑]
+核燃料循环首端产生的放射性核废料一般为以α衰变的铀的萃取物。这些物质中常常含有镭以及镭的衰变产物。
+在铀矿中采集的二氧化铀（UO2）的放射性其实并不十分强——大约只是建筑中使用的花岗岩的放射性强度的几千倍。人们将这些铀的氧化物精炼得到八氧化三铀（U3O8），再转化成六氟化铀（UF6）气体。经过浓缩，铀-235的含量可由原来的0.7%提升至4.4%（低浓缩铀，LEU）。最后，经过一系列的反应，六氟化铀还原成质地坚硬的陶状氧化物作为核反应堆中的核燃料。
+在浓缩铀的过程中，主要的副产物是耗乏铀（depleted uranium，DU），其主要含有铀-238同位素，而铀-235的含量只占3‰。多余的六氟化铀及八氧化三铀都会被封存起来。部分因其具有很大的密度而在一些特殊的领域有较高的应用价值如反坦克武器的炮弹。[6]它也常与回收后得到的钚一起用于制造混合氧化物燃料（mixed oxide fuel，MOX），并以其“稀释”储存在核武器中的需要由武器级核燃料转变为工业级核燃料的高浓缩铀（HEU）。这一稀释的过程也被称作浓缩铀稀释，这也意味着任何已获得成品核燃料的国家或组织需要反演该武器装配前的十分复杂、昂贵的浓缩过程。[7]
+末端[编辑]
+核燃料循环的末端的乏燃料棒主要含有以β衰变或γ衰变的裂变产物、α衰变的锕系元素（如铀-234、镎-237、钚-238和镅-241），有时还含有辐射中子的放射性同位素（如锎）。这些同位素都是在核反应堆中产生的。
+明确从已被利用过的核燃料的后处理中重新获得核燃料的过程是十分重要的。现在人们所使用的核燃料含有高放射性裂变产物，其中大部分是良好的中子吸收剂，专业上也被称为“中子毒物”。由于它们不断吸收中子，最终达到“饱和”导致链式反应停止——甚至连从堆芯中取走用于抑制反应的控制棒也不能使反应继续的程度。这样的核燃料被视为“已经用尽”，虽然其中仍含有大量的铀-235和钚，但还是需要用新的核燃料来取代它们。在美国、德国和中国，这些已被利用过的核燃料主要被以不同方式贮存起来；而在俄罗斯、英国、法国、日本和印度等国，它们经过后处理除去其中的稳定裂变产物后得到再利用。俄罗斯等国对利用过的核燃料的处理过程中包含对高放射性材料的处理，从中获得的裂变产物是浓缩的高级废料形式存在的。这些国家都以钚单循环（英语：single plutonium cycle）的形式进行核燃料后处理，印度是世界上已知的唯一一个致力于钚复合回收（英语：multiple plutonium recycle）计划的国家[8]。钚回收有两个显著的好处：经过后处理的核燃料变得不能再被利用于核武器的制造，但作为工业核燃料，它的利用效率可以很高。印度的钚反应堆以实现接近典型商业核反应堆的4倍的燃烧效率。[8]
+与化石燃料的比较[编辑]
+有主张认为，核能在任一方面的污染都远不及化石燃料的燃烧所造成的严重。[9][10]2004年，英国广播公司（BBC）的一篇报道中提到：“世界卫生组织（WHO）认为每年全世界约有3百万人死于由车辆和工厂排放的废气和可吸入颗粒造成的室外空气污染；此外，每年还有6万人死于固体燃料燃烧引起的室内空气污染。” [11] 在美国，化石燃料产生的废物与每年大约两万人的死亡有关。[12] 一个火力发电站与相同功率的核电站相比，火力发电站所释放的辐射强度是核电站的10倍。[13] 根据估计，在1982年美国的燃煤活动所释放出的辐射量甚至比三哩岛核事故的辐射量高155倍。[14]
+自然的例子[编辑]
+有一个例子证明了放置大量放射性废料在地下是安全且可靠的。 在20亿年前的非洲西部的奥克洛，一个天然，存有大量放射性铀的铀矿在地下开始了其衰变过程。这个天然核裂变反应堆持续运作了数百万年，那些铀衰变成钚和其他与现今的高放射性废物一样的物质。尽管当时在该地区存有大量的地下水，但这些物质依然不会渗入水中污染环境，并全部衰变成其他非放射性元素。[15]
+世界核能协会提供了一个比较不同形式的能源生产造成的死亡数字。在他们的统计数字中，死亡人数是以每千瓦时/年所计算出来的。根据在1970 至 1992年间的数据显示，有885人的死是和水力发电有关 ; 有342人的死是和燃煤发电有关 ; 有85人的死是和天然气发电有关而有8人的死则与核能发电有关。[16]
+核燃料的成分以及长远的放射性活动[编辑]
+
+
+
+
+比较三种不同的核燃料类型里所含有的铀-233的放射性活动的曲线图表
+
+
+
+
+
+
+比较三种不同的核燃料类型的总放射性活动的曲线图表
+
+
+在计划使用核燃料的同时，我们必须要考虑到如何妥善地处理放射性衰变期长的核废料，亦即是制订一套完整的核废料处理方案。严格来说，那些放射性衰变期长的核废料（高放射性废料），在制订核废料处理方案的过程中占有一个很重要的地位，是最迫切需要解决的问题。而由不同类型的核燃料所造成的核废料，其废料处理方案也会有所不同。
+使用钍的核燃料[编辑]
+而其中一个例子是使用钍的核燃料，钍-232会通过吸收慢中子而变成可作核燃料之用的铀-233，所以在裂变的过程中核燃料里通常都会存有铀-233，而铀-233的半衰期则有15.9万年。而其放射性衰变将会长期占有着核燃料的周期（由采矿至衰变完全结束）达100万年之久。而从右上角的曲线图表可以看出三种不同的核燃料类型里所含有的铀-233的放射性活动的比较。
+核燃料的活性[编辑]
+而那些核燃料通常被分为三种，它们分别使用反应堆级钚，与武器级钚和混合氧化物燃料。而不同的核燃料，具有不同的活性曲线。关于反应堆级钚和武器级钚在一百万年内铀-233的量可以从右上角的曲线图表中看出。由此可见，铀-233的量与三种不同的核燃料类型的放射性活动有着密切的关系。而正因为混合氧化物燃料并不存在铀-233，所以相对地它的活性便会较其他的低。相反，反应堆级钚和武器级钚有较高的活性，因为它们含有混合氧化物燃料没有的铀-233。
+医疗[编辑]
+医用放射性物质往往包含能放射β粒子及γ射线的物质。它们可以被分为两大部分。在核医学的诊断中常用到的一些短寿命γ射线放射物如锝-99m、铊-201等，它们的只要在像普通垃圾一样处理前先放置一段不长的时间已令其衰变至稳定状态。其他医疗中常用到的放射性同位素（括号内为各自的半衰期）包括：
+
+钇-90，用于治疗淋巴瘤（2.7天）
+碘-131，用于对甲状腺进行功能测试、治疗甲状腺癌（8.0天）
+锶-89，用于治疗骨癌、也用于静脉注射（52天）
+铱-192，用于近距离治疗（74天）
+钴-60，用于近距离放疗、体外放射治疗（5.3年）
+铯-137，用于近距离放疗、体外放疗（30年）
+
+工业[编辑]
+来源于工业的废料可能包含能放射α粒子、β粒子、中子或γ射线的物质。γ射线放射物主要用于造影，而中子放射物的用途则很广泛：例如石油测井。[17]
+天然放射性物质（NORM）[编辑]
+“天然”具有放射性的物质称作“NORM”。这类废料主要为从铀衰变链或钍衰变链中产生的阿尔法粒子放射物。人体放射性的来源则为钾-40（40K）。根据大部分岩石的成分可推断出它们都是具有一定的、但微弱的放射性。
+煤炭的放射性[编辑]
+煤炭含有少量的放射性铀，钡，钍和钾，纯煤比起那些放射性物质在地壳中的分布量更低。与纯煤相比，一些碳化程度低的煤（“脏”煤），如泥炭和褐煤拥有更高含量的放射性物质（杂质），而这些杂质会在煤燃烧时以悬浮物的型态释放至大气。[18].[19] 正因为'脏'煤的灰分（不能燃烧的部分）含量高, 以致它们在燃烧时会释放出活跃的有害物质。而“脏”煤灰的放射性则与焦煤相等但比磷灰石低，但更令人关注的是煤烬所造成空气污染。[20]
+石油和天然气的放射性[编辑]
+石油和天然气处理工厂所排放出的废料普遍都含有镭及其同位素，从油井中抽取出来的硫酸盐化合物里富含镭，而井里的水，石油和天然气则富含氡。当这些氡衰变后便形成其他固态放射性同位素并在钻油管道内形成一层覆盖物。在石油处理厂里的丙烷生产区最容易受放射性污染，因为氡和丙烷处于同一个分馏层。[21]
+处理放射性废料[编辑]
+
+
+
+
+一个盛载中至高级放射性废物的高科技容器。
+
+
+低放射性废料要监测 300 年才可以确定其安全稳定性，可是有些核废料是属于高放射性废料，就算监测 300 年也没用，因为放射性是一点也不会衰退。以锝- 99（半衰期21.1万年）和碘- 129（半衰期1,570万年）为例，它们需要放置最少3000年才能有效地减低其放射性。而比它们更棘手的还有超铀元素（比铀重的放射性元素混合物）里面的镎- 237（半衰期214.4万年）和钚-239（半衰期2.41万年）。 [22]
+要妥善地处理这些核废料需要到一定程度的技术和严密的监控，以隔除这些放射性废料对生态和人类的威胁。其次就是订制一个长期，稳定的管理方案包括贮存，处置或者把核废料转化成对环境无害的方式弃置[23] ，而世界各国政府正在考虑一系列的核废料管理和处置方案，并在长远的废物管理方案上取得了一部分的进展。[24]
+初步的放射性废料处理方法[编辑]
+核废料玻璃化[编辑]
+要有效地长期储存放射性废物便要把它们转换成一种稳定, 长期不会降解（因为降解时会产生大量的崩解热并使废液沸腾，产生放射性气体，增加储存桶的压力并发生泄漏。）和发生反应的方式储存。而将之玻璃化就能做到这一点。[25] 目前塞拉菲尔德已经开始采用这一种方式来储存放射性废物，首先把废料（液）与糖类物质混合后煅烧，而焙烧的目的就是要去除硝酸盐和蒸发掉多余的水份，以增加其稳定性。[26]
+煅烧后所产生的成品（成品A）会被引入到一个充满玻璃碎片的熔炉[27]，之后便把尚未冷却的液态混合物分批倒入圆形的不銹钢容器内。当它们冷却凝固时这些玻璃碎片把成品A结晶化成为一种高度防水（这样就能防止它们渗漏）的放射性玻璃[28] 不銹钢容器填满后便会被密封焊接，经过清洁和外部污染检查后，便会储存在地下仓库内开始持续数万年的衰变过程[29]
+在不銹钢容器内的放射性玻璃通常是表面有黑色光泽的物质。在英国，这些放射性玻璃都是通过远端控制进行试样制备的。放射性玻璃中的糖是用来控制钌的化学作用和制止它形成含挥发和爆炸性和具有放射性（因含钌- 106的 RuO4。在西方国家，那些碎玻璃原料通常是硼硅酸盐玻璃（类似耐热玻璃），而前苏联通常使用磷酸盐玻璃。那些在玻璃里的核废料的量必须加以限制因为有些金属例如钯、碲和铂系的金属不能与玻璃结晶化。[30] 德国已经拥有一间正在运作中的核废料玻璃化工厂，用来重新处理旧有，已被封存的核废料。 [26][31]
+海抛核废料[编辑]
+
+
+
+
+
+海抛核废料地点与数量。
+SU=苏联 (39,243TBq), GB=英国 (35,088TBq), CH=瑞士 (4,419TBq), BE=比利时 (2,120TBq). 法国 (354TBq), 德国 (0.2TBq), 意大利 (0.2TBq), 荷兰 (336TBq), 瑞典 (3.2TBq) 包含在 GB记号, 俄罗斯 (2.8TBq) 包含在 SU记号. US=美国 3,496TBq, 日本 15TBq, 韩国 ?TBq, 新西兰 1+TBq。
+
+
+
+参考资料[编辑]
+
+
+^ Austria. Joint Convention on the Safety of Spent Fuel Management and on the Safety of Radioactive Waste Management [联合国国际原子能机构放射性废料管理安全联合公约]. Ns.iaea.org. [2014-08-03]. 
+^ Radioactive Waste Project [放射性废料计划]. Nuclear Information and Resource Service. 
+^ Goldstein, Inge, Martin Goldstein. How much risk?（有多大危险？）Oxford University Press，2002. ISBN 0-19-513994-1
+^ Gofman, John W. Radiation and human health（辐射与人类健康）. San Francisco: Sierra Club Books, 1981,787.
+^ Gofman, John W. Radiation and human health（辐射与人类健康）. San Francisco: Sierra Club Books, 1981, 760-849.
+^ 关于耗乏铀的常见问题. Janes.com. [2014-08-03]. （原始内容存档于2008-07-25）. 
+^ 百万吨变百万千瓦计划. America.gov. 2013-10-07 [2014-08-03]. （原始内容存档于2012-10-20）. 
+^ 8.0 8.1 Continuous Plutonium Recycling In India: Improvements in Reprocessing Technology [印度的可持续钚回收：后处理技术的发展] （英语）. 
+^ David Bodansky. The Environmental Paradox of Nuclear Power. Oxford University Press. [2008-01-31]. （原始内容存档于2008-01-27）. (reprinted from Environmental Practice, vol. 3, no. 2 (June 2001), pp.86–88 
+^ Some Amazing Facts about Nuclear Power [关于核能的一些不可思议的事实]. August 2002 [2008-01-31]. （原始内容存档于2007-10-16）. 
+^ Alex Kirby. Pollution: A life and death issue [污染：一个生死攸关的问题]. BBC新闻. 13 December 2004, [2008-01-31].  请检查|date=中的日期值 (帮助)
+^ Don Hopey. "State sues utility for U.S. pollution violations". 匹兹堡邮报. June 29, 2005 [2008-01-31]. 
+^ Alex Gabbard. Coal Combustion: Nuclear Resource or Danger [煤的燃烧：核能的机遇还是危机]. Oak Ridge National Laboratory. [2008-01-31]. （原始内容存档于2007-02-05）. 
+^ Nuclear proliferation through coal burning 互联网档案馆的存档，存档日期2009-03-27. — Gordon J. Aubrecht, II, Ohio State University
+^ 2007-11. World-nuclear.org. [2014-08-03]. 
+^ Safety of Nuclear Power Reactors. 
+^ Nuclear Logging [核测井]. [2009-07-07]. 
+^ Cosmic origins of Uranium
+^ Coal Combustion - ORNL Review Vol. 26, No. 3&4, 1993. Ornl.gov. [2014-08-03]. （原始内容存档于2007-02-05）. 
+^ U.S. Geological Survey, Radioactive Elements in Coal and Fly Ash: Abundance, Forms, and Environmental Significance, Fact Sheet FS-163-1997, October 1997, retrieved September 2007
+^ Survey & Identification of NORM Contaminated Equipment
+^ Vandenbosch, Robert, and Susanne E. Vandenbosch. 2007. Nuclear waste stalemate. Salt Lake City: University of Utah Press, 21.
+^ M. I. Ojovan, W.E. Lee. An Introduction to Nuclear Waste Immobilisation, Elsevier Science Publishers B.V., Amsterdam, 315pp. (2005)
+^ See, for example, Paul Brown, 'Shoot it at the sun. Send it to Earth's core. What to do with nuclear waste?', The Guardian, 14 April 2004.
+^ M. I. Ojovan, W.E. Lee. An Introduction to Nuclear Waste Immobilisation, Elsevier, Amsterdam, 315pp. (2005)
+^ 26.0 26.1 National Research Council. Nuclear Wastes: Technologies for Separation and Transmutation. Washington DC: National Academy Press. 1996. 
+^ Laboratory-scale vitrification and leaching of Hanford high-level waste for the purpose of simulant and glass property models validation. [2009-07-07]. 
+^ Ojovanm M.I.; 等. Corrosion of nuclear waste glasses in non-saturated conditions: Time-Temperature behaviour (PDF). 2006 [2008-06-30].  引文格式1维护：显式使用等标签 (link)
+^ OECD Nuclear Energy Agency. The Economics of the Nuclear Fuel Cycle. Paris: OECD Nuclear Energy Agency. 1994. 
+^ Waste Form Release Calculations for the 2005 Integrated Disposal Facility Performance Assessment (PDF). PNNL-15198. Pacific Northwest National Laboratory. July 2005 [2006-11-08]. 
+^ Hensing, I., and W. Schultz. Economic Comparison of Nuclear Fuel Cycle Options. Cologne: Energiewirtschaftlichen Instituts. 1995. 
+
+
+延伸阅读[编辑]
+
+Babu, B.V., and S. Karthik, Energy Education Science and Technology, 2005, 14, 93–102. An overview of waste from the nuclear fuel cycle.
+Bedinger, M.S. (1989). Geohydrologic aspects for siting and design of low-level radioactive-waste disposal [U.S. Geological Survey Circular 1034]. Washington, D.C.: U.S. Department of the Interior, U.S. Geological Survey.
+Fentiman, Audeen W. and James H. Saling. Radioactive Waste Management. New York: Taylor & Francis, 2002. Second ed.
+Hamblin, Jacob Darwin (2008). Poison in the Well: Radioactive Waste in the Oceans at the Dawn of the Nuclear Age. Piscataway, NJ: Rutgers University Press.
+Hewitt, Robin (1985). Outer Space: the Easy Way Out?, Sierra Club Radioactive Waste Campaign, N.Y., NY, 1985. ([1]).
+Nuclear and Radiation Studies Board. (NRSB) Going the Distance? The Safe Transport of Spent Nuclear Fuel and High-Level Radioactive Waste in the United States [2] ISBN 0-309-10004-6
+
+外部链接[编辑]
+
+Alsos Digital Library - Radioactive Waste (annotated bibliography)
+Euridice European Interest Group in charge of Hades URL operation (link)
+Ondraf/Niras, the waste management authority in Belgium (link)
+Critical Hour: Three Mile Island, The Nuclear Legacy, And National Security (PDF)
+Environmental Protection Agency - Yucca Mountain (documents)
+Grist.org - How to tell future generations about nuclear waste (article)
+International Atomic Energy Agency - Internet Directory of Nuclear Resources (links)
+Nuclear Files.org - Yucca Mountain (documents)
+Nuclear Regulatory Commission - Radioactive Waste (documents)
+Nuclear Regulatory Commission - Spent Fuel Heat Generation Calculation (guide)
+Radwaste Solutions (magazine)
+UNEP Earthwatch - Radioactive Waste (documents and links)
+World Nuclear Association - Radioactive Waste (briefing papers)
+Worries can’t be buried as nuclear waste piles up, Los Angeles Times, January 21, 2008
+RadWaste.org
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+垃圾及废弃物管理
+
+
+
+
+
+
+主要分类
+
+
+
+农业废水（英语：Agricultural wastewater treatment）
+化学废料
+建筑废料（英语：Construction waste）
+建筑拆卸废物（英语：Demolition waste）
+电子垃圾
+
+以国家分类（英语：Electronic waste by country）
+
+
+食物废弃物
+绿色垃圾（英语：Green waste）
+有害废物（英语：Hazardous waste）
+废热
+工业废料（事业废弃物）
+随处抛弃垃圾（英语：Litter）
+海洋废弃物
+医疗废物
+采矿废弃物（英语：Tailings）
+都市固体废物
+“用后废料（英语：Post-consumer waste）”
+放射性废料
+人工污水
+有毒废料（英语：Toxic waste）
+液体废物（英语：Liquid waste）
+工业废水
+
+
+
+
+
+
+
+
+
+
+
+处理方式
+
+
+
+厌氧消化
+生物降解
+蚯蚓粪
+非法处置（英语：Fly-tipping）
+垃圾焚化
+堆填
+重新开发堆填区（英语：Landfill mining）
+机械生物处理（英语：Mechanical biological treatment）
+机器分类（英语：Materials recovery facility）
+资源回收
+资源复收（英语：Resource recovery）
+污水处理
+垃圾收集
+拾荒
+垃圾分类（回锅油、厨余、馊水油）
+垃圾处理（英语：Waste treatment）
+垃圾转化能源（英语：Waste-to-energy）（生物柴油）
+
+
+
+
+
+
+
+
+国家（英语：Waste by country）
+
+
+
+亚美尼亚（英语：Waste management in Armenia）
+孟加拉（英语：Waste management in Bangladesh）
+巴西（英语：Environmental issues in Brazil#Waste）
+香港（英语：Waste management in Hong Kong）
+印度（英语：Solid waste policy in India）
+新西兰（英语：Waste in New Zealand）
+俄罗斯（英语：Waste management in Russia）
+瑞士（英语：Waste management in Switzerland）
+英国（英语：Waste in the United Kingdom）
+美国（英语：Waste in the United States）
+
+
+
+
+
+
+
+
+协议
+
+
+
+巴马科公约（英语：Bamako Convention）
+巴塞尔公约
+欧联指令
+
+电池（英语：Battery Directive）
+堆填区（英语：Landfill Directive）
+危害性物质
+框架（英语：Waste Framework Directive）
+焚化（英语：Waste Incineration Directive）
+污水（英语：Urban Waste Water Directive）
+废弃电子设备
+
+
+伦敦公约
+奥斯陆公约（英语：Oslo Dumping Convention）
+OSPAR公约（英语：OSPAR Convention）
+
+
+
+
+
+
+
+
+其他主题
+
+
+
+升级再造
+降级回收（英语：Downcycling）
+生态工业园
+扩大生产者责任制（英语：Extended producer responsibility）
+高水平放射性废物管理（英语：High-level radioactive waste management）
+废弃物管理史（英语：History of waste management）
+污水控制和管理（英语：Sewage regulation and administration）
+环保3R
+废弃物的行政立法（英语：Waste legislation）
+废物缩减（英语：Waste minimisation）
+零废弃（英语：Zero waste）
+
+
+
+
+
+
+
+
+
+
+
+ 环境主题
+ 分类
+ 共享资源
+概念（英语：List of waste management concepts）
+废物处理条目目录（英语：Index of waste management articles）
+废物管理期刊（英语：:Category:Waste management journals）
+废物相关列表（英语：:Category:Waste-related lists）
+废物关注组织（英语：:Category:Waste rganisations）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+核子技术
+
+
+
+
+
+
+科学
+
+
+
+物理学
+化学
+工程
+原子核
+核裂变
+核聚变
+辐射
+
+电离辐射
+轫致辐射
+
+
+
+
+
+
+
+
+
+
+燃料
+
+
+
+氚
+氘
+氦-3
+可裂变物质
+增殖性材料
+核燃料循环
+铀
+
+浓缩铀
+贫化铀
+
+
+钚
+同位素分离
+钍/钍燃料发电
+
+
+
+
+
+
+
+
+中子
+
+
+
+中子温度
+热中子
+快中子
+聚变中子
+中子截面
+中子俘获
+中子活化
+中子毒物
+中子辐射
+中子发生器（英语：Neutron generator）
+中子镜
+
+
+
+
+
+
+
+
+核反应堆
+
+
+
+
+
+核裂变反应堆
+按慢化剂分类
+
+
+
+
+
+
+轻水反应堆
+
+
+
+
+PWR
+BWR
+ABWR
+SCWR
+
+
+
+
+
+
+
+
+
+重水反应堆
+
+
+
+
+PHWR
+CANDUR（英语：CANDU reactor）
+SGHWR（英语：Steam-generating heavy water reactor）
+ATR（英语：.]]）
+
+
+
+
+
+
+
+
+
+石墨慢化反应堆
+
+
+
+
+球床反应堆（PBMR）
+VHTR（英语：Very high temperature reactor）
+超高温实验堆（英语：UHTREX）
+RBMK
+Magnox（英语：Magnox）
+AGR（英语：AGR）
+
+
+
+
+
+
+
+
+
+氟锂铍（FLiBe）
+
+
+熔盐反应堆（MSR）
+
+
+
+
+
+
+
+（无）FR
+
+
+
+
+FBR
+LMFR（英语：Liquid metal cooled reactor）
+IFR（英语：Integral Fast Reactor）
+TWR
+SSTAR
+NFR
+加速器驱动次临界反应堆
+按核反应堆冷却剂（英语：Nuclear reactor coolant）分类的第四代反应堆
+GFR
+LFR（英语：Lead cooled fast reactor）
+SFR
+
+
+
+
+
+
+
+
+
+
+
+
+核聚变反应堆
+按约束方式分类
+
+
+
+
+
+
+磁约束
+
+
+
+
+托卡马克
+球磁机（英语：Spheromak）
+仿星器
+RFP（英语：Reversed field pinch）
+FRC
+悬浮偶极
+
+
+
+
+
+
+
+
+
+惯性约束
+
+
+
+
+惯性局限融合
+Z箍缩（英语：Z-pinch）
+气泡聚变（英语：Bubble fusion）
+熔凝器
+
+静电
+
+
+MTF（英语：Magnetized target fusion）
+
+
+
+
+
+
+
+
+
+其它
+
+
+
+
+μ子催化
+热电聚变（英语：Pyroelectric fusion）
+Migma装置（英语：Migma）
+Polywel装置（英语：Polywell）
+DPF（英语：Dense plasma focus）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+核电站
+核子反应堆列表
+空泡系数
+
+
+
+
+
+
+
+
+
+
+
+核动力
+
+
+
+国家
+经济（英语：Economics of new nuclear power plants）
+聚变能
+RTG
+核动力推进
+
+火箭
+核安全
+国际核事件分级表
+
+
+
+
+
+
+
+
+
+
+核医学
+
+
+
+
+
+医学影像学
+按辐射分类
+
+
+
+
+
+
+伽马射线探伤机（英语：Gamma camera）
+
+
+
+
+闪烁扫描法（英语：Scintigraphy）
+PET
+SPECT（英语：Single photon emission computed tomography）
+
+
+
+
+
+
+
+
+
+X光
+
+
+
+
+投射X射线摄影（英语：Projectional radiography）
+X射线计算机断层成像
+
+
+
+
+
+
+
+
+
+
+
+
+治疗
+
+
+
+
+快中子疗法（英语：Fast neutron therapy）
+放射线疗法
+螺旋断层放射性治疗（英语：Tomotherapy）
+质子治疗（英语：Proton therapy）
+近距离放射治疗
+中子捕获治疗(NCT)
+硼中子俘获治疗(BNCT)
+放射药理学
+
+
+
+
+
+
+
+
+
+
+
+武器
+
+
+
+
+
+主题
+
+
+
+
+历史
+设计
+核战争
+核军备竞赛
+核爆
+
+影响（英语：Effects of nuclear explosions）
+核试验
+地下核试验（英语：Underground nuclear testing）
+高空核爆炸（英语：High-altitude nuclear explosion）
+
+
+运载（英语：Nuclear weapons delivery）
+扩散
+核当量
+
+爆炸当量
+
+
+流行文化（英语：Nuclear weapons in popular culture）
+
+
+
+
+
+
+
+
+
+列表
+
+
+
+
+核武器（英语：List of nuclear weapons）
+核试验（英语：List of nuclear tests）
+核武装国家
+无核武地带
+条约
+
+
+
+
+
+
+
+
+
+
+
+废料
+
+
+
+
+
+核反应产物
+
+
+
+
+锕系元素
+
+再处理铀
+反应堆级钚
+次锕系元素
+
+
+激活产物
+核裂变产物
+
+长寿命裂变产物
+
+
+锕系化学（英语：Actinide chemistry）
+
+
+
+
+
+
+
+
+
+处理方法
+
+
+
+
+核燃料循环
+乏核燃料
+
+乏燃料池
+干式贮存桶
+
+
+高放射性废物
+低放射性废物
+处置
+再处理
+嬗变
+
+
+
+
+
+
+
+
+
+
+
+争论
+
+
+
+核事故
+核电存废问题
+关于核武器的争论
+反核运动
+铀矿开采的争论（英语：Uranium mining debate）
+废止核电
+
+
+
+
+
+
+
+
+
+
+
+分类
+主题
+ 共享资源
+专题
+
+
+
+
+
+
+
+
+
+
+
+
+
+规范控制
+
+
+
+GND: 4048190-6
+NDL: 00563519
+
+
+
+
+
+
+
+
+
+
+
+
+分类：核燃料再处理环境经济学玻璃工程与科学玻璃化学隐藏分类：CS1英语来源 (en)引文格式1错误：日期Webarchive模板wayback链接引文格式1维护：显式使用等标签使用ISBN魔术链接的页面有未列明来源语句的条目含有英语的条目包含规范控制信息的维基百科条目

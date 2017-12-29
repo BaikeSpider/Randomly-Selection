@@ -331,9 +331,11 @@ class HtmlParser(object):
         # 修订历史统计  http://vs.aka-online.de/cgi-bin/wppagehiststat.pl?lang=zh.wikipedia&page=%E6%94%BF%E6%B2%BB
         edit_history_url_temp = info_soup.find('a',href=re.compile(r'//vs.aka-online.de/cgi-bin/wppagehiststat.pl'))
         edit_history_url = edit_history_url_temp['href']
+        # store the edit_histroy_url
+        '''
         headers = {
             'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36'}
-        edit_history_cont = requests.get(edit_history_url, headers=headers)
+        edit_history_cont = requests.get(edit_history_url)
         edit_history_soup = BeautifulSoup(edit_history_cont.text, 'html.parser')
         edit_history_tables = edit_history_soup.find_all('table')
         edit_history_table = edit_history_tables[3]
@@ -347,7 +349,7 @@ class HtmlParser(object):
             if type(child) is bs4.element.Tag:
                 users.append(child.contents[0].text)
                 users_edits.append(child.contents[1].text)
-
+        '''
         # 页面详细信息与统计
         articleinfo_url_temp = info_soup.find('a',href=re.compile(r'//tools.wmflabs.org/xtools-articleinfo/index.php'))
         articleinfo_url = 'https:' + articleinfo_url_temp['href']  # https://tools.wmflabs.org/xtools-articleinfo/index.php?article=%E9%98%BF%E7%B1%B3%E4%BB%80%E4%BA%BA&project=zh.wikipedia.org
@@ -418,7 +420,7 @@ class HtmlParser(object):
         # pageviws_soup = BeautifulSoup(pageviws_cont, 'html.parser')
         # text2 = pageviws_soup.find('div', class_='legend-block--body')
 
-        return res_data,edits, pageviews_url, editors, first_edit, totalviews, users, users_edits, all_len, words
+        return res_data,edits, pageviews_url, editors, first_edit, totalviews, edit_history_url, all_len, words
 
     def parse(self, wiki_url, wiki_soup):
         #if page_url is None or html_cont is None:
@@ -427,8 +429,8 @@ class HtmlParser(object):
         # print(soup.prettify())
         titles_len, wiki_new_titles, wiki_keyword_times, wiki_urls, category, reference_count = self._wiki_get_new_urls(wiki_url, wiki_soup)
         # wiki_new_titles, wiki_keyword_times, wiki_urls = self._wiki_get_new_urls(wiki_url, wiki_soup)
-        wiki_new_data, edits, pageviews_url, editors, first_edit, totalviews, users, users_edits, all_len, words = self._wiki_get_new_data(wiki_url, wiki_soup)
+        wiki_new_data, edits, pageviews_url, editors, first_edit, totalviews, edit_history_url, all_len, words = self._wiki_get_new_data(wiki_url, wiki_soup)
         # wiki_new_data = self._wiki_get_new_data(wiki_url, wiki_soup)
         # print('mark')
-        return wiki_new_titles, wiki_keyword_times, wiki_new_data, wiki_urls, titles_len, edits, pageviews_url, editors, first_edit, totalviews, category, reference_count, users, users_edits, all_len, words
+        return wiki_new_titles, wiki_keyword_times, wiki_new_data, wiki_urls, titles_len, edits, pageviews_url, editors, first_edit, totalviews, category, reference_count, edit_history_url, all_len, words
 
