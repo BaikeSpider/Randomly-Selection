@@ -1,0 +1,204 @@
+雌二醇17β-脱氢酶
+
+
+雌二醇17β-脱氢酶
+
+
+
+
+
+命名
+
+
+系统命名
+estradiol-17β:NAD(P)+ 17-oxidoreductase
+
+
+缩写
+17β-HSD
+
+
+别名
+20α-hydroxysteroid dehydrogenase; 17β,20α-hydroxysteroid dehydrogenase; 17β-estradiol dehydrogenase; estradiol dehydrogenase; estrogen 17-oxidoreductase
+
+
+
+
+
+识别码
+
+
+EC编号
+1.1.1.62
+
+
+CAS号
+9028-61-9
+
+
+数据库
+
+
+IntEnz
+IntEnz浏览
+
+
+BRENDA（英语：BRENDA）
+BRENDA入口
+
+
+ExPASy（英语：ExPASy）
+NiceZyme浏览
+
+
+KEGG
+KEGG入口
+
+
+MetaCyc（英语：MetaCyc）
+代谢路径
+
+
+PRIAM（英语：PRIAM_enzyme-specific_profiles）
+概述
+
+
+PDB
+RCSB PDB PDBe PDBsum
+
+
+基因本体
+AmiGO / EGO
+
+
+
+
+
+搜索
+
+
+PMC
+相关文献
+
+
+PubMed
+相关文献
+
+
+
+
+
+雌二醇17β-脱氢酶（英语：estradiol 17β-dehydrogenase，EC 1.1.1.62）是一种以NAD+或NADP+为受体、作用于供体CH-OH基团上的氧化还原酶。这种酶能催化以下酶促反应：
+
+雌二醇-17β + NAD(P)+ 
+
+
+
+⇌
+
+
+{\displaystyle \rightleftharpoons }
+
+ 雌酮 + NAD(P)H + H+
+
+雌二醇17β-脱氢酶主要参与雄激素和雌激素代谢过程。
+参考文献[编辑]
+
+
+
+Kautsky MP, Hagerman DD. 17 Beta-estradiol dehydrogenase of ovine ovaries. J. Biol. Chem. 1970, 245 (8): 1978–84. PMID 4314937. 
+
+
+LANGER LJ, ALEXANDER JA, ENGEL LL. Human placental estradiol-17 beta dehydrogenase. II. Kinetics and substrate specificities. J. Biol. Chem. 1959, 234: 2609–14. PMID 14413943. 
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+氧化还原酶：以CH-OH基团为供体的氧化还原酶类（EC 1.1）
+
+
+
+
+
+
+1.1.1：以NAD或NADP为受体
+
+醇脱氢酶 · 醛酮还原酶（1A1、1B1、1B10、1C1、1C3、1C4、7A2） · 醛糖还原酶 · 糖类脱氢酶 · 肉碱脱氢酶 · DXP还原异构酶 · 葡萄糖-6-磷酸脱氢酶 · 甘油-3-磷酸脱氢酶 · HMG-CoA还原酶 · 3-羟酰辅酶A脱氢酶 · β-羟基丁酰辅酶A脱氢酶 · 异柠檬酸脱氢酶 · 单磷酸次黄嘌呤核苷酸脱氢酶 · β-酮脂酰-ACP还原酶 · 乳酸盐脱氢酶 · 苹果酸脱氢酶 · 磷酸葡萄糖酸脱氢酶 · L-苏氨酸脱氢酶 · L-木酮糖还原酶 · 山梨醇脱氢酶 · 奎尼酸脱氢酶
+羟基类固醇脱氢酶：3-β（3-β-HSD、固醇-4-α-羧酸盐- 3-脱氢酶） · 11-β（11β-羟基类固醇脱氢酶1型、11-β-羟基类固醇脱氢酶2型） · 17-β
+
+
+
+
+
+
+1.1.2：以细胞色素为受体
+
+D-乳酸盐脱氢酶 (细胞色素) · D-乳酸盐脱氢酶 (细胞色素c-553) · 甘露醇脱氢酶 (细胞色素)
+
+
+
+
+
+
+1.1.3：以 氧气为受体
+
+葡萄糖氧化酶 · L-古洛糖酸内酯氧化酶 · 黄嘌呤氧化酶
+
+
+
+
+
+
+1.1.4：以二硫化物为受体
+
+维生素K环氧化物还原酶 · 维生素K环氧化物还原酶 (对华法林不敏感)
+
+
+
+
+
+
+1.1.5：以醌类似化合物为受体
+
+醌蛋白葡萄糖脱氢酶
+
+
+
+
+
+
+1.1.99：以其他物质为受体
+
+胆碱脱氢酶 · L-2-羟基戊二酸脱氢酶
+
+
+
+
+
+
+
+
+EC 1.1/2/3/4/5/6/7/8/9/10/11/12/13/14/15/16/17/18/19/20/21/22  · 2.1/2/3/4/5/6/7(2.7.10/11-12)/8/9  · 3.1/2/3/4(3.4.21/22/23/24)/5/6/7/8/9/10/11/12/13  ·
+4.1/2/3/4/5/6 · 5.1/2/3/4/5/99 · 6.1-3（英语：Template:Ligases CO CS and CN）/4/5-6
+
+
+
+
+
+
+
+
+
+
+分类：EC 1.1.1NADH依赖性酶NADPH依赖性酶已知结构的酶

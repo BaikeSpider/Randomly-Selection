@@ -1,0 +1,80 @@
+品管新七大手法
+品管新七大手法（Seven Management and Planning Tools），又称QC新七大手法，新的七种质量控制工具或N7，为1972年，日本科技联盟的纳谷嘉信教授归纳出的一套品管工具，这个方法恰巧有七项，为有别于原有的“QC七大手法”，所以就称为“新QC七大手法”[1]。
+新七大手法[编辑]
+
+KJ法（英语：Affinity_diagram）（亲和图法、Affinity diagrams）
+关联图法 （Inter-relationship diagraph）
+系统图 （Tree diagrams）
+箭线图法（英语：Activity network diagram） （Arrow Diagram Method，ADM）
+矩阵图法 （Matrix diagrams）
+矩阵数据分析法 （Matrix Data Analysis）
+PDPC法（英语：Process decision program chart）（过程决策程式图法、Process Decision Program Chart）
+
+
+
+
+
+
+
+
+KJ法（亲和图法）
+
+
+
+
+
+
+
+
+
+关联图法
+
+
+
+
+
+
+
+
+
+系统图
+
+
+
+
+
+
+
+
+
+矩阵图
+
+
+
+
+
+
+
+
+
+PDPC法
+（过程决策程式图法）
+
+
+
+
+参考条目[编辑]
+
+品管七大手法
+
+外部链接[编辑]
+
+
+^ QC新七大手法陈麒丞 高雄医学大学附设纪念医院 2013-10
+
+
+
+
+
+
+分类：企业管理品质

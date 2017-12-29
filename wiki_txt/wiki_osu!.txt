@@ -1,0 +1,2 @@
+osu!
+《osu!》是一款Microsoft Windows平台上的同人节奏游戏。使用.NET Framework中的C#编写，后来陆续推出Mac OS、iOS、Android、Windows Phone等平台。游玩方式的设计参考了《押忍！战斗！应援团》、《精英节拍特工》、《太鼓达人》、《O2Jam》和《DJMax》。

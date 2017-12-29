@@ -1,0 +1,91 @@
+分类单元
+
+
+
+
+
+分类单元（分类群，英语：Taxon）是指分类学上的一个群体[1][2]，不管处哪一个分类阶层（taxonomic rank），称此群体为分类群。
+
+
+
+目录
+
+
+1 范围与命名
+2 参见
+3 注释
+4 参考文献
+
+
+
+范围与命名[编辑]
+各个分类阶层皆可能具多个分类群，而其整体亦为一个分类群。分类群可以给定一个名字，但若指整个分类阶层，则其命名便要受国际命名法规规范，例如种应有种的学名、纲需有纲的学名。
+以槐为例，以下列出十个分类阶层，主要的分阶层（principal ranks）[3] 指界、门、纲、目、科、属、种等七个，若有需要可以在七个主要的阶层之上或之下，再加合适的次级阶层（secondary ranks，例如科与属之间的族、组、系，种下的亚，或是亚科、亚属等等）[4]。每个阶层皆有其特定的学名，学名则受到命名法规的规范。
+
+域： 真核域 Eukarya
+
+界： 植物界 Plantae
+
+门： 被子植物门 Magnoliophyta
+
+纲： 双子叶植物纲 Magnoliopsida
+
+目： 豆目 Fabales
+
+科： 豆科 Fabaceae
+
+亚科： 蝶型花亚科 Faboideae Lindl.
+
+族：槐族 Sophoreae
+
+属：槐属 Styphnolobium
+
+种：槐 Styphnolobium japonicum (L.) Schott
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+参见[编辑]
+
+植物分类学
+生物分类法
+支序分类学
+单系群
+
+注释[编辑]
+
+
+^ Vienna Code 互联网档案馆的存档，存档日期2012-10-06. ，“国际植物命名法规中对此字的释义较简单，不管何种阶层，是分类学上的一个群体”。
+^ ICZN / Glossary: taxon，国际动物命名法规对于分类群的解释较多，定义分类为“一个分类学上的单元，不管是否具有学名；一个被认为具亲缘关系的物种之一个族群或多个族群，具有能分别出相似的其他一群之共同的特征之单元。一个分类群包含了较低阶层的所有分类群及其中的个体。”。
+^ Vienna Code 3.1
+^ Vienna Code 4.1, 4.2
+
+
+参考文献[编辑]
+
+
+McNeill, J. et al. 2006. International Code of Botanical Nomenclature (Vienna Code). Regnum Vegetabile 146. A.R.G. Gantner Verlag KG. ISBN 0080-0694. Vienna Code on-line version
+INTERNATIONAL CODE OF ZOOLOGICAL NOMENCLATURE (ICZN) online，retrieved 2011-06-16.
+
+
+
+
+
+
+分类：生物分类学植物分类学命名法隐藏分类：Webarchive模板wayback链接

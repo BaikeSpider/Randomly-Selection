@@ -1,0 +1,768 @@
+蛋白酶体
+
+
+
+
+
+
+
+
+
+
+
+
+
+蛋白酶体的三维结构图（包括飘带图和半透明的表面图）。蛋白酶体两端的“帽子”（即11S调节颗粒）用红色显示，中间的“圆桶”（即核心颗粒）用蓝色显示。其降解蛋白质分子的活性位点位于核心颗粒的圆桶内。
+
+
+
+
+
+
+蛋白酶体的结构图（从上往下看）。
+
+
+蛋白酶体（Proteasomes）是一种巨型筒状蛋白质复合物，主要作用是通过打断肽键来实现降解细胞不需要的或受到损伤的蛋白质。
+目前所有已知的真核生物和古菌皆有蛋白酶体，在一些原核生物中也存在。在真核生物中，它位于细胞核和细胞质中。[1]能够发挥这一作用的酶被称为蛋白酶。蛋白酶体是细胞用来调控特定蛋白质的浓度和除去错误折叠蛋白质的主要机制。经过蛋白酶体的降解，蛋白质被切割为约7-8个氨基酸长的肽段；这些肽段可以被进一步降解为单个氨基酸分子，然后被用于合成新的蛋白质[2]。
+蛋白酶体降解途径对于许多细胞过程是必不可少的，包括细胞周期，基因表达的调节，与氧化应激反应。细胞内的蛋白酶体降解和泛素蛋白水解途径的作用的重要性在2004年的诺贝尔化学奖得到承认，阿龙·切哈诺沃、阿夫拉姆·赫什科和欧文·罗斯三人分享该奖。[3]
+
+
+
+目录
+
+
+1 生理作用
+
+1.1 反应过程
+1.2 分子结构
+1.3 作用
+
+
+2 发现
+3 结构和组成
+
+3.1 20S核心颗粒
+3.2 19S调节颗粒
+3.3 11S调节颗粒
+3.4 PA200/Blm10
+
+
+4 组装机制
+5 蛋白质降解过程
+
+5.1 步骤1：泛素化和定靶
+5.2 步骤2：去折叠和移位
+5.3 步骤3：蛋白质的降解
+5.4 补充：非泛素依赖的降解
+
+
+6 蛋白酶体的进化
+7 作用
+
+7.1 细胞周期控制
+7.2 调控植物生长
+7.3 细胞凋亡
+
+
+8 细胞应激反应
+9 在免疫系统中的作用
+
+9.1 蛋白酶体抑制剂
+
+
+10 参考文献
+11 扩展阅读
+12 外部链接
+13 参见
+
+
+
+生理作用[编辑]
+反应过程[编辑]
+需要被降解的蛋白质会先被一个称为泛素的小型蛋白质所标记（即连接上）。这一标记反应是被泛素连接酶所催化。一旦一个蛋白质被标记上一个泛素分子，就会引发其它连接酶加上更多的泛素分子；这就形成了可以与蛋白酶体结合的“多泛素链”，从而将蛋白酶体带到这一标记的蛋白质上，开始其降解过程[2]。
+分子结构[编辑]
+从蛋白质结构看，蛋白酶体是一桶状复合物[4]，包括一个由四个堆积在一起的环所组成的“核心”（右图中蓝色部分），核心中空，形成一个空腔。其中，每一个环由七个蛋白质分子组成。中间的两个环各由七个β亚基组成，并含有六个蛋白酶的活性位点。这些位点位于环的内表面，所以蛋白质必须进入到蛋白酶体的“空腔”中才能够被降解。外部的两个环各含有七个α亚基，可以发挥“门”的作用，是蛋白质进入“空腔”中的必由之路。这些α亚基，或者说“门”，是由结合在它们上的“帽”状结构（即调节颗粒，右图中红色部分）进行控制；调节颗粒可以识别连接在蛋白质上的多泛素链标签，并启动降解过程。包括泛素化和蛋白酶体降解的整个系统被称为“泛素-蛋白酶体系统”。
+作用[编辑]
+蛋白酶体降解途径对于许多细胞进程，包括细胞周期、基因表达的调控、氧化应激反应等，都是必不可少的。2004年诺贝尔化学奖的获奖主题就是蛋白质酶解在细胞中的重要性和泛素在酶解途径的作用，而三位获奖者为阿龙·切哈诺沃、阿夫拉姆·赫什科和欧文·罗斯。[3]
+发现[编辑]
+在发现泛素-蛋白酶体系统之前，细胞中的蛋白质降解被认为主要依赖于溶酶体，一种膜包裹的囊状细胞器，内部为酸性环境且充满了蛋白酶，可以降解并回收外源蛋白质以及衰老或损伤的细胞器。[2] 然而，在对网织红血细胞的研究中发现，在缺少溶酶体的情况下，ATP依赖的蛋白质降解依然能够发生；这一结果提示，细胞中存在另一种蛋白质降解机制。1978年，一些研究者发现这一新的降解机制有多种不同的蛋白质参与，在当时被认为是新的蛋白酶。[5] 随后在对组蛋白修饰的研究工作中发现，组蛋白发生了意外的共价修饰：组蛋白上的一个赖氨酸残基与泛素蛋白C-端的甘氨酸残基之间形成了共价连接，但其对应的功能未知。[6] 而后又发现先前鉴定的一个参与新的降解机制的蛋白质，ATP依赖的蛋白质水解因子1（ATP-dependent proteolysis factor 1，APF-1），实际上就是泛素。[7]
+这些早期的工作导致了1970年代末和1980年代初，泛素-蛋白酶体系统在以色列技术工程学院（Technion – Israel Institute of Technology）阿夫拉姆·赫什科的实验室中发现，而阿龙·切哈诺沃是当时实验室中的一名研究生。正是在福克斯詹士癌症中心（Fox Chase Cancer Center）欧文·罗斯的实验室做访问研究期间，赫什科提出了关键的概念性想法，而罗斯后来并没有对自己在其中的贡献加以强调。[8] 由于他们在发现泛素-蛋白酶体系统上的贡献，这三人一起分享了2004年度的诺贝尔化学奖。[3]
+虽然1980年代中期，已经有电子显微学数据显示蛋白酶体的堆积环结构[9]，但直到1994年，第一个蛋白酶体核心颗粒的原子分辨率结构才通过X射线晶体学获得解析。[10] 至2000年，研究者用酵母中的20S核心颗粒与锥虫的11S调节颗粒构造了异源蛋白酶体复合物，并解析了这一复合物的结构。[4] 但截至2007年，还没有获得核心颗粒与真核生物中更为常见的19S调节颗粒的蛋白酶体复合物结构。
+结构和组成[编辑]
+
+
+
+
+蛋白酶体20S核心颗粒的简化结构图。构成外部两个环的α亚基用绿色来表示，构成中间两个环的β亚基用蓝色来表示。
+
+
+
+
+
+
+从上往下看核心颗粒的简化结构。可以看出环结构存在七次轴对称。
+
+
+蛋白酶体的组分通常根据它们的斯维德伯格沉降系数（以“S”来标记）来命名。最普遍的蛋白酶体的形式是26S蛋白酶体，其分子量约为2000kDa，包含有一个20S核心颗粒和两个19S调节颗粒。核心颗粒为中空结构，将剪切蛋白质的活性位点围在“洞”中；将核心颗粒的两端敞开，目的蛋白质就可以进入“洞”中。核心颗粒的每一端都连接着一个19S调节颗粒，每个调节颗粒都含有多个ATP酶活性位点和泛素结合位点；调节颗粒可以识别多泛素化的蛋白质，并将它们传送到核心颗粒中。除了19S调节颗粒外，还存在另一种调节颗粒，即11S颗粒；11S调节颗粒可以以类似于19S颗粒的方式与核心颗粒结合；11S颗粒可能在降解外源肽（如病毒感染后产生的肽段）上发挥作用。[11] 此外，PA200（酵母中为Blm10）蛋白也可以单独作为激活蛋白来调控20S颗粒的开启。
+20S核心颗粒[编辑]
+不同的生物体中，20S核心颗粒中亚基的数量和差异性都有所不同；就亚基数量而言，多细胞生物比单细胞生物要多，真核生物比原核生物多。所有的20S颗粒都由四个堆积的七元环所组成，这些环结构则是由两种不同的亚基构成：α亚基为结构性蛋白，而β亚基则发挥主要的催化作用。外部的两个环，每个环都含有七个α亚基，一方面作为调节颗粒的结合部，另一方面发挥“门”的作用，阻止蛋白质不受调控地进入核心颗粒的内部。内部的两个环，每个环都含有七个β亚基，且包含蛋白酶活性位点，用于蛋白质水解反应。蛋白酶体的大小在不同物种之间相当保守，其长和宽分别为约150 Å和115 Å。其内部孔道宽为近53 Å，而入口处则只有13 Å的宽度，这就提示蛋白质要进入其中，需要先被至少部分去折叠。[12]
+在古菌（如Thermoplasma acidophilum（英语：Thermoplasma））中，所有的α亚基和所有的β亚基是等同的；而真核生物的蛋白酶体（如酵母）中，每个亚基都不相同，即α和β亚基都含有七种不同的亚基。在哺乳动物中，β1、β2和β5亚基具有催化作用；虽然它们有着共同的催化机制，但它们具有不同的底物特异性，分别为类胰凝乳蛋白酶型、类胰蛋白酶型和肽谷氨酰基肽水解（英语：peptidyl-glutamyl peptide-hydrolyzing）。[13] 在暴露于前炎症信号（如细胞因子，特别是γ干扰素）时，细胞应激反应会促使造血细胞表达另一些形式的β亚基，即β1i、β2i和β5i。由这些替代亚基所组装成的蛋白酶体又被称为“免疫蛋白酶体”（immunoproteasome），相对于正常形式的蛋白酶体，其底物特异性发生了变化。[12]
+19S调节颗粒[编辑]
+真核生物中的19S颗粒是由19个蛋白质组成的，并可以被分成两个部分：一个由10个蛋白质组成的可以与20S核心颗粒上的α环直接结合的基底，和一个由9个蛋白质组成的结合多泛素链的盖子。其中，10个基底蛋白质中的6个具有ATP酶活性。19S和20S颗粒的结合需要ATP先结合到19S颗粒上的ATP结合位点。[14] ATP的水解对于蛋白酶体降解一个连接泛素的紧密折叠的蛋白质是必不可少的，而ATP水解所产生的能量主要是用于蛋白质的去折叠[15]、核心颗粒的孔道开放[16] 还是两者皆有[14]，则还不清楚。截止到2006年，26S蛋白酶体的结构还没有获得解析。[16]
+19S颗粒的每个组分都有它们自己的调控作用。一个近期鉴定出的癌蛋白Gankyrin（英语：Gankyrin）是19S颗粒的组分之一，可以与细胞周期蛋白依赖性激酶CDK4紧密结合，并且通过与泛素连接酶MDM2（英语：MDM2）的结合，在识别泛素化的P53蛋白中发挥作用。Gankyrin具有抗凋亡作用，其被发现在一些类型的肿瘤细胞（如肝癌细胞）中过表达。[17]
+11S调节颗粒[编辑]
+20S核心颗粒也可以与第二种调节颗粒，即11S颗粒相结合。11S调节颗粒又被称为PA28或REG。它是七聚体结构，不包含任何ATP酶，能够促进短肽而不是完整的蛋白质的降解。这可能是因为由11S颗粒与核心颗粒所组成的复合物无法将大的底物去折叠。11S颗粒的调控机制与19S颗粒的机制类似，是通过其亚基的C末端结合核心颗粒，并诱发α环发生构象变化，从而打开20S核心颗粒的“门”，使得底物蛋白质可以进入核心颗粒。[18] 11S颗粒的表达受γ干扰素的诱导，并且负责与免疫蛋白酶体的β亚基一起生成结合到主要组织相容性复合体上的肽段。[11]
+PA200/Blm10[编辑]
+11S和19S调节颗粒都是多亚基的复合物，而实际上真核生物中还存在着以单个蛋白结合20S颗粒的调节蛋白──PA200或Blm10（酵母中）。PA200的分子量高达200kDa，其主要定位于细胞核中，可以直接结合并激活20S颗粒。[19][20] PA200可能参与了DNA双链断裂的修复。[20]
+组装机制[编辑]
+蛋白酶体的组装是一个十分复杂的过程，这是因为必须将所有的数量众多的亚基正确地结合到一起才能形成一个有活性的核心颗粒复合物。β亚基被合成后，其N末端带有“前肽”（propeptide）；在组装20S颗粒的过程中，“前肽”通过翻译后修饰作用以暴露出活性位点。整个组装过程虽然复杂，却也十分有序。首先，将α亚基组装为七元环，为对应的前β环提供模板，然后完成前β环的组装，这样一个七亚基的前β环和一个七亚基的α环就形成了半个核心颗粒。对于α环的组装机制，目前还没有定论。[21] 接着，两个半个核心颗粒之间的两个β环相结合，并触发苏氨酸依赖的“前肽”的自降解，从而暴露出活性位点，这就组装成了一个有活性的20S核心颗粒。β环之间的这种相互作用主要是由保守的α螺旋残基之间的盐桥和疏水相互作用来介导的；而通过突变这些保守残基，可以破坏蛋白酶体的组装，从而从另一方面证实了这些残基对于组装的重要性。[22]
+对于19S调节颗粒的组装和成熟过程的了解较少。目前的看法认为19S调节颗粒是由两个不同的部分，即含ATP酶的基底部分和泛素识别的盖子部分组装而成。其中，基底部分中的六个ATP酶可以通过卷曲螺旋的相互作用以配对的方式结合在一起。[23] 调节颗粒中19个亚基的这样的组装顺序很可能是一种调控机制，用于阻止在组装完成之前将活性位点暴露出来。[16]
+蛋白质降解过程[编辑]
+步骤1：泛素化和定靶[编辑]
+
+
+
+
+泛素卡通模型
+
+
+需要被蛋白酶体降解的蛋白质会先被连接上泛素作为标记，即蛋白质上的一个赖氨酸与泛素之间形成共价连接。这一过程是一个三酶级联反应，即需要有由三个酶催化的一系列反应的发生，整个过程被称为泛素化信号通路。在第一步反应中，泛素激活酶（又被称为E1）水解ATP并将一个泛素分子腺苷酸化。接着，泛素被转移到E1的活性中心的半胱氨酸残基上，并伴随着第二个泛素分子的腺苷酸化。[24] 被腺苷酸化的泛素分子接着被转移到第二个酶，泛素交联酶（E2）的半胱氨酸残基上。最后，高度保守的泛素连接酶（E3）家族中的一员（根据底物蛋白质的不同而不同）识别特定的需要被泛素化的靶蛋白，并催化泛素分子从E2上转移到靶蛋白上。靶蛋白在被蛋白酶体识别之前，必须被标记上至少四个泛素单体分子（以多泛素链的形式）。[25] 因此，是E3使得这一系统具有了底物特异性。[26] E1、E2和E3蛋白的数量依赖于生物体和细胞类型，人体中就存在大量不同的E3蛋白，这说明泛素-蛋白酶体系统可以作用于数量巨大的靶蛋白。
+多泛素化后的蛋白质是如何被蛋白酶体所识别的，还没有完全弄清。泛素受体蛋白的N末端具有一个类泛素结构域，以及一至多个泛素结合结构域。类泛素结构域可以被19S调节颗粒所识别，而泛素结合结构域可以通过形成三螺旋束来结合泛素。这些受体蛋白可能能够结合多泛素化的蛋白质并将其携带到蛋白酶体，而关于这种结合的特异性和调控机制还不清楚。[27] 但最近有研究者发现，调节颗粒上的亚基Rpn13可以发挥泛素受体的功能。[28][29]
+泛素蛋白自身由76个残基所组成，以“泛素”为名是因为它在生物体中广泛存在：具有高度保守的序列并且存在于所有已知的真核生物体中。真核生物中编码泛素的基因以串联重复的方式排列，这可能是因为大量转录的需要，为细胞生产足够多的泛素。有人提出泛素是目前发现的进化速度最慢的蛋白质。[30]
+步骤2：去折叠和移位[编辑]
+
+
+
+
+泛素化信号通路。其中，“Ub”表示泛素。
+
+
+泛素化后的蛋白质（以下称为底物蛋白）被19S调节颗粒所识别，这一过程是一个ATP依赖的结合过程。[14] 然后，底物蛋白必须进入20S核心颗粒的内部孔道，以便与位于其中的水解活性位点接触。由于20S颗粒的孔道相对狭窄，而且两端由α环中亚基的N末端控制开关，所以底物蛋白在进入核心颗粒之前必须至少部分去折叠。将去折叠的蛋白质传递进入核心颗粒的过程被称为“移位”（translocation），而移位必须发生在去泛素化之后。[14] 但目前对于底物蛋白的去泛素化和去折叠机制还不了解。[31] 在整个降解反应过程中，那一步是限速步取决于底物蛋白的类别；对于一些蛋白质，去折叠过程是限速步，而对于另一些蛋白质，可能是去泛素化为限速因子。[15] 至于哪些底物蛋白在移位之前必须去折叠，还未有结论，而牢固的三级结构和一些特殊的非局部相互作用，如二硫键，能够抑制降解。[32]
+由α亚基所形成的“门”可以阻止长于四个残基的多肽进入20S颗粒的内部。在识别步骤开始前结合上的ATP分子在移位发生前被水解，而对于水解产生的能量是用于蛋白质去折叠[15] 还是“门”的打开[16] 还有争议。26S蛋白酶体在存在无法水解的ATP类似物（即无法获得水解产生的能量）的情况下，依然可以降解去折叠的蛋白质，但却无法降解折叠的蛋白质；这一结果说明ATP水解所产生的能量至少部分被用于蛋白质去折叠。[33] 在19S帽子处于ATP结合状态时，去折叠的底物蛋白可以由促进扩散作用，传递通过开启的“门”。[34]
+球蛋白去折叠的机制是基本类似的，但在一定程度上也取决于蛋白质的氨基酸序列。研究者发现含有较长的甘氨酸或丙氨酸序列可以抑制去折叠，从而降低蛋白酶体的降解效率；其结果是生成含有部分去折叠蛋白质的混合物，这可能是由于ATP水解和去折叠步骤之间的脱节所导致的。[35] 自然界中的一些蛋白质也有这样的甘氨酸-丙氨酸重复序列存在，如蚕丝中的丝心蛋白（英语：fibroin）；值得一提的是，特定的人类疱疹病毒基因的表达产物也含有这样的序列，通过抑制蛋白酶体的作用，阻止了抗原呈递到主要组织相容性复合体上，从而有助于病毒的繁殖。[36]
+
+
+
+
+20S核心颗粒的一个剖面图，显示了活性位点的位置。其中，α亚基用绿色的球来表示，β亚基的蛋白骨架显示为飘带，并且不同的多肽链用不同的颜色表示。小的粉色球表示每个亚基的活性位点中苏氨酸残基的位置。淡蓝色的化学结构为结合在活性位点上的抑制剂硼替佐米。
+
+
+步骤3：蛋白质的降解[编辑]
+蛋白质的降解由20S核心颗粒中的β亚基进行，其机制被认为是苏氨酸依赖的亲核攻击。这一机制可能需要有一个结合的水分子参与活性的苏氨酸上羟基的去质子化。降解发生在核心颗粒中间的两个β环内的孔道里，一般不生成部分降解的产物，而是将底物蛋白完全降解为长度一定的肽段；肽段的长度一般为7-9个残基，但根据生物体和底物蛋白的不同，长度范围可以从4-25个残基不等。决定分解产物中肽段长度的机制，目前还没有完全弄清。[37] 虽然具有催化活性的三个β亚基具有共同的降解机制，但它们对于底物的特异性却略有不同，分别为类胰凝乳蛋白酶型、类胰蛋白酶型和肽谷氨酰基肽水解型。这种对于底物特异性的差异是来自于靠近活性位点的局部残基与底物之间的相互作用的不同。每一个具有催化活性的β亚基也都含有一个降解所必需的保守的赖氨酸。[13]
+虽然蛋白酶体通常生成非常短的降解片断，但在一些情况下，这些降解产物自身是具有生物学活性的功能分子。特定的转录因子，包括哺乳动物的NF-κB复合物中的一个组分，合成后是以无活性的前体分子存在，在经过泛素化和蛋白酶降解后，才转变为活性分子。这种降解需要蛋白酶体剪切蛋白质的中间部分，而不是通常情况下的从蛋白质的一端开始的剪切。有人提出，需要被剪切的中间部分为一个长的环（英语：loop (biochemistry)），位于蛋白表面，从而可以作为蛋白酶体的底物进入其内部孔道，而蛋白质的其他部分依然在孔道外，并不会被降解。[38] 在酵母蛋白中也发现了类似的现象；这种选择性降解被称为“受调控的泛素-蛋白酶体依赖的剪切”（regulated ubiquitin/proteasome dependent processing）。[39]
+补充：非泛素依赖的降解[编辑]
+虽然大多数的蛋白酶体的底物必须在降解之前被泛素化，但仍然有一些例外的情况，尤其是在蛋白酶体参与蛋白质的翻译后处理过程中。一个主要的例子是蛋白酶体通过将p105（英语：p105）蛋白剪切为p50（英语：P50 (biochemistry)）蛋白来激活NF-κB。[38] 一些由于存在无结构区域（英语：intrinsically unstructured proteins）而被推测具有不稳定性的蛋白质也可以通过非泛素依赖的途径被降解。[40]鸟氨酸脱羧酶是最著名的非泛素依赖途径中蛋白酶体的底物。[41] 对于关键的细胞周期调控因子，如P53蛋白的非泛素依赖的降解机制已经有报道，虽然p53蛋白也可以通过泛素依赖的途径被降解。[42] 此外，在一定的细胞应激条件下，结构不正常、错误折叠或者过度氧化的蛋白质也都会进入非泛素依赖的和非19S颗粒依赖的降解途径。[43]
+蛋白酶体的进化[编辑]
+
+
+
+
+大肠杆菌中的hslV（英语：HslV）（蓝色）和hslU（英语：HslU）复合物（红色）。这一由热休克蛋白组成的复合物被认为类似于现在蛋白酶体的祖先。
+
+
+20S蛋白酶体在真核生物中广泛存在且必不可少。一些原核生物，包括许多古菌和细菌中的放线菌也含有20S蛋白酶体的同源体，即大多数细菌都含有的热休克基因hslV（英语：HslV）和hslU（英语：hslU），这两个基因所编码的蛋白质可以形成双层环状多聚体和ATP酶。[44] 一些研究者认为HslV蛋白很可能类似于20S蛋白酶体的祖先。[45] 一般来说，HslV蛋白对于细菌不是必要的，且并非所有的细菌都含有这一蛋白，而原生生物同时含有20S蛋白酶体和HslV蛋白系统。[44]
+序列分析显示，催化性的β亚基在进化过程中分化得比结构性的α亚基要早。表达20S蛋白酶体的细菌中，其β亚基与古菌以及真核生物的β亚基具有高度的序列相似性，而α亚基的序列相似程度则低得多。细菌中存在20S蛋白酶体可能是基因水平转移的结果，而真核生物中各亚基的分化则应是多次基因重复的结果。[44]
+作用[编辑]
+细胞周期控制[编辑]
+细胞周期进程是由一系列细胞周期蛋白依赖性激酶（CDK）来进行调控的，而CDK则是由细胞周期蛋白（cyclin）来激活。有丝分裂的细胞周期蛋白，在细胞中只有几分钟寿命，是所有已知的细胞内蛋白中寿命最短的。[2] 在CDK-cyclin复合物行使了它的功能之后，复合物中的cyclin就会被多泛素化并由蛋白酶体降解，从而保证了细胞周期的正常运转。尤其是在细胞退出有丝分裂期时，作为调控组分的周期蛋白B（英语：cyclin B）需要从有丝分裂促进因子上脱落下来，而这一解离过程依赖于蛋白酶体的参与。[46]
+细胞周期检控点，如G1期和S期之间的后限制点检查，也需要蛋白酶体降解周期蛋白A（英语：cyclin A），而cyclin A的泛素化由一个名为后期促进复合物（anaphase promoting complex，APC）的E3泛素连接酶来进行。[47] APC蛋白和Skp1/Cul1/F-box蛋白复合物（即SCF复合物）是降解cyclin和控制检控点的两个关键调控因子；SCF复合物自身则由APC蛋白来调控，由于Skp2蛋白（SCF复合物中的转接蛋白）可以在G1期到S期的过渡期中抑制SCF复合物的活性，因此通过泛素化Skp2蛋白，APC蛋白就可以激活SCF复合物。[48]
+调控植物生长[编辑]
+在植物中，生长素或植物激素的作用是调控植物生长的方向和向性，它们通过细胞信号通路来诱导一系列转录因子抑制蛋白（Aux/IAA蛋白）进入蛋白酶体降解途径。这些抑制蛋白由SCFTIR1蛋白或者由与auxin受体蛋白TIR1结合的SCF蛋白进行泛素化。Aux/IAA蛋白降解后，对auxin反应因子（ARF）家族的转录因子的抑制就被解除，从而诱导ARF基因的表达。[49] ARF被激活所导致的结果因植物类型和发育水平的不同而有所差异，但都参与了对根和叶脉生长的指导。ARF蛋白和Aux/IAA蛋白之间配对的特异性被认为是ARF的去抑制作用具有反应特异性的原因。[50]
+细胞凋亡[编辑]
+细胞内外的信号都能够诱导细胞凋亡或编程性细胞死亡。其结果是细胞内部的组分发生解构，这主要是由特定的蛋白酶半胱天冬酶来完成，但同时蛋白酶体也可能在细胞凋亡过程中扮演了多种重要角色。蛋白酶体参与细胞凋亡进程的推测是基于凋亡发生前，细胞中泛素化蛋白质以及E1、E2、E3在数量上的增加这一现象；[51][52][53] 并且，在细胞凋亡过程中，原本定位于细胞核的蛋白酶体被发现能够移位到调亡小泡的外膜。[54]
+蛋白酶体的抑制作用可以影响不同类型细胞的凋亡诱导，在大多数已被研究的细胞类型中，抑制蛋白酶体可以促进细胞凋亡。但一般而言，蛋白酶体并非是细胞凋亡所必需的因子。而且，对于一些细胞系，特别是原代培养的静止和分化的细胞，如胸腺细胞和神经元细胞，暴露于蛋白酶体抑制剂反而阻止了细胞的凋亡。这一作用机制目前还不清楚，但有人推测这种现象只特异性地发生于静止状态的细胞或者这是由于促细胞凋亡激酶JNK（英语：JNK）的活性差异所导致的。[55] 由于蛋白酶抑制剂可以诱发处于快速分裂中的细胞（如癌细胞）的凋亡，因此一些蛋白酶抑制剂已经被开发并作为化疗药品被用于治疗癌症。
+细胞应激反应[编辑]
+当细胞应激（如感染、热休克以及氧化损伤）反应发生时，热休克蛋白被大量表达，其作用是识别错误折叠或去折叠的蛋白质，并标记它们以供蛋白酶体降解。作为分子伴侣，热休克蛋白Hsp27（英语：Hsp27）和Hsp90（英语：Hsp90）已经被发现可以提高泛素-蛋白酶体系统的活性，虽然它们并不直接参与这一系统的运行。[56] 另一个热休克蛋白Hsp70（英语：Hsp70），可以结合到错误折叠蛋白质表面的疏水区，并引导E3泛素连接酶（如CHIP）将错误折叠的蛋白质标记上泛素，使得蛋白酶体可以降解它们。[57] CHIP蛋白，全称为HSP70的C末端相互作用蛋白（carboxyl terminus of Hsp70-interacting protein），其自身可以通过抑制与其对应的E2之间的相互作用而被调控。[58]
+对于氧化损伤的蛋白质，也有相似的机制可以促使它们被蛋白酶体系统降解。例如，定位于细胞核中的蛋白酶体是由PARP蛋白所调控，可以降解被不正确氧化的组蛋白。[59] 被氧化的蛋白质往往会在细胞中形成巨大的两性聚合物，而这种聚合物可以被20S核心颗粒直接降解，而不需要19S调节颗粒的参与，也不需要ATP水解和泛素标签。[43] 但高水平的氧化损伤增加了蛋白片断之间互相连接的程度，所形成的聚集物就能够抵抗蛋白酶体的降解。这种高氧化度的聚集物的数量和大小与衰老程度相关。[60]
+一些晚发型神经退行性疾病（如帕金森氏症和老年痴呆症）中都以含有错误折叠的蛋白质所形成的聚合物为共同特点，而蛋白酶体活力受损被认为是导致这类病症的重要因素。在这些疾病中，错误折叠蛋白质可以形成的巨大的不可溶聚合物并导致神经中毒，但具体的致病机制还不清楚。在帕金森氏症中，蛋白酶体活性的降低被认为是导致蛋白聚集和路易体（英语：Lewy body）形成的原因之一。[61] 这一推测得到了一些实验结果的支持；在对帕金森氏症的酵母模型进行研究后发现，当蛋白酶体的活性降低后，这种酵母对于来自α－突触核蛋白（英语：alpha-synuclein），路易体的主要成分）的毒性变得更加敏感。[62]
+在免疫系统中的作用[编辑]
+蛋白酶体直接参与了适应性免疫系统的运作，并在其中扮演着关键角色。肽类抗原是由主要组织相容性复合体（MHC）类型I蛋白传递到抗原呈递细胞表面。这些肽段是来自被蛋白酶体降解的侵入机体的病原体。虽然一般的蛋白酶体就可以参与这一进程，但实际上起主要作用的是一种特殊的复合物，其可以生成合适大小和成分的降解片断以供MHC结合。这种复合物的组成蛋白的表达是由γ干扰素所诱导；当免疫反应发生时，这些蛋白质，包括11S调节颗粒（主要作用为调节MHC的结合肽段的产生）和特殊的β亚基（β1i、β2i、β5i，具有不同的底物特异性）的表达就会增加。这种由特殊的β亚基参与形成的复合物就被称为“免疫蛋白酶体”。[11] 另一种有所变化的β5亚基，β5t，在胸腺中表达，能够形成胸腺独有的“胸腺蛋白酶体”（"thymoproteasome"），参与T细胞的发育调控。[63]
+MHC类型I蛋白的配基结合强度取决于配基C末端的组成，因为肽段配基是通过氢键和与MHC表面的"B pocket"近接触来结合的。许多MHC类型I蛋白趋向于结合疏水性残基，而免疫蛋白酶体复合物就可以更多地生成具有疏水性C末端的肽段。
+由于蛋白酶体参与生成活性形势的NF-κB（一种抗凋亡和促炎症调控因子，调控细胞因子的表达），因此，蛋白酶体被认为与炎症反应和自身免疫性疾病相关。蛋白酶体活性水平的提高与包括红斑性狼疮和类风湿性关节炎在内的自身免疫性疾病相关。[11]
+蛋白酶体抑制剂[编辑]
+
+
+
+
+蛋白酶体抑制剂硼替佐米的化学结构。采用硼替佐米的化学疗法可以有效地治疗多发性骨髓瘤。
+
+
+
+
+
+
+硼替佐米结合于酵母蛋白酶体的核心颗粒上。硼替佐米分子位于图的正中；其中，粉色表示碳原子，蓝色表示氮原子，红色表示氧原子，黄色表示硼原子。环绕在硼替佐米分子周围的是蛋白质局部表面，其中蓝色的部分是发挥催化作用的苏氨酸残基，由于结合上硼替佐米，因而失去了催化活性。
+
+
+蛋白酶体抑制剂对于人工培养的细胞具有有效的抗肿瘤活性，通过降解受调控的促生长细胞周期蛋白来诱导肿瘤细胞的凋亡。[64] 这种可以选择性地诱导肿瘤细胞凋亡的方法被证明在动物模型以及人体试验中都非常有效。硼替佐米是第一种用作化学治疗药物的蛋白酶体抑制剂，由千年制药公司（英语：Millennium Pharmaceuticals）开发，市场名称为Velcade。[65] 硼替佐米主要被用于多发性骨髓瘤的治疗[66] 值得一提的是，多发性骨髓瘤会导致血清中蛋白酶体水平的提高，而成功的化疗可以将蛋白酶体的水平恢复到正常范围。[67] 动物研究显示硼替佐米可能对死亡率极高的胰腺癌也有显著的临床效果。[68][69] 对于硼替佐米在治疗B细胞相关癌症的临床前和早期临床研究已经开始，[70] 特别是一些类型的非霍奇金氏淋巴瘤。[71]
+利托那韦（英语：ritonavir），市场名称为Norvir，是用于治疗艾滋病的一种蛋白酶抑制剂。近期的研究发现，利托那韦不仅可以抑制蛋白酶，对蛋白酶体也有抑制作用，特别是对类胰凝乳蛋白酶型的蛋白酶体，但对类胰蛋白酶的蛋白酶体则有部分的促进作用。[72] 对于动物模型的研究表明利托那韦可能对神经胶质瘤细胞的生长有抑制作用。[73]
+将蛋白酶体抑制剂应用于自体免疫性疾病也大有前景。目前这一方面的研究主要是利用动物模型来进行。例如，在对植有人类皮肤的小鼠的研究中发现，用蛋白酶体抑制剂处理过后，原本因患牛皮癣而受损的皮肤所有减少；[74] 在一些啮齿动物模型中发现，蛋白酶体抑制剂对于哮喘也有一定的治疗作用。[75]
+蛋白酶体的标记和抑制作用也被用于在实验室中针对细胞中蛋白酶体活性所进行的“体外”（in vitro）和“体内”（in vivo）研究。实验室中最常用的抑制剂为乳胞素（英语：lactacystin），一种由链霉菌合成的天然产物。[55] 带有荧光基团的抑制剂也已经被开发应用于特异性标记组装好的蛋白酶体上的活性位点。[76]
+参考文献[编辑]
+
+
+^ （英文）Peters JM, Franke WW, Kleinschmidt JA. Distinct 19 S and 20 S subcomplexes of the 26 S proteasome and their distribution in the nucleus and the cytoplasm. The Journal of Biological Chemistry. Mar 1994, 269 (10): 7709–18. PMID 8125997. 
+^ 2.0 2.1 2.2 2.3 （英文）Lodish, H, Berk A, Matsudaira P, Kaiser CA, Krieger M, Scott MP, Zipursky SL, Darnell J. (2004). Molecular Cell Biology, 5th ed., ch.3, pp 66–72. New York: WH Freeman. ISBN 0-7167-4366-3
+^ 3.0 3.1 3.2 （英文）Nobel Prize Committee. Nobel Prize Awardees in Chemistry, 2004. 2004 [2006-12-11]. 
+^ 4.0 4.1 （英文）Whitby FG, Masters EI, Kramer L, Knowlton JR, Yao Y, Wang CC, Hill CP. Structural basis for the activation of 20S proteasomes by 11S regulators. Nature. 2000, 408 (6808): 115–120. PMID 11081519. 
+^ （英文）Ciehanover A, Hod Y, Hershko A. (1978). A heat-stable polypeptide component of an ATP-dependent proteolytic system from reticulocytes. Biochem Biophys Res Commun. 81(4):1100–1105. PMID 666810
+^ （英文）Goldknopf IL, Busch H. (1977). Isopeptide linkage between nonhistone and histone 2A polypeptides of chromosomal conjugate-protein A24. Proc Natl Acad Sci USA 74(3):864-8. PMID 265581
+^ （英文）Ciechanover A. (2000). Early work on the ubiquitin proteasome system, an interview with Aaron Ciechanover. Cell Death Differ Sep;12(9):1167–77. PMID 16094393
+^ （英文）Hershko A. (2005). Early work on the ubiquitin proteasome system, an interview with Avram Hershko. Cell Death Differ 12, 1158–1161. PMID 16094391
+^ （英文）Kopp F, Steiner R, Dahlmann B, Kuehn L, Reinauer H. (1986). Size and shape of the multicatalytic proteinase from rat skeletal muscle. Biochim Biophys Acta 872(3):253-60. PMID 3524688
+^ （英文）Löwe J, Stock D, Jap B, Zwickl P, Baumeister W, Huber R. (1995). Crystal structure of the 20S proteasome from the archaeon T. acidophilum at 3.4 Å resolution. Science 268, 533–539. PMID 7725097
+^ 11.0 11.1 11.2 11.3 （英文）Wang J, Maldonado MA. (2006). The Ubiquitin-Proteasome System and Its Role in Inflammatory and Autoimmune Diseases. Cell Mol Immunol 3(4): 255. PMID 16978533
+^ 12.0 12.1 （英文）Nandi D, Tahiliani P, Kumar A, Chandu D. (2006). The ubiquitin-proteasome system. J Biosci Mar;31(1):137-55. PMID 16595883
+^ 13.0 13.1 （英文）Heinemeyer W, Fischer M, Krimmer T, Stachon U, Wolf DH. (1997). The Active Sites of the Eukaryotic 20S Proteasome and Their Involvement in Subunit Precursor Processing J Biol Chem 272(40):25200–25209. PMID 9312134
+^ 14.0 14.1 14.2 14.3 （英文）Liu CW, Li X, Thompson D, Wooding K, Chang TL, Tang Z, Yu H, Thomas PJ, DeMartino GN. (2006). ATP binding and ATP hydrolysis play distinct roles in the function of 26S proteasome. Mol Cell October 6;24(1):39–50. PMID 17018291
+^ 15.0 15.1 15.2 （英文）Lam YA, Lawson TG, Velayutham M, Zweier JL, Pickart CM. (2002). A proteasomal ATPase subunit recognizes the polyubiquitin degradation signal. Nature 416(6882):763-7. PMID 11961560
+^ 16.0 16.1 16.2 16.3 （英文）Sharon M, Taverner T, Ambroggio XI, Deshaies RJ, Robinson CV. (2006). Structural Organization of the 19S Proteasome Lid: Insights from MS of Intact Complexes. PLoS Biol Aug;4(8):e267. PMID 16869714
+^ （英文）Higashitsuji H, Liu Y, Mayer RJ, Fujita J. (2005). The oncoprotein gankyrin negatively regulates both p53 and RB by enhancing proteasomal degradation. Cell Cycle 4(10):1335–7. PMID 16177571
+^ （英文）Forster A, Masters EI, Whitby FG, Robinson H, Hill CP. (2005). The 1.9 Å Structure of a Proteasome-11S Activator Complex and Implications for Proteasome-PAN/PA700 Interactions. Mol Cell May 27;18(5):589-99. PMID 15916965
+^ （英文）Ortega, J., J. B. Heymann, A. V. Kajava, V. Ustrell, M. Rechsteiner, and A. C. Steven. The axial channel of the 20S proteasome opens upon binding of the PA200 activator. J. Mol. Biol. 2005, 346: 1221–1227. PMID 15713476. 
+^ 20.0 20.1 （英文）Ustrell, V., L. Hoffman, G. Pratt, and M. Rechsteiner. PA200, a nuclear proteasome activator involved in DNA repair. EMBO J. 2002, 21: 3516–3525. PMID 12093752. 
+^ （英文）Kruger E, Kloetzel PM, Enenkel C. (2001). 20S proteasome biogenesis. Biochimie Mar-Apr;83(3-4):289-93. PMID 11295488
+^ （英文）Witt S, Kwon YD, Sharon M, Felderer K, Beuttler M, Robinson CV, Baumeister W, Jap BK. (2006). Proteasome assembly triggers a switch required for active-site maturation. Structure Jul;14(7):1179–88. PMID 16843899
+^ （英文）Gorbea C, Taillandier D, Rechsteiner M. (1999). Assembly of the regulatory complex of the 26S proteasome. Mol Biol Rep Apr;26(1-2):15-9. PMID 10363641
+^ （英文）Haas AL, Warms JV, Hershko A, Rose IA. Ubiquitin-activating enzyme: Mechanism and role in protein-ubiquitin conjugation. J Biol Chem. 1982 March 10;257(5):2543–8. PMID 6277905
+^ （英文）Thrower JS, Hoffman L, Rechsteiner M, Pickart CM. (2000). Recognition of the polyubiquitin proteolytic signal. EMBO J 19, 94–102. PMID 10619848
+^ （英文）Risseeuw EP, Daskalchuk TE, Banks TW, Liu E, Cotelesage J, Hellmann H, Estelle M, Somers DE, Crosby WL. Protein interaction analysis of SCF ubiquitin E3 ligase subunits from Arabidopsis. Plant J. 2003 Jun;34(6):753-67. PMID 12795696
+^ （英文）Elsasser S, Finley D. (2005). Delivery of ubiquitinated substrates to protein-unfolding machines. Nat Cell Biol 7(8):742-9. PMID 16056265
+^ （英文）Husnjak K, Elsasser S, Zhang N, Chen X, Randles L, Shi Y, Hofmann K, Walters KJ, Finley D, Dikic I. (2008). Proteasome subunit Rpn13 is a novel ubiquitin receptor. Nature 22, 481–488. PMID 18497817
+^ （英文）Schreiner P, Chen X, Husnjak K, Randles L, Zhang N, Elsasser S, Finley D, Dikic I, Walters KJ, Groll M. (2008). Ubiquitin docking at the proteasome through a novel pleckstrin-homology domain interaction. Nature 22, 548–552. PMID 18497827
+^ （英文）Sharp PM, Li WH. (1987). Ubiquitin genes as a paradigm of concerted evolution of tandem repeats. J Mol Evol 25(1):1432–1432. PMID 3041010
+^ （英文）Zhu Q, Wani G, Wang QE, El-mahdy M, Snapka RM, Wani AA. (2005). Deubiquitination by proteasome is coordinated with substrate translocation for proteolysis in vivo. Exp Cell Res 307(2):436-51. PMID 15950624
+^ （英文）Wenzel T, Baumeister W. (1995). Conformational constraints in protein degradation by the 20S proteasome. Nat Struct Biol 2: 199–204. PMID 7773788
+^ （英文）Smith DM, Kafri G, Cheng Y, Ng D, Walz T, Goldberg AL. (2005). ATP binding to PAN or the 26S ATPases causes association with the 20S proteasome, gate opening, and translocation of unfolded proteins. Mol Cell 20(5):687-98. PMID 16337593
+^ （英文）Smith DM, Benaroudj N, Goldberg A. (2006). Proteasomes and their associated ATPases: a destructive combination. J Struct Biol 156(1):72–83. PMID 16919475
+^ （英文）Hoyt MA, Zich J, Takeuchi J, Zhang M, Govaerts C, Coffino P. (2006). Glycine-alanine repeats impair proper substrate unfolding by the proteasome. EMBO J 25(8):1720–9. PMID 16601692
+^ （英文）Zhang M, Coffino P. (2004). Repeat sequence of Epstein-Barr virus-encoded nuclear antigen 1 protein interrupts proteasome substrate processing. J Biol Chem 279(10):8635–41. PMID 14688254
+^ （英文）Voges D, Zwickl P, Baumeister W. (1999). The 26S proteasome: a molecular machine designed for controlled proteolysis. Annu Rev Biochem 68: 1015–1068. PMID 10872471
+^ 38.0 38.1 （英文）Rape M, Jentsch S. (2002). Taking a bite: proteasomal protein processing. Nat Cell Biol 4(5):E113-6. PMID 11988749
+^ （英文）Rape M, Jentsch S. (2004). Productive RUPture: activation of transcription factors by proteasomal processing. Biochim Biophys Acta 1695(1-3):209-13. PMID 15571816
+^ （英文）Asher G, Reuven N, Shaul Y. (2006). 20S proteasomes and protein degradation "by default". Bioessays 28(8):844-9. PMID 16927316
+^ （英文）Zhang M, Pickart CM, Coffino P. (2003). Determinants of proteasome recognition of ornithine decarboxylase, a ubiquitin-independent substrate. EMBO J 22(7):1488–96. PMID 12660156
+^ （英文）Asher G, Shaul Y. (2005). p53 proteasomal degradation: poly-ubiquitination is not the whole story. Cell Cycle 4(8):1015–8. PMID 16082197
+^ 43.0 43.1 （英文）Shringarpure R, Grune T, Mehlhase J, Davies KJ. (2003). Ubiquitin conjugation is not required for the degradation of oxidized proteins by proteasome. J Biol Chem 278(1):311-8. PMID 12401807
+^ 44.0 44.1 44.2 （英文）Gille C, Goedel A, Schloetelburg C, Preißner R, Kloetzel PM, Gobel UB, Frommell C. (2003). A Comprehensive View on Proteasomal Sequences: Implications for the Evolution of the Proteasome. J Mol Biol 326: 1437–1448. PMID 12595256
+^ （英文）Bochtler M, Ditzel L, Groll M, Hartmann C, Huber R. (1999). The proteasome. Annu. Rev. Biophys. Biomol. Struct. 28: 295–317. PMID 10410804
+^ （英文）Chesnel F, Bazile F, Pascal A, Kubiak JZ. (2006). Cyclin B dissociation from CDK1 precedes its degradation upon MPF inactivation in mitotic extracts of Xenopus laevis embryos. Cell Cycle 5(15):1687–98. PMID 16921258
+^ （英文）Havens CG, Ho A, Yoshioka N, Dowdy SF. (2006). Regulation of late G1/S phase transition and APC Cdh1 by reactive oxygen species. Mol Cell Biol 26(12):4701–11. PMID 16738333
+^ （英文）Bashir T, Dorrello NV, Amador V, Guardavaccaro D, Pagano M. (2004). Control of the SCF(Skp2-Cks1) ubiquitin ligase by the APC/C(Cdh1) ubiquitin ligase. Nature 428(6979):190-3. PMID 15014502
+^ （英文）Dharmasiri S, Estelle M. (2002). The role of regulated protein degradation in auxin response. Plant Mol Biol 49(3-4):401-9. PMID 12036263
+^ （英文）Weijers D, Benkova E, Jager KE, Schlereth A, Hamann T, Kientz M, Wilmoth JC, Reed JW, Jurgens G. (2005). Developmental specificity of auxin response by pairs of ARF and Aux/IAA transcriptional regulators. EMBO J 24(10):1874–85. PMID 15889151
+^ （英文）Haas AL, Baboshina O, Williams B and Schwartz LM (1995) Coordinated induction of the ubiquitin conjugation pathway accompanies the developmentally programmed death of insect skeletal muscle. J. Biol. Chem. 270: 9407–9412. PMID 7721865
+^ （英文）Schwartz LM, Myer A, Kosz L, Engelstein M and Maier C. (1990) Activation of polyubiquitin gene expression during developmentally programmed cell death. Neuron 5: 411–419. PMID 2169771
+^ （英文）Low P, Bussell K, Dawson SP, Billett MA, Mayer RJ and Reynolds SE (1997) Expression of a 26S proteasome ATPase subunit, MS73, in muscles that undergo developmentally programmed cell death, and its control by ecdysteroid hormones in the insect Manduca sexta. FEBS Lett. 400: 345–349. PMID 9009228
+^ （英文）Pitzer F, Dantes A, Fuchs T, Baumeister W, Amsterdam A (1996) Removal of proteasomes from the nucleus and their accumulation in apoptotic blebs during programmed cell death. FEBS Lett. 394: 47–50. PMID 8925925
+^ 55.0 55.1 （英文）Orlowski RZ. (1999). The role of the ubiquitin-proteasome pathway in apoptosis. Cell Death Differ 6: 303–313. PMID 10381632
+^ （英文）Garrido C, Brunet M, Didelot C, Zermati Y, Schmitt E, Kroemer G. (2006). Heat Shock Proteins 27 and 70: Anti-Apoptotic Proteins with Tumorigenic Properties. Cell Cycle 5(22). PMID 17106261
+^ （英文）Park SH, Bolender N, Eisele F, Kostova Z, Takeuchi J, Coffino P, Wolf DH. (2006). The Cytoplasmic Hsp70 Chaperone Machinery Subjects Misfolded and ER Import Incompetent Proteins to Degradation via the Ubiquitin-Proteasome System. Mol Biol Cell Epub. PMID 17065559
+^ （英文）Dai Q, Qian SB, Li HH, McDonough H, Borchers C, Huang D, Takayama S, Younger JM, Ren HY, Cyr DM, Patterson C. (2005). Regulation of the cytoplasmic quality control protein degradation pathway by BAG2. J Biol Chem 280(46):38673-81. PMID 16169850
+^ （英文）Bader N, Grune T. (2006). Protein oxidation and proteolysis. Biol Chem 387(10-11):1351–5. PMID 17081106
+^ （英文）Davies KJ. (2003). Degradation of oxidized proteins by the 20S proteasome. Biochimie 83(3-4):301-10. PMID 11295490
+^ （英文）McNaught KS, Jackson T, JnoBaptiste R, Kapustin A, Olanow CW. (2006). Proteasomal dysfunction in sporadic Parkinson's disease. Neurology 66(10 Suppl 4):S37–49. PMID 16717251
+^ （英文）Sharma N, Brandis KA, Herrera SK, Johnson BE, Vaidya T, Shrestha R, Debburman SK. (2006). Alpha-Synuclein budding yeast model: toxicity enhanced by impaired proteasome and oxidative stress. J Mol Neurosci 28(2):161-78. PMID 16679556
+^ （英文）Murata S, Sasaki K, Kishimoto T, Niwa S, Hayashi H, Takahama Y, Tanaka K. Regulation of CD8+ T cell development by thymus-specific proteasomes. Science: 1349–1353. PMID 17540904. 
+^ （英文）Adams J, Palombella VJ, Sausville EA, Johnson J, Destree A, Lazarus DD, Maas J, Pien CS, Prakash S, Elliott PJ. (1999). Proteasome inhibitors: a novel class of potent and effective antitumor agents. Cancer Res 59(11):2615–22. PMID 10363983
+^ （英文）美国食品与药物管理局（FDA）发布的相关消息 互联网档案馆的存档，存档日期2007-02-19.2003年5月13日，查阅日期2006年12月29日。参见FDA网站上关于Velcade的信息页 互联网档案馆的存档，存档日期2007-03-22.。
+^ （英文）Fisher RI, Bernstein SH, Kahl BS, Djulbegovic B, Robertson MJ, de Vos S, Epner E, Krishnan A, Leonard JP, Lonial S, Stadtmauer EA, O'Connor OA, Shi H, Boral AL, Goy A. (2006). Multicenter phase II study of bortezomib in patients with relapsed or refractory mantle cell lymphoma. J Clin Oncol 24(30):4867–74. PMID 17001068
+^ （英文）Jakob C, Egerer K, Liebisch P, Turkmen S, Zavrski I, Kuckelkorn U, Heider U, Kaiser M, Fleissner C, Sterz J, Kleeberg L, Feist E, Burmester GR, Kloetzel PM, Sezer O. (2006). Circulating proteasome levels are an independent prognostic factor for survival in multiple myeloma. Blood Epub. PMID 17095627
+^ （英文）Shah SA, Potter MW, McDade TP, Ricciardi R, Perugini RA, Elliott PJ, Adams J, Callery MP. (2001). 26S proteasome inhibition induces apoptosis and limits growth of human pancreatic cancer. J Cell Biochem 82(1):110-22. PMID 11400168
+^ （英文）Nawrocki ST, Sweeney-Gotsch B, Takamori R, McConkey DJ. (2004). The proteasome inhibitor bortezomib enhances the activity of docetaxel in orthotopic human pancreatic tumor xenografts. Mol Cancer Ther 3(1):59–70. PMID 14749476
+^ （英文）Schenkein D. (2002). Proteasome inhibitors in the treatment of B-cell malignancies. Clin Lymphoma 3(1):49–55. PMID 12141956
+^ （英文）O'Connor OA, Wright J, Moskowitz C, Muzzy J, MacGregor-Cortelli B, Stubblefield M, Straus D, Portlock C, Hamlin P, Choi E, Dumetrescu O, Esseltine D, Trehu E, Adams J, Schenkein D, Zelenetz AD. (2005). Phase II clinical experience with the novel proteasome inhibitor bortezomib in patients with indolent non-Hodgkin's lymphoma and mantle cell lymphoma. J Clin Oncol 23(4):676-84. PMID 15613699
+^ （英文）Schmidtke G, Holzhutter HG, Bogyo M, Kairies N, Groll M, de Giuli R, Emch S, Groettrup M. (1999). How an inhibitor of the HIV-I protease modulates proteasome activity. J Biol Chem 274(50):35734-40. PMID 10585454
+^ （英文）Laurent N, de Bouard S, Guillamo JS, Christov C, Zini R, Jouault H, Andre P, Lotteau V, Peschanski M. (2004). Effects of the proteasome inhibitor ritonavir on glioma growth in vitro and in vivo. Mol Cancer Ther 3(2):129-36. PMID 14985453
+^ （英文）Zollner TM, Podda M, Pien C, Elliott PJ, Kaufmann R, Boehncke WH. (2002). Proteasome inhibition reduces superantigenmediated T cell activation and the severity of psoriasis in a SCID-hu model. J Clin Invest. 109:671–679. PMID 11877475
+^ （英文）Elliott PJ, Pien CS, McCormack TA, Chapman ID, Adams J. (1999). Proteasome inhibition: A novel mechanism to combat asthma. J Allergy Clin Immunol. 104:294–300. PMID 10452747
+^ （英文）Verdoes M, Florea BI, Menendez-Benito V, Maynard CJ, Witte MD, van der Linden WA, van den Nieuwendijk AM, Hofmann T, Berkers CR, van Leeuwen FW, Groothuis TA, Leeuwenburgh MA, Ovaa H, Neefjes JJ, Filippov DV, van der Marel GA, Dantuma NP, Overkleeft HS. (2006). A fluorescent broad-spectrum proteasome inhibitor for labeling proteasomes in vitro and in vivo. Chem Biol 13(11):1217–26. PMID 17114003
+
+
+扩展阅读[编辑]
+
+
+Glickman MH, Adir N. The proteasome and the delicate balance between destruction and rescue. PLoS Biology. 2004-01, 2 (1): e13. PMC 314468. PMID 14737189. doi:10.1371/journal.pbio.0020013. 
+The Yeast 26S Proteasome with list of subunits and pictures
+Ciechanover A. Early work on the ubiquitin proteasome system, an interview with Aaron Ciechanover. Interview by CDD. Cell Death and Differentiation. 2005-09, 12 (9): 1167–1177. PMID 16094393. doi:10.1038/sj.cdd.4401691. 
+Hershko A. Early work on the ubiquitin proteasome system, an interview with Avram Hershko. Interview by CDD. Cell Death and Differentiation. 2005-09, 12 (9): 1158–61. PMID 16094391. doi:10.1038/sj.cdd.4401709. 
+Rose I. Early work on the ubiquitin proteasome system, an interview with Irwin Rose. Interview by CDD. Cell Death and Differentiation. 2005-09, 12 (9): 1162–1166. PMID 16094392. doi:10.1038/sj.cdd.4401700. 
+Cvek B, Dvorak Z. Targeting of nuclear factor-kappaB and proteasome by dithiocarbamate complexes with metals. Current Pharmaceutical Design. 2007, 13 (30): 3155–3167 [2012-07-29]. PMID 17979756. doi:10.2174/138161207782110390. （原始内容存档于2012-07-29）. 
+
+
+外部链接[编辑]
+
+
+
+维基共享资源中相关的多媒体资源：蛋白酶体
+
+
+
+（英文）PLOS Primer：蛋白酶体与毁灭和拯救之间的精巧平衡
+（英文）酵母26S蛋白酶体的亚基列表和图片
+（英文）《Cell Death and Differentiation》杂志对阿龙·切哈诺沃的采访
+（英文）《Cell Death and Differentiation》杂志对阿夫拉姆·赫什科的采访
+（英文）《Cell Death and Differentiation》杂志对欧文·罗斯的采访
+
+参见[编辑]
+
+
+生物学主题
+分子与细胞生物学主题
+
+
+
+蛋白质复合体
+
+外切体复合物
+
+
+蛋白酶
+泛素
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+细胞结构和细胞器
+
+
+
+
+
+
+
+TH H1.00.01（英语：Terminologia Histologica）
+
+
+
+
+
+
+
+
+
+
+ 
+内膜系统
+
+
+
+
+
+
+
+
+
+
+细胞膜
+
+膜蛋白：离子通道
+
+
+
+
+
+
+细胞核
+
+核仁（核糖体RNA、核糖体DNA、核糖体蛋白质） · 核基质（卡哈尔体） · 染色体／染色质（核小体：DNA（端粒）、组蛋白） · 核纤层（核纤肽） · 核孔（核孔复合体） · 内核膜 · 核周隙 · 外核膜（核糖体）
+
+
+
+
+
+
+内质网
+
+粗面内质网（核糖体） · 光面内质网
+
+
+
+
+
+
+囊泡
+
+外吐小体 · 溶酶体 · 核内体 · 吞噬体 · 液泡
+
+
+
+
+
+
+胞浆颗粒（英语：Granule (cell biology)）
+
+黑色素体 · 微粒体 · 过氧化物酶体 · 乙醛酸循环体 · 韦伯潘力氏小体（英语：Weibel–Palade body）
+
+
+
+
+
+
+其它
+
+高尔基体 · 桶孔覆垫 · 自噬体
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+细胞骨架
+
+
+
+
+
+
+
+微丝 · 中间纤维 · 微管 · 原核细胞骨架 · 微管组织中心（中心体：中心粒 · 基体 · 纺锤体极体（英语：Spindle pole body）） · 纺锤体（纺锤丝） · 肌原纤维（英语：Myofibril）
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+内共生体
+
+
+
+
+
+
+
+
+
+
+线粒体
+
+线粒体基质 · 线粒体内膜 · 线粒体膜间隙 · 线粒体外膜
+
+
+
+
+
+
+质粒体
+
+叶绿体 · 黄化叶绿体 · 白色体（淀粉体 · 蛋白质粒 · 油粒体 · 单宁体） · 有色体 · 原质粒体
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+其他内部结构
+
+
+
+
+
+
+
+
+
+
+
+细胞质基质
+
+
+
+
+
+
+核糖核蛋白复合体
+
+核糖体 · 穹窿体 · 端粒酶 · 核小RNP
+
+
+
+
+
+
+其它
+
+蛋白酶体
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+外部结构
+
+
+
+
+
+
+
+波动足（英语：Undulipodium） (纤毛/鞭毛 · 轴丝（英语：Axoneme） · 放射辐条（英语：Radial spoke）) · 细胞外基质(细胞壁) · 荚膜 · 顶体
+
+
+
+
+
+
+
+
+
+
+生化 结构: 过氧化物酶体，骨架（中心体），上皮，纤毛，线粒体，细胞核（染色体）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+蛋白质
+
+
+
+
+
+
+过程
+
+蛋白质生物合成 · 翻译后修饰 · 蛋白质折叠 · 蛋白质导向（英语：Protein targeting） · 蛋白质组 · 蛋白质方法
+
+
+
+
+
+
+结构
+
+蛋白质结构 · 蛋白质结构域 · 蛋白酶体
+
+
+
+
+
+
+类型
+
+蛋白质类型列表（英语：List of types of proteins） · 蛋白质列表 · 膜蛋白 · 球状蛋白质（球蛋白、白蛋白） · 纤维状蛋白
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+生物化学物质种类索引
+
+
+
+
+
+
+糖类
+
+
+
+醇类
+糖醇
+糖蛋白
+苷
+
+
+
+
+
+
+
+
+酯质
+
+
+
+类花生酸类
+脂肪酸
+
+中间物
+
+
+甘油酯
+磷脂
+鞘脂类
+胆固醇与甾体中间产物
+
+
+
+
+
+
+
+
+核酸
+
+
+
+成分
+
+中间物
+
+
+
+
+
+
+
+
+
+
+蛋白质
+
+
+
+氨基酸
+
+中间物
+
+
+
+
+
+
+
+
+
+
+其他
+
+
+
+四吡咯
+
+中间物
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+蛋白质索引
+
+
+
+
+
+
+描述
+
+
+
+蛋白质
+膜蛋白
+球蛋白
+
+酶
+载体
+
+
+抗生素
+纤维状
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+分类：蛋白质复合物细胞器细胞凋亡隐藏分类：Webarchive模板wayback链接使用ISBN魔术链接的页面使用PMID魔术链接的页面含有英语的条目

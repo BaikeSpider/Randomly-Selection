@@ -1,0 +1,731 @@
+Windows 3.x
+
+
+
+
+
+本条目需要补充更多来源。（2016年6月28日） 
+请协助添加多方面可靠来源以改善这篇条目，无法查证的内容可能会因为异议提出而移除。 
+
+
+
+
+
+
+
+
+
+Windows 3.x
+
+100px
+
+
+开发者
+Microsoft
+
+
+操作系统家族
+Microsoft Windows
+
+
+运作状态
+在2001年12月31日停止支持
+
+
+源码模式
+不开放源代码
+
+
+最新版本
+3.11（1993年12月）
+
+
+内核类别
+MS-DOS
+
+
+许可证
+微软最终用户许可协议
+
+
+前一代
+Windows 2.1x
+
+
+后一代
+Windows NT 3.1
+
+
+官方网站
+Windows产品历史
+
+
+Windows 3.x家族是微软于1990年到1994年间所发行的Windows系列操作平台。其中的3.0版是第一个在世界上获得成功的Windows版本。使得微软的操作系统可以和苹果电脑公司的麦金塔电脑以及在图形用户界面的Commandore的Amiga竞争。
+Windows 3.x需从MS-DOS操作系统运行。MS-DOS的文件管理程序被基于图标的程序管理程序（icon-based program Manager）以及基于列表的文件管理程序（list-based File Manager，Winfile）取代，由此简化了程序的启动。控制面板作为系统设置的中心，包括了诸如界面颜色主题的有限控制功能。一些捆绑的应用程序也包括在Windows内，例如“写字板”、“计算器”等。
+
+
+
+目录
+
+
+1 沿革
+2 蓝底白字
+3 参看
+4 脚注
+
+
+
+沿革[编辑]
+3.0版发行于1990年5月22日，这个系统既包含了对用户界面的重要改善，也包含了对80286和80386对内存管理技术的改进。为命令行式操作系统编写的MS-DOS下的程序可以在窗口中运行，使得程序可以在多任务基础上可以使用，虽然这个版本只是为家庭用户设计的，很多游戏和娱乐程序仍然要求DOS访问，Windows 3.0是最后一版支持8086及8088处理器的Windows操作系统。任务管理器和图标都起源于Windows 3.0。
+Windows 3.1发行于1992年3月18日，添加了对声音输入输出的基本多媒体的支持和一个CD音频播放器，以及对桌面出版很有用的TrueType字体，并开始有了虚拟内存和屏幕保护程序。TrueType取代了曾在Windows 3.0版非常流行的Adobe Type Manager（ATM）的市场地位，Windows 3.1是第一版没有提供实模式的Windows操作系统。这是微软视窗涉足简体中文的第一个版本，其简体中文版发布于1993年，多基于对英文版的简体汉化，提供了两种常用的输入法——拼音和GB2313区位用于录入汉字。
+Windows 3.11于不久后发布，作了一些小更新。
+1993年微软发行了在Windows 3.1x的基础上支持一些网络功能的Windows for Workgroup的3.1和3.11版。除Windows for Workgroups系列外，在Windows 3.x中，网络功能TCP/IP依靠于第三方软件，例如Trumpet Winsock。
+Windows 3.2是微软专为中国大陆市场开发的视窗版本，于1994年发布，仅提供简体中文版[1]。相比Windows 3.1，该版本在图标和界面汉化程度上更加成熟，并且它新加入了智能ABC和郑码两种输入法用于录入汉字。这个版本是当年学校、企事业机关普遍使用的版本，中国大陆的软件开发商也纷纷基于此平台开发出第一代视窗下的软件，例如WPS视窗版1.0和科利华电脑家庭教师。
+16位的Windows 3.x最终被32位/16位混合核心的Windows 95、98取代。此外，微软还对Windows 3.x开发了一个叫Win32s的附加组件，对Win32 API提供有限的支持。
+
+
+
+
+
+
+
+Windows 3.2开始屏幕
+
+
+
+
+
+
+
+
+
+Windows 3.2桌面
+
+
+
+
+
+
+
+
+
+Windows 3.1繁体中文版的桌面，部分附属程序运行中
+
+
+
+
+
+
+
+
+
+于Windows 3.1繁体中文版内运作的Word 6.0a繁体中文版，正显示“关于”页面
+
+
+
+
+蓝底白字[编辑]
+Windows蓝底白字的画面，是由前微软首席执行官史蒂芬·鲍尔默（Steve Ballmer）亲手操刀的，微软资深工程师“Raymond Chen”在自己的博客中写下了整个事件的过程。[2]
+参看[编辑]
+
+Microsoft Windows的历史
+操作系统
+操作系统列表
+微软操作系统列表
+微软
+
+脚注[编辑]
+
+
+^ 中文 (简体的) 3.2 升级的 Microsoft Windows 可用
+^ cooper. Windows 3.1 中著名的蓝白画面文字是谁撰写的？. TechNews 科技新报. 2014年9月3日. 
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+ Microsoft Windows家族
+
+
+
+
+
+
+
+
+
+组件
+历史
+年表
+批评
+
+
+
+
+
+
+
+
+基于DOS
+
+
+
+Windows 1.x
+Windows 2.0
+Windows 2.1x
+Windows 3.x
+
+
+
+
+
+
+
+
+Windows 9x
+
+
+
+Windows 95
+Windows 98
+Windows Me
+
+
+
+
+
+
+
+
+Windows NT
+
+
+
+
+
+
+
+Windows NT 3.1
+Windows NT 3.5
+Windows NT 3.51
+Windows NT 4.0
+Windows 2000
+Windows XP
+
+版本
+x64
+媒体中心
+精简
+
+
+Windows Vista
+
+版本
+
+
+Windows 7
+
+版本
+
+
+Windows 8
+
+版本
+8.1
+RT
+RT 8.1
+
+
+Windows 10
+
+版本
+
+
+
+
+
+
+
+
+
+
+Windows Server
+
+
+
+Server 2003
+
+Home Server
+
+
+Server 2003 R2
+Server 2008
+
+EBS 2008
+HPC Server 2008
+
+
+Server 2008 R2
+
+Home Server 2011
+
+
+Server 2012
+Server 2012 R2
+Server 2016
+MultiPoint Server
+Server Essentials（英语：Windows Server Essentials）
+
+
+
+
+
+
+
+
+专用
+
+
+
+Windows预先安装环境
+
+
+
+
+
+
+
+
+
+
+
+Windows Embedded
+
+
+
+Embedded Compact
+
+CE 5.0
+Embedded CE 6.0
+Embedded Compact 7
+
+
+Embedded Automotive（英语：Windows Embedded Automotive）
+Embedded Industry
+Embedded 8
+
+
+
+
+
+
+
+
+Windows Mobile
+
+
+
+Pocket PC 2000
+Pocket PC 2002
+Mobile 2003
+Mobile 5.0
+Mobile 6.0
+Mobile 6.1
+Mobile 6.5
+
+
+
+
+
+
+
+
+Windows Phone
+
+
+
+Phone 7
+Phone 8
+Phone 8.1
+10 Mobile
+
+
+
+
+
+
+
+
+取消版本
+
+
+
+Cairo
+Nashville
+Neptune
+Odyssey
+
+
+
+
+
+
+
+
+
+
+
+ 版本列表
+ 分类
+ 共享资源
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+ 微软
+
+
+
+
+
+
+
+
+
+历史
+
+
+
+
+
+
+
+
+人物
+（列表）
+
+
+
+
+创始人
+
+
+
+比尔·盖茨
+保罗·艾伦
+
+
+
+
+
+
+
+
+董事会
+
+
+
+约翰·W·汤普森（主席）
+萨蒂亚·纳德拉（首席执行官）
+迪娜·杜伯伦
+里德·霍夫曼
+Maria Klawe（英语：Maria Klawe）
+David Marquardt（英语：David Marquardt）
+Charles Noski（英语：Charles Noski）
+Helmut Panke（英语：Helmut Panke）
+Mason Morfit（英语：Mason Morfit）
+John W. Stanton（英语：John W. Stanton）
+
+
+
+
+
+
+
+
+高层领导团队
+
+
+
+萨蒂亚·纳德拉（首席执行官）
+Chris Caposella（营销长）
+Kurt DelBene
+Scott Guthrie（英语：Scott Guthrie）
+Amy Hood（英语：Amy Hood）（财务长）
+Kathleen Hogan
+陆奇
+特里·迈尔森
+沈向洋
+Brad Smith
+Kevin Turner（英语：B. Kevin Turner）（首席首席运营官）
+
+
+
+
+
+
+
+
+公司副总裁
+
+
+
+乔北峰
+Panos Panay
+理查德·拉希德（高级副总裁）
+S. Somasegar（英语：S. Somasegar）（高级副总裁）
+
+
+
+
+
+
+
+
+
+
+
+部门
+
+
+
+工程团队
+
+配件
+移动
+
+
+反网络犯罪中心（英语：Microsoft Digital Crimes Unit）
+车库（英语：Microsoft Garage）
+出版社
+研究院
+工作室
+.NET基金会
+Outercurve基金会（英语：Outercurve Foundation）
+
+
+
+
+
+
+
+
+产品系列
+
+
+
+操作系统
+
+Windows
+
+
+软件
+
+Office
+Servers
+Visual Studio
+
+
+Hololens
+Surface
+Xbox
+
+
+
+
+
+
+
+
+网络性
+
+
+
+必应
+Channel 9
+CodePlex
+领英
+开发者网络
+MSN
+Office.com
+OneDrive
+Outlook.com
+TechNet
+Windows Store
+How-old.net
+
+
+
+
+
+
+
+
+大会
+
+
+
+Build
+MIX（英语：MIX (Microsoft)）
+PDC
+TechEd（英语：TechEd）
+WinHEC
+微软全球合作伙伴大会（英语：Microsoft Worldwide Partner Conference）
+
+
+
+
+
+
+
+
+批评
+
+
+
+Microsoft Windows捆绑销售（英语：Bundling of Microsoft Windows）
+iLoo（英语：iLoo#Reaction）
+Internet Explorer
+_NSAKEY（英语：_NSAKEY）
+Windows
+
+XP
+Vista
+8
+
+
+Xbox 360
+
+
+
+
+
+
+
+
+诉讼
+
+
+
+阿尔卡特-朗讯诉微软（英语：Alcatel-Lucent v. Microsoft Corp.）
+苹果诉微软（英语：Apple Computer, Inc. v. Microsoft Corp.）
+欧盟微软竞争案（英语：Microsoft Corp v Commission）
+微软诉Lindows（英语：Microsoft Corp. v. Lindows.com, Inc.）
+微软诉MikeRoweSoft
+微软诉Shah（英语：Microsoft Corp. v. Shah）
+美国诉微软案
+
+
+
+
+
+
+
+
+收购（英语：List of mergers and acquisitions by Microsoft）
+
+
+
+6Wunderkinder
+Altamira Software（英语：Altamira Software）
+aQuantive
+Azyxxi
+The Blue Ribbon SoundWorks（英语：The Blue Ribbon SoundWorks）
+Bungie
+Calista Technologies（英语：Calista Technologies）
+Colloquis（英语：Colloquis）
+Connectix（英语：Connectix）
+Consumers Software（英语：Consumers Software）
+Danger（英语：Danger (公司)）
+Farecast
+FASA Studio
+Fast Search & Transfer（英语：Fast Search & Transfer）
+Firefly（英语：Firefly (website)）
+Forethought（英语：Forethought, Inc.）
+GIANT Company Software
+GreenButton（英语：GreenButton）
+Groove Networks（英语：Groove Networks）
+Hotmail
+Jellyfish.com（英语：Jellyfish.com）
+领英
+LinkExchange（英语：LinkExchange）
+Lionhead Studios
+Massive Incorporated（英语：Massive Incorporated）
+Mojang
+诺基亚
+Onfolio（英语：Windows Live Toolbar#Onfolio）
+PlaceWare（英语：PlaceWare）
+Powerset
+ProClarity（英语：ProClarity）
+Rare
+Revolution Analytics（英语：Revolution Analytics）
+ScreenTonic（英语：ScreenTonic）
+Skype
+Sunrise Atelier（英语：Sunrise Calendar）
+Winternals Software
+Teleo（英语：Teleo）
+Telekinesys Research
+Tellme Networks（英语：Tellme Networks）
+Twisted Pixel Games
+Vermeer Technologies（英语：Vermeer Technologies）
+Visio Corporation（英语：Visio Corporation）
+Vivaty（英语：Flux (software)）（解散）
+VoloMetrix（英语：VoloMetrix）
+VXtreme（英语：NetShow）
+WebTV Networks
+Yammer
+Yupi（英语：Yupi）
+
+
+
+
+
+
+
+
+
+
+
+ 分类
+ 共享资源
+ 微软主题
+
+
+
+
+
+
+
+
+
+
+
+
+分类：磁盘操作系统Microsoft Windows已停止开发的操作系统隐藏分类：自2016年6月需补充来源的条目拒绝当选首页新条目推荐栏目的条目缺少文件的条目使用过时图像语法的页面

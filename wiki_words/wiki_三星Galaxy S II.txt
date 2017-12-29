@@ -1,0 +1,599 @@
+三星Galaxy S II
+
+
+
+
+Samsung Galaxy S II (i9100)
+
+
+
+
+
+品牌
+三星电子
+
+
+生产商
+三星电子
+
+
+标语
+
+鲜活 纤薄 先人一步
+Vivid. Fast. Slim.
+
+
+系列
+Galaxy
+
+
+兼容的网络
+Dual band CDMA2000/EV-DO Rev. A 800 and 1,900 MHz;
+WiMAX 2.5 to 2.7 GHz;
+802.16e 2.5G (GSM/GPRS/EDGE): 850, 900, 1,800, 1,900 MHz
+3G UMTS: 850, 900, 1700 (T-Mobile), 1,900, 2,100 MHz
+3.5G HSPA+: 21/42 Mbit/s; HSUPA: 5.76 Mbit/s
+4G LTE: 700/1,700 MHz (Rogers)
+
+
+首次发布
+2011年5月2日，
+6年前​（2011-05-02）
+
+
+单位已售出
+40 million (as of 14 January 2013)[1]
+
+
+前代型号
+Samsung Galaxy S
+
+
+后继型号
+Samsung Galaxy S III
+
+
+类型
+智能手机
+
+
+尺寸
+125.3 mm（4.93英寸） H
+66.1 mm（2.60英寸） W
+8.49 mm（0.334英寸） D (Standard)
+129.8 mm（5.11英寸） H
+69.6 mm（2.74英寸） W
+9.7 mm（0.38英寸） D (Sprint)
+
+
+重量
+116 g（4.1 oz） (Standard)
+130 g（4.6 oz） (Sprint)
+
+
+操作系统
+Android 2.3（可升级到4.0.3/4.0.4/4.1.2）
+
+
+系统芯片
+Samsung Exynos 4 Dual 45 nm (GT-I9100, SHW-M250S/K/L)
+Texas Instruments OMAP 4430 (GT-I9100G)
+Qualcomm Snapdragon S3 APQ8060 (GT-I9210,SGH-T989)
+Broadcom BC28155 (GT-I9105)
+
+
+CPU
+1.2 GHz dual-core ARM Cortex-A9 (GT-I9100, GT-I9105, GT-I9100G, SHW-M250S/K/L)
+1.5 GHz dual-core Qualcomm Scorpion (GT-I9210,SGH-T989)
+
+
+GPU
+ARM Mali-400 MP4 (GT-I9100, SHW-M250S/K/L)
+PowerVR SGX540 (GT-I9100G)
+Qualcomm Adreno 220 (GT-I9210)
+VideoCore IV (GT-I9105)
+
+
+内存
+1 GB RAM
+
+
+存储
+16/32 GB
+
+
+移动存储
+microSD（最多64GB）
+
+
+电池
+内置可充电锂离子电池（1,650/1,800 mAh）
+
+
+感应器类型
+多点触控电容触控式屏幕
+耳机控制
+A-GPS
+加速计
+
+
+后置相机
+8 MP
+
+
+前置相机
+2 MP
+
+
+连接能力
+
+
+列表
+
+3.5 mm TRRS; Wi-Fi (802.11a/b/g/n); Wi-Fi Direct; Bluetooth 3.0; micro USB 2.0; DLNA; MHL; HDMI; USB OTG Host 2.0; UMA; FM radio/T-DMB (SHW-M250S/K/L)
+
+
+
+
+
+网站
+Samsung Galaxy S II microsite
+
+
+Samsung Galaxy S II是韩国三星电子在2011年基于Galaxy S基础上开发的升级版智能手机，在全球移动通讯大会发表，[2] 采用Android 2.3操作系统，同时搭载了三星TouchWiz界面，处理器是三星自家研发的Exynos 4210。刚推出市面被誉为全球最高清、最薄智能手机。
+Samsung Galaxy S II的全球发行的日期是2011年5月，大约120个国家或地区的150多个厂商。[3]
+而Galaxy S II的头号对手是iPhone 4、HTC Sensation、Sony Ericsson Xperia Arc。
+
+
+
+目录
+
+
+1 出货与铺货
+
+1.1 亚洲与大洋洲
+1.2 北美洲
+1.3 南美洲
+1.4 非洲
+1.5 欧洲
+
+
+2 硬件规格
+
+2.1 内存
+2.2 储存空间
+2.3 显示
+2.4 音讯
+2.5 相机
+2.6 连接
+
+
+3 事故
+4 注释
+5 外部链接
+
+
+
+出货与铺货[编辑]
+2011年5月，Galaxy S II开始全球铺货，有超过140厂商在120个国家或地区发行。[4]
+2011年5月9日，Samsung宣称Galaxy S II的预约已超过300万部。[5]
+下列是目前销售的国家或地区。
+
+
+亚洲与大洋洲[编辑]
+
+
+国家或地区
+推出日期
+
+
+ 澳大利亚
+2011年6月1日
+
+
+ 香港
+2011年6月14日
+
+
+ 以色列
+2011年7月3日
+
+
+ 印度
+2011年6月8日 [6]
+
+
+ 伊朗
+2011年6月1日
+
+
+ 伊拉克
+2011年7月18日
+
+
+ 日本
+2011年6月23日
+
+
+ 黎巴嫩
+2011年6月21日
+
+
+ 马来西亚
+2011年6月22日
+
+
+ 巴基斯坦
+2011年7月23日[7]
+
+
+ 菲律宾
+2011年6月27日
+
+
+ 新加坡
+2011年6月24日
+
+
+ 韩国
+2011年4月29日
+
+
+ 台湾
+2011年6月17日
+
+
+ 土耳其
+2011年6月9日
+
+
+ 阿联酋
+2011年6月22日
+
+
+北美洲[编辑]
+
+
+国家
+运营商
+发行日
+机种
+
+
+ 加拿大
+Bell Mobility,
+Virgin Mobile Canada
+2011年7月[8][9]
+Samsung Galaxy S II 4G
+
+
+ 加拿大
+Telus Mobility
+2011年10月
+Samsung Galaxy S II X
+
+
+ 加拿大
+Rogers Wireless
+2011年11月
+Samsung Galaxy S II LTE (i727R)
+
+
+ 美国
+
+2011年8月[10]
+
+
+
+ 美国
+Sprint
+2011年9月16日
+Samsung 'EPIC 4G Touch'[11]
+
+
+ 美国
+AT&T
+2011年11月6日
+Samsung Galaxy S II Skyrocket i727
+
+
+ 美国
+T-Mobile
+2011年10月12日
+Samsung Galaxy S II T-Mobile
+
+
+
+南美洲[编辑]
+
+
+国家
+发行日
+
+
+ 智利
+2011年5月25日
+
+
+ 巴西
+2011年6月28日
+
+
+ 阿根廷
+2011年8月22日
+
+
+非洲[编辑]
+
+
+国家
+发行日
+
+
+ 南非
+2011年6月[12]
+
+
+ 乌干达
+2011年9月
+
+
+欧洲[编辑]
+
+
+国家
+发行日
+
+
+ 奥地利
+2011年5月5日
+
+
+ 丹麦
+2011年5月19日
+
+
+ 比利时
+2011年6月1日
+
+
+ 芬兰
+2011年5月25日
+
+
+ 法国
+2011年6月23日
+
+
+ 德国
+2011年5月16日
+
+
+ 爱尔兰
+2011年6月1日
+
+
+ 意大利
+2011年5月25日
+
+
+ 荷兰
+2011年5月11日
+
+
+ 挪威
+2011年5月26日
+
+
+ 葡萄牙
+2011年6月8日
+
+
+ 罗马尼亚
+2011年5月26日
+
+
+ 俄罗斯
+2011年5月18日
+
+
+ 西班牙
+2011年5月15日
+
+
+ 瑞典
+2011年5月12日
+
+
+ 英国
+2011年5月1日
+
+
+
+
+
+硬件规格[编辑]
+Galaxy S II使用一个1.2 GHz的双核心ARM Cortex-A9处理器，使用三星自家的Exynos 4210 SOC，以前的代号为“Onion”。
+Exynos的SoC是大多数人猜测其来源，是以前的Hummingbird“蜂鸟”单核，Exynos是三星Galaxy S使用另一个品牌Hummingbird的继任者。
+Exynos 4210支援ARM的SIMD引擎（也称为媒体处理引擎，或“NEON”的指示），并整合多项多媒体编解码器和格式（例如，On2的VP6/7/8 或 Real格式）。[13][14]
+2011年游戏开发者大会上ARM代表展示立体3D相同的Mali-400 MP和Exynos芯片上执行的60Hz的frame rate播放。
+内存[编辑]
+Galaxy S II配备1GB RAM，扣除系统及GPU使用的内存后，约有830MB可使用。
+储存空间[编辑]
+16GB或32GB内部存储空间，其中约1GB用来安装了操作系统，内有一个microSD卡插槽。
+显示[编辑]
+使用Super AMOLED Plus，屏幕分辨率 800 x 480，4.3吋，1600万色。三星声称的Super AMOLED Plus显示器的电源效率比旧的Super AMOLED显示器可节省18％以上。有些手机有少数用户宣称在显示器的左侧底边有偏光性的“黄色色调”显示问题。
+音讯[编辑]
+使用Yamaha音讯硬件。
+相机[编辑]
+底部的装置是一个800万像素，[15]可以录制1080p的影片，最大显示为VGA。
+连接[编辑]
+三星还包括一个新的高分辨率的连接技术称为行动高分辨率链接（MHL）。
+事故[编辑]
+Samsung Galaxy S II在2012年3月25日于韩国发生手机电池爆炸事故并冒出黑烟，三星电子已经回收该电池，并声称该电池是在与手机分离的情况下发生爆炸。受到波及的韩国初中学生臀部遭到炸伤，手指也被烧伤。三星电子已经联系电池供应商“三星SDI”了解事故。[16]
+2014年4月，哈萨克首都阿斯塔纳一名7岁女童的S II在待机状态下发生爆炸，大腿严重烧伤[17]。
+注释[编辑]
+
+
+^ Samsung Galaxy S smartphones sales hit 100M. [14 January 2013]. 
+^ Samsung Galaxy S II gets official at MWC 2011. （原始内容存档于2011-02-16）. 
+^ Samsung challenges Apple with new smartphone. AFP. 28 April 2011. 
+^ Samsung challenges Apple with new smartphone. AFP. April 28, 2011. 
+^ 3m Galaxy S II units are pre-ordered by carriers globally. Samsung Hub. 9 May 2011. 
+^ Samsung Launches Galaxy S2 in India < Mobile Phones, Samsung, Mobile Phones < PC World India News < PC World.in. Pcworld.in (2011-05-25). Retrieved on 2011-11-28.
+^ Samsung Galaxy S II Now Available in (Pakistan) Teletec Stores for Rs. 57,000. Android Pakistan (2011-07-23). Retrieved on 2011-11-28.
+^ Samsung Likes Canada More Than US, First The Galaxy S II & Now This?. GizmoCrunch. 18 August 2011 [20 August 2011]. 
+^ [LEAK] Samsung Galaxy S2 First Hits North America July 21st. Gizmocrunch.com (2011-07-14). Retrieved on 2011-11-28.
+^ Samsung’s Next Galaxy Phone Set for August U.S. Release. Wired.com. 20 July 2011. 
+^ Galaxy S II finally lands on American shores for Sprint, T-Mobile and AT&T. Engadget. Retrieved on 2011-11-28.
+^ Samsung Galaxy S II: availability and pricing from operators « Cellular « MyBroadband Tech and IT News. Mybroadband.co.za (2011-06-14). Retrieved on 2011-11-28.
+^ NEON – ARM. ARM.com. 
+^ NVIDIA's Tegra 2 Take Two: More Architectural Details and Design Wins. Anandtech. 5 January 2011. 
+^ Silicon Summary in the Samsung Galaxy S II » Recent Teardowns » Chipworks. Chipworks. 25 July 2011. （原始内容存档于2011年10月2日）. 
+^ 三星Galaxy手机电池爆炸　韩国学生屁股开花
+^ Smartphone EXPLODES in girl's pocket - leaving 7-year-old with horrific leg injuries which need skin transplant http://www.mirror.co.uk/news/world-news/samsung-galaxy-s2-explodes-girls-3454920#ixzz2zzmdKEUd}-. 镜报. 2014-04-25.  外部链接存在于|title= (帮助); 缺少或|url=为空 (帮助); 使用|accessdate=需要含有|url= (帮助)
+
+
+外部链接[编辑]
+
+三星手机官网[1]
+Samsung Galaxy S II homepage
+Samsung Galaxy S II Feature
+Official Samsung Galaxy S II specifications
+Samsung Galaxy S2, Tab2 details, infos, release dates
+Difference Between Samsung Galaxy S and Galaxy S2 | Difference Between
+Samsung dubs its mobile processors Exynos, dual-core 4210 (formerly Orion) arriving next month
+The MHL Connector on Samsung's Galaxy S II Explained [Video - Tested]
+Samsung's Galaxy S II Preliminary Performance: Mali-400MP Benchmarked - AnandTech
+ARM® NEON™ general-purpose SIMD engine
+Overview - ARM® Mali™-400 MP
+Mali GPU OpenVG Application Development Guide[失效链接]
+ARM NEON Multimedia Applications
+Brochure on the Orion/Exynos 4210 SoC
+安卓新机皇 三星GALAXY SⅡ深度评测
+
+
+
+前任：
+Samsung Galaxy S
+Samsung Galaxy S II
+2011
+继任：
+Samsung Galaxy S III
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+三星Galaxy S系列
+
+
+
+
+
+
+手机
+
+
+
+Samsung Galaxy S
+Samsung Galaxy S 4G
+Samsung Galaxy S Advance
+Samsung Galaxy S Duos
+Samsung Galaxy S Duos 2
+Samsung Galaxy S Duos 3
+Samsung Galaxy S Hoppin
+Samsung Galaxy SL
+Samsung Galaxy S Lightray 4G
+Samsung Galaxy S Plus
+Samsung Galaxy S Relay 4G
+Samsung Galaxy S II
+Samsung Galaxy S II Epic 4G Touch
+Samsung Galaxy S II HD LTE
+Samsung Galaxy S II Lite
+Samsung Galaxy S II Plus
+Samsung Galaxy S II Skyrocket
+Samsung Galaxy S II Skyrocket HD
+Samsung Galaxy S II WiMAX
+Samsung Galaxy S II X
+Samsung Galaxy S III
+Samsung Galaxy S III Mini
+Samsung Galaxy S III Neo
+Samsung Galaxy S III Slim
+Samsung Galaxy S4
+Samsung Galaxy S4 Active
+Samsung Galaxy S4 Mini
+Samsung Galaxy S5
+Samsung Galaxy S5 Active
+Samsung Galaxy S5 Mini
+Samsung Galaxy S5 Neo
+Samsung Galaxy S5 Sport
+Samsung Galaxy S6
+Samsung Galaxy S6 Active
+Samsung Galaxy S6 Edge
+Samsung Galaxy S6 Edge+
+Galaxy S7
+Samsung Galaxy S7 Active
+Galaxy S7 Edge
+Galaxy S8
+Galaxy S8+
+
+
+
+
+
+
+
+
+
+
+
+平板电脑
+
+
+
+Samsung Galaxy Tab S 10.5
+Samsung Galaxy Tab S 8.4
+Samsung Galaxy Tab S2 8.0
+Samsung Galaxy Tab S2 9.7
+Samsung Galaxy Tab S3 9.7
+
+
+
+
+
+
+
+
+其他
+
+
+
+Samsung Galaxy S WiFi 3.6
+Samsung Galaxy S WiFi 4.0
+Samsung Galaxy S WiFi 4.2
+Samsung Galaxy S WiFi 5.0
+Samsung Galaxy S4 Zoom
+
+
+
+
+
+
+
+
+
+
+
+
+分类：三星Galaxy触控手机隐藏分类：引文格式1错误：外部链接含有缺少网址的网站引用的页面含有访问日期但无网址的引用的页面使用Pathnav的主名字空间页面使用过时图像语法的页面带有失效链接的条目条目有永久失效的外部链接

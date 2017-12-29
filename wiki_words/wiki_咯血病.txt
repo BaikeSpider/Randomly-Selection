@@ -1,0 +1,613 @@
+结核病
+
+
+本文介绍的是一种细菌及疾病。关于地质学中的同名名词，请见“结核 (地质学)”。
+
+
+ 维基百科中的医疗相关内容仅供参考，详见医学声明。如需专业意见请咨询专业人士。
+
+
+结核（Tuberculosis）
+
+
+
+
+
+光学显微镜下的肺结核性肉芽肿组织
+
+
+分类和外部资源
+
+
+医学专科
+传染病科
+
+
+ICD-10
+A15 –A19
+
+
+ICD-9-CM
+010–018
+
+
+OMIM
+607948
+
+
+DiseasesDB
+8515
+
+
+MedlinePlus
+000077 000624
+
+
+eMedicine
+med/2324 emerg/618 radio/411
+
+
+Patient UK
+结核病
+
+
+MeSH
+D014376
+
+
+
+[编辑此条目的维基数据]
+
+
+
+
+
+
+
+严重结核病胸部X光片：白色箭头标示两侧肺感染，黑色箭头标示形成空腔。
+
+
+结核病（Tuberculosis，又称TB）为结核杆菌感染引起的疾病[1]。结核通常造成肺部感染，也会感染身体的其他部分。大多数感染者没有症状，此型态感染称为潜伏结核感染（英语：Latent tuberculosis）。如果此时没有适当治疗，10%的潜伏感染患者会恶化为开放性结核病（Active tuberculosis），致死率可高达一半。结核病的典型症状包含慢性咳嗽、咳血、发烧、夜间盗汗（英语：night sweats），以及体重减轻[2]。感染其他器官则可能导致其他症状[3]。
+结核病属于飞沫传染性疾病（英语：Airborne disease）。意即病原体会借由开放性结核患者咳嗽、打喷嚏，或说话过程中所产生的飞沫散布[1][4]；而潜伏性结核病患者则不会散布疾病。开放性结核常发生于艾滋病患者及抽烟者[1]，需借由胸部X光（英语：chest X-rays）、显微镜检，及体液培养来进行诊断 。潜伏性结核病患者则可利用结核菌素试验或血液检查来诊断[5]。
+预防肺结核可透过筛检高风险者、早期诊断和治疗，以及接种卡介苗等方法达成[6][7][8]。高风险者包含生活环境中与开放性结核病患者密切接触的人[8]。治疗通常搭配不同的抗生素组合做一段时间的治疗[1]。近年带有抗生素抗药性的结核杆菌(MDR-TB)日益增加[1]。
+世界上大约有三分之一的人口患有无法传染的潜伏性结核病[1]。全球每年大约有1%的人口新感染该病[9]，2014年全球有960万名开放性结核病患者，150万例死亡，死亡者当中有95%是来自发展中国家。自2000年起，全球新病例数已逐年下降[1]在许多亚洲与非洲国家，大约有80%的人肺结核检验结果为阳性，而在美国的人口中约有5-10%的人肺结核检验为阳性[10]。结核病在古代史中就有纪载[11]。
+
+
+
+目录
+
+
+1 临床体征与症状
+
+1.1 肺结核
+1.2 肺外结核病
+
+
+2 病因
+
+2.1 分枝杆菌属
+2.2 危险因子
+
+
+3 发病机制
+
+3.1 传染途径
+3.2 病因
+
+
+4 诊断
+
+4.1 活动性结核病（开放性结核病）
+4.2 潜伏性结核病（非开放性结核病）
+
+
+5 预防
+
+5.1 疫苗
+5.2 公共卫生
+
+
+6 治疗
+
+6.1 首次发病
+6.2 复发
+6.3 抗药性
+
+
+7 预后
+8 耐药变种
+9 历史
+10 治疗计划
+
+10.1 台湾都治(DOT)计划
+
+
+11 社会和文化
+
+11.1 世界结核病日
+
+
+12 参考文献
+13 外部链接
+
+
+
+临床体征与症状
+
+
+
+
+结核病不同变种与阶段的主要症状如下[12]。许多变种的主要症状相互重叠，而又有一些变种有其独特（但并不一定是完全独特）的症状，几个变种的症状也可同时表现出来。
+
+
+结核病可以在全身的任何一个部位发病，但最常发病于肺（即被称为肺结核）[3]。肺外结核病（即在肺以外的器官发生的结核病）可能与肺结核共同存在[3]。 结核病一般的临床体征与症状包括发热、发冷、盗汗、食欲不振（英语：Anorexia）、体重减轻以及疲倦[3]。结核病患者也可能出现明显的杵状指甲（英语：Nail clubbing）症状[13]。
+肺结核
+开放性结核病最常见于肺部（占约90%的病例）[11][14]。肺结核的症状可能包含胸痛和长时间带痰咳嗽[11]，而约有25%的人可能不会表现任何症状（即“无症状的”）[11]。 偶尔，患者可能小量的咳血、咳嗽，在极为罕见的病例中，感染可能侵蚀到肺动脉和雷斯莫森氏动脉瘤（英语：Rasmussen's aneurysm），导致大量出血[3][15]。肺结核可能演变成慢性疾病，并导致上肺叶产生大疤痕[3]。上肺叶比下肺叶更易受到肺结核的影响[3]，但这个差别的原因目前还未明[10]。可能的解释为上肺叶的空气流通较佳[10]，或其淋巴引流能力较差[3]。
+肺外结核病
+在15％至20%的开放性结核病案例中，结核杆菌感染可传播至肺外，引起其他种类的结核病[16]。这些病症被归类为“肺外结核病”[17]。 肺外结核病常发生于存在免疫抑制的个体或幼儿，50％以上患有肺结核的HIV病毒携带者均患有肺外结核病[17]。肺外结核病常发病于胸膜腔（结核性胸膜炎）、中枢神经系统（结核性脑膜炎）、淋巴系统（即颈部淋巴结核（英语：Scofula），又称瘰疬）、泌尿生殖道系统（即尿殖道结核（英语：urogenital tuberculosis）），以及骨与筋腱（即博特氏病（英语：Pott disease）；脊柱结核性弯曲）等部位。当结核病发病于骨骼时，也被称为“骨结核病”[18]，即一种骨髓炎[10]。有时结核性脓肿破出皮肤导致结核性溃疡[19]。由周围感染的淋巴结产生的溃疡常表现为无痛、缓慢扩大以及看起来像水洗过的皮革的特性[20]。弥散性结核病是一种更具危险性、更易扩散的结核病，也被称为粟粒状结核（英语：Milliary tuberculosis）[3]，粟粒状结核占肺外结核病例的10％[21]。
+另外在台湾较常见的肺外结核为淋巴结核和骨结核，而结核性脑膜炎为其次，肺外结核的发生率比肺结核低[22]。而在中国大陆，以1996年至1999年上海市的流行病学研究为例，肺外结核发病案例以周围淋巴结结核为主,占38.3%,余依次为骨关节结核(19.9%)、泌尿生殖系统结核(16.7%)及肠、腹膜结核(9.1%)和脑神经结核(6.4%)。男女之比为1:1.35[23]。
+病因
+分枝杆菌属
+主条目：结核杆菌
+
+
+
+
+扫描电子显微镜下的结核杆菌
+
+
+结核杆菌是主要引起结核病的致病原，它是一个小型、好氧、不具活动性的细菌，属于芽孢杆菌属[3]。结核杆菌的生长速度与其他细菌相比非常缓慢，细胞每16至20小时才分裂一次，而其他细菌一般则不到半小时即分裂一次[24]。结核杆菌还有一个特殊的双层脂质外膜[25]。细胞壁富含脂质是分枝杆菌属特有的临床特征[26]，使用一般的革兰氏染色鉴定，会出现不明显的阳性反应或无法被染上色的现象，原因就是其细胞壁中富含脂质以及霉菌酸（分枝菌酸）（英语：Mycolic acid）（一种脂肪酸）[27]。结核杆菌可以抵抗弱消毒剂并且可以用内生孢子的方式存活数星期。在自然界，结核杆菌只能生长于宿主个体的细胞中，但在实验室中可在试管内培养[28]。 医检师可利用组织染色法处理痰液检体，便可用显微镜鉴别出结核杆菌。因为结核杆菌染色后不会被酸性溶剂冲洗掉，分类上又被称为抗酸性杆菌（英语：Acid-fast bacillus）[10][27]。目前最常用的耐酸染色法是齐尔-尼尔森（Ziehl–Neelsen）染色（英语：Ziehl–Neelsen stain）及金氏（Kinyoun）染色（英语：Kinyoun stain），两染色法在显微镜下所见的背景为蓝色，而结核杆菌则是呈现红色[29][30]。另外也可使用金胺-若丹明（Auramine-rhodamine ）染色法（英语：Auramine-rhodamine stain），并在萤光显微镜下观察[31][32]。
+结核分枝杆菌复合群(MTBC)包括其他四种可引起结核病的分枝杆菌属的细菌：牛分枝杆菌（英语：Mycobacterium bovis）、非洲分枝杆菌（英语：Mycobacterium africanum）、卡氏分枝杆菌（英语：Mycobacterium canetti）及田鼠分枝杆菌（英语：Mycobacterium microti）[33]。 非洲分枝杆菌分布不广，但却是导致非洲结核病感染的重要因素[34][35]。牛分枝杆菌曾是导致结核病感染的常见因素，但因巴式消毒法在牛奶生产中的使用，在发达国家已几乎不再出现牛分枝杆菌导致结核病感染的病例[10][36]。卡式分枝杆菌较为罕见，且似乎仅出现于非洲之角（东北非洲），但也有少数几例病例出现于非洲裔移民中[37][38]。田鼠分枝杆菌也较为罕见，且几乎仅出现于免疫不全人群，但其盛行率可能被严重低估[39]
+其他致病分枝杆菌属细菌包括痳疯杆菌、鸟分枝杆菌（英语：Mycobacterium avium complex）及堪塞斯分枝杆菌（英语：Mycobacterium kansasii）。后两者被归为非结核性分枝杆菌(NTM)（英语：Nontuberculous mycobacteria）。非结核性分枝杆菌既不能引起结核病也不能引起痳疯病，但其感染会导致相似于结核病的肺部疾病[40]。
+危险因子
+有许多因子会让人更容易罹患肺结核。目前全球最重要的一项危险因子是HIV病毒；在罹患肺结核的病人中，有13%是HIV病毒感染的患者[41]。 该问题在漠南非洲尤其显著，因为这个区域艾滋病罹患率相当高[42][43]。 未感染HIV的肺结核患者中，有约5～10%日后发展为开放性肺结核[13]； 相比之下，同时感染HIV的肺结核患者日后有30％发展为开放性肺结核[13]。肺结核与拥挤环境、营养不良相关，这些特性使其成为贫穷病（英语：disease of proverty）之一[11]。 其他高风险因子则包含注射毒品、人口聚集场所居民及工作人员（如收容所及监狱）、医疗卫生较差区域、某些特定种族、与病患长期接触的孩童，以及医疗照护人员等等 [44]。慢性肺部疾病是另一种重要的危险因子。矽肺症（英语：Silicosis）提高了大约30倍的风险[43]。吸烟者相于没有吸烟的族群，有大约两倍罹患肺结核的风险[45]。另外还有一些疾病也会提高肺结核的风险，包含酗酒、糖尿病 (提高约3倍的患病机率) [46]。某些药物也逐渐成为重要的风险因子，尤其是在发达国家。例如皮质类固醇 和 Infliximab（英语：Infliximab） (一种抗αTNF的单克隆抗体)[11]。遗传易感性（英语：Genetic susceptibility） 也是危险因子之一，然而其重要性目前仍未确立[11][47]。
+发病机制
+
+
+
+
+二十世纪二十年代为防止结核病传播而发起的公共卫生运动宣传画
+
+
+传染途径
+肺结核不会经由无生命的东西传染，必须要直接或间接吸入飞沫才会得病[48]。当患有开放性肺结核的患者咳嗽、打喷嚏、说话、唱歌或吐痰，患者会释放出具有传染性、直径0.5至5.0µm(微米)的悬浮粒子，并与空气形成气溶胶。每个喷嚏可释放出高达40,000颗悬浮粒子[49]。由于肺结核的感染剂量非常低(吸入少于十个细菌即有可能造成感染)，每一颗悬浮粒子都可能造成传染[50]。
+结核菌必须包在飞沫（aerosol droplet）中才能达到感染的效果，当一个传染性肺结核病患在吐痰、咳嗽或打喷嚏时，含有结核菌的痰有机会变成细小的飞沫飘浮到空气中，飞沫的中心是结核菌，周围是痰，当痰逐渐蒸发，飞沫直径小到 5μm 以下时便可能直接进入正常人的肺泡，躲过宿主原有的呼吸道纤毛防卫机制（mucociliary system），直接与肺泡巨噬细胞接触。如吸入的结核菌数量不多、毒性不强；宿主巨噬细胞杀死结核菌能力相对足够的状况下，并不会导致感染。但如果一切状况不利于宿主，结核菌就有可能开始增殖[51]。与肺结核患者长期、频繁或亲密接触者皆有非常高的感染风险，感染率约为22%[52]。未经治疗的开放性肺结核患者每年会传染10至15人(或更多)[53]肺结核只由开放性患者传染给其他人（也就是说所有“活动性”患者也具感染性），而潜伏结核感染患者与非开放性肺结核患者一般并不被认为具有感染性[10]。多个因素同时影响个体之间的传染机率，其中包括病患喷出飞沫的悬浮粒子数量、通风情况、暴露于感染源的持续时间、结核分枝杆菌菌株的致病性，以及个体的免疫力等等[54]。人与人间的传染可以借由隔离具有传染性肺结核的患者和给予抗结核的药物治疗来避免。大约在两个星期有效的治疗后，没有抗生素抗药性之患者一般不会传染给其他者[52]。人被传染后通常需要3至4周的时间，才会具有足够传染力去传染别人[55]。
+病因
+
+
+
+
+经苏木精-伊红（H&E）染色后光学显微镜下的结核性附睾炎
+
+
+大约90％的结核杆菌感染者是无症状（英语：asymptomatic） 、潜伏的（也被称为潜伏结核感染，LTBI)[56]， 只有10％的感染者的一生中某个时段会发展成开放性结核病[57]。而HIV感染者中有潜伏结核感染的发展为开放性结核病的几率可增加至每年10％[57]。若未经有效治疗，开放性结核病的死亡率可达66％[53]。 肺结核感染始于结核杆菌感染肺泡，结核杆菌可侵入肺泡并在其巨噬细胞的核内体中复制[10][58]。巨噬细胞辨认结核杆菌为异己并尝试以吞噬作用清除。在此过程中，结核杆菌被巨噬细胞包裹并暂时储存于吞噬体中，即一种膜连型囊泡。之后吞噬体与溶酶体结合，形成吞噬溶酶体。在吞噬溶酶体中细胞尝试使用活性氧类及酸来杀死细菌，但结核杆菌有一层蜡状的厚层霉菌酸（英语：mycolic acid）构成的囊状结构，以此保护其自身免于毒性物质的侵害。因此结核杆菌可以在巨噬细胞里复制并最终杀死巨噬细胞。
+原发性肺结核在肺部好发的部位称为“肺结核原发病灶（Ghon氏病灶）（英语：Ghon focus）”，通常位于下叶的上半部或是上叶的下半部[10]。结核菌也可能透过血液循环而感染到肺部，通常会感染道肺部的顶部这被称作“Simon氏病灶（英语：Simon focus）”[59]。 血液循环也可能把感染带到身体其他远端部位，例如周边淋巴结、肾脏、脑部和骨骼[10][60]。全身所有部位都有机会被结核菌感染，但是心脏、骨骼肌、胰脏以及甲状腺较少受到侵犯，其机制至今未明[61]。
+
+
+
+
+Robert Carswell（英语：Robert Carswell (pathologist)）制作的结节核示意图[62]
+
+
+结核病被归类为一种肉芽肿性（英语：granuloma）炎症。巨噬细胞、T细胞、B细胞以及纤维母细胞 聚集为肉芽肿（英语：granuloma），且淋巴细胞会围绕受感染的巨噬细胞。其他巨噬细胞会在肺泡囊融合为一个多核的细胞以攻击受感染的巨噬细胞。肉芽肿的形成可以避免结核杆菌散播，也提供一个局部环境让免疫系统的细胞之间交互作用[63]。然而，最近的证据显示结核杆菌利用肉芽肿避免被宿主免疫系统破坏。巨噬细胞和树状细胞在肉芽肿中无法发挥对淋巴球呈现抗原 的功能，这即导致免疫反应被抑制[64]。肉芽肿中的细菌可能休眠，造成潜伏感染。肉芽肿的另一个特色是会造成结节（英语：Tubercle (anatomy)）中心的不正常的细胞坏死。在肉眼观察下，这样的病灶会呈现质地软类似白色乳酪的坏死，称为干酪性坏死（英语：caseous necrosis）。[63]。 当结核菌从受感染的组织进入血流，它们可以在身体散布，并在组织中形成许多细小的白色节结[65]。这种严重的结核病称做粟粒状结核病，最好发的族群是年幼孩童和人类免疫缺陷病毒患者[66]。罹患这种弥漫型的结核病，即使经过治疗也有很高的死亡率 (大约30%)[21][67]。
+在大多数的患者中，感染病程起起伏伏。组织的破坏和坏死通常以愈合和纤维化作结 [63]。受侵犯的组织通常会被疤痕或填满干酪性坏死的空腔所取代。在开放性肺结核的时期，一些空腔与空气行经的支气管相连，内含的物质就会被咳出来，也包含了结核菌的活体，于是透过这种方式传播。适当的抗生素治疗可以杀死细菌，并让愈合得以进行。当痊愈时，受感染的区域最终会被疤痕组织取代[63]。
+诊断
+
+
+
+
+痰液中的结核菌（经耐酸性染色（英语：Ziehl-Neelsen stain）呈红色）
+
+
+主条目：结核病诊断
+诊断的方法可以依据临床表现与X光，也可以参考结核菌素试验、组织病理切片、耐酸性染色、结核菌培养、MTB PCR。
+活动性结核病（开放性结核病）
+只依据临床表现和症状就要下活动性结核病的诊断并不容易[68]，如同在免疫低下的个案诊断这类疾病[69]。当肺部症状或全身症状（英语：constitutional symptoms）持续超过两周时，结核病的诊断就应该被考虑[69]。初步检查典型包含了胸部X光（英语：Chest radiograph）、多套针对抗酸菌（英语：Acid-fast）的痰液培养（英语：sputum culture）[69]。丙型干扰素检验与结核菌素皮肤测试在发展中国家有一点角色[70][71]。丙型干扰素检验有些局限，如同它在人类免疫缺陷病毒的角色一般[71][72]。
+要在检体（痰、脓或活体组织切片）上确认到结核菌，才算是确定诊断患有结核病。但血液或痰液的细菌培养需二周到六周[73]，因此常会在确定有结核病前就开始治疗[74]。因细菌学检查后，检体内有结核菌，此时病人具传染性，为结核病防治的对象（称为传染性结核病或开放性结核病）。痰细菌学检查一般采用涂片抗酸菌染色及结核菌培养二种方式，痰涂片可侦测出痰中细菌量大的病人；至于痰中细菌量小的病患，即痰涂片阴性者，可借由痰培养发现细菌。经过研究显示，同样是培养阳性的病患，涂片阳性者的传染性是涂片阴性者二倍以上。[75]
+核酸扩增试验（英语：Nucleic acid amplification test）及腺苷脱氨酶检测检验可以提供结核病快速诊断[68]。不过因为这些检验方式鲜少改变病人的治疗计划，所以不是例行性的建议检验项目[74]。检验血中的抗体因为灵敏度和特异度不出色，所以也不是建议的检验项目[76]。
+潜伏性结核病（非开放性结核病）
+主条目：潜伏性结核病
+
+
+
+
+结核菌素试验
+
+
+痰液中找不到结核菌时，亦可由胸部X光检查加上病人的临床症状，实验室检查之数据，作为肺结核的临床诊断依据（称非传染性结核病或非开放性结核病）。[75]结核菌素试验 通常应用于筛检结核病的高危险群[69]。先前接受过疫苗的人可能会有伪阳性的检验结果[77]。罹患 结节病、霍奇金淋巴瘤或是营养不良的人，以及最需要注意的活动性结核病患者，可能会有伪阴性的检验结果[10]。抽血做丙型干扰素检验（英语：Interferon gamma release assays）（IGRAs）建议应用于结核菌素试验阳性的个案[74]。丙型干扰素检验不会因为先前接种过疫苗或是大部分非结核性分枝杆菌（英语：Nontuberculous mycobacteria）而产生伪阳性[78]。然而可能会受到M. szulgai、M. marinum 以及 M. kansasii干扰[79]。丙型干扰素检验合并皮肤测试可以提高敏感度，然而单独使用丙型干扰素检验的敏感度确比皮肤试验还要低[80]。
+预防
+肺结核的预防与控制须从婴儿时期的疫苗施打，以及对活动性结核病患者的检测及适当治疗着手[11]。世界卫生组织已借着改善治疗方法达到些许成效，并使感染人数有小幅度的下降[11]。美国预防服务任务小组（英语：US Preventive Services Task Force）（USPSTF）建议对于可能罹患潜伏性结核病的高风险族群进行结核菌素试验，或是全血丙型干扰素检验（interferon-gamma release assays）[81]。
+疫苗
+主条目：结核病疫苗和卡介苗
+截至2011年，对抗结核病的疫苗仍只有卡介苗一种[82]。已接种卡介苗的孩童可降低20%的感染风险，感染后发病的风险也可降低近60%.[83]。
+卡介苗是全世界被运用的最广泛的疫苗，儿童接种率超过九成[11]。卡介苗的免疫作用在大约10年后会逐渐下降[11]。结核病在加拿大、英国及美国不太普遍，因此卡介苗只会被使用在肺结核高风险的群众上[84][85][86]。反对使用卡介苗的部分因素是因为它会造成结核菌素试验产生伪阳性的结果，减少此试验的使用[86]。目前有许多新的肺结核疫苗正在研发当中[11]。
+公共卫生
+世界卫生组织在1993年时宣布肺结核疫情进入“全球紧急状态”（global health emergency）[11]，在2006年终止结核伙伴联盟（英语：Stop TB Partnership）发起了全球结核病防治计划（英语：Global Plan to Stop Tuberculosis），希望能在2006年到2015年之间救治1400万条生命[87]。然而，随着HIV关联的结核病患者增加，以及多重抗药性菌株的影响，使这个目标在2015年时并未达成[11]。美国胸腔协会制定的结核病分级标准（英语：tuberculosis classification）已被广泛运用在公共卫生计划当中[88]。
+治疗
+
+
+
+
+结核杆菌在体外培养基上形成的菌落
+
+
+
+
+
+
+扫描电子显微镜下的结核杆菌
+
+
+主条目：结核病的治疗
+结核病的治疗通常使用抗生素，但由于结核分枝杆菌细胞壁成分和构造较为特殊，药物较难进入病原体中，因此难以发挥药效[89]。目前最常用的抗生素为异烟肼（Isoniazid）及利福平（Rifampin），且通常需服药长达数月[54]。潜伏性结核病通常可给予单一抗生素治疗，而活动性肺结核则最好同时合并使用多种抗生素治疗，以减少结核菌产生抗药性的风险[90]。除活动性结核病患者外，潜伏性结核病患者也建议进行治疗，以避免在未来恶化为活动性结核病[90]。结核病的治疗需要长期不间断的服药，自行中断服药或忘记服药容易导致治疗失败。因此世界卫生组织建议实施“都治计划（英语：Directly observed therapy）”（DOTs），即由医疗照护人员亲自定期送药，监督患者确实服药[91]。中华民国卫生福利部的资料显示，实施都治计划能有效降低治疗失落率，与对照组比较起来也能明显提升治疗成功率[92]。都治计划的实施手段似乎对于治疗成果有显著影响[93]。然而在治愈率方面，计划实施组与自主服药组并没有太大差异[94]。
+首次发病
+截至2010年，肺结核首次发病的建议疗法是六个月的抗生素综合治疗，首两个月使用利福平、异烟肼（Isoniazid）、吡嗪酰胺（Pyrazinamide）及乙胺丁醇（Ethambutol）；最后四个月只使用利福平和异烟肼[11]。如果对异烟肼的抗药性高，后四个月疗程可用乙胺丁醇取代之[11]。
+复发
+如果肺结核复发，在选择治疗方法前测试细菌对哪些抗生素有敏感性很重要[11]。如果检验出细菌对多种药物有抗药性（英语：Multidrug-resistant TB）（MDR-TB），建议使用最少四种有效的抗生素进行18到24个月的疗程[11]。
+抗药性
+原发性抗药性肺结核发生在受具抗药性结核杆菌感染的人中。带有易受触动的结核分枝杆菌的人可能在治疗过程中因治疗不足、没有正确按医嘱服药或药物品质低劣而得到多发性肺结核[95]。抗药性肺结核在很多发展中国家是一个严重的公共卫生议题，因为这延长疗程及需要较昂贵药物。
+多重抗药性结核病（MDR-TB）的定义是结核菌同时对两种最有效的第一线药物利福平和异烟肼具抗药性。广泛耐药结核则是指同时对三种以上或六类第二线药物具抗药性[96]。完全抗药性结核病（英语：Totally drug-resistant tuberculosis）是指对所有用作治疗的药物具抗药性[97]。此类结核病于2003年在意大利首次发现[98]，在伊朗和印度也有案例[99][100]，不过到2012年才有广泛报告[97][101]。贝达喹啉（英语：Bedaquiline）（Bedaquiline）暂时受到认受作为治疗多重抗药性结核病的药物[102]。
+在每十宗多重抗药性结核病里，就有一例是广泛耐药结核病。逾九成国家有广泛耐药结核病的病例[99]。
+预后
+
+
+
+
+每十万人的结核病年龄标准化（英语：Age adjustment）失能调整生命年图（2004年）[103]
+
+
+
+  no data
+  ≤10
+  10–25
+  25–50
+  50–75
+  75–100
+  100–250
+
+
+  250–500
+  500–750
+  750–1000
+  1000–2000
+  2000–3000
+  ≥ 3000
+
+
+
+
+
+
+当细菌突破免疫系统的防御而开始增生时，疾病会由结核菌感染进展到症状明显的结核病。在原发型结核病 (占 1-5% 的比例)，这种现象会在感染刚开始的时候很快的发生[10]。然而多数人感染模式为潜伏结核感染（英语：Latent tuberculosis），通常没有明显症状[10]。在5-10%潜伏结合感染的案例中，这些休眠的细菌经常会在感染后数年的时间制造出活动的结核[13]。
+
+疾病再活化的机率会随着免疫抑制增加，例如因为感染了人类免疫缺陷病毒。同时感染有结核菌和人类免疫缺陷病毒的患者，结核再活化得机率会上升到每年10%之多[10]。利用遗传指纹分析鉴定结核菌的菌株的研究指出，“再度感染”在结核病复发的角色比先前的认知更重要[104]，估计在结核病盛行区域占了疾病再活化的个案中的50%[105]。结合病得致死率在2008年大约为4%，相较于1995年的8%已有下降[11]。
+耐药变种
+由于病人漏服治疗药物，或在治疗周期完成前终止治疗而产生的结核病耐药变种对治疗药物有不同程度的抗药性。对利福平（rifampicin）和异烟肼（isoniazid）等一线药物具抗药性的结核称作“多药抗药性结核”（MDR-TB）。多药抗药性结核中，对全部喹诺酮类药物以及至少对二线治疗结核药物中卡那霉素（kanamycin）、卷曲霉素（capreomycin）和阿米卡霉素之一具有抗药性的结核病称为广泛耐药结核（XDR-TB）。
+耐药结核具有死亡率高（MDR-TB死亡率与肺癌类似，XDR-TB更高出很多），传染性低的特点，通常只由普通结核病人治疗不当产生，只有在低免疫人群（如HIV普遍感染）中会出现人与人直接传播。
+2012年1月，继伊朗后，在印度也发现12例完全抗药性肺结核病例，当中有10例发生于孟买[106]。
+历史
+结核病是古老的疾病，至少可溯至新石器时代，在世界各地的历史上都不乏有死于肺结核的名人，比如发明听诊器的法国医师雷奈克、演出电影《乱世佳人》的英国演员费雯丽、日本作家石川啄木及现代俳句之父“俳圣”正冈子规，幕末时期新撰组的天才剑士，三段突次的最后传人冲田总司，以及台湾早期小说家锺理和。历代名医对结核病都有深刻的认识。明代的李梃《医学入门》指出肺痨六大主症为：“潮、汗、咳嗽，或见血，或遗精”。清朝人李用粹《证治汇补》对结核病的描述：“痨瘵外候，睡中盗汗，午后发热，烦躁咳嗽，倦怠无力，饮食少进，痰涎带血，咯唾吐衄，肌肉消瘦”。1882年，德国医师柯霍（Robert Koch）首次发现结核菌。1921年，爱伯特·卡脉特（英语：Albert Calmette）与介岚（英语：Camille Guérin）发明了卡介苗（BCG），用来预防肺结核，但其成效在近30年来倍受质疑[107]。1944年链霉素（Streptomycin）发明[108]，是为第一个有效的抗结核药物。虽然新的抗结核药物陆续被发展出来，然而结核病仍然是棘手的公共卫生问题。
+治疗计划
+台湾都治(DOT)计划
+台湾加入WHO后，消除结核第一期计划从2016年至2035年发生率由每10万人口46例降至10例。[109]结核病治疗期程较长及药物抗药性等问题，直接观察治疗（Directly Observed Treatment Short-Course, DOTS；音译为“都治”）是近年来世界卫生组织之策略。[51]
+结核病的DOTS包括五大要项的配套策略：政府对结核防治之政治承诺、正确的个案诊断模式、标准化之治疗处方、充足的药物供应、标准化之登记与通报系统。[51]
+中华民国卫生福利部为提升结核病照护成效下，进行的护理人员监督计划，执行阶段：[110][111]
+
+住院都治(强制住院治疗)
+社区都治：观察员到社区间确认病人确实服用药物
+长期照护
+回报案例
+
+执行方式：[51]
+
+关怀员送药到点：由都治关怀员一事先约定好之服药地点及时间，亲自送药到指定地点，亲眼目睹病人服药。
+个案到点服药：依病人服药意愿，病人自行至都治站，于关怀员或个案管理人员目视下服药。
+
+社会和文化
+世界卫生组织、比尔与美琳达·盖茨基金会及美国政府在中低收入的国家进行一项计划，用补贴的方式协助进行一项全新的速效诊断测试[112][113][114]。可以将成本由美金16.86元降至美金9.98元。此测试还可以确认结核病对利福平是否有抗药性，若有，就有可能是多药抗药性结核，而且对于也有受艾滋病毒传染的人也可以正确的检测[112][115]。不过在2011年时，有许多研究资源不足的国家仍只能用显微镜检测痰液的方式来检测[116]。
+在2010年时印度的结核病患者最多，原因可能包括私人及公立医疗院所中的疾病控管能力不足[117]。像修订后的国家结核病控制计划（英语：Revised National Tuberculosis Control Program）（RNTCP）等计划，有助于减少病人在进入医疗院所后得到结核的程度及比例[118][119]。
+由于监狱中恶劣而封闭的环境以及医疗卫生服务的缺乏，结核病在监狱中的发病率可达外界的100倍[120]。针对监狱中的结核病患者，红十字国际委员会与世界卫生组织、当地政府以及医疗机构合作，通过提供资金和设备以及对监狱内外的医务人员进行培训，帮助被拘禁的患者获得及时治疗。在阿塞拜疆，红十字国际委员会与当地政府合作的治疗耐多药结核的试点项目使200多名患者获得治疗。[121]而在吉尔吉斯斯坦两个监狱的治疗中，成功率已接近50%。[122]
+世界结核病日
+联合国、世界卫生组织（WHO）定于每年的3月24日为世界防治结核病日，以纪念1882年德国微生物学家罗伯特·科霍向一群德国柏林医生发表他对结核病病原菌的发现。
+参考文献
+
+
+^ 1.0 1.1 1.2 1.3 1.4 1.5 1.6 Tuberculosis Fact sheet N°104. WHO. October 2015 [11 February 2016]. 
+^ The Chambers Dictionary.. New Delhi: Allied Chambers India Ltd. 1998: 352. ISBN 978-81-86062-25-8. 
+^ 3.0 3.1 3.2 3.3 3.4 3.5 3.6 3.7 3.8 3.9 Dolin, [edited by] Gerald L. Mandell, John E. Bennett, Raphael. Mandell, Douglas, and Bennett's principles and practice of infectious diseases 7th. Philadelphia, PA: Churchill Livingstone/Elsevier. 2010: Chapter 250. ISBN 978-0-443-06839-3. 
+^ Basic TB Facts. CDC. March 13, 2012 [11 February 2016]. 
+^ Konstantinos A. Testing for tuberculosis. Australian Prescriber. 2010, 33 (1): 12–18 （英语）. 
+^ Hawn, TR; Day, TA; Scriba, TJ; Hatherill, M; Hanekom, WA; Evans, TG; Churchyard, GJ; Kublin, JG; Bekker, LG; Self, SG. Tuberculosis vaccines and prevention of infection.. Microbiology and molecular biology reviews: MMBR. December 2014, 78 (4): 650–71. PMC 4248657. PMID 25428938. doi:10.1128/MMBR.00021-14. 
+^ Harris, Randall E. Epidemiology of chronic disease: global perspectives. Burlington, MA: Jones & Bartlett Learning. 2013: 682. ISBN 9780763780470. 
+^ 8.0 8.1 Organization, World Health. Implementing the WHO Stop TB Strategy: a handbook for national TB control programmes. Geneva: World Health Organization. 2008: 179. ISBN 9789241546676. 
+^ Tuberculosis. World Health Organization. 2002. 
+^ 10.00 10.01 10.02 10.03 10.04 10.05 10.06 10.07 10.08 10.09 10.10 10.11 10.12 10.13 Kumar V, Abbas AK, Fausto N, Mitchell RN. Robbins Basic Pathology 8th. Saunders Elsevier. 2007: 516–522. ISBN 978-1-4160-2973-1. 
+^ 11.00 11.01 11.02 11.03 11.04 11.05 11.06 11.07 11.08 11.09 11.10 11.11 11.12 11.13 11.14 11.15 11.16 11.17 11.18 Lawn, SD; Zumla, AI. Tuberculosis. Lancet. 2 July 2011, 378 (9785): 57–72. PMID 21420161. doi:10.1016/S0140-6736(10)62173-3. 
+^ Schiffman G. Tuberculosis Symptoms. eMedicineHealth. 15 January 2009. 
+^ 13.0 13.1 13.2 13.3 Gibson, Peter G. (ed.); Abramson, Michael (ed.); Wood-Baker, Richard (ed.); Volmink, Jimmy (ed.); Hensley, Michael (ed.); Costabel, Ulrich (ed.). Evidence-Based Respiratory Medicine 1st. BMJ Books. 2005: 321. ISBN 978-0-7279-1605-1. 
+^ Behera, D. Textbook of Pulmonary Medicine 2nd. New Delhi: Jaypee Brothers Medical Publishers. 2010: 457. ISBN 978-81-8448-749-7. 
+^ Halezeroğlu, S; Okur, E. Thoracic surgery for haemoptysis in the context of tuberculosis: what is the best management approach?. Journal of Thoracic Disease. March 2014, 6 (3): 182–5. PMID 24624281. doi:10.3978/j.issn.2072-1439.2013.12.25. 
+^ Jindal, editor-in-chief SK. Textbook of Pulmonary and Critical Care Medicine. New Delhi: Jaypee Brothers Medical Publishers. 2011: 549. ISBN 978-93-5025-073-0. 
+^ 17.0 17.1 Golden MP, Vikram HR. Extrapulmonary tuberculosis: an overview. American Family Physician. 2005, 72 (9): 1761–8. PMID 16300038. 
+^ Kabra, [edited by] Vimlesh Seth, S.K. Essentials of tuberculosis in children 3rd. New Delhi: Jaypee Bros. Medical Publishers. 2006: 249. ISBN 978-81-8061-709-6. 
+^ Manual of Surgery. Kaplan Publishing. 2008: 75. ISBN 9781427797995. 
+^ Burkitt, H. George. Essential Surgery: Problems, Diagnosis & Management 4th ed. 2007: 34. ISBN 9780443103452. 
+^ 21.0 21.1 Ghosh, editors-in-chief, Thomas M. Habermann, Amit K. Mayo Clinic internal medicine: concise textbook. Rochester, MN: Mayo Clinic Scientific Press. 2008: 789. ISBN 978-1-4200-6749-1. 
+^ 台湾卫生福利部疾病管制署-传染病介绍-肺结核. [2016年9月12日]. 
+^ 上海市肺外结核的流行病学分析. xueshu.baidu.com. [2016-11-21]. 
+^ Jindal, editor-in-chief SK. Textbook of Pulmonary and Critical Care Medicine. New Delhi: Jaypee Brothers Medical Publishers. 2011: 525. ISBN 978-93-5025-073-0. 
+^ Niederweis M, Danilchanka O, Huff J, Hoffmann C, Engelhardt H. Mycobacterial outer membranes: in search of proteins. Trends in Microbiology. March 2010, 18 (3): 109–16. PMC 2931330. PMID 20060722. doi:10.1016/j.tim.2009.12.005. 
+^ Southwick F. Chapter 4: Pulmonary Infections. Infectious Diseases: A Clinical Short Course, 2nd ed.. McGraw-Hill Medical Publishing Division. 10 December 2007: 104, 313–4. ISBN 0-07-147722-5. 
+^ 27.0 27.1 Madison B. Application of stains in clinical microbiology. Biotechnic & Histochemistry. 2001, 76 (3): 119–25. PMID 11475314. doi:10.1080/714028138. 
+^ Parish T.; Stoker N. Mycobacteria: bugs and bugbears (two steps forward and one step back). Molecular Biotechnology. 1999, 13 (3): 191–200. PMID 10934532. doi:10.1385/MB:13:3:191. 
+^ Medical Laboratory Science: Theory and Practice. New Delhi: Tata McGraw-Hill. 2000: 473. ISBN 0-07-463223-X. 
+^ Acid-Fast Stain Protocols. 21 August 2013 [26 March 2016]. 
+^ Kommareddi S.; Abramowsky C.; Swinehart G.; Hrabak L. Nontuberculous mycobacterial infections: comparison of the fluorescent auramine-O and Ziehl-Neelsen techniques in tissue diagnosis. Human Pathology. 1984, 15 (11): 1085–1089. PMID 6208117. doi:10.1016/S0046-8177(84)80253-1. 
+^ van Lettow, Monique; Whalen, Christopher. Nutrition and health in developing countries 2nd. Totowa, N.J. (Richard D. Semba and Martin W. Bloem, eds.): Humana Press. 2008: 291. ISBN 978-1-934115-24-4. 
+^ van Soolingen D., 等. A novel pathogenic taxon of the Mycobacterium tuberculosis complex, Canetti: characterization of an exceptional isolate from Africa. International Journal of Systematic Bacteriology. 1997, 47 (4): 1236–45. PMID 9336935. doi:10.1099/00207713-47-4-1236. 
+^ Niemann S., 等. Mycobacterium africanum Subtype II Is Associated with Two Distinct Genotypes and Is a Major Cause of Human Tuberculosis in Kampala, Uganda. Journal of Clinical Microbiology. 2002, 40 (9): 3398–405. PMC 130701. PMID 12202584. doi:10.1128/JCM.40.9.3398-3405.2002. 
+^ Niobe-Eyangoh S.N., 等. Genetic Biodiversity of Mycobacterium tuberculosis Complex Strains from Patients with Pulmonary Tuberculosis in Cameroon. Journal of Clinical Microbiology. 2003, 41 (6): 2547–53. PMC 156567. PMID 12791879. doi:10.1128/JCM.41.6.2547-2553.2003. 
+^ Thoen C, Lobue P, de Kantor I. The importance of Mycobacterium bovis as a zoonosis. Veterinary Microbiology. 2006, 112 (2–4): 339–45. PMID 16387455. doi:10.1016/j.vetmic.2005.11.047. 
+^ Acton, Q. Ashton. Mycobacterium Infections: New Insights for the Healthcare Professional. ScholarlyEditions. 2011: 1968. ISBN 978-1-4649-0122-5. 
+^ Pfyffer, GE; Auckenthaler, R; van Embden, JD; van Soolingen, D. Mycobacterium canettii, the smooth variant of M. tuberculosis, isolated from a Swiss patient exposed in Africa. Emerging Infectious Diseases. Oct–Dec 1998, 4 (4): 631–4. PMC 2640258. PMID 9866740. doi:10.3201/eid0404.980414. 
+^ Panteix, G; Gutierrez, MC; Boschiroli, ML; Rouviere, M; Plaidy, A; Pressac, D; Porcheret, H; Chyderiotis, G; Ponsada, M; Van Oortegem, K; Salloum, S; Cabuzel, S; Bañuls, AL; Van de Perre, P; Godreuil, S. Pulmonary tuberculosis due to Mycobacterium microti: a study of six recent cases in France. Journal of Medical Microbiology. August 2010, 59 (Pt 8): 984–9. PMID 20488936. doi:10.1099/jmm.0.019372-0. 
+^ American Thoracic Society. Diagnosis and treatment of disease caused by nontuberculous mycobacteria. This official statement of the American Thoracic Society was approved by the Board of Directors, March 1997. Medical Section of the American Lung Association. American Journal of Respiratory and Critical Care Medicine. 1997, 156 (2 Pt 2): S1–25. PMID 9279284. doi:10.1164/ajrccm.156.2.atsstatement. 
+^ World Health Organization. The sixteenth global report on tuberculosis (PDF). 2011. 
+^ World Health Organization. Global tuberculosis control–surveillance, planning, financing WHO Report 2006. [13 October 2006]. 
+^ 43.0 43.1 Chaisson, RE; Martinson, NA. Tuberculosis in Africa—combating an HIV-driven crisis. The New England Journal of Medicine. 13 March 2008, 358 (11): 1089–92. PMID 18337598. doi:10.1056/NEJMp0800809. 
+^ Griffith D, Kerr C. Tuberculosis: disease of the past, disease of the present. Journal of Perianesthesia Nursing. 1996, 11 (4): 240–5. PMID 8964016. doi:10.1016/S1089-9472(96)80023-2. 
+^ van Zyl Smit, RN; Pai, M; Yew, WW; Leung, CC; Zumla, A; Bateman, ED; Dheda, K. Global lung health: the colliding epidemics of tuberculosis, tobacco smoking, HIV and COPD. European Respiratory Journal. January 2010, 35 (1): 27–33. PMID 20044459. doi:10.1183/09031936.00072909. These analyses indicate that smokers are almost twice as likely to be infected with TB and to progress to active disease (RR of about 1.5 for latent TB infection (LTBI) and RR of ∼2.0 for TB disease). Smokers are also twice as likely to die from TB (RR of about 2.0 for TB mortality), but data are difficult to interpret because of heterogeneity in the results across studies. 
+^ Restrepo, BI. Convergence of the tuberculosis and diabetes epidemics: renewal of old acquaintances. Clinical Infectious Diseases. 15 August 2007, 45 (4): 436–8. PMC 2900315. PMID 17638190. doi:10.1086/519939. 
+^ Möller, M; Hoal, EG. Current findings, challenges and novel approaches in human genetic susceptibility to tuberculosis. Tuberculosis. March 2010, 90 (2): 71–83. PMID 20206579. doi:10.1016/j.tube.2010.02.002. 
+^ 卫生福利部 彰化医院 MDR-TB
+^ Cole E, Cook C. Characterization of infectious aerosols in health care facilities: an aid to effective engineering controls and preventive strategies. Am J Infect Control. 1998, 26 (4): 453–64. PMID 9721404. doi:10.1016/S0196-6553(98)70046-X. 
+^ Nicas M, Nazaroff WW, Hubbard A. Toward understanding the risk of secondary airborne infection: emission of respirable pathogens. J Occup Environ Hyg. 2005, 2 (3): 143–54. PMID 15764538. doi:10.1080/15459620590918466. 
+^ 51.0 51.1 51.2 51.3 台湾卫生福利部疾病管制署. 结核病防治工作手册-第二版( 2016-03-23). 台湾卫生福利部疾病管制署. 2016-03-23 [2016-05-01]. 
+^ 52.0 52.1 Ahmed N, Hasnain S. Molecular epidemiology of tuberculosis in India: Moving forward with a systems biology approach. Tuberculosis. 2011, 91 (5): 407–3. PMID 21514230. doi:10.1016/j.tube.2011.03.006. 
+^ 53.0 53.1 Tuberculosis Fact sheet N°104. World Health Organization. November 2010 [26 July 2011]. 
+^ 54.0 54.1 Core Curriculum on Tuberculosis: What the Clinician Should Know (PDF) 5th. Centers for Disease Control and Prevention (CDC), Division of Tuberculosis Elimination: 24. 2011. 
+^ Causes of Tuberculosis. Mayo Clinic. 21 December 2006 [19 October 2007]. 
+^ Skolnik, Richard. Global health 101 2nd. Burlington, MA: Jones & Bartlett Learning. 2011: 253. ISBN 978-0-7637-9751-5. 
+^ 57.0 57.1 editors, Arch G. Mainous III, Claire Pomeroy,. Management of antimicrobials in infectious diseases: impact of antibiotic resistance. 2nd rev. Totowa, N.J.: Humana Press. 2009: 74. ISBN 978-1-60327-238-4. 
+^ Houben E, Nguyen L, Pieters J. Interaction of pathogenic mycobacteria with the host immune system. Curr Opin Microbiol. 2006, 9 (1): 76–85. PMID 16406837. doi:10.1016/j.mib.2005.12.014. 
+^ Khan. Essence Of Paediatrics. Elsevier India. 2011: 401. ISBN 978-81-312-2804-3. 
+^ Herrmann J, Lagrange P. Dendritic cells and Mycobacterium tuberculosis: which is the Trojan horse?. Pathol Biol (Paris). 2005, 53 (1): 35–40. PMID 15620608. doi:10.1016/j.patbio.2004.01.004. 
+^ Agarwal R, Malhotra P, Awasthi A, Kakkar N, Gupta D. Tuberculous dilated cardiomyopathy: an under-recognized entity?. BMC Infect Dis. 2005, 5 (1): 29. PMC 1090580. PMID 15857515. doi:10.1186/1471-2334-5-29. 
+^ John Mason Good; Samuel Cooper; Augustus Sidney Doane. The Study of Medicine. Harper. 1835: 32. 
+^ 63.0 63.1 63.2 63.3 Grosset J. Mycobacterium tuberculosis in the Extracellular Compartment: an Underestimated Adversary. Antimicrob Agents Chemother. 2003, 47 (3): 833–6. PMC 149338. PMID 12604509. doi:10.1128/AAC.47.3.833-836.2003. 
+^ Bozzano F. Immunology of tuberculosis. Mediterr J Hematol Infect Dis. 2014, 6 (1): e2014027. PMC 4010607. PMID 24804000. doi:10.4084/MJHID.2014.027. 
+^ Crowley, Leonard V. An introduction to human disease: pathology and pathophysiology correlations 8th. Sudbury, Mass.: Jones and Bartlett. 2010: 374. ISBN 978-0-7637-6591-0. 
+^ Anthony, Harries. TB/HIV a Clinical Manual. 2nd. Geneva: World Health Organization. 2005: 75. ISBN 978-92-4-154634-8. 
+^ Jacob, JT; Mehta, AK; Leonard, MK. Acute forms of tuberculosis in adults. The American Journal of Medicine. January 2009, 122 (1): 12–7. PMID 19114163. doi:10.1016/j.amjmed.2008.09.018. 
+^ 68.0 68.1 Bento, J; Silva, AS; Rodrigues, F; Duarte, R. [Diagnostic tools in tuberculosis]. Acta Médica Portuguesa. Jan–Feb 2011, 24 (1): 145–54. PMID 21672452. 
+^ 69.0 69.1 69.2 69.3 Escalante, P. In the clinic. Tuberculosis. Annals of Internal Medicine. 2 June 2009, 150 (11): ITC61–614; quiz ITV616. PMID 19487708. doi:10.7326/0003-4819-150-11-200906020-01006. 
+^ Metcalfe, JZ; Everett, CK; Steingart, KR; Cattamanchi, A; Huang, L; Hopewell, PC; Pai, M. Interferon-γ release assays for active pulmonary tuberculosis diagnosis in adults in low- and middle-income countries: systematic review and meta-analysis. The Journal of Infectious Diseases. 15 November 2011,. 204 Suppl 4 (suppl_4): S1120–9. PMC 3192542. PMID 21996694. doi:10.1093/infdis/jir410. 
+^ 71.0 71.1 Sester, M; Sotgiu, G; Lange, C; Giehl, C; Girardi, E; Migliori, GB; Bossink, A; Dheda, K; Diel, R; Dominguez, J; Lipman, M; Nemeth, J; Ravn, P; Winkler, S; Huitric, E; Sandgren, A; Manissero, D. Interferon-γ release assays for the diag nosis of active tuberculosis: a systematic review and meta-analysis. The European Respiratory Journal. January 2011, 37 (1): 100–11. PMID 20847080. doi:10.1183/09031936.00114810.  参数|title=值左起第41位存在换行符 (帮助)
+^ Chen, J; Zhang, R; Wang, J; Liu, L; Zheng, Y; Shen, Y; Qi, T; Lu, H. Vermund, Sten H, 编. Interferon-gamma release assays for the diagnosis of active tuberculosis in HIV-infected patients: a systematic review and meta-analysis. PLoS ONE. 2011, 6 (11): e26827. PMC 3206065. PMID 22069472. doi:10.1371/journal.pone.0026827.  
+^ Diseases, Special Programme for Research & Training in Tropical. Diagnostics for tuberculosis : global demand and market potential.. Geneva: World Health Organization on behalf of the Special Programme for Research and Training in Tropical Diseases. 2006: 36. ISBN 978-92-4-156330-7. 
+^ 74.0 74.1 74.2 National Institute for Health and Clinical Excellence（英语：National Institute for Health and Clinical Excellence）. Clinical guideline 117: Tuberculosis. London, 2011.
+^ 75.0 75.1 传染病介绍 结核病. 卫生福利部疾病管制署. [2016-07-10]. 
+^ Steingart, KR; Flores, LL, Dendukuri, N, Schiller, I, Laal, S, Ramsay, A, Hopewell, PC, Pai, M. Evans, Carlton, 编. Commercial serological tests for the diagnosis of active pulmonary and extrapulmonary tuberculosis: an updated systematic review and meta-analysis. PLoS medicine. August 2011, 8 (8): e1001062. PMC 3153457. PMID 21857806. doi:10.1371/journal.pmed.1001062.  引文使用过时参数coauthors (帮助)
+^ Rothel J, Andersen P. Diagnosis of latent Mycobacterium tuberculosis infection: is the demise of the Mantoux test imminent?. Expert Rev Anti Infect Ther. 2005, 3 (6): 981–93. PMID 16307510. doi:10.1586/14787210.3.6.981. 
+^ Pai M, Zwerling A, Menzies D. Systematic Review: T-Cell–based Assays for the Diagnosis of Latent Tuberculosis Infection: An Update. Ann. Intern. Med. 2008, 149 (3): 1–9. PMC 2951987. PMID 18593687. doi:10.7326/0003-4819-149-3-200808050-00241. 
+^ Jindal, editor-in-chief SK. Textbook of Pulmonary and Critical Care Medicine. New Delhi: Jaypee Brothers Medical Publishers. 2011: 544. ISBN 978-93-5025-073-0. 
+^ Amicosante, M; Ciccozzi, M; Markova, R. Rational use of immunodiagnostic tools for tuberculosis infection: guidelines and cost effectiveness s tudies. The new microbiologica. April 2010, 33 (2): 93–107. PMID 20518271.  参数|title=值左起第103位存在换行符 (帮助)
+^ Bibbins-Domingo, Kirsten; Grossman, David C.; Curry, Susan J.; Bauman, Linda; Davidson, Karina W.; Epling, John W.; García, Francisco A.R.; Herzstein, Jessica; Kemper, Alex R.; Krist, Alex H.; Kurth, Ann E.; Landefeld, C. Seth; Mangione, Carol M.; Phillips, William R.; Phipps, Maureen G.; Pignone, Michael P. Screening for Latent Tuberculosis Infection in Adults. JAMA. 6 September 2016, 316 (9): 962. doi:10.1001/jama.2016.11046. 
+^ McShane, H. Tuberculosis vaccines: beyond bacille Calmette–Guérin. Philosophical transactions of the Royal Society of London. Series B, Biological sciences. 12 October 2011, 366 (1579): 2782–9. PMC 3146779. PMID 21893541. doi:10.1098/rstb.2011.0097. 
+^ Roy, A; Eisenhut, M; Harris, RJ; Rodrigues, LC; Sridhar, S; Habermann, S; Snell, L; Mangtani, P; Adetifa, I; Lalvani, A; Abubakar, I. Effect of BCG vaccination against Mycobacterium tuberculosis infection in children: systematic review and meta-analysis.. BMJ (Clinical research ed.). Aug 5, 2014, 349: g4643. PMC 4122754. PMID 25097193. doi:10.1136/bmj.g4643. 
+^ Vaccine and Immunizations: TB Vaccine (BCG). Centers for Disease Control and Prevention. 2011 [26 July 2011]. 
+^ BCG Vaccine Usage in Canada – Current and Historical. Public Health Agency of Canada. September 2010 [30 December 2011]. 
+^ 86.0 86.1 Teo, SS; Shingadia, DV. Does BCG have a role in tuberculosis control and prevention in the United Kingdom?. Archives of Disease in Childhood. June 2006, 91 (6): 529–31. PMC 2082765. PMID 16714729. doi:10.1136/adc.2005.085043. 
+^ The Global Plan to Stop TB. World Health Organization. 2011 [13 June 2011]. 
+^ Warrell, ed. by D. J. Weatherall ... [4. + 5. ed.] ed. by David A. Sections 1 – 10. 4. ed., paperback. Oxford [u.a.]: Oxford Univ. Press. 2005: 560. ISBN 978-0-19-857014-1. 
+^ Brennan PJ, Nikaido H. The envelope of mycobacteria. Annu. Rev. Biochem. 1995, 64: 29–63. PMID 7574484. doi:10.1146/annurev.bi.64.070195.000333. 
+^ 90.0 90.1 Menzies, D; Al Jahdali, H; Al Otaibi, B. Recent developments in treatment of latent tuberculosis infection. The Indian journal of medical research. March 2011, 133 (3): 257–66. PMC 3103149. PMID 21441678. 
+^ Arch G.; III Mainous. Management of Antimicrobials in Infectious Diseases: Impact of Antibiotic Resistance. Totowa, N.J.: Humana Press. 2010: 69. ISBN 1-60327-238-0. 
+^ 卫生福利部疾病管制署专业人士版. 卫生福利部疾病管制署专业人士版. [2017-03-12]. 
+^ Liu, Qin; Abba, Katharine; Alejandria, Marissa M; Sinclair, David; Balanag, Vincent M; Lansang, Mary Ann D. Reminder systems to improve patient adherence to tuberculosis clinic appointments for diagnosis and treatment. Cochrane Database of Systematic Reviews. John Wiley & Sons, Ltd. 2014-11-18. doi:10.1002/14651858.cd006594.pub3 （英语）. 
+^ Karumbi, Jamlick; Garner, Paul. Directly observed therapy for treating tuberculosis. Cochrane Database of Systematic Reviews. John Wiley & Sons, Ltd. 2015-05-29. doi:10.1002/14651858.cd003343.pub4 （英语）. 
+^ O'Brien R. Drug-resistant tuberculosis: etiology, management and prevention. Semin Respir Infect. 1994, 9 (2): 104–12. PMID 7973169. 
+^ Centers for Disease Control and Prevention (CDC). Emergence of Mycobacterium tuberculosis with extensive resistance to second-line drugs—worldwide, 2000–2004. MMWR Morb Mortal Wkly Rep. 2006, 55 (11): 301–5. PMID 16557213. 
+^ 97.0 97.1 Maryn McKenna. Totally Resistant TB: Earliest Cases in Italy. Wired. 12 January 2012 [12 January 2012]. 
+^ Migliori, G.B.; De Iaco, G.; Besozzi, G.; Centis, R.; Cirillo, D.M. First tuberculosis cases in Italy resistant to all tested drugs. Euro Surveillance. May 17, 2007, 12 (5): E070517.1. PMID 17868596. 
+^ 99.0 99.1 Paul Kielstra. Zoe Tabary, 编. Ancient enemy, modern imperative – A time for greater action against tuberculosis. Economist Insights (The Economist Group). 30 June 2014 [1 August 2014]. 
+^ Velayati, A.A.; Masjedi, M.R.; Farnia, P.; Tabarsi, P.; Ghanavi, J.; Ziazarifi, A.H.; Hoffner, S.E. Emergence of new forms of totally drug-resistant tuberculosis bacilli: super extensively drug-resistant tuberculosis or totally drug-resistant strains in Iran. Chest. August 2009, 136 (2): 420–425. PMID 19349380. doi:10.1378/chest.08-2427. 
+^ Totally Drug-Resistant TB: a WHO consultation on the diagnostic definition and treatment options (PDF). who.int. World Health Organization. [25 March 2016]. 
+^ Provisional CDC Guidelines for the Use and Safety Monitoring of Bedaquiline Fumarate (Sirturo) for the Treatment of Multidrug-Resistant Tuberculosis. 
+^ WHO Disease and injury country estimates. World Health Organization. 2004 [11 November 2009]. 
+^ Lambert M, 等. Recurrence in tuberculosis: relapse or reinfection?. Lancet Infect Dis. 2003, 3 (5): 282–7. PMID 12726976. doi:10.1016/S1473-3099(03)00607-8. 
+^ Wang, JY; Lee, LN; Lai, HC; Hsu, HL; Liaw, YS; Hsueh, PR; Yang, PC. Prediction of the tuberculosis reinfection proportion from the local incidence. The Journal of Infectious Diseases. 15 July 2007, 196 (2): 281–8. PMID 17570116. doi:10.1086/518898. 
+^ 印发现完全抗药性肺结核. 中央社即时新闻. 2012-01-08 [2012-01-08] （中文（繁体）‎）. 
+^ 李永胜、戴维丰. 白色瘟疫 棘手的全球公卫议题. 大纪元 香港 (大纪元). 2012-02-28 [2014-02-22]. 
+^ 范姜宇龙. 结核话说从头. 台湾感染管制学会. [2014-02-22] （中文）. 
+^ 卫生福利部疾病管制署. 结核病年度流病简报( 2016-03-23). 卫生福利部疾病管制署. 2016-03-23 [2016-05-01]. 
+^ 都治计划卫生福利部疾病管制署
+^ 结核病 Q & A
+^ 112.0 112.1 Public-Private Partnership Announces Immediate 40 Percent Cost Reduction for Rapid TB Test (pdf). World Health Organization. Aug 6, 2012. 
+^ Lawn, SD; Nicol, MP. Xpert® MTB/RIF assay: development, evaluation and implementation of a new rapid molecular diagnostic for tuberculosis and rifampicin resistance. Future microbiology. September 2011, 6 (9): 1067–82. PMC 3252681. PMID 21958145. doi:10.2217/fmb.11.84.  引文使用过时参数coauthors (帮助)
+^ WHO says Cepheid rapid test will transform TB care. Reuters. 8 December 2010. 
+^ STOPTB. The Stop TB Partnership, which operates through a secretariat hosted by the World Health Organization (WHO) in Geneva, Switzerland. (pdf). April 5, 2013. 
+^ Lienhardt, C; Espinal, M, Pai, M, Maher, D, Raviglione, MC. What research is needed to stop TB? Introducing the TB Research Movement. PLoS medicine. November 2011, 8 (11): e1001135. PMC 3226454. PMID 22140369. doi:10.1371/journal.pmed.1001135.  引文使用过时参数coauthors (帮助)
+^ Mishra, G. Tuberculosis Prescription Practices In Private And Public Sector In India. NJIRM. 2013, 4 (2): 71–78. 
+^ Anurag Bhargava, Lancelot Pinto, Madhukar Pai. Mismanagement of tuberculosis in India: Causes, consequences, and the way forward. Hypothesis. 2011, 9 (1): e7. 
+^ Amdekar, Y. Changes in the management of tuberculosis. Indian journal of pediatrics. July 2009, 76 (7): 739–42. PMID 19693453. doi:10.1007/s12098-009-0164-4. 
+^ 监狱中的结核病向外传播
+^ 遏制结核病这个无法被禁锢于铁窗之内的杀手
+^ 在拘留场所抗击结核病
+
+
+外部链接
+
+微生物免疫学-Mycobacterium tuberculosis(结核分枝杆菌)
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+中华人民共和国《国家基本药物目录》：抗微生物药
+
+
+
+
+
+
+
+《国家基本药物目录（基层医疗卫生机构配备使用部分）》（2009版）  »　第一部分 化学药品和生物制品　»　一、抗微生物药
+
+
+
+
+
+
+青霉素类
+
+1 青霉素注  2 苯唑西林注  3 氨苄西林注  4 哌拉西林注  5 阿莫西林常  6 阿莫西林克拉维酸钾常
+
+
+
+
+
+
+头孢菌素类
+
+7 头孢唑林注  8 头孢氨苄常/颗  9 头孢呋辛常/注  10 头孢曲松注  11 头孢羟氨苄注
+
+
+
+
+
+
+氨基糖苷类
+
+12 阿米卡星注  13 庆大霉素注
+
+
+
+
+
+
+大环内酯类
+
+14 红霉素常/注  15 阿奇霉素常/颗
+
+
+
+
+
+
+其他抗生素
+
+16 克林霉素常/注  17 磷霉素注
+
+
+
+
+
+
+磺胺类
+
+18 复方磺胺甲噁唑常
+
+
+
+
+
+
+喹诺酮类
+
+19 诺氟沙星常  20 环丙沙星常/注  21 左氧氟沙星口/注
+
+
+
+
+
+
+硝基呋喃类
+
+22 呋喃妥因常
+
+
+
+
+
+
+抗结核病药
+
+23 异烟肼常/注  24 利福平常  25 吡嗪酰胺常  26 乙胺丁醇常  27 链霉素注  28 对氨基水杨酸钠常/注
+
+
+
+
+
+
+抗麻风病药
+
+29 氨苯砜常 　
+
+
+
+
+
+
+抗真菌药
+
+30 氟康唑常  31 制霉素常 　
+
+
+
+
+
+
+抗病毒药
+
+32 阿昔洛韦常  33 利巴韦林常/颗/注  34 抗艾滋病用药（指国家免费治疗艾滋病的药品）
+
+
+
+
+
+
+
+注 = 注射剂；常 = 口服常释剂型　　缓 = 口服缓释剂型　　颗 = 口服颗粒剂
+二、抗寄生虫病药 »
+
+
+
+
+
+
+
+
+
+
+
+
+规范控制
+
+
+
+GND: 4130621-1
+NDL: 00565484
+
+
+
+
+
+
+
+
+
+
+
+
+分类：被半保护的页面呼吸系统疾病细菌性疾病隐藏分类：CS1英语来源 (en)引文格式1错误：不可见字符含有过时参数的引用的页面拥有贡献者连结的条目含有英语的条目含有德语的条目包含规范控制信息的维基百科条目
