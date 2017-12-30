@@ -52,7 +52,7 @@ class HtmlOutputer(object):
         fout.close()
 
 
-    def output_html(self, title, users, users_edits):
+    def output_html(self, title, edit_history_url):
         # set_trace()
         if not (os.path.isfile("html/"+"wiki_"+ title+"_intext.html")):
            filename = "wiki_" + title
@@ -89,6 +89,7 @@ class HtmlOutputer(object):
             bb.close()
 
         # save the editors history
+        '''
         filename2 = "wiki_" + title
         fout = open("wiki_history/"+filename2+".html",'w', encoding='utf-8')
         fout.write('<html>')
@@ -112,7 +113,7 @@ class HtmlOutputer(object):
             b2 = pandas.ExcelWriter("wiki_history_xlsx/"+ filename2+'.xlsx')
             ddf[0].to_excel(b2)
             b2.close()
-
+        '''
 
     def output_randomhtml_init(self):
         filename = "wiki_output"
@@ -122,7 +123,7 @@ class HtmlOutputer(object):
         fout.write('<table>')
         fout.close()
 
-    def output_randomhtml(self, title, link, degree, pageviews_url, edits, editors, first_edit, totalviews, reference_count, category, all_len):
+    def output_randomhtml(self, title, link, degree, pageviews_url, edits, editors, first_edit, totalviews, reference_count, category, all_len, edit_history_url):
         # set_trace()
         filename = 'wiki_output'
 
@@ -138,6 +139,7 @@ class HtmlOutputer(object):
         fout.write('<td>%s</td>' % totalviews)
         fout.write('<td>%s</td>' % reference_count)
         fout.write('<td>%s</td>' % all_len)
+        fout.write('<td>%s</td>' % edit_history_url)
         count_j = 0
         html_str = ""
         for jj in category:

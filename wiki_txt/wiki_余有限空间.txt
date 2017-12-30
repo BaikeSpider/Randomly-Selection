@@ -1,0 +1,49 @@
+余有限空间
+若一个集
+
+
+
+X
+
+
+{\displaystyle X}
+
+的子集
+
+
+
+Y
+
+
+{\displaystyle Y}
+
+，使得补集
+
+
+
+X
+−
+Y
+
+
+{\displaystyle X-Y}
+
+为有限集，则称
+
+
+
+Y
+
+
+{\displaystyle Y}
+
+为
+
+
+
+X
+
+
+{\displaystyle X}
+
+的余有限集（cofinite）。

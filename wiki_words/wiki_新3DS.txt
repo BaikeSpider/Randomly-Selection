@@ -1,0 +1,1426 @@
+新任天堂3DS
+
+
+
+
+
+
+
+
+
+
+
+新任天堂3DS
+
+
+
+
+
+
+
+制造商
+任天堂
+
+
+产品家族
+任天堂3DS家族
+
+
+型式
+掌上游戏机
+
+
+世代
+第八世代
+
+
+推出日期
+
+
+日本：2014年10月11日[1]
+澳洲：2014年11月21日
+欧洲：2015年2月13日
+美国：2015年2月13日（新3DSXL）
+2015年9月25日（新3DS）
+韩国：2015年5月1日 （新3DS XL）
+2015年9月10日（新3DS）
+台湾：即将来临（新3DSXL）
+香港：即将来临（新3DSXL）
+
+
+
+
+单价
+JP¥16,000（新3DS）
+JP￥18,800（新3DS LL）
+
+
+停产日期
+新3DS
+
+日本：2017年7月13日[2][3][4]
+欧洲：2017年7月14日[5]
+
+
+
+
+媒体
+DS、DSi和3DS专用软件卡带
+
+
+CPU
+ARM11 MPCore 4x @ 268MHz(运行于3DS通用软件) 或 804Mhz(运行于新3DS专用软件)[6]
+
+
+储存空间
+主机内置空间及microSD/microSDHC记忆卡
+
+
+控制器输入
+陀螺仪感应、体感感应器、游戏控制器
+
+
+连接界面
+无线通信、Wi-Fi通信、擦身通信、不知不觉通信、红外线
+
+
+在线服务
+
+
+任天堂网络（Nintendo Network）[7]
+
+
+
+
+任天堂电子商店
+Miiverse
+任天堂视频
+不知不觉交换日记
+不知不觉通信
+
+
+
+
+
+
+向下兼容
+DS、DSi专用软件
+
+
+前代机种
+任天堂3DS、任天堂3DS LL/XL
+
+
+后继机种
+新任天堂2DS XL/LL
+
+
+新任天堂3DS（日语：Newニンテンドー3DS，英语：New Nintendo 3DS）是一款任天堂于2014年10月11日在日本起推出的便携式游戏机，是针对任天堂3DS的新版机型。
+新任天堂3DS与原版任天堂3DS相比，增大了屏幕的面积、采用了机能更强的CPU、加入了近场通信模块(兼容于FeliCa)、加入了一对新肩键“ZL”和“ZR”、加入了右摇杆“C-Stick”、使用了可视角度更大的新立体显示上屏幕、采用体积更小巧的microSD及microSDHC储存卡、提升了摄影机的画素、支持网络影片播放，支持外壳自定义等。[8]
+
+
+
+目录
+
+
+1 硬件
+
+1.1 硬件比较
+
+
+2 游戏软件
+3 颜色与限定版本
+4 新任天堂3DS LL/XL
+5 备注
+6 参考资料
+7 外部链接
+
+
+
+硬件[编辑]
+参见：任天堂3DS的硬件
+新任天堂3DS在硬件方面与老版任天堂3DS相比，有一定幅度的变化与提高。
+新任天堂3DS的右手按键“A”、“B”、“X”、“Y”加入了超级任天堂（Super Famicom）手柄的右手按键配色。
+
+
+
+
+超级任天堂的手柄
+
+
+硬件比较[编辑]
+
+
+新任天堂3DS、新任天堂3DS LL/XL、任天堂2DS、任天堂3DS LL/XL、任天堂3DS的比较
+
+
+机种
+新任天堂3DS
+新任天堂3DS LL/XL
+任天堂2DS
+任天堂3DS LL/XL
+任天堂3DS
+
+
+外观
+
+
+
+
+
+
+
+
+
+
+
+
+现况
+已停产
+发售中
+发售中
+已停产
+已停产
+
+
+发售日期(日本)
+2014年10月11日
+2014年10月11日
+2013年10月12日
+2012年7月28日
+2011年2月26日
+
+
+初期定价
+JP¥16,000
+JP¥18,800
+USD$199.99
+KR₩225,000
+US$129.99
+EUR€129.99
+JP¥18,900
+US$199.99
+NTD$6,980
+CNY¥1,699
+JP¥15,000
+USD$169.99
+欧洲无建议售价
+KR₩220,000
+NTD5,980
+HKD1,499
+
+
+
+
+重量
+253g
+329g[9]
+260g
+336g
+230g[10]
+
+
+屏幕
+上屏幕：3.88英寸、800 x 240px 、可显示色约1677万色
+（单眼 400 x 240 WQVGA）
+上屏幕：4.88英寸、800 x 240px 、可显示色约1677万色
+（单眼 400 x 240 WQVGA）
+上屏幕：3.53英寸、400 x 240px、可显示色约1677万色
+上屏幕：4.88英寸、800 x 240px 、可显示色约1677万色
+（单眼 400 x 240 WQVGA）
+上屏幕：3.53英寸、800 x 240 px 、可显示色约1677万色
+（单眼 400 x 240 WQVGA）
+
+
+下屏幕：3.33英寸、320 x 240 px、可显示色约1677万色
+QVGA[9]
+下屏幕：4.18英寸、320 x 240 px、可显示色约1677万色
+QVGA
+下屏幕：3.02英寸、320 x 240 px、可显示色约1677万色
+QVGA
+下屏幕：4.18英寸、320 x 240 px、可显示色约1677万色
+QVGA[10]
+下屏幕：3.02英寸、320 x 240 px、可显示色约1677万色
+QVGA
+
+
+有3D功能，含3D景深滑杆可调整(系统可依照人脸去做3D角度的调整)
+无3D功能
+有3D功能，含3D景深滑杆可调整
+
+
+24位元（真彩色） 色彩深度
+
+
+亮度自动调整（2D、3D）
+5段亮度调整（2D、3D）
+充电时，第4段亮度提升为第5段，第5段亮度提升为第6段
+
+
+电池
+3DS游戏3.5-6小时
+DS游戏6.5-10.5小时
+（电池持续时间为预估时间，依照使用软件的不同、亮度差异、3D功能开启与否、无线通信功能开启与否的使用状况而可能有所变化）
+（1400 mAh）[9]
+3DS游戏3.5-7小时
+DS游戏7-12小时
+（1750 mAh）
+3DS游戏3.5-5.5小时
+DS游戏5-9小时
+（1300 mAh）
+3DS游戏3.5-6.5小时
+DS游戏6-10小时
+（1750 mAh）[11]
+3DS游戏3-5小时
+DS游戏5-8小时
+（1300 mAh）[12]
+
+
+相机
+一个前置2D镜头（含人脸识别功能）
+两个后置3D镜头（相比3DS与2DS加强了暗光下成像质量）[13]
+30万像素
+一个前置2D镜头
+两个后置3D镜头
+30万像素（VGA）[14]
+
+
+实体按键
+
+
+A、B、X、Y按键
+十字键
+L、R按键
+ZL、ZR按键
+START按键
+SELECT按键
+HOME按键
+类比滑垫（可360度控制）
+C-Pad微型摇杆（可360度控制）
+触摸屏
+音量滑杆
+3D景深滑杆
+电源按钮
+
+
+
+
+A、B、X、Y按键
+十字键
+L、R按键
+START按键
+SELECT按键
+HOME按键
+类比滑垫（可360度控制）
+触摸屏
+音量滑杆
+睡眠模式开关
+无线通信开关
+电源按钮
+
+
+
+
+A、B、X、Y按键
+十字键
+L、R按键
+START按键
+SELECT按键
+HOME按键
+类比滑垫（可360度控制）
+触摸屏
+音量滑杆
+3D景深滑杆
+无线通信开关
+电源按钮
+
+
+
+
+输入及通信
+内建802.11b/g、红外线、近场通信、3轴加速规、3轴陀螺仪、麦克风
+内建802.11b/g、红外线、3轴加速规、3轴陀螺仪、麦克风
+
+
+卡带插槽
+3DS/DSi/DS、micro SD[9]
+3DS/DSi/DS、[15] SD
+
+
+储存空间
+内建4 GB eMMC NAND快闪存储器（三星 KLM4G1YWQC-B301，可使用micro SD/micro SDHC储存卡扩充（内附4GB记忆卡）[a] [16]
+内建2 GB NAND快闪存储器（东芝 THGBM2G3P1FBAI8）[17]，可使用SD/SDHC/SDXC储存卡扩充（内附4GB记忆卡）[18]
+内建2 GB NAND快闪存储器（东芝 THGBM2G3P1FBAI8），可使用SD/SDHC/SDXC储存卡扩充（内附2GB记忆卡）[19]
+
+
+内存
+256MB 富士通 FCRAM [20]
+128MB 富士通 MB82M8080-07L
+
+
+VRAM
+10MB [20]
+6MB
+
+
+处理器
+ARM11 MPCore 4x @ 268MHz [20]
+Nintendo 1048 0H ARM（ARM1176JZ(F)-S）[17][21]（双核）
+
+
+图形
+PICA200（日语：PICA200），由Digital Media Professionals（DMP）生产[22][23][24] [20]
+
+
+游戏卡带
+目前最大容量为8GB（8 Giga Byte，8192MB）[25][26]
+
+
+尺寸
+宽142mm
+深80.6mm
+高21.6mm
+宽160mm
+深93.5mm
+高21.5mm[9]
+宽144mm
+深127mm
+高20.3mm
+宽156mm
+深93mm
+高22mm
+宽134mm
+深74mm
+高21mm[10]
+
+
+触控笔
+大小未知
+85mm
+长96mm
+长71mm
+伸长时长102mm
+宽4.9mm[15]
+
+
+
+
+区域限制
+3DS软件分为日本、北美、欧澳、韩国、大中华、台港和中国大陆区域限制[27]
+
+
+商品内容
+
+
+新3DS主机 1 部
+新3DS主机专用可更换式外壳（分上下，共2枚）
+新3DS专用触控笔 1 支（已预先收在主机上）
+4GB micro SDHC记忆卡 1 个
+AR卡 6 张
+使用说明书及保证书 1 份
+
+
+
+
+新3DS LL/XL主机 1 部
+新3DS LL/XL用触控笔 1 支（已预先收在主机上）
+4GB micro SDHC记忆卡 1 个
+AR卡 6 张
+使用说明书及保证书 1 份
+
+
+
+
+2DS 主机 1 部
+AC变压器（WAP-002） 1 个
+（与DSi、DSiLL用AC变压器规格相同）
+2DS用触控笔 1 支（已预先收在主机上）
+4GB SD记忆卡 1 个
+AR卡 6 张
+使用说明书及保证书 1 份
+
+
+
+
+3DS LL/XL主机 1 部
+3DS LL/XL主机专用充电座 1 个（澳洲版限定）
+AC变压器（WAP-002） 1 个
+（与DSi、DSiLL用AC变压器规格相同）（日本、欧洲版没有付充电器）
+3DS LL/XL用触控笔 1 支（已预先收在主机上）
+4GB SD记忆卡 1 个
+（东芝公司所生产之产品，已预先收在主机上）
+AR卡 6 张
+使用说明书及保证书 1 份
+
+
+
+
+3DS主机 1 部
+3DS主机专用充电座 1 个
+AC变压器（WAP-002） 1 个
+（与DSi、DSiLL用AC变压器规格相同）
+3DS专用触控笔 1 支（已预先收在主机上）
+2GB SD记忆卡 1 个
+（东芝公司所生产之产品，已预先收在主机上）
+AR卡 6 张
+使用说明书及保证书 1 份
+
+
+
+
+内建软件
+
+
+安全使用说明
+任天堂3DS相机
+任天堂3DS音乐
+Mii工作室
+擦身通信Mii广场
+AR增强现实游戏（日语：ARゲームズ）
+颜面射击！（日语：顔シューティング）
+任天堂区域（日语：ニンテンドーゾーン）
+回忆记录本（日语：思い出きろく帳）
+下载通信
+系统设定
+游戏笔记本
+好友记录簿
+消息记录表
+网页浏览器（以NetFront Browser架构为基础的浏览器）【※】
+任天堂电子商店【※】
+不知不觉交换日记【※】
+欧洲体育（PAL地区限定）【※】
+Netflix（北美版本限定）【※】
+
+【※】较早出厂的3DS并不内建，需通过系统更新开放或自行下载
+
+
+
+机种
+新任天堂3DS
+任天堂3DS
+
+
+游戏软件[编辑]
+更多信息：分类:新任天堂3DS游戏
+新任天堂3DS由于机能的提升，允许游戏开发者为其制作此前无法在任天堂3DS上运行的游戏。最初在Wii平台发布的角色扮演游戏《异度神剑》在新3DS公布的同时确认作为新主机专属游戏，将只能在新任天堂3DS及新任天堂3DS LL/XL上游戏。[28] 此外，著名三维游戏引擎Unity也宣布支持新任天堂3DS作为引擎运行平台。[29]
+颜色与限定版本[编辑]
+
+白（ホワイト，White）
+
+日本地区：2014年10月11日
+澳洲地区：2014年11月21日
+欧州地区：2015年2月13日
+
+
+黑（ブラック，Black）
+
+日本地区：2014年10月11日
+欧州地区：2015年2月13日
+
+
+《口袋妖怪 欧米茄红宝石/阿尔法蓝宝石》限定版
+
+日本地区：2014年11月21日[30]
+
+
+大使版（Ambassador Edition）
+
+欧洲地区：2015年1月7日-12日
+
+
+《火焰之纹章 if》限定版
+
+日本地区：2015年6月25日（已停产）
+
+
+Nintendo 3DS for girls （マドラスチェックMadras Check）（ヤマダ电机限定商品）
+
+日本地区：2015年7月16日
+
+
+Nintendo 3DS for girls （パステルドットPastel Dot）（日本AEON限定商品）
+
+日本地区：2015年7月30日
+
+
+《超级马里奥兄弟》同捆限定版
+
+韩国地区：2015年9月10日
+
+
+Nintendo 3DS for girls （カラフルスターColourful star）
+
+日本地区：2015年9月17日
+
+
+《动物之森 快乐之家设计师》同捆限定版
+
+北美地区：2015年9月25日
+
+
+《超级马里奥兄弟30周年》限定版
+
+日本地区：2015年11月28日
+
+
+《怪物猎人 X》限定版
+
+日本地区：2015年11月28日
+
+
+《Hello Kitty》限定版
+
+日本地区：2015年11月28日
+
+
+《动物之森》限定版
+
+日本地区：2015年11月28日
+
+
+《口袋妖怪20周年》纪念包限定版
+
+北美地区：2016年2月27日
+
+
+
+新任天堂3DS LL/XL[编辑]
+
+
+
+
+一台黑色的新任天堂3DS LL/XL
+
+
+新任天堂3DS LL/XL是与新任天堂3DS同时公布的。与新任天堂3DS相比，新任天堂3DS LL（XL）在硬件方面拥有更大的屏幕和电池，但不能像新任天堂3DS那样可以更换外壳，余下与新任天堂3DS几乎一致。
+
+金属蓝（METALLIC BLUE）
+
+日本地区：2014年10月11日
+澳洲地区：2014年11月21日
+欧州地区：2015年2月13日
+韩国地区：2015年5月1日
+东南亚地：2015年8月7日
+
+
+金属黑/新黑（METALLIC BLACK/NEW BLACK）
+
+日本地区：2014年10月11日
+澳洲地区：2014年11月21日
+欧州地区：2015年2月13日
+北美地区：2015年2月13日
+东南亚地区：2015年8月1日
+
+
+金属红/新红（METALLIC RED/NEW RED）
+
+北美地区：2015年2月13日
+韩国地区：2015年5月1日
+日本地区：2015年8月27日
+
+
+珍珠白（PEARL WHITE）
+
+日本地区：2015年6月1日
+东南亚地区：2015年12月1日
+
+
+莱姆绿×黑（LIME X BLACK）
+
+日本地区：2016年6月9日
+
+
+粉红×白（PINK X WHITE）
+
+日本地区：2016年6月9日
+澳洲地区：2016年11月10日
+欧州地区：2016年11月11日
+
+
+银河蓝（GALAXY BLUE）
+
+北美地区：2016年9月2日
+日本地区：2016年11月11日 （日本玩具反斗城25周年限定版）
+
+
+橙×黑（ORANGE X BLACK）
+
+澳洲地区：2016年11月10日
+欧州地区：2016年11月11日
+
+
+《怪物猎人4G》同捆限定版
+
+日本地区：2014年10月11日
+北美地区：2015年2月13日
+韩国地区：2015年5月1日
+
+
+《任天堂明星大乱斗 3DS》限定版
+
+日本地区：2014年11月18日（已停产）
+
+
+《塞尔达传说 姆吉拉的假面 3D》限定版
+
+日本地区：2015年2月13日
+北美地区：2015年2月13日
+欧洲地区：2015年2月13日
+
+
+《动物之森 快乐之家设计师》同捆限定版
+
+日本地区：2015年7月30日（已停产）
+
+
+《塞尔达传说》海拉尔王国限定版
+
+北美地区：2015年10月30日
+
+
+《怪物猎人 X》（红色）同捆限定版
+
+日本地区：2015年11月28日
+
+
+《塞尔达无双 海拉尔群星集结》同捆限定版
+
+日本地区：2016年1月21日
+
+
+《火焰之纹章 if》限定版
+
+北美地区：2016年2月19日
+日本地区：2016年4月上旬
+
+
+超级任天堂限定版
+
+日本地区：2016年4月中旬
+
+
+《怪物猎人 X》（蓝色）同捆限定版
+
+日本地区：2016年4月28日
+
+
+《口袋妖怪》太阳月亮限定版 (黄)
+
+日本地区：2016年11月18日
+
+
+《口袋妖怪》太阳月亮限定版 (黑)
+
+日本地区：2016年11月18日
+
+
+
+备注[编辑]
+
+
+
+^ 任天堂官方Q&A中表示新任天堂3DS/XL/LL将不支持SDXC格式的microSD储存卡
+
+
+
+参考资料[编辑]
+
+
+^ ニンテンドー3DSの新しい仲间。2014.10.11発売.任天堂.[2014-08-29].
+^ 老任的新 3DS 已显示“生产终了”
+^ 小屏幕掌机时代的终结　任天堂宣布新3DS停产
+^ 任天堂宣布 New N3DS 停产 掌机主力全面 LL 大尺寸化
+^ Nintendo Of Europe Halts New Nintendo 3DS Production
+^ Nintendo unveils 'new' 3DS, 3DS XL【update】.Joystiq.2014-08-29.[2014-08-29].
+^ 2012年1月27日（金）経営方针说明会 / 第3四半期决算说明会 任天堂株式会社 社长 岩田聡 讲演内容全文 P.4Nintendo
+^ Newニンテンドー3DS | 特长.任天堂.[2014-08-29].
+^ 9.0 9.1 9.2 9.3 9.4 本体概要. nintendo.co.jp. 2014-08-29 [2014-09-05]. 
+^ 10.0 10.1 10.2 Nintendo 3DS Spec Sheet (PDF). nintendo.co.jp. 2010-09-29 [2010-09-29]. 
+^ Nintendo 3DS XL Battery pack buy page. Nintendo. [2013-05-15]. Nintendo 3DS XL Battery image 6.5WA@3.7V=1750mAh. Nintendo. [2013-05-15]. 
+^ Hardware. Nintendo. 2011-01-08 [2011-01-08]. 
+^ カメラの性能がアップ，より暗いところでも、撮影できるようになりました。. nintendo.co.jp. 2014-08-29 [2014-09-05]. 
+^ Nintendo 3DS Spec Sheet (PDF). nintendo.co.jp. 29 September 2010 [29 September 2010]. 
+^ 15.0 15.1 Check Out The 3DS' Specs. Kotaku. [2010-06-18]. 
+^ Q: SDXCには対応していますか？A: 非対応です。. nintendo.co.jp. 2014-08-29 [2014-09-05]. 
+^ 17.0 17.1 Nintendo 3DS teardown, iFixit
+^ 3DS XL Circle Pad Pro Expansion Coming This Year. andriasang. [2012-07-07]. （原始内容存档于2013-01-20）. 
+^ Nintendo 3DS Hitting Japan Feb. 26 – US/Europe March 2011 | GamesOnSmash
+^ 20.0 20.1 20.2 20.3 New 3DS XL Review.GameSpot.2015-01-23.[2015-02-09].
+^ ARM 内核的授权与应用－ARM1176JZ(F)-S维基百科
+^ Nintendo 3DS graphics chip revealed. Eurogamer Network Ltd. 
+^ PICA200 活用事例 任天堂株式会社 様 / ニンテンドー3DS™. Digital Media Professionals. 
+^ プレスリリース：ニンテンドー3DS™にDMPの3DグラフィックスIPコア“PICA200”が采用される (PDF). Digital Media Professionals. 
+^ 3DS Game Cards Could Reach a Mighty 8GB. Nintendo Life. 
+^ 外媒：任天堂3DS游戏卡带容量可达8GB. 新浪. 
+^ Nintendo Explains Region Locking. IGN. 
+^ Wii JRPG Xenoblade Chronicles coming to new 3DS.Joystiq.2014-08-29.[2014-09-10]
+^ UNITY TO SUPPORT NEW NINTENDO 3DS AND NEW NINTENDO 3DS XL.Unity Technologies.2015-04-13.[2015-04-13].
+^ ‘ポケットモンスター オメガルビー・アルファサファイア’のオリジナルNewニンテンドー3DSが9月20日より予约受付开始.Fami通.2014-09-13.[2014-09-21].
+
+
+外部链接[编辑]
+
+官方网站（日文）
+官方网站（英文）
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+任天堂3DS家族
+
+
+
+
+
+
+硬件
+
+
+
+任天堂3DS
+任天堂2DS
+新任天堂3DS
+新任天堂2DS LL
+
+
+
+
+
+
+
+
+
+
+
+网络
+
+
+
+任天堂Network
+任天堂eShop
+
+
+
+
+
+
+
+
+软件
+
+
+
+系统软件
+中文区游戏
+畅销游戏
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+任天堂游戏硬件
+
+
+
+
+
+
+家用游戏机
+
+
+
+Color TV-Game
+红白机
+
+夏普任天堂电视
+红白机编辑
+Twin Famicom
+
+
+超级任天堂
+
+mini
+
+
+任天堂64
+
+神游机
+
+
+任天堂GameCube
+Wii
+
+Mini
+
+
+Wii U
+任天堂Switch
+
+
+
+
+
+
+
+
+
+
+
+掌上游戏机
+
+
+
+Game & Watch
+Game Boy
+
+Pocket
+Light
+
+
+Game Boy Color
+Virtual Boy
+Game Boy Advance
+
+SP
+Micro
+
+
+任天堂DS家族
+
+任天堂DS
+Lite
+DSi
+
+
+任天堂3DS家族
+
+3DS
+2DS
+新3DS
+新2DS LL
+
+
+
+
+
+
+
+
+
+
+街机基板
+
+
+
+任天堂对战系统
+
+
+
+
+
+
+
+
+周边配件
+
+
+
+磁碟机
+播放君
+Satellaview
+64DD
+GBA传输线
+Wii遥控器
+任天堂力量
+
+
+
+
+
+
+
+
+技术
+
+
+
+任天堂光盘
+Broadway（Wii）
+Espresso（Wii U）
+Erista（Switch）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+电子游戏机 （第八世代）
+
+
+
+
+
+
+类型
+
+
+
+家用游戏机
+
+列表
+
+
+掌上游戏机
+
+列表
+
+
+微型游戏机
+专用游戏机
+街机
+
+列表
+
+
+
+
+
+
+
+
+
+
+世代
+
+
+
+第一（1972–1980）
+第二（1976–1992）
+第三（1983–2003）
+第四（1987–2004）
+第五（1993–2006）
+第六（1998–2013）
+第七（2005–2017）
+第八（2012–）
+
+
+
+
+
+
+
+
+第八世代
+
+
+
+
+家用游戏机
+
+
+
+Wii U
+PlayStation 4
+
+PRO
+
+
+Xbox One
+
+X (Scorpio)
+
+
+
+
+
+
+
+
+
+
+掌上游戏机
+
+
+
+任天堂3DS
+
+新3DS
+2DS
+新2DS XL/LL
+
+
+PlayStation Vita
+Jewelpod
+
+
+
+
+
+
+
+
+微型游戏机
+
+
+
+Amazon Fire TV
+GamePop
+GameStick
+MOJO
+Nexus Player
+OnLive
+Ouya
+PlayStation Vita TV
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+掌上游戏机
+
+
+
+
+
+
+万代
+
+
+
+WonderSwan
+
+WonderSwan Color
+SwanCrystal
+
+
+拓麻歌子
+携带机
+
+
+
+
+
+
+
+
+Entex
+
+
+
+Select-A-Game
+Adventurevision
+
+
+
+
+
+
+
+
+Game Park（英语：Game Park）/Holdings（英语：GamePark Holdings）
+
+
+
+GP32（英语：GP32）
+GP2X（英语：GP2X）
+XGP（英语：XGP）（从未发售）
+GP2X Wiz（英语：GP2X Wiz）
+GP2X Caanoo（英语：GP2X Caanoo）
+
+
+
+
+
+
+
+
+任天堂
+
+
+
+Game & Watch
+Game Boy
+
+Pocket
+Light
+Color
+
+
+Game Boy Advance
+
+SP
+Micro
+
+
+任天堂DS
+
+任天堂DS Lite
+任天堂DSi
+
+
+任天堂3DS
+
+2DS
+新3DS
+新2DS XL/LL
+
+
+任天堂Switch
+
+
+
+
+
+
+
+
+诺基亚
+
+
+
+N-Gage
+N-Gage QD（英语：N-Gage QD）
+
+
+
+
+
+
+
+
+世嘉
+
+
+
+Game Gear
+Nomad
+Jewelpod
+
+
+
+
+
+
+
+
+SNK
+
+
+
+Neo Geo Pocket
+Neo Geo Pocket Color
+Neo Geo X（英语：Neo Geo X）
+
+
+
+
+
+
+
+
+索尼
+
+
+
+PlayStation Portable
+
+Slim & Lite
+PSP Go
+
+
+PlayStation Vita
+
+PlayStation Vita TV
+
+
+
+
+
+
+
+
+
+
+其它
+
+
+
+
+
+1970年代
+
+
+
+
+Microvision
+
+
+
+
+
+
+
+
+
+1980年代
+
+
+
+
+Nelsonic Industries（英语：Nelsonic Industries）
+Electronika（英语：Electronika）
+Epoch Game Pocket Computer
+Atari Lynx
+
+
+
+
+
+
+
+
+
+1990年代
+
+
+
+
+TurboExpress（英语：TurboExpress）
+Game Master (游戏机)（英语：Game Master (console)）
+Gamate（英语：Gamate）
+Barcode Battler（英语：Barcode Battler）
+Watara Supervision（英语：Watara Supervision）
+Mega Duck（英语：Mega Duck）
+R-Zone（英语：R-Zone）
+Game.com（英语：Game.com）
+
+
+
+
+
+
+
+
+
+2000年代
+
+
+
+
+Tapwave Zodiac（英语：Tapwave Zodiac）
+GameKing（英语：GameKing）
+GPANG service（英语：GPANG）
+Didj（英语：Leapfrog Didj）
+Leapster（英语：Leapster）
+Gizmondo（英语：Gizmondo）
+Coleco Sonic（英语：Coleco Sonic）
+Dingoo（英语：Dingoo A320）
+V-Smile Pocket（英语：V-Smile Pocket）
+
+
+
+
+
+
+
+
+
+2010年代
+
+
+
+
+JXD devices（英语：JXD）
+Pandora (游戏机)（英语：Pandora (console)）
+DragonBox Pyra（英语：DragonBox Pyra）
+Shield Portable
+GCW Zero（英语：GCW Zero）
+GPD Win（英语：GPD Win）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+列表
+
+
+
+
+
+
+
+
+
+
+
+
+分类：任天堂3DS家族游戏机任天堂游戏机第八世代游戏机三维成像近场通信2014年面世的产品隐藏分类：使用过时图像语法的页面维基百科和维基数据上的官方网站不同

@@ -1,0 +1,294 @@
+α-胎儿蛋白
+
+
+
+
+
+
+
+
+AFP
+
+
+
+
+
+
+
+
+已知的结构
+
+
+PDB
+Ortholog search: PDBe RCSB
+
+
+
+
+
+PDBID列表
+
+
+
+3MRK
+
+
+
+
+
+
+
+
+
+识别号
+
+
+别名
+AFP；AFPD、​FETA、​HPAFP、​alpha fetoprotein
+
+
+外部ID
+OMIM：104150 MGI：87951 HomoloGene：36278 GeneCards：AFP
+
+
+
+
+
+基因本体
+
+
+分子功能
+• metal ion binding
+• 血浆蛋白结合
+
+
+细胞组分
+• extracellular region
+• extracellular space
+• 细胞质
+• 细胞质基质
+• endoplasmic reticulum lumen
+
+
+生物学过程
+• ovulation from ovarian follicle
+• SMAD protein signal transduction
+• 有性生殖
+• progesterone metabolic process
+• post-translational protein modification
+• cellular protein metabolic process
+• transport
+
+
+Sources:Amigo / QuickGO
+
+
+
+
+
+RNA表达模式
+
+
+
+
+
+更多参考（基因）表达数据
+
+
+直系同源
+
+
+物种
+人类
+小鼠
+
+
+Entrez
+
+
+
+
+
+
+
+174
+
+
+
+
+
+
+
+
+
+
+
+11576
+
+
+
+
+
+
+Ensembl
+
+
+
+
+
+
+
+ENSG00000081051
+
+
+
+
+
+
+
+
+
+
+
+ENSMUSG00000054932
+
+
+
+
+
+
+UniProt
+
+
+
+
+
+
+
+P02771
+
+
+
+
+
+
+
+
+
+
+
+P02772
+
+
+
+
+
+
+mRNA​序列
+
+
+
+
+
+
+
+NM_001134、NM_001354717
+
+
+
+
+
+
+
+
+
+
+
+NM_007423
+
+
+
+
+
+
+蛋白序列
+
+
+
+
+
+
+
+NP_001125、NP_001341646
+
+
+
+
+
+
+
+
+
+
+
+NP_031449
+
+
+
+
+
+
+基因位置​(UCSC)
+Chr 4: 73.43 – 73.46 Mb
+n/a
+
+
+PubMed​查找
+[1]
+[2]
+
+
+维基数据
+
+
+检视/编辑 人类
+检视/编辑 小鼠
+
+
+α-胎儿蛋白（英语：Alpha-Fetoprotein，缩写AFP；又译甲种胎儿球蛋白或甲胎蛋白）是一种α-1球蛋白，由胎儿肠胃道、卵黄囊及肝脏分泌，但可经由肾脏排入尿液、羊水，并通过胎盘进入母体血流中。在正常妊娠时，胎儿血清中之胎儿蛋白浓度于12至14周间达到最高，而母体血清中之浓度则于28至32周间达到最高。如果羊水或母体血清中α-胎儿蛋白超过正常范围，需考虑胎儿发育异常；诸如：神经管缺损，先天性肾病变，肠道闭锁、死胎、胎儿窘迫……等。也就是说，α-胎儿蛋白虽是一项非特异指标，但对于产前评估胎儿健康状态甚具临床价值，也是帮助检查胎儿异常之一项筛检工具。
+许多肝病皆可能伴随α-胎儿蛋白之升高，因此可作为临床参考。例如80%~90%的肝细胞癌病人，其血液中α-胎儿蛋白有升高之现象，故在肝病甚为流行的区域(如台湾)，利用α-胎儿蛋白及超音波作为高危险群病人筛检方式，成效不错。再如肝硬化病人当中有些合并有α-胎儿蛋白之升高，其可能代表肝细胞再生的持续进行但若持续地上升﹐则须积极追纵，找出可能的恶性变化。此外，急慢性肝炎患者，其血中α-胎儿蛋白常随着肝细胞坏死后之再生而升高。其高峰往往在转氨基的高峰之后；其升高程度间接地反应肝细胞坏死后的再生能力，也因此常被利用作为病理变化及病程预后之参考。
+参考文献[编辑]
+
+
+^ Human PubMed Reference:. 
+^ Mouse PubMed Reference:. 
+
+
+延伸阅读[编辑]
+
+
+Nahon JL. The regulation of albumin and alpha-fetoprotein gene expression in mammals. Biochimie. 1987, 69 (5): 445–59. PMID 2445387. doi:10.1016/0300-9084(87)90082-4. 
+Tilghman SM. The structure and regulation of the alpha-fetoprotein and albumin genes. Oxf. Surv. Eukaryot. Genes. 1989, 2: 160–206. PMID 2474300. 
+Mizejewski GJ. Biological role of alpha-fetoprotein in cancer: prospects for anticancer therapy. Expert Rev Anticancer Ther. 2003, 2 (6): 709–35. PMID 12503217. doi:10.1586/14737140.2.6.709. 
+Yachnin S, Hsu R, Heinrikson RL, Miller JB. Studies on human alpha-fetoprotein. Isolation and characterization of monomeric and polymeric forms and amino-terminal sequence analysis. Biochim. Biophys. Acta. 1977, 493 (2): 418–28. PMID 70228. doi:10.1016/0005-2795(77)90198-2. 
+Aoyagi Y, Ikenaka T, Ichida F. Comparative chemical structures of human alpha-fetoproteins from fetal serum and from ascites fluid of a patient with hepatoma. Cancer Res. 1977, 37 (10): 3663–7. PMID 71198. 
+Aoyagi Y, Ikenaka T, Ichida F. Copper(II)-binding ability of human alpha-fetoprotein. Cancer Res. 1978, 38 (10): 3483–6. PMID 80265. 
+Aoyagi Y, Ikenaka T, Ichida F. alpha-Fetoprotein as a carrier protein in plasma and its bilirubin-binding ability. Cancer Res. 1979, 39 (9): 3571–4. PMID 89900. 
+Torres JM, Anel A, Uriel J. Alpha-fetoprotein-mediated uptake of fatty acids by human T lymphocytes. J. Cell. Physiol. 1992, 150 (3): 456–62. PMID 1371512. doi:10.1002/jcp.1041500305. 
+Greenberg F, Faucett A, Rose E, 等. Congenital deficiency of alpha-fetoprotein. Am. J. Obstet. Gynecol. 1992, 167 (2): 509–11. PMID 1379776. 
+Bansal V, Kumari K, Dixit A, Sahib MK. Interaction of human alpha fetoprotein with bilirubin. Indian J. Exp. Biol. 1991, 28 (7): 697–8. PMID 1703124. 
+Pucci P, Siciliano R, Malorni A, 等. Human alpha-fetoprotein primary structure: a mass spectrometric study. Biochemistry. 1991, 30 (20): 5061–6. PMID 1709810. doi:10.1021/bi00234a032. 
+Liu MC, Yu S, Sy J, 等. Tyrosine sulfation of proteins from the human hepatoma cell line HepG2. Proceedings of the National Academy of Sciences of the United States of America. 1985, 82 (21): 7160–4. PMC 390808. PMID 2414772. doi:10.1073/pnas.82.21.7160. 
+Gibbs PE, Zielinski R, Boyd C, Dugaiczyk A. Structure, polymorphism, and novel repeated DNA elements revealed by a complete sequence of the human alpha-fetoprotein gene. Biochemistry. 1987, 26 (5): 1332–43. PMID 2436661. doi:10.1021/bi00379a020. 
+Sakai M, Morinaga T, Urano Y, 等. The human alpha-fetoprotein gene. Sequence organization and the 5' flanking region. J. Biol. Chem. 1985, 260 (8): 5055–60. PMID 2580830. 
+Ruoslahti E, Pihko H, Vaheri A, 等. Alpha fetoprotein: structure and expression in man and inbred mouse strains under normal conditions and liver injury. Johns Hopkins Med. J. Suppl. 1975, 3: 249–55. PMID 4138095. 
+Urano Y, Sakai M, Watanabe K, Tamaoki T. Tandem arrangement of the albumin and alpha-fetoprotein genes in the human genome. Gene. 1985, 32 (3): 255–61. PMID 6085063. doi:10.1016/0378-1119(84)90001-5. 
+Beattie WG, Dugaiczyk A. Structure and evolution of human alpha-fetoprotein deduced from partial sequence of cloned cDNA. Gene. 1983, 20 (3): 415–22. PMID 6187626. doi:10.1016/0378-1119(82)90210-4. 
+Morinaga T, Sakai M, Wegmann TG, Tamaoki T. Primary structures of human alpha-fetoprotein and its mRNA. Proceedings of the National Academy of Sciences of the United States of America. 1983, 80 (15): 4604–8. PMC 384092. PMID 6192439. doi:10.1073/pnas.80.15.4604. 
+
+
+
+
+
+
+分类：位于4号人类染色体的基因蛋白质产科学隐藏分类：小写标题

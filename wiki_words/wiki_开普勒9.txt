@@ -1,0 +1,203 @@
+开普勒9
+
+
+
+
+
+
+
+
+Kepler-9
+
+
+
+艺术家笔下的开普勒9和其行星开普勒9b和开普勒9c
+
+
+
+观测资料
+历元 J2000
+
+
+星座
+天琴座
+
+
+星官
+
+
+
+赤经
+19h 2m 17.76s
+
+
+赤纬
++38° 24′ 3.2″
+
+
+视星等（V）
+13.9 [1]
+
+
+天体测定
+
+
+
+
+
+距离
+2120 ly
+(650[2] pc)
+
+
+
+
+
+特性
+
+
+光谱分类
+G2V
+
+
+详细资料
+
+
+
+
+
+质量
+1.07[2] M☉
+
+
+半径
+1.02[2] R☉
+
+
+表面重力 (log g)
+4.49 ± 0.09[2]
+
+
+温度
+5777 ± 61[2] K
+
+
+金属量
+[Fe/H] = +0.12 ± 0.04[2]
+
+
+年龄
+~1[2] Gyr
+
+
+
+
+
+其他命名
+
+
+
+KIC 3323887 , KOI 377
+
+
+
+开普勒9（Kepler-9）是一个位于天琴座，开普勒太空望远镜视野内的类太阳恒星。开普勒9已确定发现三颗系外行星，都是以凌日法发现。前两颗行星于2010年8月26日宣布发现，第三颗则于2011年1月1日宣布发现。这是首次以凌日法发现多颗行星的行星系。开普勒9的其中两颗行星互为轨道共振。
+
+
+
+目录
+
+
+1 名称与观测历史
+2 母恒星与行星系统
+3 参见
+4 参考资料
+
+
+
+名称与观测历史[编辑]
+开普勒9的名称由来自NASA专门寻找太阳系外类地行星的开普勒太空望远镜[3]。该恒星并无固有名称。
+2010年6月，开普勒太空望远镜上线观测后43日，该计划的科学家提出了超过700颗系外行星的候选名单以进行进一步观测。起初，有5颗恒星被认为有一颗以上的行星，而开普勒9是其中之一。科学家确认了开普勒9在每次行星凌日的时间间隔中有明显的光度变化[4]。开普勒9是第一个使用凌日法发现多颗系外行星的恒星[5]。并于2010年8月26日公布这项发现[6]。
+
+
+
+
+开普勒9的行星凌日光变曲线
+
+
+母恒星与行星系统[编辑]
+目前已确认有三颗系外行星环绕着黄矮星开普勒9。较外侧的两颗行星开普勒9b（较接近母恒星）和开普勒9c（较远离母恒星）是低密度的气体巨行星；质量分别是木星的25%和17%，而半径是木星的80%。这两颗行星类似土星，密度都比水低。最内侧的行星开普勒9d是超级地球，半径是地球的1.64倍[7]，轨道周期1.6日。估计这项发现有0.59%的错误机率[2]。
+最接近母恒星的开普勒9d和第二近的开普勒9b轨道共振比例是1:12。而较外侧两颗行星的共振比例是1:2。开普勒9b和开普勒9c是首次以凌日法发现这种轨道形式的系外行星[8]。轨道共振使每个行星的轨道速度改变，并且使行星凌日时间也产生震荡。开普勒9b每次环绕母星周期增加4分钟，开普勒9c则是减少39分钟。轨道周期的变化允许研究人员使用动力学模型得知行星的质量（凌日法一般无法得知行星质量）。这些行星质量是进一步由凯克天文台的高分辨率阶梯光栅光谱仪（HIRES）以多普勒光谱学方式进一步确定[8][9]。
+开普勒9b和9c被认为形成于“雪线”之外。它们被认为是和原行星盘的残余物体交互作用后向内迁移。并且它们在迁移中被锁定轨道共振频率[8]。
+
+开普勒9的行星系[6]
+
+成员
+(依恒星距离)
+质量
+半长轴
+(AU)
+轨道周期
+(天)
+离心率
+倾角
+半径
+
+
+d
+7.0 M⊕
+0.027
+1.59
+0
+ ?
+1.60 R⊕
+
+
+b
+0.252 ± 0.013 MJ
+0.140 ± 0.001
+19.24
+0
+ ?
+0.842 ± 0.069 RJ
+
+
+c
+0.171 ± 0.013 MJ
+0.225 ± 0.001
+38.91
+0
+ ?
+0.823 ± 0.067 RJ
+
+
+参见[编辑]
+
+确定存在的太阳系外行星列表
+开普勒太空望远镜
+
+参考资料[编辑]
+
+
+^ Notes for star Kepler-9. Extrasolar Planets Encyclopaedia. 2010 [6 February 2011]. （原始内容存档于2011年1月3日）. 
+^ 2.0 2.1 2.2 2.3 2.4 2.5 2.6 2.7 Guillermo Torres; 等. Modeling Kepler transit light curves as false positives: Rejection of blend scenarios for KOI-377, and strong evidence for a super-Earth-size planet in a multiple system. The Astrophysical Journal. 2010, 727 (24): 24. Bibcode:2011ApJ...727...24T. arXiv:1008.4393. doi:10.1088/0004-637X/727/1/24.  引文格式1维护：显式使用等标签 (link)
+^ Kepler: About the Mission. Kepler Mission. NASA. 2011 [13 January 2011]. 
+^ NASA's Kepler Mission Discovers Two Planets Transiting Same Star. NASA Jet Propulsion Laboratory. NASA. 26 August 2010 [13 January 2011]. 
+^ Nancy Atkinson. Kepler Discovers Multi-Planet System. Universe Today. 26 August 2010 [13 January 2011]. 
+^ 6.0 6.1 NASA's Kepler Mission Discovers Two Planets Transiting the Same Star. NASA. 2010-08-26 [2010-08-26]. 
+^ http://www.kepler.nasa.gov/Mission/discoveries/
+^ 8.0 8.1 8.2 Matthew J. Holman; 等. Kepler-9: A System of Multiple Planets Transiting a Sun-Like Star, Confirmed by Timing Variations. Science. 2010, 330 (6000): 51–54. Bibcode:2010Sci...330...51H. PMID 20798283. doi:10.1126/science.1195778.  引文格式1维护：显式使用等标签 (link)
+^ Alexander, Amir. From the Ground and from Space, New Planetary Systems Unveiled. Planetary Society web site. The Planetary Society. 2010-08-27 [2010-08-27]. （原始内容存档于2010-09-01）.  外部链接存在于|work= (帮助)
+
+
+
+
+Keith Cooper (26 August 2010). "Kepler finds first double planet transiting system", Astronomy Now. Accessed 7 September 2010.
+
+
+天球赤道座标： 19h 2m 17.76s，+38°24′3.2″
+
+
+
+
+分类：行星系天琴座黄矮星隐藏分类：引文格式1维护：显式使用等标签引文格式1错误：外部链接

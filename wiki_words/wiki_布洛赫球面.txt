@@ -1,0 +1,1833 @@
+布洛赫球面
+
+
+
+
+布洛赫球面
+
+
+量子力学中，以自旋物理与核磁共振专家费利克斯·布洛赫（Felix Bloch）姓氏命名的布洛赫球面是一种对于双态系统中纯态空间的几何表示法。在讨论量子位元的场合上常常运用到。[1]
+
+
+
+目录
+
+
+1 布洛赫球面诸点与纯态的对应
+2 习惯差异
+3 布洛赫球与混合态
+4 参见
+5 注释
+6 外部链接
+
+
+
+布洛赫球面诸点与纯态的对应[编辑]
+对量子位元这样的二阶量子系统而言，其存在的可能状态
+
+
+
+
+|
+
+ψ
+⟩
+
+
+{\displaystyle |\psi \rangle }
+
+（采用狄拉克标记的右矢表示）可以由两个互相正交的基底以复数线性叠加所构成，这两个基底可以选用
+
+
+
+
+|
+
+0
+⟩
+
+
+{\displaystyle |0\rangle }
+
+和
+
+
+
+
+|
+
+1
+⟩
+
+
+{\displaystyle |1\rangle }
+
+为代表。在物理实作上，
+
+
+
+
+|
+
+0
+⟩
+
+
+{\displaystyle |0\rangle }
+
+和
+
+
+
+
+|
+
+1
+⟩
+
+
+{\displaystyle |1\rangle }
+
+代表了做投影式量子测量所会得到的唯二结果。
+从任意纯态出发：
+
+
+
+
+|
+
+ψ
+⟩
+=
+α
+
+
+|
+
+0
+⟩
++
+β
+
+
+|
+
+1
+⟩
+
+
+{\displaystyle |\psi \rangle =\alpha \,|0\rangle +\beta \,|1\rangle }
+
+，其中
+
+
+
+α
+,
+β
+∈
+
+C
+
+,
+
+
+|
+
+α
+
+
+|
+
+
+2
+
+
++
+
+|
+
+β
+
+
+|
+
+
+2
+
+
+=
+1
+
+
+
+{\displaystyle \alpha ,\beta \in \mathbb {C} ,\quad |\alpha |^{2}+|\beta |^{2}=1\,}
+
+。
+故可设：
+
+ 
+  
+    
+      
+        α
+        =
+        cos
+        ⁡
+        θ
+        
+        
+          e
+          
+            i
+            δ
+          
+        
+        ,
+        
+        β
+        =
+        sin
+        ⁡
+        θ
+        
+        
+          e
+          
+            i
+            (
+            δ
+            +
+            ϕ
+            )
+          
+        
+        
+      
+    
+    {\displaystyle \alpha =\cos \theta \,e^{i\delta },\quad \beta =\sin \theta \,e^{i(\delta +\phi )}\,}
+  
+
+ 
+  
+    
+      
+        ⇒
+        
+          |
+        
+        ψ
+        ⟩
+        =
+        cos
+        ⁡
+        θ
+        
+        
+          e
+          
+            i
+            δ
+          
+        
+        
+        
+          |
+        
+        0
+        ⟩
+        +
+        sin
+        ⁡
+        θ
+        
+        
+          e
+          
+            i
+            (
+            δ
+            +
+            ϕ
+            )
+          
+        
+        
+        
+          |
+        
+        1
+        ⟩
+        =
+        
+          e
+          
+            i
+            δ
+          
+        
+        (
+        cos
+        ⁡
+        θ
+        
+        
+          |
+        
+        0
+        ⟩
+        +
+        sin
+        ⁡
+        θ
+        
+        
+          e
+          
+            i
+            ϕ
+          
+        
+        
+        
+          |
+        
+        1
+        ⟩
+        )
+      
+    
+    {\displaystyle \Rightarrow |\psi \rangle =\cos \theta \,e^{i\delta }\,|0\rangle +\sin \theta \,e^{i(\delta +\phi )}\,|1\rangle =e^{i\delta }(\cos \theta \,|0\rangle +\sin \theta \,e^{i\phi }\,|1\rangle )}
+  
+
+
+其中
+
+
+
+
+e
+
+i
+δ
+
+
+
+
+
+{\displaystyle e^{i\delta }\,}
+
+称作共同相位（global phase），因为对
+
+
+
+
+|
+
+0
+⟩
+
+
+{\displaystyle |0\rangle }
+
+、对
+
+
+
+
+|
+
+1
+⟩
+
+
+{\displaystyle |1\rangle }
+
+都一样影响，而在实验上测量不出来，故可以将之舍弃不看。
+至于相对相位(relative phase) 
+
+
+
+
+e
+
+i
+ϕ
+
+
+
+
+
+{\displaystyle e^{i\phi }\,}
+
+就不同了，它的影响可以在球面上表现出来。故得：
+
+  
+  
+    
+      
+        
+          |
+        
+        ψ
+        ⟩
+        =
+        cos
+        ⁡
+        θ
+        
+        
+          |
+        
+        0
+        ⟩
+        +
+        sin
+        ⁡
+        θ
+        
+        
+          e
+          
+            i
+            ϕ
+          
+        
+        
+        
+          |
+        
+        1
+        ⟩
+      
+    
+    {\displaystyle |\psi \rangle =\cos \theta \,|0\rangle +\sin \theta \,e^{i\phi }\,|1\rangle }
+  
+
+
+可以看到
+
+
+
+
+|
+
+0
+⟩
+
+
+{\displaystyle |0\rangle }
+
+的系数
+
+
+
+cos
+⁡
+θ
+
+
+
+{\displaystyle \cos \theta \,}
+
+是实数，并且
+
+
+
+cos
+⁡
+θ
+
+
+
+{\displaystyle \cos \theta \,}
+
+在原先
+
+
+
+α
+=
+cos
+⁡
+θ
+
+
+e
+
+i
+δ
+
+
+
+
+
+{\displaystyle \alpha =\cos \theta \,e^{i\delta }\,}
+
+所代表的是复数
+
+
+
+α
+
+
+
+{\displaystyle \alpha \,}
+
+的长度（模、幅值，amplitude），故
+
+
+
+cos
+⁡
+θ
+
+
+
+{\displaystyle \cos \theta \,}
+
+结果要是非负实数；
+
+
+
+sin
+⁡
+θ
+
+
+
+{\displaystyle \sin \theta \,}
+
+亦是如此道理。故可定出
+
+
+
+θ
+
+
+
+{\displaystyle \theta \,}
+
+与
+
+
+
+ϕ
+
+
+
+{\displaystyle \phi \,}
+
+的范围如下：
+
+ 
+  
+    
+      
+        0
+        ≤
+        θ
+        ≤
+        
+          
+            π
+            2
+          
+        
+        ⇒
+        0
+        ≤
+        2
+        θ
+        ≤
+        π
+        ,
+        
+      
+    
+    {\displaystyle 0\leq \theta \leq {\frac {\pi }{2}}\Rightarrow 0\leq 2\theta \leq \pi ,\quad }
+  
+
+ 
+  
+    
+      
+        0
+        ≤
+        ϕ
+        <
+        2
+        π
+      
+    
+    {\displaystyle 0\leq \phi <2\pi }
+  
+
+
+将
+
+
+
+2
+θ
+
+
+
+{\displaystyle 2\theta \,}
+
+和
+
+
+
+ϕ
+
+
+
+{\displaystyle \phi \,}
+
+的所有分布在三维空间
+
+
+
+
+
+R
+
+
+3
+
+
+
+
+{\displaystyle \mathbb {R} ^{3}}
+
+中画出来，就可以得到一个球面，此即布洛赫球面，如同图1。
+
+ 
+  
+    
+      
+        
+          
+            
+              
+                x
+              
+              
+                =
+              
+              
+                sin
+                ⁡
+                2
+                θ
+                ×
+                cos
+                ⁡
+                ϕ
+              
+            
+            
+              
+                y
+              
+              
+                =
+              
+              
+                sin
+                ⁡
+                2
+                θ
+                ×
+                sin
+                ⁡
+                ϕ
+              
+            
+            
+              
+                z
+              
+              
+                =
+              
+              
+                cos
+                ⁡
+                2
+                θ
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{matrix}x&=&\sin 2\theta \times \cos \phi \\y&=&\sin 2\theta \times \sin \phi \\z&=&\cos 2\theta \end{matrix}}}
+  
+
+
+可以注意到正交（有“垂直，呈90度关系”的意思）的两个基底
+
+
+
+
+|
+
+0
+⟩
+
+
+{\displaystyle |0\rangle }
+
+和
+
+
+
+
+|
+
+1
+⟩
+
+
+{\displaystyle |1\rangle }
+
+在此几何表示法下成为一轴的两端，变成180度关系（
+
+
+
+2
+θ
+
+
+
+{\displaystyle 2\theta \,}
+
+的缘故）。通常设定它们处在
+
+
+
+z
+
+
+
+{\displaystyle z\,}
+
+轴，即：
+
+
+
+
+
+
+|
+
+0
+⟩
+
+
+{\displaystyle |0\rangle }
+
+是
+
+
+
+
+z
+
++
+
+
+:
+
+(
+0
+,
+0
+,
+1
+)
+
+
+{\displaystyle z_{+}:\,(0,0,1)}
+
+、
+
+
+
+
+
+|
+
+1
+⟩
+
+
+{\displaystyle |1\rangle }
+
+是
+
+
+
+
+z
+
+−
+
+
+:
+
+(
+0
+,
+0
+,
+−
+1
+)
+
+
+{\displaystyle z_{-}:\,(0,0,-1)}
+
+，
+
+离球心距离皆是1。
+习惯差异[编辑]
+有些学者及书刊对于球面所采用的表示为：
+
+ 
+  
+    
+      
+        
+          
+            
+              
+                x
+              
+              
+                =
+              
+              
+                sin
+                ⁡
+                θ
+                ×
+                cos
+                ⁡
+                ϕ
+              
+            
+            
+              
+                y
+              
+              
+                =
+              
+              
+                sin
+                ⁡
+                θ
+                ×
+                sin
+                ⁡
+                ϕ
+              
+            
+            
+              
+                z
+              
+              
+                =
+              
+              
+                cos
+                ⁡
+                θ
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{matrix}x&=&\sin \theta \times \cos \phi \\y&=&\sin \theta \times \sin \phi \\z&=&\cos \theta \end{matrix}}}
+  
+
+
+角度范围：
+
+ 
+  
+    
+      
+        0
+        ≤
+        θ
+        ≤
+        π
+        ,
+        
+        0
+        ≤
+        ϕ
+        <
+        2
+        π
+      
+    
+    {\displaystyle 0\leq \theta \leq \pi ,\quad 0\leq \phi <2\pi }
+  
+
+
+是故，其状态
+
+
+
+
+|
+
+ψ
+⟩
+
+
+{\displaystyle |\psi \rangle }
+
+的定义为：
+
+ 
+  
+    
+      
+        
+          |
+        
+        ψ
+        ⟩
+        =
+        cos
+        ⁡
+        
+          
+            θ
+            2
+          
+        
+        
+        
+          |
+        
+        0
+        ⟩
+        +
+        sin
+        ⁡
+        
+          
+            θ
+            2
+          
+        
+        
+        
+          e
+          
+            i
+            ϕ
+          
+        
+        
+        
+          |
+        
+        1
+        ⟩
+      
+    
+    {\displaystyle |\psi \rangle =\cos {\frac {\theta }{2}}\,|0\rangle +\sin {\frac {\theta }{2}}\,e^{i\phi }\,|1\rangle }
+  
+
+
+此种表示法的用意在使布洛赫球面上
+
+
+
+(
+θ
+,
+ϕ
+)
+
+
+
+{\displaystyle (\theta ,\phi )\,}
+
+表示方式和一般
+
+
+
+
+
+R
+
+
+3
+
+
+
+
+{\displaystyle \mathbb {R} ^{3}}
+
+中的球面以球坐标
+
+
+
+(
+
+r
+
+0
+
+
+,
+θ
+,
+ϕ
+)
+
+
+
+{\displaystyle (r_{0},\theta ,\phi )\,}
+
+表示方式一致。
+布洛赫球与混合态[编辑]
+布洛赫球（Bloch ball）是布洛赫球面的扩充，混合态（mixed state）会出现在球内（离球心距离<1的点）而不是球面上。[2][3]并可从此推论出球心该点所代表的量子状态是最大混合态（maximally mixed state），用密度矩阵形式及狄拉克标记表示即（另见“量子位元”）：
+
+
+
+
+
+
+
+1
+2
+
+
+
+1
+
+=
+
+
+1
+2
+
+
+
+
+(
+
+
+
+1
+
+
+0
+
+
+
+
+0
+
+
+1
+
+
+
+)
+
+
+
+
+{\displaystyle {\frac {1}{2}}\mathbf {1} ={\frac {1}{2}}{\begin{pmatrix}1&0\\0&1\end{pmatrix}}}
+
+
+
+
+
+
+=
+
+
+1
+2
+
+
+
+
+(
+
+
+
+1
+
+
+0
+
+
+
+
+0
+
+
+0
+
+
+
+)
+
+
++
+
+
+1
+2
+
+
+
+
+(
+
+
+
+0
+
+
+0
+
+
+
+
+0
+
+
+1
+
+
+
+)
+
+
+
+
+{\displaystyle ={\frac {1}{2}}{\begin{pmatrix}1&0\\0&0\end{pmatrix}}+{\frac {1}{2}}{\begin{pmatrix}0&0\\0&1\end{pmatrix}}}
+
+
+
+
+
+=
+
+
+1
+2
+
+
+
+|
+
+0
+⟩
+⟨
+0
+
+|
+
++
+
+
+1
+2
+
+
+
+|
+
+1
+⟩
+⟨
+1
+
+|
+
+=
+
+
+1
+2
+
+
+
+z
+
++
+
+
++
+
+
+1
+2
+
+
+
+z
+
+−
+
+
+
+
+{\displaystyle ={\frac {1}{2}}|0\rangle \langle 0|+{\frac {1}{2}}|1\rangle \langle 1|={\frac {1}{2}}z_{+}+{\frac {1}{2}}z_{-}}
+
+
+
+
+
+
+=
+
+
+1
+2
+
+
+
+
+(
+
+
+
+
+
+1
+2
+
+
+
+
+
+
+1
+2
+
+
+
+
+
+
+
+
+1
+2
+
+
+
+
+
+
+1
+2
+
+
+
+
+
+)
+
+
++
+
+
+1
+2
+
+
+
+
+(
+
+
+
+
+
+1
+2
+
+
+
+
+−
+
+
+1
+2
+
+
+
+
+
+
+−
+
+
+1
+2
+
+
+
+
+
+
+1
+2
+
+
+
+
+
+)
+
+
+=
+
+
+1
+2
+
+
+
+x
+
++
+
+
++
+
+
+1
+2
+
+
+
+x
+
+−
+
+
+
+
+{\displaystyle ={\frac {1}{2}}{\begin{pmatrix}{\frac {1}{2}}&{\frac {1}{2}}\\{\frac {1}{2}}&{\frac {1}{2}}\end{pmatrix}}+{\frac {1}{2}}{\begin{pmatrix}{\frac {1}{2}}&-{\frac {1}{2}}\\-{\frac {1}{2}}&{\frac {1}{2}}\end{pmatrix}}={\frac {1}{2}}x_{+}+{\frac {1}{2}}x_{-}}
+
+
+
+
+
+
+=
+
+
+1
+2
+
+
+
+
+(
+
+
+
+
+
+1
+2
+
+
+
+
+−
+
+
+i
+2
+
+
+
+
+
+
+
+
+i
+2
+
+
+
+
+
+
+1
+2
+
+
+
+
+
+)
+
+
++
+
+
+1
+2
+
+
+
+
+(
+
+
+
+
+
+1
+2
+
+
+
+
+
+
+i
+2
+
+
+
+
+
+
+−
+
+
+i
+2
+
+
+
+
+
+
+1
+2
+
+
+
+
+
+)
+
+
+=
+
+
+1
+2
+
+
+
+y
+
++
+
+
++
+
+
+1
+2
+
+
+
+y
+
+−
+
+
+
+
+{\displaystyle ={\frac {1}{2}}{\begin{pmatrix}{\frac {1}{2}}&-{\frac {i}{2}}\\{\frac {i}{2}}&{\frac {1}{2}}\end{pmatrix}}+{\frac {1}{2}}{\begin{pmatrix}{\frac {1}{2}}&{\frac {i}{2}}\\-{\frac {i}{2}}&{\frac {1}{2}}\end{pmatrix}}={\frac {1}{2}}y_{+}+{\frac {1}{2}}y_{-}}
+
+。
+
+可以看到这是两个彼此正交的纯态以恰好一半一半的比例构成混合态。
+参见[编辑]
+
+居量反转
+
+注释[编辑]
+
+
+^ Bloch, Felix. Nuclear induction. Phys. Rev. Oct 1946, 70 (7-8): 460–474. Bibcode:1946PhRv...70..460B. doi:10.1103/physrev.70.460. 
+^ Nielsen, Michael A.; Chuang, Isaac L. Quantum Computation and Quantum Information. Cambridge University Press. 2004. ISBN 978-0-521-63503-5. 
+^ http://www.quantiki.org/wiki/Bloch_sphere
+
+
+外部链接[编辑]
+
+Density Operator of a Single Qubit: The Bloch Sphere
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+量子力学
+
+
+
+
+
+
+
+入门 · 数学表述 · 历史
+
+
+
+
+
+
+背景
+
+
+
+入门
+历史
+
+量子力学时间轴（英语：Timeline of quantum mechanics）
+
+
+经典力学
+旧量子论
+基本量子力学词汇表（英语：Glossary of elementary quantum mechanics）
+
+
+
+
+
+
+
+
+基础
+
+
+
+狄拉克符号
+互补原理
+密度矩阵
+能级
+
+基态
+激发态
+简并能级
+零点能量
+
+
+量子缠结
+哈密顿算符
+干涉
+量子退相干
+量子测量
+量子非局部性（英语：Quantum nonlocality）
+量子态
+态叠加原理
+量子穿隧效应
+散射理论（英语：Scattering theory）
+量子力学对称性（英语：Symmetry in quantum mechanics）
+不确定性原理
+波函数
+
+波函数坍缩
+波粒二象性
+
+
+量子跳跃（英语：Atomic electron transition）
+量子位元
+
+
+
+
+
+
+
+
+表述
+
+
+
+量子力学的数学表述
+海森堡绘景
+相互作用绘景
+矩阵力学
+薛定谔绘景
+路径积分表述
+相空间表述
+
+
+
+
+
+
+
+
+方程
+
+
+
+狄拉克方程式
+克莱因-戈尔登方程
+包立方程式
+里德伯公式
+薛定谔方程
+
+
+
+
+
+
+
+
+空间几何
+
+
+
+布洛赫球面
+旋矢空间（英语：Gyrovector space）
+
+
+
+
+
+
+
+
+诠释
+
+
+
+量子力学诠释
+量子贝叶斯诠释（英语：Quantum Bayesianism）
+一致性历史
+哥本哈根诠释
+德布罗意-玻姆理论
+系综诠释
+隐变量理论
+多世界诠释
+客观坍缩理论
+量子逻辑（英语：Quantum logic）
+关系性量子力学
+随机量子力学（英语：Stochastic quantum mechanics）
+交易诠释
+宇宙学诠释
+
+
+
+
+
+
+
+
+实验
+
+
+
+阿弗沙尔实验
+贝尔测试实验（英语：Bell test experiments）
+冷原子实验室（英语：Cold Atom Laboratory）
+戴维森－革末实验
+延迟选择量子擦除实验
+双缝实验
+法兰克-赫兹实验
+莱格特 - 加尔格不等式（英语：Leggett–Garg inequality）
+马赫-曾德尔干涉仪
+伊利泽-威德曼炸弹测试问题
+波普尔实验
+量子擦除实验
+薛定谔猫
+施特恩－格拉赫实验
+惠勒延迟选择实验
+
+
+
+
+
+
+
+
+量子奈米科学（英语：Quantum nanoscience）
+
+
+
+量子贝叶斯诠释（英语：Quantum Bayesianism）
+量子生物学
+量子微积分（英语：Quantum calculus）
+量子化学
+量子混沌（英语：Quantum chaos）
+量子认知（英语：Quantum cognition）
+量子宇宙学
+量子微分（英语：Quantum differential calculus）
+量子动力学（英语：Quantum dynamics）
+量子演化（英语：Quantum evolution）
+量子几何（英语：Quantum geometry）
+量子群
+测量问题（英语：Measurement problem）
+量子心灵
+量子概率（英语：Quantum probability）
+量子随机演算（英语：Quantum stochastic calculus）
+量子时空（英语：Quantum spacetime）
+
+
+
+
+
+
+
+
+量子技术（英语：Quantum technology）
+
+
+
+量子算法（英语：Quantum algorithm）
+量子放大器（英语：Quantum amplifier）
+量子总线（英语：Quantum bus）
+量子细胞自动机（英语：Quantum cellular automaton）
+
+量子有限自动机（英语：Quantum finite automata）
+
+
+量子通道（英语：Quantum channel）
+量子线路
+量子复杂性理论
+量子计算机
+
+量子计算时间轴（英语：Timeline of quantum computing）
+
+
+量子密码学
+量子电子学
+量子误差校正（英语：Quantum error correction）
+量子成像（英语：Quantum imaging）
+量子图像处理（英语：Quantum image processing）
+量子信息
+量子密钥分发
+量子逻辑（英语：Quantum logic）
+量子闸
+量子机（英语：Quantum machine）
+量子机器学习（英语：Quantum machine learning）
+量子超材料（英语：Quantum metamaterial）
+量子计量学（英语：Quantum metrology）
+量子网络
+量子神经网络（英语：Quantum neural network）
+量子光学
+量子编程（英语：Quantum programming）
+量子传感器（英语：Quantum sensor）
+量子模拟器（英语：Quantum simulator）
+量子隐形传态
+
+
+
+
+
+
+
+
+进阶研究
+
+
+
+量子统计力学（英语：Quantum statistical mechanics）
+相对论之量子力学（英语：Relativistic quantum mechanics）
+量子场论
+
+量子场理论史（英语：History of quantum field theory）
+
+
+量子引力
+分数量子力学（英语：Fractional quantum mechanics）
+
+
+
+
+
+
+
+
+物理学者
+
+
+
+普朗克
+玻尔
+埃伦费斯特
+海森堡
+薛定谔
+德布罗意
+玻恩
+爱因斯坦
+艾弗雷特
+索末菲
+冯·诺伊曼
+费曼
+狄拉克
+泡利
+维恩
+玻姆
+贝尔
+蔡林格
+
+
+
+
+
+
+
+
+
+
+
+ Category
+ Portal:物理学
+ Commons
+
+
+
+
+
+
+
+
+
+
+
+
+分类：量子力学量子信息射影几何

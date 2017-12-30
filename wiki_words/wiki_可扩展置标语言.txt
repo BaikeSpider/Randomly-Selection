@@ -1,0 +1,1344 @@
+XML
+
+
+
+
+
+
+XML
+
+
+
+
+扩展名
+.xml
+
+
+互联网媒体类型
+
+
+
+application/xml
+text/xml[1]
+
+
+
+
+
+统一类型标识（英语：Uniform Type Identifier）
+public.xml
+
+
+UTI结构
+public.text
+
+
+开发者
+万维网联盟
+
+
+格式类型
+标记语言
+
+
+延伸自
+SGML
+
+
+延伸成
+
+
+
+XHTML
+RSS
+Atom
+KML
+
+
+
+
+
+标准
+
+
+
+1.0（第五版）
+(2008年11月26日，​9年前​（2008-11-26）)
+1.1（第二版）
+(2006年8月16日，​11年前​（2006-08-16）)
+
+
+
+
+
+自由格式？
+是
+
+
+可扩展标记语言（英语：Extensible Markup Language，简称：XML），是一种标记语言。标记指计算机所能理解的信息符号，通过此种标记，计算机之间可以处理包含各种信息的文章等。如何定义这些标记，既可以选择国际通用的标记语言，比如HTML，也可以使用像XML这样由相关人士自由决定的标记语言，这就是语言的可扩展性。XML是从标准通用标记语言（SGML）中简化修改出来的。它主要用到的有可扩展标记语言、可扩展样式语言（XSL）、XBRL和XPath等。
+
+
+
+目录
+
+
+1 历史
+2 用途
+3 例
+
+3.1 结构
+
+
+4 参考文献
+5 外部链接
+6 参见
+
+
+
+历史[编辑]
+XML是从1995年开始有其雏形，并向W3C（万维网联盟）提案，而在1998年二月发布为W3C的标准（XML1.0）。XML的前身是SGML（The Standard Generalized Markup Language），是自IBM从1960年代就开始发展的GML（Generalized Markup Language）标准化后的名称。
+GML的重要概念：
+
+文件中能够明确的将标示与内容分开
+所有文件的标示使用方法均一致
+
+1978年，ANSI将GML加以整理规范，发布成为SGML，1986年起为ISO所采用（ISO 8879），并且被广泛地运用在各种大型的文件计划中，但是SGML是一种非常严谨的文件描述法，导致过于庞大复杂（标准手册就有500多页），难以理解和学习，进而影响其推广与应用。
+同时W3C也发现到HTML的问题：
+
+不能解决所有解释数据的问题 - 像是影音档或化学公式、音乐符号等其他形态的内容。
+性能问题 - 需要下载整份文件，才能开始对文件做搜索。
+扩充性、弹性、易读性均不佳。
+
+为了解决以上问题，专家们使用SGML精简制作，并依照HTML的发展经验，产生出一套使用上规则严谨，但是简单的描述数据语言：XML。
+XML是在一个这样的背景下诞生的——为了有一个更中立的方式，让消费端自行决定要如何消化、呈现从服务端所提供的信息。
+XML被广泛用来作为跨平台之间交互数据的形式，主要针对数据的内容，通过不同的格式化描述手段（XSLT，CSS等）可以完成最终的形式表达（生成对应的HTML，PDF或者其他的文件格式）。
+用途[编辑]
+
+
+RecipeBook的例子，一种基于XML语法上的烹饪技术书刊。此标签可转换为：HTML, PDF以及Rich Text Format并使用编程语言或XSL。
+
+
+XML设计用来传送及携带数据信息，不用来表现或展示数据，HTML语言则用来表现数据，所以XML用途的焦点是它说明数据是什么，以及携带数据信息。
+
+丰富文件（Rich Documents）- 自定文件描述并使其更丰富
+
+属于文件为主的XML技术应用
+标记是用来定义一份资料应该如何呈现
+
+
+元数据（Metadata）- 描述其它文件或网络资讯
+
+属于资料为主的XML技术应用
+标记是用来说明一份资料的意义
+
+
+配置文档（Configuration Files）- 描述软件设置的参数
+
+例[编辑]
+XML定义结构、存储信息、传送信息。下例为小张发送给大元的便条，存储为XML。
+
+
+1 <?xml version="1.0"?>
+2 <小纸条>
+3  <收件人>大元</收件人>
+4  <發件人>小張</發件人>
+5  <主題>問候</主題>
+6  <具體內容>早啊，飯吃了沒？ </具體內容>
+7 </小纸条>
+
+这XML文档仅是纯粹的信息标签，这些标签意义的展开依赖于应用它的程序。
+结构[编辑]
+每个XML文档都由XML序言开始，在前面的代码中的第一行就是XML序言，<?xml version="1.0"?>。这一行代码会告诉解析器或浏览器这个文件应该按照XML规则进行解析。
+但是，根元素到底叫<小纸条>还是<小便条>，则是由文档类型定义（DTD）或XML纲要定义的。如果DTD规定根元素必须叫<小便条>，那你写作<小纸条>就不匹配要求。这种不匹配DTD或XML纲要的要求的XML文档，被称作不合法的XML，反之则是合法的XML。
+XML文件的第二行并不一定要包含文档元素；如果有注释或者其他内容，文档元素可以迟些出现。
+
+
+这个PI一般会直接放在XML序言之后，通常由Web浏览器使用，来将XML数据以特殊的样式显示出来。
+XML的结构有一个缺陷，那就是不支持分帧（framing）。当多条XML消息在TCP上传输的时候，无法基于XML协议来确定一条XML消息是否已经结束。
+参考文献[编辑]
+
+
+^ XML Media Types, RFC 7303. Internet Engineering Task Force. July 2014. 
+
+
+外部链接[编辑]
+
+XML及SGML名词英汉翻译表 （繁体中文）
+XML验证器 （英文）
+XML格式化程序 （英文）
+
+参见[编辑]
+
+XHTML
+DTD（文件类型描述）
+XML Schema
+XLink
+SVG
+XSLT
+X3D
+HTML
+CSS
+RDF
+RSS
+
+Unicode
+
+
+MXML
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+万维网联盟（W3C）
+
+
+
+
+
+
+产品及
+标准
+
+
+
+
+推荐
+
+
+
+ARIA（英语：WAI-ARIA）
+Canonical XML
+CDF（英语：Compound Document Format）
+CSS
+DOM
+地理位置API（英语：W3C Geolocation API）
+HTML（HTML5）
+ITS（英语：Internationalization Tag Set）
+MathML
+OWL
+P3P
+PLS（英语：Pronunciation Lexicon Specification）
+RDF
+RDF Schema（英语：RDF Schema）
+SISR（英语：Semantic Interpretation for Speech Recognition）
+SKOS
+SMIL
+SOAP
+SRGS（英语：Speech Recognition Grammar Specification）
+SSML
+SVG
+SPARQL
+Timed Text（英语：Timed Text）
+VoiceXML
+网页存储
+WSDL
+XForms
+XHTML
+XHTML+RDFa（英语：XHTML+RDFa）
+XInclude（英语：XInclude）
+XLink
+XML
+XML Base
+XML Encryption
+XML Events（英语：XML Events）
+XML信息集
+XML命名空间
+XML Schema
+XML Signature
+XOP（英语：XML-binary Optimized Packaging）
+XPath
+XPath 2.0（英语：XPath 2.0）
+XPointer（英语：XPointer）
+XProc（英语：XProc）
+XQuery（英语：XQuery）
+XSL
+XSL-FO
+XSLT（元素（英语：XSLT elements））
+
+
+
+
+
+
+
+
+记录
+
+
+
+XAdES（英语：XAdES）
+XHTML+SMIL（英语：XHTML+SMIL）
+XUP
+
+
+
+
+
+
+
+
+工作草案
+
+
+
+CCXML（英语：Call Control eXtensible Markup Language）
+CURIE（英语：CURIE）
+EME
+InkML
+JSON-LD
+MSE
+RIF
+SCXML（英语：SCXML）
+SMIL时间表（英语：SMIL Timesheets）
+sXBL（英语：sXBL）
+WICD（英语：Web Integration Compound Document）
+XFDL（英语：Extensible Forms Description Language）
+XFrames（英语：XFrames）
+XBL
+XMLHttpRequest
+
+
+
+
+
+
+
+
+检测
+
+
+
+无障碍网页检测（英语：Web Content Accessibility Guidelines）
+
+
+
+
+
+
+
+
+倡议
+
+
+
+多通道交互活动（MMI）（英语：W3C MMI）
+验证服务
+无障碍网页倡议（英语：Web Accessibility Initiative）
+网络平台（英语：WebPlatform）
+
+
+
+
+
+
+
+
+弃用
+
+
+
+C-HTML
+HDML（英语：Handheld Device Markup Language）
+JSSS（英语：JavaScript Style Sheets）
+PGML（英语：Precision Graphics Markup Language）
+VML
+XHTML+MathML+SVG（英语：XHTML+MathML+SVG）
+
+
+
+
+
+
+
+
+
+
+
+机构
+
+
+
+
+
+
+
+万维网基金会（英语：World Wide Web Foundation）
+
+
+
+
+
+
+
+
+工作小组
+
+
+
+SVG（英语：SVG Working Group）
+CSS（英语：CSS Working Group）
+HTML（英语：HTML Working Group）
+WebOnt（语义网活动）（英语：WebOnt）
+设备描述（DDWG）（英语：W3C Device Description Working Group）
+网页超文本技术工作小组（WHATWG）
+
+
+
+
+
+
+
+
+
+
+
+软件
+
+
+
+
+
+
+
+CERN httpd
+Libwww
+
+
+
+
+
+
+
+
+浏览器
+
+
+
+Line Mode （1990年－）
+Arena （1993年－1998年）
+Agora （1994年－1997年）（英语：Agora (web browser)）
+Argo （1994年－1997年）（英语：Argo (web browser)）
+Amaya （浏览器及编辑器，1996年－2012年）
+
+
+
+
+
+
+
+
+
+
+
+会议
+
+
+
+国际万维网大会（WWW大会）（英语：International World Wide Web Conference）
+
+督导委员会（IW3C2）（英语：International World Wide Web Conferences Steering Committee）
+第一届（WWW1，1994年）（英语：First International Conference on the World-Wide Web）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+数据交换格式
+
+
+
+
+
+
+人类可读的格式
+
+
+
+Atom
+XML
+YAML
+JSON
+资源描述框架(RDF)
+Rebol
+RSS
+网络本体语言(OWL)
+
+
+
+
+
+
+
+
+二进制格式
+
+
+
+AMF
+Base32
+Base36
+Base58
+Base64
+Ascii85
+MessagePack
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+网页浏览器
+
+
+
+
+
+
+
+
+
+比较
+列表
+时间线
+使用率
+分类
+
+
+
+
+
+
+
+
+
+
+
+
+
+特点
+
+
+
+
+广告拦截（英语：Ad filtering）
+增强浏览（英语：Augmented browsing）
+书签
+
+小书签
+即时书签（英语：Features of Firefox#Live bookmarks）
+智能书签（英语：Smart Bookmarks）
+
+
+浏览器扩展
+浏览器安全（英语：Browser security）
+浏览器同步器（英语：Browser synchronizer）
+
+比较（英语：Comparison of browser synchronizers）
+
+
+Cookie
+下载管理器
+Favicon
+增量查找（英语：Incremental search）
+插件
+隐私模式（英语：Privacy mode）
+标签页
+通用编辑按钮（英语：Universal Edit Button）
+
+
+
+
+
+
+
+
+
+网页标准
+
+
+
+
+Acid测试（英语：Web Standards Project）
+HTML
+
+HTML5
+
+
+CSS
+SVG
+XHTML
+WebGL
+JavaScript
+数学置标语言
+
+
+
+
+
+
+
+
+
+协议
+
+
+
+
+超文本传输协议
+超文本传输安全协议
+在线证书状态协议
+SPDY
+传输层安全性协议
+WebSocket
+网络代理自动发现协议
+
+
+
+
+
+
+
+
+
+相关主题
+
+
+
+
+BrowserChoice.eu
+证书吊销列表
+iLoo（英语：iLoo）
+网络包
+浏览器中间人攻击（英语：Man-in-the-browser）
+移动端网页（英语：Mobile Web）
+离线浏览
+代理自动配置
+Pwn2Own（英语：Pwn2Own）
+丰富互联网应用程序
+指定网站浏览器（英语：Site-specific browser）
+控件
+万维网
+XML
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+计算机平台
+
+
+
+
+
+
+
+
+
+
+
+Blink排版引擎
+
+
+
+
+Chromium
+
+Brave
+Google Chrome
+科摩多龙安全浏览器
+SRWare Iron
+SuperBird
+Catalina Citrio
+CocCoc Corom
+
+
+Opera（15～）
+七星浏览器
+Vivaldi
+Coowon
+Orbitum
+PlayFree
+Beamrise
+BlackHawk
+uCoz Uran
+Baidu Spark
+Jutao Caimao
+Torch
+Yandex Browser
+Ortigra Titanium
+Rambler Nichrome
+Ishenyou 265gChrome
+HiddenReflex EpicPrivacy
+
+
+
+
+
+
+
+
+
+Gecko排版引擎
+
+
+
+
+Firefox
+
+Cyberfox
+Waterfox
+IceWeasel
+Comodo IceDragon
+
+
+Galeon
+K-Meleon
+GNU IceCat
+SwiftWeasel
+XB Browser
+Camino
+
+Beonex Communicator
+SeaMonkey
+Netscape
+
+
+
+
+
+
+
+
+
+
+
+Trident排版引擎
+
+
+
+
+Internet Explorer
+GreenBrowser
+SlimBrowser
+2345王牌浏览器
+MyIE
+KKman
+PCMan Combo
+MSN Explorer
+WebbIE
+MenuBox
+Crazy Browser
+Deepnet Explorer
+GOSURF
+iRider
+mxie
+NeoPlanet
+AOL Explorer
+Deepnet Explorer
+NeoPlanet
+NetCaptor
+MediaBrowser
+SpaceTime
+UltraBrowser
+
+
+
+
+
+
+
+
+
+WebKit排版引擎
+
+
+
+
+Safari
+Konqueror
+Epiphany（2.28～）
+ICab（4.0～）
+OmniWeb（4.0～）
+ABrowse
+Uzbl
+Dooble
+Midori
+QupZilla
+Rekonq
+SkyKruzer
+Arora
+Flock
+Shiira
+
+
+
+
+
+
+
+
+
+EdgeHTML排版引擎
+
+
+
+
+Microsoft Edge
+
+
+
+
+
+
+
+
+
+混合排版引擎
+
+
+
+
+Sleipnir
+Lunascape
+Netscape Browser
+猎豹浏览器
+淘宝浏览器
+百度浏览器
+爱帆浏览器
+枫树浏览器
+太阳花浏览器
+世界之窗浏览器
+360极速浏览器
+搜狗浏览器（2.0～）
+傲游浏览器（3.0～）
+QQ浏览器（5.0～）
+
+
+
+
+
+
+
+
+
+其他排版引擎
+
+
+
+
+abaco
+Amaya
+KidZui
+Charon
+Dillo
+Gazelle
+IBM Watson Explorer
+NetSurf
+Arachne（英语：Arachne (web browser)）
+Arena
+IBM Home Page Reader
+IBrowse
+Mosaic
+Mothra（英语：Mothra (web browser)）
+NetPositive
+PaleMoon（26～）
+
+
+
+
+
+
+
+
+
+纯文字排版引擎
+
+
+
+
+ELinks
+Links
+Lynx
+W3m
+Emacs/W3
+Line Mode Browser
+Net-Tamer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+移动平台
+
+
+
+
+
+
+
+
+
+
+
+Blink排版引擎
+
+
+
+
+Google Chrome
+Android浏览器
+Opera手机浏览器
+Silk（英语：Amazon Silk）
+
+
+
+
+
+
+
+
+
+Gecko排版引擎
+
+
+
+
+Firefox for Android
+MicroB
+Minimo
+
+
+
+
+
+
+
+
+
+WebKit排版引擎
+
+
+
+
+Safari
+海豚浏览器
+S60 web browser
+Steel
+BOLT
+Firefox for iOS
+
+
+
+
+
+
+
+
+
+Presto排版引擎
+
+
+
+
+Opera Mini (on Extreme/Mini modes)
+
+
+
+
+
+
+
+
+
+Trident排版引擎
+
+
+
+
+傲游云浏览器
+
+
+
+
+
+
+
+
+
+其他
+
+
+
+
+Internet Explorer Mobile
+Konqueror
+Blazer
+ibisBrowser
+Iris Browser
+NetFront
+Obigo Browser
+Skweezer
+Skyfire
+Teashark
+ThunderHawk
+UC浏览器
+uZard Web
+Vision
+WinWAP
+Smooz(ja)
+Deepfish
+Galio
+Microsoft Edge
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+电视机和电子游戏机
+
+
+
+
+
+
+
+
+
+
+
+Gecko排版引擎
+
+
+
+
+Kylo
+
+
+
+
+
+
+
+
+
+Presto排版引擎
+
+
+
+
+Internet Channel
+Opera设备浏览器
+Nintendo 3DS Internet Browser
+
+
+
+
+
+
+
+
+
+WebKit排版引擎
+
+
+
+
+Google TV
+NetFront
+Steam
+
+
+
+
+
+
+
+
+
+其他
+
+
+
+
+MSN TV
+Galio
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+删除线格式为停止开发的项目
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+网页技术与标准
+
+
+
+
+
+
+文档呈现语言
+
+
+
+HTML*（HTML5*）
+XHTML*
+XML*
+XForms*
+DHTML
+
+
+
+
+
+
+
+
+样式格式描述语言
+
+
+
+CSS*
+XSL*
+
+
+
+
+
+
+
+
+动态网页技术
+
+
+
+CGI
+FastCGI
+ASP
+ASP.NET
+ColdFusion
+JSP
+Perl（PSGI）
+Python（WSGI）
+Ruby
+Smalltalk
+PHP
+
+
+
+
+
+
+
+
+客户端交互技术
+
+
+
+ActiveX
+Java Applet
+JavaFX
+AJAX（XMLHTTP*）
+WebSocket*
+Silverlight
+ActionScript（Flash
+Flex
+AIR）
+
+
+
+
+
+
+
+
+客户端脚本语言
+
+
+
+JavaScript
+JScript
+VBScript
+ECMAScript
+
+
+
+
+
+
+
+
+标识定位语言
+
+
+
+URL
+URI
+XPath
+URL重写
+
+
+
+
+
+
+
+
+文档纲要语言
+
+
+
+DTD*
+XML Schema*
+
+
+
+
+
+
+
+
+
+* 代表由W3C制定和维护的标准与规范
+
+
+
+
+
+
+
+
+
+
+
+规范控制
+
+
+
+LCCN: sh97007825
+GND: 4501553-3
+BNF: cb131774360（数据）
+BNE: XX546216
+
+
+
+
+
+
+
+
+
+
+
+
+分类：XMLW3C标准文件格式标记语言数据序列化格式隐藏分类：使用过时图像语法的页面含有英语的条目有蓝链却未移除内部链接助手模板的页面包含规范控制信息的维基百科条目

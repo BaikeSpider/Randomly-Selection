@@ -1,0 +1,1317 @@
+双氯芬酸
+
+
+
+
+
+本条目需要精通或熟悉相关主题的编者参与及协助编辑。（2015年10月19日） 
+请邀请适合的人士改善本条目。更多的细节与详情请参见讨论页。 
+
+
+
+
+
+
+
+本条目没有列出任何参考或来源。（2015年10月19日） 
+维基百科所有的内容都应该可供查证。请协助添加来自可靠来源的引用以改善这篇条目。无法查证的内容可能被提出异议而移除。 
+
+
+
+双氯芬酸
+
+
+
+
+临床数据
+
+
+商品名
+Aclonac, Cataflam, Voltaren
+
+
+Drugs.com
+Monograph
+
+
+MedlinePlus
+a689002
+
+
+妊娠分级
+
+
+
+AU: C
+US: C (不排除有风险的可能) in 1st and 2nd trimester, D in 3rd trimester
+
+
+
+
+
+
+给药途径
+口服，直肠，静注，肌注，外用
+
+
+合法状态
+
+
+合法状态
+
+
+
+AU: 限药店出售 (S2) – S4
+UK: 处方药（℞-only） (POM) (P for topical formulation)
+℞-only in most preparations/countries, limited OTC in some countries, manufacture and veterinary use is banned in India, Nepal, and Pakistan due to imminent extinction of local vultures
+
+
+
+
+
+药代动力学数据
+
+
+蛋白结合度
+大于 99%
+
+
+代谢
+肝脏，无活性代谢产物存在
+
+
+生物半衰期
+1.2-2 小时 (35%的药物进入肝肠循环)
+
+
+排泄
+40% 胆汁 60% 尿液
+
+
+识别信息
+
+
+CAS注册号
+15307-86-5 
+
+
+ATC代码
+D11AX18 M01AB05, M02AA15, S01BC03
+
+
+PubChem
+CID 3033
+
+
+IUPHAR/BPS（英语：IUPHAR/BPS）
+2714
+
+
+DrugBank
+DB00586 
+
+
+ChemSpider
+2925 
+
+
+UNII
+144O8QL0L1 
+
+
+KEGG
+D07816 
+
+
+ChEBI
+CHEBI:47381 
+
+
+ChEMBL（英语：ChEMBL）
+CHEMBL139 
+
+
+PDB配体ID
+DIF (PDBe, RCSB PDB)
+
+
+化学信息
+
+
+化学式
+C14H11Cl2NO2
+
+
+摩尔质量
+296.148 g/mol
+
+
+
+
+SMILES
+
+
+O=C(O)Cc1ccccc1Nc2c(Cl)cccc2Cl
+
+
+
+
+
+
+
+
+InChI
+
+
+InChI=1S/C14H11Cl2NO2/c15-10-5-3-6-11(16)14(10)17-12-7-2-1-4-9(12)8-13(18)19/h1-7,17H,8H2,(H,18,19) 
+
+
+Key:DCOPUUMXTXDBNB-UHFFFAOYSA-N 
+
+
+
+
+
+
+  (what is this?)（英语：Wikipedia:WikiProject_Chemicals/Chembox_validation）  (verify)
+
+
+双氯芬酸（通用名英语：Diclofenac，来自于其化学名2-(2,6-dichloranilino) phenylacetic acid ），商品名如扶他林，是一种衍生于苯乙酸类的非甾体抗炎药（NSAID），主要用于治疗骨关节炎、类风湿关节炎、多发性肌炎、皮肌炎、脊柱关节病、强直性脊柱炎、痛风，以及偏头痛、牙痛、胆结石和肾结石等需要急性止痛的情况。药用双氯芬酸常使用钠盐或钾盐，在中国主要以钠盐为主，即双氯芬酸钠，各个国家的情况各有不同。
+
+
+
+目录
+
+
+1 作用机制
+2 成药
+
+2.1 食用
+2.2 外用凝胶剂
+2.3 肛门塞剂
+2.4 成药商标
+
+
+3 禁忌
+4 商标名称
+5 注释
+6 外部链接
+
+
+
+作用机制[编辑]
+其作用机理为抑制环氧化酶活性从而阻断花生四烯酸向前列腺素的转化生成，因前列腺素为引起疼痛、发烧及发炎等之现象的主要因子。
+成药[编辑]
+食用[编辑]
+成年人每日推荐剂量为每次25到50毫克每日三次，每日最大用量150毫克。小儿本药只能在医生指导下服用。小儿只能注射服用。
+外用凝胶剂[编辑]
+仅为外用作为一般酸痛凝胶剂，每公克约含双氯芬酸钠（Diclofenac sodium）10毫克。具有消炎、抗风湿、止痛，及解热等作用。每日3～4次；每次2～4公克。小儿、孕妇、授乳妇等使用本药建议在医生或药师、药剂生指导下使用，不建议自行使用。
+肛门塞剂[编辑]
+肛门塞剂，肠溶锭剂型，其主要有消炎、镇痛及解热作用。Voren (台湾 永信药品)。
+成药商标[编辑]
+
+辉瑞：Arthrotec（加入米索前列醇Misoprostol合用）
+东北虎药业、永信药品：Voren
+诺华：Voltaren、扶他林（中国大陆）、服他灵（香港，需要医生处方，亦有用于处方一般关节痛以外的骨痛或肌肉痛）
+
+禁忌[编辑]
+患有胃溃疡、十二指肠溃疡、血友病、肝病、心病、肾病者禁用。本药孕妇禁用。服药期间出现过敏、恶心、泻肚困难时应立即就医。
+商标名称[编辑]
+药品的商业名称包括：
+
+
+Aclonac Emulsi Gel
+A-fenac (Bangladesh)
+Abitren
+Acteric (Costa Rica)
+Almiral
+Anaflex (Argentina)
+Anuva
+Arthrotec (combination with misoprostol)
+Artifen (Pakistan Abbott Laboratories LTD)
+Befol
+Berifen
+Betaren
+Bufenac Forte
+Cambia
+Cataflam
+Catafast
+Caflam (Pakistan)
+Clafen
+Clofast
+Clonac
+Dedolor
+Deflamat
+Deflox
+Dici K (diclofenac potassium, India)
+Diclac
+Diclo M (India & Myanmar) V.I.P Pharma
+Dicloberl
+Diclobene
+Diclo-Denk (Germany)
+Diclofenac
+Diclofenac-Asteria (USA and Korea)
+Diclofenaco Normon (Spain)
+Diclofenacum
+Dicloflam (South Africa)
+Dicloflex
+Diclogem
+Diclogesic (Jordan and Romania)
+Diclohexal
+Diclon
+Diclomar (Argentina)
+Diclomex (Finland)
+Dicloran (Malaysia)
+Diclowin Plus (India)
+Diclon
+Diclopar (Tanzania)
+Diclotab (Laos)
+Diklofenak T Actavis (Sweden)
+Difen
+Difenac (Venezuela)
+Difene
+Difnal (Malaysia)
+Dinac (Nepal)
+Dioxaflex (Latin America, Central America)
+Disflam K (diclofenac potassium, Central America)
+Dolex
+Dolphin (Egypt)
+Dolmina (Czech Republic)
+Dyloject
+Feloran
+Fenac (diclofenac potassium, Australia)
+Flamrase
+Flector Patch
+Flogozan (Mexico)
+Idinac (India)
+Immunagel (India)
+Iodex UltraGel (India)
+Kemoren (Indonesia)
+Klodifen
+Modifenac
+Morbidic (India)
+Motifene
+Naklofen
+Neofenac (Bangladesh)
+Neopyrazon (United Laboratories, ASIA)
+Oflam
+Olfen
+Ortofen
+Phlogin - Diclofenac Sodium (Pakistan)
+Panamor
+Parazone-DP (combination of Paracetamol & Diclofenac potassium)
+Pennsaid
+Pritaren
+Rapidus
+Rapten-K
+Reactin (India)
+Rhumalgan
+Rofenac (Middle East)
+Rufenal
+Safeguard (combination with misoprostol)
+Sandoz (diclofenac sodium, Australia)
+Solaraze
+Seradic (India)
+Topac
+Trabona
+Tratul (Austria, Romania, Moldova)
+Uno
+Veltex CR (South Africa)
+Vetagesic
+Viclofen (Australia)
+Vinil (Paraguay)
+Voldic
+Volini (India)
+Volfenac (Thailand)
+Volna-k (Taiwan)
+Voltaflam (India)
+Voltaren (Argentina, Australia, Belgium, Egypt, France, Germany, Israel, New Zealand, Norway, Portugal, Russia, South Africa, Sweden, Turkey)
+Voltaren Emulgel (Australia, Canada, New Zealand, UK)
+Voltaren Gel (US)
+Voltarol
+Voltarol Emulgel
+Voltarol Pain-eze
+Voltfast
+Voren (Taiwan)
+Voltral (UK, Pakistan)
+Votrex
+Vostar
+Votalin (China)
+Voveran
+Vurdon
+Zipsor
+Zolterol
+Zorvolex-free acid diclofenac
+Zengesic (combination of Paracetamol & Diclofenac sodium)
+Hitflam (Ambee Pharmaceuticals Ltd. Bangladesh)
+
+
+注释[编辑]
+
+外部链接[编辑]
+
+
+
+维基共享资源中相关的多媒体资源：双氯芬酸
+
+
+
+Diclofenac: Drug Information Provided by Lexi-Comp: Merck Manual Professional （英文）
+强劲退烧药 甲芬那酸 双氯芬酸钠 或致儿童急性脑病
+http://www.derchk.org/modules/wfsection/article.php?articleid=1251[失效链接]
+双氯芬酸钠 医学百科
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+非甾体抗炎药(NSAIDs)(主要为M01A及M02A、并N02BA)
+
+
+
+
+
+
+吡唑烷类
+
+
+
+氨基安替比林
+阿扎丙酮
+氯非宗
+酮保泰松
+非普拉酮
+安乃近
+单苯基保泰松
+尼芬那宗
+羟基保泰松
+保泰松
+安替比林
+异安替比林
+苯磺唑酮
+琥保松‡
+
+
+
+
+
+
+
+
+水杨酸类
+
+
+
+阿司匹林(乙酰水杨酸)
+氧化铝缩乙酰水杨酸
+贝诺酯
+卡巴匹林钙
+二氟苯水杨酸
+双乙酰水杨酸
+乙水杨胺
+醋柳愈酯
+水杨酸镁
+水杨酸甲酯
+双水杨酯
+水杨苷
+水杨酰胺
+水杨酸钠
+
+
+
+
+
+
+
+
+乙酸衍生物
+及相关药品
+
+
+
+醋氯芬酸
+阿西美辛
+阿氯芬酸
+氨芬酸
+芐达酸
+溴芬酸
+布马地宗
+丁苯羟酸
+双氯芬酸钠
+双苯哌醋胺
+依托度酸
+联苯乙酸
+芬替酸
+吲哚美辛
+法呢吲哚美辛
+酮咯酸
+氯那唑酸
+奥沙美辛
+丙谷美辛
+舒林酸
+托美丁
+佐美酸†
+
+
+
+
+
+
+
+
+昔康类
+
+
+
+安吡昔康
+屈昔康
+氯诺昔康
+美洛昔康
+吡罗昔康
+替诺昔康
+
+
+
+
+
+
+
+
+丙酸衍生物
+(洛芬类)
+
+
+
+阿明洛芬
+苯恶洛芬†
+卡布洛芬‡
+右旋布洛芬
+右旋酮洛芬
+芬布芬
+苯氧布洛芬
+氟诺洛芬
+氟布洛芬
+布洛芬
+布洛新
+吲哚布洛芬†
+酮基布洛芬
+洛索洛芬
+咪洛芬
+萘普生
+奥沙普秦
+吡洛芬
+舒洛芬
+达连福比
+替泊沙林‡
+噻洛芬酸
+维达洛芬‡
+COX-抑制一氧化氮供体: 萘普西诺
+
+
+
+
+
+
+
+
+N-氨茴酸
+(芬那酸类)
+
+
+
+阿扎丙酮
+依托芬那酯
+氟灭酸
+氟胺烟酸
+甲氯灭酸
+甲芬那酸
+吗尼氟酯
+尼氟灭酸
+托芬那酸
+
+
+
+
+
+
+
+
+考昔
+
+
+
+帕瑞昔布
+塞来昔布
+西咪考昔‡
+地拉考昔‡
+艾托考昔
+非罗考昔‡
+罗美昔布†
+吗瓦考昔‡
+帕瑞考昔
+罗贝考昔‡
+罗非昔布†
+伐地考昔†
+
+
+
+
+
+
+
+
+其它药品
+
+
+
+氨基丙腈
+芐达明
+硫酸软骨素
+双醋瑞因
+氟丙喹宗
+氨基葡萄糖
+糖胺聚糖
+水杨酸镁
+萘丁美酮
+尼美舒利
+奥沙西罗
+普罗喹宗
+超氧化物歧化酶/奥古蛋白
+替尼达普
+
+
+
+
+
+
+
+
+
+粗体字所列出的项目表示最初开发的特定群组之化合物。†撤回药品。‡兽医使用药品。
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+肌肉导航
+
+
+
+
+
+
+描述
+
+
+
+解剖
+
+头
+颈（英语：Template:Muscles of neck）
+上肢
+胸背
+横膈（英语：Template:Thoracic diaphragm）
+腹部
+会阴（英语：Template:Muscles of perineum）
+下肢（英语：Template:Muscles of lower limb）
+
+
+组织
+生理（英语：Template:Muscular physiology）
+
+结缔组织
+
+
+
+
+
+
+
+
+
+
+疾病
+
+
+
+Myopathy
+软组织（英语：Template:Soft tissue disorders）
+结缔组织
+先天（英语：Template:Diseases of myoneural junction and muscle）
+
+腹部（英语：Template:Congenital diaphragm and abdominal wall defects）
+muscular dystrophy（英语：Template:Muscular dystrophy）
+
+
+肿瘤
+Injury（英语：Template:Dislocations, sprains and strains）
+Symptoms and signs
+
+eponymous（英语：Template:Eponymous medical signs for muscles and soft tissue）
+
+
+
+
+
+
+
+
+
+
+治疗
+
+
+
+程序（英语：Template:Muscle and soft tissue procedures）
+药物
+
+抗发炎药物
+muscle relaxants（英语：Template:Muscle relaxants）
+
+
+
+
+
+
+
+Category:Articles that show a Medicine navs template（英语：Category:Articles that show a Medicine navs template）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+关节痛及肌痛外用药品(M02)
+
+
+
+
+
+
+非甾体抗炎药
+
+
+
+
+
+吡唑烷类
+
+
+
+
+保泰松
+莫非保松
+氯非宗
+羟基保泰松
+
+
+
+
+
+
+
+
+
+乙酸
+衍生物
+
+
+
+
+托美丁
+双氯芬酸钠
+芬替酸
+
+
+
+
+
+
+
+
+
+其它药品
+
+
+
+
+芐达明
+依托芬那酯
+吡罗昔康
+联苯乙酸
+丁苯羟酸
+酮基布洛芬
+芐达酸
+萘普生
+布洛芬
+非普拉宗
+尼氟灭酸
+甲氯灭酸
+氟比洛芬
+琥保松
+吲哚美辛
+尼芬那宗
+
+
+
+
+
+
+
+
+
+
+
+辣椒素延伸物
+
+
+
+珠卡赛辛
+
+
+
+
+
+
+
+
+其它药品
+
+
+
+苯甲唑啉
+二甲基亚砜
+羟乙桂酰胺
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+镇痛药 (N02A, N02B)
+
+
+
+
+
+
+阿片类药物
+参见: 鸦片类药物模板
+
+
+
+
+
+阿片及其生物碱
+
+
+
+
+可待因#
+吗啡#
+阿片
+鸦片酊
+樟脑酊
+
+
+
+
+
+
+
+
+
+半合成的阿片
+衍生物
+
+
+
+
+醋氢可待因
+苄吗啡
+丁丙诺啡
+地索吗啡
+双氢可待因
+双氢吗啡
+乙基吗啡
+二醋吗啡
+氢可酮
+氢吗啡醇
+二氢吗啡酮
+烟酰可待因
+烟酰二氢可待因
+尼可吗啡
+羟考酮
+羟吗啡酮
+
+
+
+
+
+
+
+
+
+合成阿片类药物
+
+
+
+
+阿法罗定
+氨苄哌替啶
+布托啡诺
+右吗拉胺
+右丙氧芬
+地佐辛
+芬太尼
+凯托米酮
+左啡诺
+美沙酮
+美普他酚
+纳布啡
+喷他佐辛
+丙氧芬
+丙吡兰
+哌替啶
+喷他佐辛
+匹密诺汀
+哌腈米特
+他喷他多
+替利定
+曲马多
+
+
+
+
+
+
+
+
+
+
+
+吡唑啉酮类
+
+
+
+4—氨基安替比林/氨基比林
+安乃近
+安替比林
+异丙安替比林
+
+
+
+
+
+
+
+
+大麻素
+
+
+
+Ajulemic acid
+AM404
+大麻二酚
+大麻属
+大麻隆
+Nabiximols
+四氢大麻酚
+
+
+
+
+
+
+
+
+苯胺
+
+
+
+扑热息痛 (对乙酰氨基酚)#
+非那西汀
+丙帕他莫
+
+
+
+
+
+
+
+
+非甾族
+抗炎药
+参见: NSAIDs模板
+
+
+
+
+
+丙酸类
+
+
+
+
+非诺洛芬
+氟比洛芬
+布洛芬#
+酮基布洛芬
+萘普生
+奥沙普秦
+
+
+
+
+
+
+
+
+
+昔康类
+
+
+
+
+美洛昔康
+吡罗昔康
+
+
+
+
+
+
+
+
+
+乙酸类
+
+
+
+
+双氯芬酸钠
+吲哚美辛
+酮咯酸
+萘丁美酮
+舒林酸
+苯酰吡啶乙酸
+
+
+
+
+
+
+
+
+
+环氧合酶-2抑制剂
+
+
+
+
+塞来昔布
+罗非昔布
+伐地昔布
+帕瑞昔布
+罗美昔布
+
+
+
+
+
+
+
+
+
+邻氨基苯甲酸
+(芬那酯) 类
+
+
+
+
+甲氯芬那酸
+甲芬那酸
+
+
+
+
+
+
+
+
+
+水杨酸
+
+
+
+
+阿司匹林 (乙酰水杨酸)#
+扑炎痛
+二氟尼柳
+乙水杨胺
+水杨酸镁
+水杨苷
+水杨酰胺
+双水杨酯
+Trisalate
+鹿蹄草 (水杨酸甲酯)
+
+
+
+
+
+
+
+
+
+
+
+非典型, 辅料和增效剂,
+代谢代理和其他
+
+
+
+阿米替林
+贝非拉醇
+比西发定
+异丙基甲丁双脲
+樟脑
+西咪替丁
+可乐定
+氯唑沙宗
+环苯扎林
+度洛西汀
+恶泼西汀
+氟吡汀
+加巴喷丁
+格拉非宁
+羟嗪
+氯胺酮
+薄荷醇
+美芬诺酮
+美索巴莫
+奈福泮
+奥芬那君
+普瑞巴林
+丙谷胺
+东莨菪碱
+Tebanicline
+曲唑酮
+加巴喷丁缓释片
+齐考诺肽
+
+
+
+
+
+
+
+
+
+
+
+
+#世卫基本药物（WHO-EM）
+‡从市场撤回
+临床试验：
+
+†第三阶段
+§未到第三阶段
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+中枢神经系统疾病
+
+
+
+
+
+
+描述
+
+
+
+解剖
+
+脑膜
+皮质
+
+联络纤维（英语：Template:Association fibers）
+连合纤维（英语：Template:Commissural fibers and septum）
+
+
+侧脑室（英语：Template:Lateral ventricles）
+基底核
+间脑
+中脑
+桥脑
+小脑
+髓质
+脊髓
+
+管道
+
+
+
+
+生理
+
+神经传递
+
+酵素
+中间物
+
+
+
+
+发育（英语：Template:Development of nervous system）
+
+
+
+
+
+
+
+
+疾病
+
+
+
+脑性瘫痪（英语：Template:Cerebral palsy）
+脑膜炎（英语：Template:Diseases of meninges）
+脱髓鞘疾病（英语：Template:Demyelinating diseases of CNS）
+癫痫
+头痛
+中风（英语：Template:Cerebrovascular diseases）
+睡眠
+先天性（英语：Template:Congenital malformations and deformations of nervous system）
+损伤（英语：Template:Neurotrauma）
+肿瘤
+其他
+
+瘫痪疾病（英语：Template:Cerebral palsy and other paralytic syndromes）
+ALS（英语：Template:Amyotrophic lateral sclerosis）
+
+
+症状
+
+头颈部
+齐名（英语：Template:Eponymous medical signs for nervous system）
+病灶（英语：Template:Lesions of spinal cord and brain）
+
+
+测试
+
+CSF（英语：Template:CSF tests）
+
+
+
+
+
+
+
+
+
+
+治疗
+
+
+
+程序（英语：Template:Neuro procedures）
+药物
+
+全身麻醉药
+镇痛药
+抗成瘾
+抗癫痫药
+胆碱类（英语：Template:Cholinergics）
+抗偏头痛
+抗帕金森氏症
+抗晕眩
+其他
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+分类：非甾体抗炎药止痛药隐藏分类：自2015年10月需要专业人士关注的页面自2015年10月缺少来源的条目带有非标准子页面的Template:drugs.com链接无CAS号重定向的物质条目含有未校对CAS号的条目药物信息框具有未知参数的化学物质条目包含Infobox drug模板条目没有结构图没有InChI来源的条目带有失效链接的条目条目有永久失效的外部链接

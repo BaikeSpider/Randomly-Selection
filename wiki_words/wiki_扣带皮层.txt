@@ -1,0 +1,702 @@
+扣带皮层
+
+
+扣带皮层
+
+
+
+从中矢面看大脑左半球的内侧面
+
+
+
+
+大脑半球的内侧面的Brodman分区
+
+
+
+细节
+
+
+拉丁语
+gyrus cingulatus
+
+
+属于
+大脑皮层
+
+
+识别标示
+
+
+Gray's
+p.825
+
+
+缩写
+Cg
+
+
+MeSH
+A08.186.211.577.330
+
+
+NeuroNames
+hier-141
+
+
+TA（英语：Terminologia Anatomica）
+A14.1.09.231
+
+
+FMA
+FMA:62434
+
+
+解剖学术语（英语：Anatomical terminology）
+
+
+
+
+
+
+
+本条目可能包含原创研究或未查证内容。 
+请协助添加参考资料以改善这篇条目。详细情况请参见讨论页。 
+
+
+扣带皮层(英文:cingulate cortex)是位于扣带回的大脑皮层。扣带皮层在前侧由下至上从胼胝体附近延伸到扣带沟。根据Brodmann分区系统，扣带皮层包括23，24，26，29，30，31和32区。
+
+
+
+目录
+
+
+1 分区
+2 前扣带皮层
+3 后扣带皮层
+4 扣带与内部链接
+5 参考文献
+
+
+
+分区[编辑]
+根据细胞结构，扣带皮层可分为Brodmann第23，24，26，29，30，31和32区。起总第26、29和30区通常称为压后（retrosplenial）皮层。
+前扣带皮层[编辑]
+主条目：前扣带皮层
+前扣带皮层(英文:anterior cingulate cortex)(ACC)包括Brodmann第24区，在前部延伸至膝下皮层（subgenual cortex）。其细胞结构为非粒状。它包括回部和沟部。前扣带皮层可以进一步在解剖上分为膝旁前扣带皮层和膝内前扣带皮层。
+前扣带皮层主要从丘脑前核接受输入，丘脑前核接受乳头体-丘脑传入，乳头体神经元又接受海马下托区（Subiculum）的传入。这一链路称为巴贝兹回路（Papez circuit）。
+前扣带回通过扣带输出到丘脑前核和边缘系统的其它部分。
+后扣带皮层[编辑]
+主条目：后扣带皮层
+后扣带皮层(英文:posterior cingulate cortex)(PCC)对应于Brodmann第23区。其细胞结构为粒状。它向后部延伸至压后皮层（第29区）。后扣带皮层从丘脑上核接受大量输入，丘脑上核本身接受海马下托区的输入。所以在某种程度上这一回路是Papez回路的复制。后扣带皮层同时也从海马下托区直接接受输入。
+扣带与内部链接[编辑]
+在扣带皮层的底部有一丛厚密的矢面平行纤维。在进化过程中，这一纤维从显著增大。在人类这一纤维从几乎已经达到可被解剖出来的地步。
+参考文献[编辑]
+
+Vogt BA, Rosene DL, Pandya DN, Science 204:205+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+大脑皮质解剖学
+
+
+
+
+
+
+额叶
+
+
+
+
+外上侧
+
+
+
+
+前额叶
+
+
+
+上额回（英语：Superior frontal gyrus）
+
+4（英语：Brodmann area 4）
+6
+8（英语：Brodmann area 8）
+
+
+额中回（英语：Middle frontal gyrus）
+
+9（英语：Brodmann area 9）
+10（英语：Brodmann area 10）
+46
+
+
+
+
+额下回（英语：Inferior frontal gyrus）：11（英语：Brodmann area 11）
+47（英语：Brodmann area 47）-Pars orbitalis（英语：Orbital part of inferior frontal gyrus）
+布若卡氏区
+
+44-岛盖部
+45-三角部
+
+
+
+
+额上沟（英语：Superior frontal sulcus）
+额下沟（英语：Inferior frontal sulcus）
+
+
+
+
+
+
+
+
+中央沟前回（英语：Precentral gyrus）
+
+
+
+中央沟前回（英语：Precentral gyrus）
+中央前沟（英语：Precentral sulcus）
+
+
+
+
+
+
+
+
+
+
+
+内侧/下方
+
+
+
+
+前额叶
+
+
+
+额上回（英语：Superior frontal gyrus）
+
+4（英语：Brodmann area 4）
+6
+
+
+额内回（英语：Medial frontal gyrus）
+
+8（英语：Brodmann area 8）
+9（英语：Brodmann area 9）
+
+
+
+
+终版旁回（英语：Paraterminal gyrus）/嗅旁区（英语：Paraolfactory area）
+
+12（英语：Brodmann area 12）
+
+
+Straight gyrus（英语：Straight gyrus）
+
+11（英语：Brodmann area 11）
+
+
+Orbital gyri（英语：Orbital gyri）/眶额皮质
+
+10（英语：Brodmann area 10）
+11（英语：Brodmann area 11）
+12（英语：Brodmann area 12）
+
+
+Ventromedial prefrontal cortex（英语：Ventromedial prefrontal cortex）
+
+10（英语：Brodmann area 10）
+
+
+Subcallosal area（英语：Subcallosal area）
+
+25（英语：Brodmann area 25）
+
+
+
+
+Olfactory sulcus（英语：Olfactory sulcus）
+Orbital sulcus（英语：Orbital sulcus）
+
+
+
+
+
+
+
+
+Precentral（英语：Precentral gyrus）
+
+
+
+Paracentral lobule（英语：Paracentral lobule）
+
+4（英语：Brodmann area 4）
+
+
+Paracentral sulcus（英语：Paracentral sulcus）
+
+
+
+
+
+
+
+
+
+
+
+两者皆有
+
+
+
+初级运动皮质（英语：Primary motor cortex）
+
+4（英语：Brodmann area 4）
+
+
+前运动区
+
+6
+
+
+运动辅助区
+
+6
+
+
+Supplementary eye field（英语：Supplementary eye field）
+
+6
+
+
+Frontal eye fields（英语：Frontal eye fields）
+
+8（英语：Brodmann area 8）
+
+
+
+
+
+
+
+
+
+
+
+
+
+顶叶
+
+
+
+
+外上方
+
+
+
+Superior parietal lobule（英语：Superior parietal lobule）
+
+5（英语：Brodmann area 5）
+7（英语：Brodmann area 7）
+
+
+Inferior parietal lobule（英语：Inferior parietal lobule）
+
+40（英语：Brodmann area 40）-Supramarginal gyrus（英语：Supramarginal gyrus）
+39（英语：Brodmann area 39） - 外侧沟
+
+
+Parietal operculum（英语：Parietal operculum）
+
+43（英语：Brodmann area 43）
+
+
+
+
+Intraparietal sulcus（英语：Intraparietal sulcus）
+
+
+
+
+
+
+
+
+内侧/下方
+
+
+
+Paracentral lobule（英语：Paracentral lobule）
+
+1（英语：Brodmann area 1）
+2（英语：Brodmann area 2）
+3（英语：Brodmann area 3）
+5（英语：Brodmann area 5）
+
+
+Precuneus（英语：Precuneus）
+
+7（英语：Brodmann area 7）
+
+
+Marginal sulcus（英语：Marginal sulcus）
+
+
+
+
+
+
+
+
+两者皆有
+
+
+
+中央沟后回（英语：Postcentral gyrus）/初级感觉皮质（英语：Primary somatosensory cortex）
+
+1
+2
+3
+
+
+Secondary somatosensory cortex（英语：Secondary somatosensory cortex）
+
+5（英语：Brodmann area 5）
+
+
+Posterior parietal cortex（英语：Posterior parietal cortex）
+
+7（英语：Brodmann area 7）
+
+
+
+
+
+
+
+
+
+
+
+
+
+枕叶
+
+
+
+
+外上方
+
+
+
+Occipital pole of cerebrum（英语：Occipital pole of cerebrum）
+Lateral occipital gyrus（英语：Lateral occipital sulcus）
+
+18（英语：Brodmann area 18）
+19（英语：Brodmann area 19）
+
+
+Lunate sulcus（英语：Lunate sulcus）
+Transverse occipital sulcus（英语：Transverse occipital sulcus）
+
+
+
+
+
+
+
+
+内侧/下方
+
+
+
+视觉皮层
+
+17
+
+
+楔状核（英语：Cuneus）
+Lingual gyrus（英语：Lingual gyrus）
+禽距沟（英语：Calcarine sulcus）
+
+
+
+
+
+
+
+
+
+
+
+颞叶
+
+
+
+
+外上方
+
+
+
+Transverse temporal gyrus（英语：Transverse temporal gyrus）/听觉皮层
+
+41（英语：Brodmann area 41）
+42（英语：Brodmann area 42）
+
+
+Superior temporal gyrus（英语：Superior temporal gyrus）
+
+38（英语：Brodmann area 38）
+22（英语：Brodmann area 22）/韦尼克区
+
+
+Middle temporal gyrus（英语：Middle temporal gyrus）
+
+21（英语：Brodmann area 21）
+
+
+Superior temporal sulcus（英语：Superior temporal sulcus）
+
+
+
+
+
+
+
+
+内侧/下方
+
+
+
+梭状回
+
+37（英语：Brodmann area 37）
+
+
+内侧颞叶
+
+27（英语：Brodmann area 27）
+28（英语：Brodmann area 28）
+34（英语：Brodmann area 34）
+35（英语：Brodmann area 35）
+36（英语：Brodmann area 36）
+
+
+
+
+Inferior temporal gyrus（英语：Inferior temporal gyrus）
+
+20（英语：Brodmann area 20）
+
+
+Inferior temporal sulcus（英语：Inferior temporal sulcus）
+
+
+
+
+
+
+
+
+
+
+
+脑沟和脑回
+
+
+
+
+外上方
+
+
+
+中央沟（额叶+顶叶）
+外侧沟（额叶+顶叶+颞叶）
+Parieto-occipital（英语：Parieto-occipital sulcus）
+Preoccipital notch（英语：Preoccipital notch）
+
+
+
+
+
+
+
+
+内侧/下方
+
+
+
+中央纵裂
+Cingulate (frontal+cingulate)（英语：Cingulate sulcus）
+Collateral (temporal+occipital)（英语：Collateral fissure）
+Callosal sulcus（英语：Callosal sulcus）
+
+
+
+
+
+
+
+
+
+
+
+边缘系统
+
+
+
+
+海马旁回（英语：Parahippocampal gyrus）
+
+
+
+anterior
+
+Entorhinal cortex（英语：Entorhinal cortex）
+Perirhinal cortex（英语：Perirhinal cortex）
+Postrhinal cortex（英语：Postrhinal cortex）
+
+
+Posterior parahippocampal gyrus（英语：Posterior parahippocampal gyrus）
+Prepyriform area（英语：Prepyriform area）
+
+
+
+
+
+
+
+
+扣带皮层/扣带回
+
+
+
+Subgenual area（英语：Subgenual area 25）
+
+25（英语：Brodmann area 25）
+
+
+Anterior cingulate（英语：Anterior cingulate cortex）
+
+24（英语：Brodmann area 24）
+32（英语：Brodmann area 32）
+33（英语：Brodmann area 33）
+
+
+Posterior cingulate（英语：Posterior cingulate）
+
+23（英语：Brodmann area 23）
+31（英语：Brodmann area 31）
+
+
+
+
+Isthmus of cingulate gyrus（英语：Isthmus of cingulate gyrus）: Retrosplenial cortex（英语：Retrosplenial region）
+
+26（英语：Brodmann area 26）
+29（英语：Brodmann area 29）
+30（英语：Brodmann area 30）
+
+
+
+
+
+
+
+
+
+
+海马结构
+
+
+
+Hippocampal sulcus（英语：Hippocampal sulcus）
+Fimbria of hippocampus（英语：Fimbria of hippocampus）
+齿状回（英语：Dentate gyrus）
+Rhinal sulcus（英语：Rhinal sulcus）
+
+
+
+
+
+
+
+
+其他
+
+
+
+Supracallosal gyrus（英语：Supracallosal gyrus）
+钩回（英语：Uncus）
+杏仁核
+
+
+
+
+
+
+
+
+
+
+
+岛叶
+
+
+
+岛叶
+
+
+
+
+
+
+
+
+General
+
+
+
+Operculum（英语：Operculum (brain)）
+Poles of cerebral hemispheres（英语：Poles of cerebral hemispheres）
+
+
+
+
+
+
+
+
+
+注意：以上某些只是近似分类；一些Brodmann分区地跨多个脑回。BA#为Brodmann#区的缩写。
+
+
+
+
+
+
+
+
+
+
+分类：大脑皮层边缘系统隐藏分类：使用GraySubject或GrayPage参数的医学信息框模板使用过时参数的医学信息模板可能带有原创研究的条目拒绝当选首页新条目推荐栏目的条目
