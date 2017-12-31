@@ -1,0 +1,22 @@
+自旋子
+自旋子（英语：spinon）是一种准粒子，是电子出现电荷自旋分离（英语：spin–charge separation）现象时分裂成的三种准粒子之一（另两种为空穴子与轨道子）。[1]
+一维关联电子系统中因负电荷之间显著的排斥作用而出现电荷自旋分离。2009年剑桥大学与伯明翰大学的研究发现，金属板上的电子因量子隧穿效应跳跃到量子线上并分裂为两个准粒子，分别为携带电子自旋性质的自旋子与携带电荷的空穴子。[2] 2011年进一步的研究发现，在X射线照射下Sr2CuO3中铜原子的电子会跃迁到高能轨道，并分裂成自旋子与携带轨道位的轨道子。[3][4]
+参见[编辑]
+
+凝聚态物理学
+Luttinger液体
+
+参考文献[编辑]
+
+
+^ Discovery About Behavior Of Building Block Of Nature Could Lead To Computer Revolution. ScienceDaily. 31 July 2009 [2009-08-01]. 
+^ Y. Jompol; 等. Probing Spin-Charge Separation in a Tomonaga-Luttinger Liquid. Science. 2009, 325 (5940): 597–601. Bibcode:2009Sci...325..597J. PMID 19644117. doi:10.1126/science.1171769.  引文格式1维护：显式使用等标签 (link)
+^ Spin–orbital separation in the quasi-one-dimensional Mott insulator Sr2CuO3. 18 April 2012. doi:10.1038/nature10974. 
+^ Not-quite-so elementary, my dear electron. 18 April 2012. 
+
+
+
+
+
+
+分类：准粒子隐藏分类：引文格式1维护：显式使用等标签

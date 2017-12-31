@@ -1,0 +1,16 @@
+塔斯基分割圆问题
+1925年，阿尔弗雷德·塔斯基提出一个问题：将平面上的一个圆分割成有限多块，然后重新拼合成面积相同的正方形。
+1990年米可斯·拉兹柯维奇证明这是可行的。但他的分割方法大量使用了选择公理（axiom of choice），故并不明确。他将圆分割成约1050块。
+拉兹柯维奇还证明了更多：该重新拼合的过程中只须移动即可；旋转并非必要。他随之而证明任何平面上的单纯多边形均可分割成有限多片，只须移动来重新拼合一个面积相同的正方形。华勒斯·波埃伊·格维也纳定理是相关但简单得多的结果——若可以在重新拼合过程中移动和旋转，一个多边形割为有限多的多边形块后，可重新拼合成另一个面积相同的多边形。
+这些结果可以和在三维上的巴拿赫-塔斯基悖论（Hausdorff-Banach-Tarski paradox）相比；这些分割甚至改变集的体积，而平面上的问题则不能做到。
+它跟化圆为方问题是不同的：使用尺规作图的方法令圆形的面积变成正方形的面积，这是不可能的。塔斯基的问题使用了（不可证的）选择公理来分割圆令成为一块块数目多至不可量度子集的片，所以它不能用实质工具这种只能画出可量度集的物件显示出来。
+参考[编辑]
+
+Miklos Laczkovich: "Equidecomposability and discrepancy: a solution to Tarski's circle squaring problem", Crelle's Journal of Reine and Angewandte Mathematik 404 (1990) pp. 77-117
+Miklos Laczkovich: "Paradoxical decompositions: a survey of recent results." First European Congress of Mathematics, Vol. II (Paris, 1992), pp. 159-184, Progr. Math., 120, Birkhäuser, Basel, 1994.
+
+
+
+
+
+分类：离散几何圆数学问题

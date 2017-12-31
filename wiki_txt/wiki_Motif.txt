@@ -1,0 +1,2 @@
+Motif
+在计算机应用中，Motif是指一个图形用户界面规格，也指随该规格，在Unix与其他POSIX系统中运行于X Window系统的部件工具箱。1980年代，随同Unix工作站逐渐通用，成为OPEN LOOK图形用户界面的对手。目前作为Common Desktop Environment的基本构件。

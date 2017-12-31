@@ -1,0 +1,2 @@
+演进式HSPA
+演进式HSPA（又名: HSPA Evolution、I-HSPA或Internet HSPA，常简称为HSPA+），定义于3GPP release 7。

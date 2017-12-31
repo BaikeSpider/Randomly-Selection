@@ -1,0 +1,44 @@
+Motif
+
+
+本文介绍的是电脑图形使用者界面。关于与“Motif”名称相近或相同的条目，请见“Motif (消歧义)”。
+
+
+
+
+
+
+
+
+
+
+
+
+使用Open Motif工具箱的应用程序在运行中。
+
+
+在计算机应用中，Motif是指一个图形用户界面规格，也指随该规格，在Unix与其他POSIX系统中运行于X Window系统的部件工具箱。1980年代，随同Unix工作站逐渐通用，成为OPEN LOOK图形用户界面的对手。目前作为Common Desktop Environment的基本构件。
+Motif应用程序接口由IEEE 1295标准规定。从版本2.1后，Motif有支持Unicode，因而在几种多语言环境，受到广泛的使用。
+用户界面部件（如菜单，按钮，滑动器，文字框等）的方形，凿刻，立体外表组成Motif的特殊界面外观。由于特意设计，Motif的操作方式相当于当时常见的微软视窗3.11与Presentation Manager界面。而且，微软在原本格式指南设计有起作用。
+Motif是Open Software Foundation创造的（有时也被称为OSF/Motif）。Open Software Foundation现在已纳入The Open Group。
+Motif应用程序接口的实现不多。Motif的工具箱是第一个。也有Open Motif，此实现是原先的Motif在更为自由的许可证下发布。最后，LessTif计划企图在LGPL下实现Motif的应用程序接口。
+参见[编辑]
+
+MoOLIT
+GTK+与GNOME
+Qt与KDE
+Integrated Computer Solutions
+4Dwm
+
+外部链接[编辑]
+
+Motif首页
+Open Motif计划网页
+Motif FAQ (Kenton Lee)
+Motif: Volumes 6A and 6B (O'Reilly and Associates)
+
+
+
+
+
+分类：部件工具箱X 视窗管理器Motif

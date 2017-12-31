@@ -1,0 +1,339 @@
+安博士
+
+
+安博士
+
+
+AhnLab, Inc.
+
+
+
+
+
+原文名称
+안랩
+
+
+公司类型
+上市公司
+
+
+股票代号
+KRX: 053800
+
+
+成立
+ 韩国首尔
+（1995年3月15日 (1995-03-15)）
+
+
+创办人
+安哲秀
+
+
+代表人物
+安哲秀（创始人）、김홍선（CEO）、김철수（前CEO）
+
+
+总部
+ 韩国京畿道城南市盆唐区板桥干线220（三坪洞（朝鲜语：삼평동））
+
+
+营业据点数
+4
+
+
+业务范围
+全球
+
+
+产业
+计算机软件
+
+
+产品
+杀毒软件、网络安全产品、移动安全（英语：Mobile security）产品
+
+
+服务
+计算机安全、网络安全
+
+
+营业额
+₩ 126,757,000,000 韩元（2012）
+
+
+息税前利润
+▲₩ 9,737,802,000 韩元（2008）
+
+
+净利润
+▼₩ 8,962,013,000 韩元（2008）
+
+
+总资产
+▼₩ 108,418,618,000 韩元（2008）
+
+
+所有权者
+김홍선
+
+
+员工人数
+850（2013）
+
+
+主要股东
+安哲秀 37.2%、자사주 19.9%
+
+
+网站
+官方网站
+
+
+备注
+[1][2][3]
+
+
+安博士（韩语：안랩，英语：AhnLab, Inc.），原名称安哲秀研究所（韩语：안철수연구소）是一家位于韩国的网络安全服务供应商，于1995年成立。2009年的营收额约695亿韩元，在韩国信息安全业排名第一位。[4]以计算机反病毒软件V3（朝鲜语：V3）而为人熟知。
+参考资料[编辑]
+
+
+^ 위치 안내 | AhnLab. AhnLab （韩语）. 
+^ "김철수, 안철수 연구소 사장". BiznMedia. 2006-05-29 （韩语）. 
+^ Ahnlab (053800) Company Profile. CorporateInformation.com. 2010-02-04. （原始内容存档于2011-07-17） （英语）. 
+^ 이유지. 안연구소 ‘부동의 1위’ 흔들릴까…중견 보안업체 급성장. 디지털데일리. 2010-01-24 [2010-10-08] （韩语）. 
+
+
+
+
+
+这是一篇与信息技术或软硬件相关公司和企业的小作品。你可以通过编辑或修订扩充其内容。
+
+
+查
+论
+编
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+杀毒软件
+
+
+
+
+
+
+防毒厂商
+
+
+
+
+
+主要
+
+
+
+
+Agnitum
+Avast Software
+AVG
+Avira AntiVirus
+BitDefender
+Comodo
+Dr. Web
+ESET
+F-Secure
+卡巴斯基
+McAfee
+微软
+熊猫
+奇虎360
+守护使
+赛门铁克
+趋势
+
+
+
+
+
+
+
+
+
+其它
+
+
+
+
+安博士
+BullGuard
+Cisco
+Check Point
+ClamWin
+Fortinet
+FRISK
+歌德塔
+GFI Software
+iolo
+Intego
+K7
+金山
+Lavasoft
+Malwarebytes
+PSafe
+Quick Heal
+瑞星
+TG Soft
+TrustPort
+VirusBlokAda
+Webroot
+Zemana
+ZoneAlarm
+
+
+
+
+
+
+
+
+
+
+
+防毒产品
+
+
+
+
+
+桌面端与服务器端
+
+
+
+
+AhnLab V3 Internet Security
+Avast Antivirus
+AVG
+Avira Internet Security
+BitDefender
+BullGuard
+ClamWin
+Clam AntiVirus
+Comodo Antivirus
+科摩多网络安全套装
+Dr. Web
+ESET NOD32
+F-Secure
+F-PROT
+Fortinet
+G Data
+VIPRE
+Advanced SystemCare
+iolo System Shield
+K7 Total Security
+卡巴斯基防毒软件
+卡巴斯基安全软件
+金山毒霸
+Mac Internet Security
+Malwarebytes' Anti-Malware
+McAfee VirusScan
+Microsoft Security Essentials
+Windows Defender
+NANO Antivirus（俄语：NANO Антивирус）
+Panda
+PSafe TOTAL
+360安全卫士
+百度杀毒
+Outpost Security Suite
+Sophos
+Symantec Endpoint Protection
+Immunet
+Element Anti-Virus
+诺顿防毒
+诺顿网络安全大师
+Spyware Doctor
+VirIT eXplorer
+VirusBarrier
+Trend Micro Internet Security
+TrustPort
+Vba32 AntiVirus
+ZoneAlarm
+
+
+
+
+
+
+
+
+
+移动端与平板端
+
+
+
+
+AhnLab Mobile Security
+Avast Antivirus
+AVG AntiVirus
+Avira Free Android Security
+Bitdefender Mobile Security
+BullGuard Mobile Security
+CM Security
+Comodo Mobile Security
+Dr. Web Mobile Security Suite
+ESET Mobile Security
+F-Secure Mobile Security
+G Data MobileSecurity
+Lookout Mobile Security
+McAfee Mobile Security
+Microdot Security
+PSafe TOTAL Android
+FireAMP Mobile
+Trend Micro Mobile Security
+TrustPort Mobile Security
+VirusBarrier
+
+
+
+
+
+
+
+
+
+
+
+相关内容
+
+
+
+防毒软件列表
+
+
+
+
+
+
+
+
+
+
+
+
+分类：韩国证券交易所上市公司1995年成立的公司韩国品牌隐藏分类：CS1韩语来源 (ko)CS1英语来源 (en)含有英语的条目含有朝鲜语的条目全部小作品资讯科技公司小作品

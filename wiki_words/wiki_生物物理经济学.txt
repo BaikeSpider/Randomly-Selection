@@ -1,0 +1,128 @@
+热经济学
+热经济学（英语：Thermoeconomics），也被称为生物物理经济学（英语：Biophysical economics），是一种非主流经济学，它把热力学定律应用到经济理论中来[1]。术语“热经济学”是由美国工程师梅伦‧翠柏斯创造于1962年[2][3][4]，热经济学可以被看作是经济价值的统计物理学[5]。
+
+
+
+目录
+
+
+1 学科基础
+2 热力学
+3 经济体系
+4 参见
+5 参考文献
+
+
+
+学科基础[编辑]
+热经济学的依据是：能源的作用在生物的进化中，通过热力学第二定律，可被定义及理解；以经济标准则表示为生产力、效率，尤其是各类机制下的成本和收益（或盈利能力），用于获得及运用可用能源来构建生物质和做工作[6][7]。
+热力学[编辑]
+热经济学家认为，人类经济体系可以看作是热力学系统。而基于这个前提下，热力学第一和第二定律的经济理论的类似物得以开发[8]。还有热力学的度量–火用（英语：Exergy）：它测量一个系统有效运作的能源，是价值的一个度量。
+经济体系[编辑]
+热经济学家认为，经济体系总是涉及物质，能量，熵和信息[9]。此外，许多经济活动的目的是要达成一定的结构。以这种方式，热经济学适用于非平衡态热力学理论，这种结构的形成称为“耗散系统”的形成。还有信息论，其中熵是一个主要构建物，以经济活动来建模：其中能量和物料的自然流动起了作用，创造了稀有资源[1]。在热力学术语中，人类经济活动可以被描述为一个“耗散系统”，它转换和交换资源、商品和服务以消耗自由能[10][11]。
+参见[编辑]
+
+经济学家
+社会资本
+
+参考文献[编辑]
+
+
+^ 1.0 1.1 Sieniutycz, Stanislaw; Salamon, Peter. Finite-Time Thermodynamics and Thermoeconomics. Taylor & Francis. 1990. ISBN 0-8448-1668-X. 
+^ Yehia M. El-Sayed (2003). The Thermoeconomics of Energy Conversions (pg. 4). Pergamon.
+^ A. Valero, L. Serra, and J. Uche (2006). Fundamentals of Exergy Cost Accounting and Thermoeconomics. Part I: Theory, Journal of Energy Resources Technology, Volume 128, Issue 1, pp. 1-8.
+^ Gong, Mei, Wall, Goran. (1997). On Exergetics, Economics and Optimization of Technical Processes to Meet Environmental Conditions. Exergy Studies.
+^ Chen, Jing. The Physical Foundation of Economics - an Analytical Thermodynamic Theory. World Scientific. 2005. ISBN 981-256-323-7. 
+^ Peter A. Corning 1*, Stephen J. Kline. (2000). Thermodynamics, information and life revisited, Part II: Thermoeconomics and Control information, Systems Research and Behavioral Science, Apr. 07, Volume 15, Issue 6 , Pages 453 – 482
+^ Corning, P. (2002). “Thermoeconomics – Beyond the Second Law”
+^ Burley, Peter; Foster, John. Economics and Thermodynamics – New Perspectives on Economic Analysis. Kluwer Academic Publishers. 1994. ISBN 0-7923-9446-1. 
+^ Baumgarter, Stefan. (2004). Thermodynamic Models, Modeling in Ecological Economics (Ch. 18)
+^ Raine, Alan; Foster, John; and Potts, Jason. The new entropy law and the economic process. Ecological Complexity. 2006, 3: 354–360.  引文使用过时参数coauthors (帮助)
+^ Annila, A. and Salthe, S., Arto; Salthe, Stanley. Economies evolve by energy dispersal. Entropy. 2009, 11 (4): 606–633. 
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+经济思想史
+
+
+
+
+
+
+前现代
+
+
+
+古代经济思想（英语：Ancient economic thought）
+伊斯兰经济
+经院哲学
+
+
+
+
+
+
+
+
+早期现代
+
+官房学派 · 重商主义 · 重农主义 · 萨拉曼卡学派
+
+
+
+
+
+
+现代
+
+美国学派 · 无政府主义经济学（英语：Anarchist economics） · 伯明翰学派（英语：Birmingham School (economics)） · 古典主义经济学 · 英国经济历史学派 · 法国自由学派 · 德国经济历史学派 · 经济历史学派 · 洛桑学派 · 马尔萨斯主义 · 曼彻斯特学派 · 马克思主义政治经济学 · 新重商主义 · 李嘉图经济学 · 国有社会主义 · 新重商主义
+
+
+
+
+
+
+20与21世纪
+
+奥地利经济学派 · 能力方法 · 卡内基经济学派（英语：Carnegie School） · 芝加哥经济学派 · 制度经济学 · 演化经济学 · 弗赖堡学派 · 货币主义 · 新制度经济学 · 参与型经济 · 斯德哥尔摩学派 · 公共选择理论 · 供给主义经济学 · 热经济学 · 新马克思主义经济学（英语：Neo-Marxian economics） · 第一代新古典主义经济学 · 第二代新古典主义经济学 · 凯恩斯主义经济学 · 第一代新凯恩斯主义经济学 · 第二代新凯恩斯主义经济学 · 后凯恩斯主义经济学
+
+
+
+
+
+
+有关
+
+
+
+经济学
+经济思想史
+主流经济学
+非主流经济学
+经济体系
+世界体系理论
+
+
+
+
+
+
+
+
+
+
+
+
+分类：经济学热力学隐藏分类：含有过时参数的引用的页面含有英语的条目

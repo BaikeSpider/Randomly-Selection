@@ -1,0 +1,170 @@
+控制工程
+
+
+
+
+控制系统在航天中扮演了极为重要的角色。
+
+
+控制工程（英语：Control engineering）是有关控制理论研究与应用的一门工程学。控制系统的实现通常基于传感器的使用，它可以测量被控制设备的性能参数，然后收集到的数据以反馈的形式施加到执行器上，使得执行器输出一定的信号，确保系统工作在预期的状态。工程师可以设计无需人介入、可以自适应、自动修正误差的设备系统，这种系统被称为“自动控制”，例如汽车的巡航定速系统。控制工程在本质上是一个交叉学科，而描述系统行为的数学模型则又是重中之重。
+有关文献[编辑]
+
+Christopher Kilian. Modern Control Technology. Thompson Delmar Learning. 2005. ISBN 1-4018-5806-6. 
+Arnold Zankl. Milestones in Automation: From the Transistor to the Digital Factory. Wiley-VCH. 2006. ISBN 3-89578-259-9. 
+
+参考文献[编辑]
+
+
+
+Bennett, Stuart. A history of control engineering, 1800-1930. IET. 1986-06. ISBN 978-0-86341-047-5. 
+Bennett, Stuart. A history of control engineering, 1930-1955. IET. 1993. ISBN 978-0-86341-299-8. 
+
+
+外部链接[编辑]
+
+
+您可以在维基教科书中查找此百科条目的相关电子教程：
+Control Systems
+
+
+
+Control Labs Worldwide
+The Michigan Chemical Engineering Process Dynamics and Controls Open Textbook
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+系统工程
+
+
+
+
+
+
+分支领域
+
+
+
+航空航天工程
+生物系统工程
+配置管理
+Earth systems engineering and management（英语：Earth systems engineering and management）
+电机工程
+企业系统工程（英语：Enterprise systems engineering）
+性能工程（英语：Performance engineering）
+Reliability engineering
+安全工程
+
+
+
+
+
+
+
+
+过程
+
+
+
+需求分析
+功能需求
+系统整合
+验收
+设计评估（英语：Design review）
+
+
+
+
+
+
+
+
+概念
+
+
+
+业务流程
+系统
+系统生命周期（英语：System lifecycle）
+V模型
+系统发展生命周期
+
+
+
+
+
+
+
+
+工具
+
+
+
+决策
+功能建模（英语：Function modeling）
+IDEF
+最优化
+品质机能展开
+计划
+统计分析
+系统动力学
+系统建模语言
+系统分析
+系统建模（英语：Systems modeling）
+工作分解结构
+
+
+
+
+
+
+
+
+相关领域
+
+
+
+控制工程
+计算机工程
+工业工程
+运筹学
+项目管理
+品质管理
+风险管理
+软件工程
+
+
+
+
+
+
+
+
+
+
+
+ Category
+ Commons
+
+
+
+
+
+
+
+
+
+
+
+
+分类：控制工程电力工程系统工程工程学科

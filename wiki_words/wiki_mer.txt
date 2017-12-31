@@ -1,0 +1,553 @@
+Mer
+
+Mer
+
+操作系统家族
+Linux
+
+
+运作状态
+Current
+
+
+市场取向
+行动装置
+
+
+软件包管理系统
+RPM Package Manager
+
+
+支援平台
+ARM，MIPS与x86
+
+
+内核类别
+整块性核心（Linux）
+
+
+许可证
+开放源代码
+
+
+官方网站
+merproject.org
+
+
+Mer，一种移动操作系统，采用Linux核心，主要应用于智能手机、平板电脑，以及其他的消费性电子装置。它是MeeGo的分支。
+Mer是一个开放源代码软件，最早是被用来替代使用于诺基亚N800及N810平板电脑上的Maemo操作系统。它特别强调Ubuntu版本的特色，并将Ubuntu上的许多功能移植到Maemo 5上。2011年，当MeeGo计划被中止后，Mer被当成是MeeGo的另一个分支而继续被发展。
+Mer支援英特尔x86以及ARM平台，现在正在增加对MIPS平台的支援。
+分支[编辑]
+Nokia的MeeGo研发团队，在Nokia放弃MeeGo计划并裁员后，自行建立新的公司Jolla。他们在Mer专案中，分支出Sailfish OS，作为他们公司的产品。
+外部链接[编辑]
+
+merproject.org
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+移动操作系统
+
+
+
+
+
+
+Linux内核
+
+
+
+
+Android
+
+
+
+CyanogenMod
+CopperheadOS（英语：CopperheadOS）
+Fira OS（英语：Fira OS）
+Fire OS（英语：Fire OS）
+Hive UI（英语：Hive UI）
+Indus OS（英语：Indus OS）
+LineageOS
+Resurrection Remix OS
+OPhone
+Replicant
+Ubuntu for Android
+诺基亚X平台（英语：Nokia X platform）
+百度云OS
+MIUI
+YunOS
+
+
+
+
+
+
+
+
+SHR（英语：SHR (operating system)）
+
+
+
+OpenEmbedded
+
+Familiar Linux
+OpenZaurus（英语：OpenZaurus）
+KaeilOS（英语：KaeilOS）
+
+
+Openmoko Linux
+
+Qt Extended
+Ångström Linux-based
+
+
+
+
+
+
+
+
+
+
+其他
+
+
+
+Access Linux
+Bada (操作系统)
+EZX Linux（英语：EZX Linux）
+Firefox OS
+LuneOS（英语：LuneOS）
+MeeGo
+MotoMagx
+Sailfish OS
+Tizen
+Ubuntu Touch
+webOS
+
+
+
+
+
+
+
+
+
+
+
+XNU
+
+
+
+iOS
+
+
+
+
+
+
+
+
+QNX
+
+
+
+BlackBerry 10
+BlackBerry PlayBook OS
+
+
+
+
+
+
+
+
+Windows
+
+
+
+Windows Mobile
+Windows Phone
+Windows XP Tablet PC Edition
+Windows RT
+Windows 8.1 with Bing
+Windows 10移动版
+
+
+
+
+
+
+
+
+其他
+
+
+
+BlackBerry OS
+EPOC
+GEOS（英语：GEOS (16-bit operating system)）
+任天堂DSi
+任天堂3DS
+S30
+S30+（英语：Series 30+）
+S40
+诺基亚Asha平台（英语：Nokia Asha platform）
+DR-DOS
+Palm OS
+PSP
+PS Vita
+Symbian
+
+MOAP（英语：MOAP）(S)
+UIQ
+S60
+S80
+S90
+
+
+
+
+
+
+
+
+
+
+相关
+平台
+
+
+
+无线二进制运行环境（BREW）
+Java ME
+JavaFX Mobile
+
+
+
+
+
+
+
+
+
+
+
+移动操作系统比较
+行动软件发行平台列表
+开放手机联盟
+开放移动联盟
+流动应用程序开发（英语：Mobile application development）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+Qt
+
+
+
+
+
+
+技术
+
+
+
+元物件系统（英语：Meta-object System）
+Phonon
+QML
+QtScript
+Qt Quick（英语：Qt Quick）
+讯号与槽（英语：Signals and slots）
+
+
+
+
+
+
+
+
+
+
+
+工具
+
+
+
+qmake
+Qt Creator
+
+
+
+
+
+
+
+
+绑定
+
+
+
+PHP-Qt（英语：PHP-Qt）
+PyQt
+PySide
+QtRuby
+Qt Jambi
+Qyoto
+
+
+
+
+
+
+
+
+相关
+
+
+
+Digia
+Nokia
+KDE
+Mer
+
+MeeGo
+
+
+Qt Development Frameworks
+Qt计划（英语：Qt Project）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+Linux发行版
+
+
+
+
+
+
+Debian
+
+
+
+Knoppix
+Kali Linux
+MEPIS
+Xandros
+CrunchBang Linux
+Deepin
+Raspbian
+Devuan
+
+
+
+
+Ubuntu
+
+
+
+Kubuntu
+Edubuntu
+Lubuntu
+Xubuntu
+Ubuntu GNOME
+Ubuntu MATE
+Linux Mint
+Elementary OS
+Zorin OS
+Trisquel
+BackTrack
+Peppermint Linux OS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Red Hat
+
+
+
+Red Hat Enterprise Linux
+CentOS
+Scientific Linux
+Fermi Linux
+Oracle Linux
+红旗Linux
+
+
+
+
+Fedora
+
+
+
+Korora
+
+
+
+
+
+
+
+Mandriva
+
+
+
+PCLinuxOS
+Unity Linux
+Mageia
+
+
+
+
+
+
+
+
+
+
+
+Gentoo
+
+
+
+Sabayon Linux
+Calculate Linux
+Funtoo Linux
+Chromium OS
+Google Chrome OS
+
+
+
+
+
+
+
+
+Slackware
+
+
+
+SUSE/openSUSE
+Zenwalk（英语：Zenwalk）
+VectorLinux（英语：VectorLinux）
+SLAX
+
+
+
+
+
+
+
+
+Arch
+
+
+
+Chakra GNU/Linux
+ArchBang
+Manjaro Linux
+Parabola GNU/Linux-libre
+Antergos
+
+
+
+
+
+
+
+
+其它
+
+
+
+Puppy Linux
+Damn Small Linux
+Slitaz
+GoboLinux
+Tiny Core Linux
+Anthon OS
+Qomo Linux
+
+
+
+
+
+
+
+
+
+斜体划线代表终止开发的发行版
+
+分类
+比较
+列表
+共享资源
+
+
+
+
+
+
+
+
+
+
+
+
+分类：嵌入式Linux发行版自由操作系统移动操作系统Mobile LinuxMeeGoARM 操作系统

@@ -1,0 +1,254 @@
+腱
+
+
+腱
+
+
+
+阿基里斯腱
+
+
+
+细节
+
+
+拉丁语
+tendo
+
+
+识别标示
+
+
+Code
+TH（英语：Terminologia Histologica） H3.03.00.0.00020
+
+
+Dorlands
+Tendon
+
+
+TH
+H3.03.00.0.00020
+
+
+FMA
+FMA:9721
+
+
+解剖学术语（英语：Anatomical terminology）
+
+
+腱（或称肌腱）是一坚韧的结缔组织带，通常将肌肉连接到骨骼[1]，并可承受张力。腱类似韧带和筋膜，都是由胶原蛋白组成；不过，韧带是连接骨骼，而筋膜则连接肌肉。肌腱与肌肉一起作用产生动作。
+
+
+
+目录
+
+
+1 结构
+2 功能
+3 病理
+4 治疗
+5 参考
+
+
+
+结构[编辑]
+正常健康的腱大多是由平行的紧密胶原组成。腱大约30％的总质量是水，其余质量组成如下：约86％的胶原蛋白、2％弹性纤维、1-5％蛋白多糖和0.2％无机成分，如铜、锰和钙。[2][3] 胶原部分是由97-98％的I型胶原蛋白，与少量其他类型的胶原蛋白组成。
+腱的胶原由蛋白多糖结合起来，包括核心蛋白聚糖和蛋白多糖[4]。蛋白多糖与胶原纤维交织在一起，其糖胺侧链与纤维的表面有相互作用，显示蛋白多糖对纤维互连结构是重要的。[5]腱的主要聚糖成分为硫酸皮肤素和硫酸软骨素，与胶原蛋白有关，亦参与了腱发展中的纤维组成。硫酸皮肤素被认为是负责形成纤维间的连系，而硫酸软骨素则填塞纤维的空间，有助防止变形。[6]
+腱的长度因人而异。腱的长度会影响肌肉的锻炼，若所有其他生物因素一样，一个有较短肌腱和较长肱二头肌的人，在增加肌肉质量方面会有更大潜力；一般来说，成功的健美选手通常有较短的肌腱。相反，对于着重跑步或跳跃动作的运动，具有比平均长的跟腱和较短的小腿肌肉则较为有利[7]。
+腱的长度取决于遗传基因，并没有被证明会受环境的影响，不像肌肉般可以因创伤等原因而缩短。[8]
+功能[编辑]
+腱传统上一直被认为只是将肌肉连接骨骼，功能只是为了传递力量。然而，在过去二十年，大量的研究集中在腱的弹性性质和充当弹簧的能力。这使得腱在运动中协助调节力量，提供额外的稳定性。它还使腱能有效率地存储和回复能量。
+腱的力学性能依赖于胶原纤维的直径和方向。胶原纤维是互相平行的，彼此紧密排列。腱中的I型胶原纤维具有一定的灵活性。此外，由于肌腱是由许多独立纤维和束组成的多链接构，并不是一条杆，而这个属性也有助于其灵活性。[9]
+病理[编辑]
+腱会受很多类型的伤害，例如劳损，或者是受到突然的方向转变。这些类型的损伤通常导致炎症，或肌腱变型和削弱，甚至可能最终导致肌腱断裂[10]。
+治疗[编辑]
+脚的腱非常复杂，任何断裂将意味长时间的痛苦愈合过程，更不用说复杂的修复过程（如果完全切断）。腱伤是可以愈合，而这个恢复过程是受肌腱细胞和其周围的细胞外基质所控制。然而，愈合的肌腱难以回复受伤前的能力。
+参考[编辑]
+
+
+^ eMedicine/Stedman Medical Dictionary Lookup!
+^ Jozsa, L., and Kannus, P., Human Tendons: Anatomy, Physiology, and Pathology. Human Kinetics: Champaign, IL, 1997.
+^ Lin, T. W.; Cardenas, L.; Soslowsky, L. J.,. Biomechanics of tendon injury and repair.. Journal of Biomechanics. 2004, 37 (6): 865–877. PMID 15111074. doi:10.1016/j.jbiomech.2003.11.005. 
+^ Zhang, G. E., Y.; Chervoneva, I.; Robinson, P. S.; Beason, D. P.; Carine, E. T.; Soslowsky, L. J.; Iozzo, R. V.; Birk, D. E.,. Decorin regulates assembly of collagen fibrils and acquisition of biomechanical properties during tendon development.. Journal of Cellular Biochemistry. 2006, 98 (6): 1436–1449. PMID 16518859. doi:10.1002/jcb.20776. 
+^ Raspanti, M.; Congiu, T.; Guizzardi, S.,. Structural Aspects of the Extracellular Matrix of the Tendon : An Atomic Force and Scanning Electron Microscopy Study.. Archives of Histology and Cytology. 2002, 65 (1): 37–43. PMID 12002609. doi:10.1679/aohc.65.37. 
+^ Scott, J. E. O., C. R.; Hughes, E. W.,. Proteoglycan-collagen arrangements in developing rat tail tendon. An electron microscopical and biochemical investigation.. Biochemical Journal. 1981, 195 (3): 573–581. PMC 1162928. PMID 6459082. 
+^ Having a short Achilles tendon may be an athlete's Achilles heel. [2007-10-26]. 
+^ Michael Young. A Review on Postural Realignment and its Muscular and Neural Components (PDF). 
+^ Ker, R. F.,. The implications of the adaptable fatigue quality of tendons for their construction, repair and function.. Comparative Biochemistry and Physiology - Part A: Molecular & Integrative Physiology. 2002, 133 (4): 987–1000. PMID 12485688. doi:10.1016/S1095-6433(02)00171-X. 
+^ Sharma, P. M., N.,. Biology of tendon injury: healing, modeling and remodeling.. Journal of Musculoskeletal and Neuronal Interactions. 2006, 6 (2): 181–190. PMID 16849830. 
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+肌肉系统（TA A04.0、GA 4.361）
+
+
+
+
+
+
+主题
+
+
+
+肌肉组织
+人体肌肉
+
+
+
+
+
+
+
+
+肌肉类型
+
+
+
+心肌
+骨骼肌
+平滑肌
+
+
+
+
+
+
+
+
+其他
+
+
+
+半羽肌
+羽肌
+起端
+插入物
+筋膜（浅筋膜、深筋膜、脏筋膜）
+腱/腱膜
+筋膜间隔
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+肌肉导航
+
+
+
+
+
+
+描述
+
+
+
+解剖
+
+头
+颈（英语：Template:Muscles of neck）
+上肢
+胸背
+横膈（英语：Template:Thoracic diaphragm）
+腹部
+会阴（英语：Template:Muscles of perineum）
+下肢（英语：Template:Muscles of lower limb）
+
+
+组织
+生理（英语：Template:Muscular physiology）
+
+结缔组织
+
+
+
+
+
+
+
+
+
+
+疾病
+
+
+
+Myopathy
+软组织（英语：Template:Soft tissue disorders）
+结缔组织
+先天（英语：Template:Diseases of myoneural junction and muscle）
+
+腹部（英语：Template:Congenital diaphragm and abdominal wall defects）
+muscular dystrophy（英语：Template:Muscular dystrophy）
+
+
+肿瘤
+Injury（英语：Template:Dislocations, sprains and strains）
+Symptoms and signs
+
+eponymous（英语：Template:Eponymous medical signs for muscles and soft tissue）
+
+
+
+
+
+
+
+
+
+
+治疗
+
+
+
+程序（英语：Template:Muscle and soft tissue procedures）
+药物
+
+抗发炎药物
+muscle relaxants（英语：Template:Muscle relaxants）
+
+
+
+
+
+
+
+Category:Articles that show a Medicine navs template（英语：Category:Articles that show a Medicine navs template）
+
+
+
+
+
+
+
+
+
+
+分类：软组织骨骼腱隐藏分类：使用过时参数的医学信息模板使用Dorlands参数的医学信息框模板
