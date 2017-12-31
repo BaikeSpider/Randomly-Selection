@@ -1,0 +1,93 @@
+HTC Touch Diamond2
+
+HTC Touch Diamond2
+
+250px
+
+
+生产商
+High Tech Computer Corporation
+
+
+上市日期
+2009年2月16日
+
+
+尺寸
+107.85 x 53.1 x 13.7 mm
+(4 x 2 x 0.45 in)
+
+
+重量
+117.5 g
+
+
+操作系统
+Windows Mobile 6.1 Professional
+
+
+CPU
+528 MHz Qualcomm MSM7201A
+
+
+内存
+512 MB internal flash
+288 MB RAM
+
+
+电池
+Rechargeable 900mAh Li-ion battery (up to 396 hrs standby, 5.5 hrs talk time)
+
+
+感应器类型
+Touchscreen、G-sensor
+
+
+显示器
+3.2吋 LCD touchscreen
+800x480 px 65k-color WVGA TFT
+
+
+后置相机
+500万画素CMOS自动对焦
+VGA CMOS副镜头
+
+
+连接能力
+GSM / GPRS, EDGE, HSDPA, HSUPA, Bluetooth, 802.11b/g, USB Mini (ExtUSB)
+
+
+HTC Touch Diamond2，产品代号Topaz，从名字可以看出是HTC Touch Diamond的升级版，是台湾宏达电公司所推出的智能手机，搭载微软Windows Mobile 6.1，是一种具有3D立体触控界面（TouchFLO）的手机。2009年2月16日发表。
+技术规格[编辑]
+
+处理器：Qualcomm MSM7200A 528 MHz
+操作系统：Windows Mobile 6.1 Professional
+内存：ROM：512MB，RAM：288MB
+尺寸：107.85mm X 53.1mm X 13.7mm
+重量：117.5g（含电池）
+屏幕：WVGA 分辨率、3.2 吋 TFT-LCD 平面电阻式触控屏幕
+网络：GSM/EDGE/WCDMA/HSDPA/HSUPA
+蓝牙：2.0 with EDR
+GPS：配备GPS及A-GPS
+Wi-Fi：IEEE 802.11 b/g
+电池：1100mAh充电式锂或锂聚合物电池
+
+
+参见[编辑]
+
+HTC
+Qtek
+Dopod
+TouchFLO
+DNK POWER
+
+外部链接[编辑]
+
+HTC Touch Diamond2 概观[失效链接]
+HTC Touch Diamond2 技术规格[失效链接]
+
+
+
+
+
+分类：智能手机触控手机宏达电手机隐藏分类：缺少文件的条目带有失效链接的条目条目有永久失效的外部链接

@@ -1,0 +1,430 @@
+反苯环丙胺
+ 维基百科中的医疗相关内容仅供参考，详见医学声明。如需专业意见请咨询专业人士。
+
+反苯环丙胺
+
+
+
+
+
+
+
+系统（IUPAC）命名名称
+
+
+
+(±)-trans-2-phenylcyclopropyl-1-amine
+
+
+
+临床数据
+
+
+妊娠分级
+
+
+
+C
+
+
+
+
+
+给药途径
+口服
+
+
+药代动力学数据
+
+
+生物利用度
+50%[1]
+
+
+代谢
+肝脏（被CYP2A6、CYP2C19、CYP2D6、MAOA和MAOB催化）
+
+
+生物半衰期
+2.5小时[1]
+
+
+排泄
+尿液、粪便[1]
+
+
+识别信息
+
+
+CAS注册号
+155-09-9
+
+
+ATC代码
+N06AF04
+
+
+PubChem
+CID 9364
+
+
+DrugBank
+DB00752
+
+
+化学信息
+
+
+化学式
+C9H11N
+
+
+摩尔质量
+133.19 g/mol
+
+
+
+
+SMILES
+
+
+NC1CC1C1=CC=CC=C1
+
+
+
+
+
+
+反苯环丙胺（Tranylcypromine）是一种单胺氧化酶（MAO）的非选择性和不可逆性抑制剂，属于苯乙胺和安非他命类。临床上用于治疗抑郁症、焦虑症和强迫症。
+
+
+
+目录
+
+
+1 不良反应
+2 体内过程
+3 合成
+4 参考资料
+
+
+
+不良反应[编辑]
+常见不良反应有头痛、失眠、乏力、心悸、不安、恶心、口干、高／低血压、体温升高、射精困难、排尿困难、视力模糊等，也有可能引起焦虑，加重躁狂症状。[2]
+体内过程[编辑]
+口服后快速为胃肠道所吸收，1～3.5小时后血药浓度达到高峰，广泛在体内分布，主要在肝脏代谢，经尿液排泄，其中主要以代谢物的形式排泄，原形仅占2％。[2]
+合成[编辑]
+反苯环丙胺是安非他命的环丙基类似物。它可以通过如下路线制取：[3][4]
+
+苯乙烯与重氮乙酸乙酯反应生成2-苯基环丙烷甲酸乙酯。
+2-苯基环丙烷甲酸乙酯在碱存在下水解生成2-苯基环丙烷甲酸。
+2-苯基环丙烷甲酸与氯化亚砜反应生成2-苯基环丙烷甲酰氯。
+2-苯基环丙烷甲酰氯与叠氮化钠反应，氯被叠氮基取代，生成酰基叠氮。
+酰基叠氮发生Curtius重排反应生成异氰酸酯。
+异氰酸酯经Schmidt反应水解为2-苯基环丙胺，即反苯环丙胺。
+
+此时得到的是四种立体异构体的混合物。通过与手性的酒石酸结晶拆分，即可得到所需的(1S,2R)-和(1R,2S)-反式-2-苯基环丙胺两种异构体的混合物。
+
+参考资料[编辑]
+
+
+^ 1.0 1.1 1.2 Williams, David A. Antidepressants. (编) Foye, William O.; Lemke, Thomas L.; Williams, David A. Foye's Principles of Medicinal Chemistry. Hagerstwon, MD: Lippincott Williams & Wilkins. 2007: 590–1. ISBN 0-7817-6879-9. 
+^ 2.0 2.1 杨世杰主编，王怀良副主编. 药理学. 北京: 人民卫生出版社. 2001: 263. ISBN 7-117-04075-0. 
+^ V.J. Rajadhyaksha, US Patent 4016204 (1977).
+^ A. Burger, W.L.L. Yost. J. Am. Chem. Soc. 1948, 70: 2198. doi:10.1021/ja01186a062.  缺少或|title=为空 (帮助)
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+葛兰素史克股份有限公司
+
+
+
+
+
+
+附属公司
+
+
+
+GlaxoSmithKline Pakistan
+GlaxoSmithKline Pharmaceuticals Ltd
+Stiefel Laboratories
+ViiV Healthcare (85%)
+
+
+
+
+
+
+
+
+前身及完全整合收购
+
+
+
+Allen & Hanburys
+Beecham Group
+Block Drug
+Burroughs Wellcome
+Glaxo
+Glaxo Wellcome
+Human Genome Sciences
+Recherche et Industrie Thérapeutiques
+SmithKline Beecham
+Smith, Kline & French
+
+
+
+
+
+
+
+
+产品(列表)
+
+
+
+
+
+目前产品
+
+
+
+
+
+
+药品
+
+
+
+
+Advair
+阿苯达唑
+奥利司他
+Amerge
+阿莫西林
+Arixtra
+Arranon/Atriance
+Augmentin
+糠酸氟替卡松
+罗格列酮
+Avodart
+AZT1
+Beconase
+Boniva
+头孢呋辛
+卡贝兹1
+Coreg
+Dexedrine
+Dyazide
+拉米夫定1
+氟替卡松
+舒马曲坦
+Jayln
+拉莫三嗪
+地高辛
+伐地那非2
+Lovaza
+反苯环丙胺
+帕罗西汀
+Promacta
+Relenza
+Requip
+Rescriptor1
+Serlipet
+西咪替丁
+Treximet
+Trizivir1
+拉帕替尼
+伐昔洛韦
+沙丁胺醇
+Viracept1
+丁氨苯丙酮
+雷尼替丁
+Ziagen1
+昂丹司琼
+阿昔洛韦
+
+
+
+
+
+
+
+
+
+疫苗
+
+
+
+
+Hepatyrix
+Pandemrix
+Twinrix
+
+
+
+
+
+
+
+
+
+其它产品
+
+
+
+
+Aquafresh
+Boost
+以罗
+好立克
+Maxinutrition
+Nicoderm
+Nicorette
+NiQuitin
+必理痛
+Panadol night
+Ralgex
+Sensodyne
+Solpadeine
+Synthol
+Tums
+
+
+
+
+
+
+
+
+
+
+
+
+之前产品
+
+
+
+
+BC Powder
+Geritol
+Goody's Powder
+葡萄适
+利宾纳
+
+
+
+
+
+
+
+
+
+
+
+相关人物
+
+
+
+
+
+现任董事
+
+
+
+
+Chris Gent
+Andrew Witty
+Roy Anderson
+Stephanie Burns
+Stacey Cartwright
+Lawrence Culp
+Crispin Davis
+Simon Dingemans
+Judy Lewent
+Deryck Maughan
+James Murdoch
+Daniel Podolsky
+Moncef Slaoui
+Tom de Swaan
+Robert Wilson
+
+
+
+
+
+
+
+
+
+其他人物
+
+
+
+
+Thomas Beecham
+Silas M. Burroughs
+Mahlon Kline
+John K. Smith
+Henry Wellcome
+
+
+
+
+
+
+
+
+
+
+
+其它相关
+
+
+
+Canada v. GlaxoSmithKline Inc.
+GlaxoSmithKline Prize
+Side Effects
+United States v. GlaxoSmithKline
+
+
+
+
+
+
+
+
+
+
+
+1ViiV Healthcare产品 2与拜耳药品合作市场
+
+
+ 分类
+ Commons
+
+
+
+
+
+
+
+
+
+
+
+
+分类：单胺氧化酶抑制剂苯乙胺类三元环隐藏分类：含有缺少标题的引用的页面无CAS号重定向的物质条目未提供参考文献的CAS号药物信息框具有未知参数的化学物质条目包含Infobox drug模板条目没有结构图没有EBI来源的条目没有ChemSpiderID的化学条目没有KEGG来源的条目没有InChI来源的条目没有UNII来源的条目药品没有法律信息

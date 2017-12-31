@@ -1,0 +1,30 @@
+广播风暴
+网络广播风暴是一种在电脑网络上发生的错误，起因是因为广播及多播讯号的累积，占用大量的网络带宽而使正常网络信号无法流通。一般来说，网络广播风暴都是因为配线错误，使网络造成回路而引起。
+广播域：处于同一个网络的所有设备，位于同一个广播域。也就是说，所有的广播信息会播发到网络的每一个端口，即使交换机、网桥也不能阻止广播信息的传播。因此同一时间只能有一个广播信息在网络中传送。
+参考[编辑]
+
+
+Appendix E: Broadcasts in Switched LAN Internetworks [1][失效链接] [2]PDF
+Defense Against the DoS/DDoS Attacks on Cisco Routers [3] [4]PDF (56.2 KiB)
+Disassociation Broadcast Attack Using ESSID Jack [5]
+The Broadcast Storm Problem in a Mobile Ad Hoc Network [6]PDF (1.12 MiB)
+
+
+
+
+这是一篇与计算机相关的小作品。你可以通过编辑或修订扩充其内容。
+
+
+查
+论
+编
+
+
+
+
+
+
+
+
+
+分类：网络结构隐藏分类：带有失效链接的条目条目有永久失效的外部链接全部小作品电脑小作品
