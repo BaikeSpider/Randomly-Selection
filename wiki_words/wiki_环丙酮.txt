@@ -1,0 +1,255 @@
+环丙酮
+
+
+环丙酮
+
+
+
+
+
+IUPAC名
+cyclopropanone
+
+
+识别
+
+
+CAS号
+5009-27-8
+
+
+PubChem
+138404
+
+
+SMILES
+
+
+
+ 
+
+C1CC1=O
+
+
+
+
+
+
+性质
+
+
+化学式
+C3H4O
+
+
+摩尔质量
+56.06326 g·mol⁻¹
+
+
+密度
+0.867 g/mL，25 °C
+
+
+熔点
+−90 °C
+
+
+沸点
+50-53 °C，22 mmHg
+
+
+若非注明，所有数据均出自一般条件（25 ℃，100 kPa）下。
+
+
+环丙酮（化学式：C3H4O）是环丙烷的氧代衍生物。其熔点为-90°C，很不稳定，可通过乙烯酮与重氮甲烷在-145°C时反应制备。[1][2] 由于母体化合物不甚稳定，合成中使用环丙酮的缩酮[3][4] 代替环丙酮，效果是等同的。
+环丙酮的衍生物结构特殊，具有一些不同的性质，因此经常是有机化学研究的对象。[5]
+衍生物[编辑]
+环丙酮环系是很多有机反应的中间体。Favorskii重排中便涉及到一个环丙酮并环的中间体。
+环丙酮环系水合形成羰基水合物（偕二醇），羰基碳变为sp3杂化，可以使所需的键角减小，缓解张力。因此环丙酮环系的水合物比较稳定。
+用偕二卤代卡宾与烯烃反应，生成的产物经水解后，可以得到环丙酮的衍生物。它们可以作为1,3-偶极体，与环状双烯体（如呋喃）发生环加成反应。[6][7] 对此，有人提出以下的价互变异构来解释这个现象：
+
+
+
+另两个结构都为碳-碳键断开，一个为电荷分离，另一个为双自由基结构。有些环丙酮的反应支持了以上机理：光学纯的(+)-反式-2,3-二叔丁基环丙酮加热到80°C时，会发生外消旋化；[8] 以及光照时，氧代脱氢吡唑烷放出氮气生成茚满的反应（见下），便都可看作是采取了上述的互变异构机理。[9]
+
+
+
+参见[编辑]
+
+其他环酮：环丁酮 - 环戊酮 - 环己酮
+其他环丙烷衍生物：环丙烯 - 环丙烯酮
+
+参考资料[编辑]
+
+
+^ Preparation and characterization of cyclopropanone, methylcyclopropanone, 2,2-dimethylcyclopropanone and tetramethylcyclopropanone N. J. Turro and W. B. Hammond, Tetrahedron, Volume 24, Issue 18, 1968, Pages 6017-6028 doi:10.1016/S0040-4020(01)90985-8
+^ Cryochemical synthesis and molecular energetics of cyclopropanone and some related compounds E. F. Rothgery, R. J. Holt, H. A. McGee, , Jr. J. Am. Chem. Soc.; 1975; 97(17); 4971-4973. doi:10.1021/ja00850a034
+^ Organic Syntheses, Coll. Vol. 7, p.131 (1990); Vol. 63, p.147 (1985). [Link http://www.orgsynth.org/orgsyn/pdfs/CV7P0131.pdf]
+^ Datasheet commercial supplier Link 互联网档案馆的存档，存档日期2007-09-26.
+^ Cyclopropanones Nicholas J. Turro, Acc. Chem. Res.; 1969; 2(1); 25-32. doi:10.1021/ar50013a004
+^ Cyclopropanones. XII. Cycloaddition reactions of cyclopropanones Nicholas J. Turro, Simon S. Edelson, John R. Williams, Thomas R. Darling, Willis B. Hammond, J. Am. Chem. Soc.; 1969; 91(9); 2283-2292. doi:10.1021/ja01037a018
+^ Cyclopropanones. XVII. Kinetics of the cycloaddition reaction of cyclopropanones with 1,3-dienes Simon S. Edelson, Nicholas J. Turro J. Am. Chem. Soc.; 1970; 92(9); 2770-2773. doi:10.1021/ja00712a030
+^ Thermal reactions of a cyclopropanone. Racemization and decarbonylation of trans-2,3-di-tert-butylcyclopropanone Frederick D. Greene, David B. Sclove, Jose F. Pazos, Ronald L. Camp J. Am. Chem. Soc.; 1970; 92(25); 7488-7488. doi:10.1021/ja00728a051
+^ First Direct Detection of 2,3-Dimethyl-2,3-diphenylcyclopropanone Andrey G. Moiseev, Manabu Abe, Evgeny O. Danilov, and Douglas C. Neckers, J. Org. Chem.; 2007; 72(8) pp 2777 - 2784; (Article) doi:10.1021/jo062259r
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+环状化合物
+
+
+
+
+
+
+单环
+
+
+
+
+
+三元环
+
+
+环丙烷 · 环氧乙烷 · 环硫乙烷 · 氮丙环 | 环丙烯 · 环丙酮
+
+
+
+
+
+
+
+四元环
+
+
+环丁烷 · 吖丁啶 · 噁丁环 · 噻丁环 · 二氧环丁烷 · 二硫环丁烷 · 二硫环丁烯 | 环丁烯 · 环丁二烯 · β-内酰胺 · 梯形烷
+
+
+
+
+
+
+
+五元环
+
+
+环戊烷 · 呋喃 · 吡咯 · 噻吩 · 吖唑 · 咪唑 · 吡唑 · 噁唑 · 异噁唑 · 噻唑 · 异噻唑 · 三唑 · 四唑 · 五唑 | 环戊烯 · 环戊二烯 · 环戊酮 · 四氢呋喃 · 四氢噻吩 · 吡咯烷 · 吡咯啉 · 咪唑啉啶 · 咪唑啉 · 噁唑烷 · 噻唑烷 · 二氧五环 · 二硫戊环 · 多并五元环
+
+
+
+
+
+
+
+六元环
+
+
+环己烷 · 苯 · 吡喃 · 吡啶 · 二嗪（吡嗪 · 哒嗪 · 嘧啶） · 三嗪 · 四嗪 · 五嗪 · 六嗪 | 吡喃酮 · 哌啶 · 哌嗪 · 噁嗪 · 噻嗪 · 二噻烷 · 二噁烷 · 二噁英 · 噁噻烷 · 三噁烷 · 噻二嗪
+
+
+
+
+
+
+
+七元环
+
+
+环庚烷 · 氮杂䓬（吖庚因） · 噁庚因 · 硫杂䓬（噻庚因）| 环庚三烯 · 亚氨基芪 · 全氢氮杂䓬 · 己内酰胺 · 二氮杂䓬 · 噁庚环
+
+
+
+
+
+
+
+八元环
+
+
+环辛烷 · 环辛四烯
+
+
+
+
+
+
+
+
+
+稠环
+
+
+
+
+
+六并四
+
+
+苯并环丁烯 · 苯并环丁二烯
+
+
+
+
+
+
+
+六并五
+
+
+茚 · 芴 · 苯并呋喃 · 异苯并呋喃 · 苯并呋咱 · 苯并[b]噻吩 · 苯并[c]噻吩 · 吲哚 · 异吲哚 · 咔唑 · 苯并咪唑 · 吲唑 · 苯并噁唑 · 苯并异噁唑 · 咔啉 · 苯并三唑 · 嘌呤 · 尿酸
+
+
+
+
+
+
+
+六并六
+
+
+十氢化萘 · 四氢化萘 · 萘 · 蒽 · 喹啉 · 异喹啉 · 喹喔啉 · 喹唑啉 · 噌啉 · 酞嗪 · 苯并二噁烷 · 吖啶 · 菲啶 · 吩嗪 · 吩噁嗪 · 吩噻嗪 · 呫吨 · 蝶啶 | 喹唑啉酮 · 香豆素 · 黄酮类 · 异黄酮 · 花色素 · 呫吨酮 · 蝶呤 · 咯嗪
+
+
+
+
+
+
+
+七并五
+
+
+薁
+
+
+
+
+
+
+
+
+
+其他
+
+正四面体烷 · 立方烷 · 正十二面体烷 · 富勒烯  · 多环芳烃 · 桥环化合物 · 螺环化合物 · 杂环化合物 · 卟啉 · 轮烯 · 冠醚 · 穴状配体 · 金刚烷 · 扭曲烷 · CL-20 · 乌洛托品 · 冰烷 · 三蝶烯
+
+
+
+
+
+
+
+
+
+
+分类：酮环丙烷三碳有机物隐藏分类：Webarchive模板wayback链接无CAS号重定向的物质条目未提供参考文献的CAS号无附加数据页的化学条目

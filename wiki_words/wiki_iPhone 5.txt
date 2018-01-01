@@ -1,0 +1,1163 @@
+iPhone 5
+
+
+
+
+
+
+iPhone 5
+
+
+
+
+
+
+
+开发商
+苹果公司
+
+
+制造商
+富士康
+
+
+口号
+The biggest thing to happen to iPhone since iPhone.
+Loving it is easy. That's why so many people do.[1]
+
+
+规格
+触摸屏智能手机
+
+
+世代
+6
+
+
+发行日期
+2012年9月12日，​5年前​（2012-09-12）
+
+
+贩售数量
+最初24小时内售出200万部[2]
+首3日售出500万部[3]
+
+
+操作系统
+原: iOS 6
+当前: iOS 10.3.3(14E277)
+
+
+容量
+16 GB、32 GB、64 GB，内置闪存
+
+
+内存
+1GB LPDDR2-1066 RAM
+
+
+显示
+4英寸 (对角线)多点触控宽屏Retina荧屏
+分辨率1136x640 326PPI
+800:1 对比度（标准）
+500 luminance
+
+
+输入
+4按钮，麦克风，触控屏幕，加速度计，陀螺仪
+
+
+背面相机
+800 万像素iSight摄录镜头
+HD（1080p）视频
+
+
+正面相机
+120 万像素
+HD（720p）视频
+
+
+连接功能
+
+Wi-Fi，蓝牙，GPS和GLONASS
+所有型号
+· GSM model（A1428）:
+UMTS/HSPA+/DC-HSDPA（850, 900, 1700/2100, 1900, 2100 MHz）；GSM/EDGE（850, 900, 1800, 1900 MHz）；LTE（Bands 4, 17: 1700 , 700b MHz).
+· GSM model（A1429）:
+CDMA EV-DO Rev. A（800, 1900 MHz）；UMTS/HSPA+/DC-HSDPA（850, 900, 1900, 2100 MHz）；GSM/EDGE（850, 900, 1800, 1900 MHz）；LTE（Bands 1, 3, 5: 2100, 1800, 850 MHz）。
+· CDMA model（A1429）:
+2G CDMA（800 , 850, 1900 MHz）.
+Dual-band 3G CDMA/EV-DO Rev. A and Rev. B (850, 1900 MHz).
+UMTS/HSPA+/DC-HSDPA（850, 900, 1900, 2100 MHz）；GSM/EDGE (850, 900, 1800, 1900 MHz):
+LTE ( Bands 1, 3, 5, 13, 25: 2100, 1800, 850, 700c, 1900 MHz).
+
+
+尺寸
+高度：123.8毫米（4.87英寸）
+宽度：58.6毫米（2.31英寸）
+厚度：7.6毫米（0.30英寸）
+
+
+重量
+112克（4.0盎司）
+
+
+前任
+iPhone 4S
+
+
+继任
+iPhone 5s，iPhone 5c
+
+
+相关条目
+iPhone，iPad 3，iPod Touch
+
+
+
+
+本文介绍苹果公司的智能手机系列
+
+
+iPhone
+
+
+
+
+
+1
+
+
+
+3G
+3GS
+
+
+
+4
+4S
+
+
+
+5
+5C
+5S
+SE
+
+
+
+6/6 Plus
+6S/6S Plus
+
+
+
+7/7 Plus
+
+
+
+8/8 Plus
+X
+
+
+
+
+
+iPhone型号列表
+
+
+
+
+
+查
+论
+编
+
+
+
+
+
+iPhone 5是由苹果公司开发的触摸屏智能手机，是第六代的iPhone并继承前一代的iPhone 4S。
+外观设计被重新塑造为半金属的三段式机身，比较以前的产品，更薄、更轻，及拥有更高分辨率及更广阔的4英寸触摸屏，加长但不加宽确保了单手操作的握感，支持16:9宽屏幕格式。这款手机包括了一个自定义设计的ARMv7处理器的苹果A6的更新、iOS 6操作系统，并且支持3.9G级别的LTE高速移动网络。
+苹果于2012年9月12日正式推出iPhone 5，于9月14日开始接受订单的24小时内，总共收到逾200万的预购数量，预购售罄的速度比较前一代快速了20倍。
+
+
+
+目录
+
+
+1 历史
+2 性能
+3 销售
+4 品质问题
+5 相关条目
+6 引用参考
+7 外部链接
+
+
+
+历史[编辑]
+在苹果公司发布iPhone 4S后，就有关于iPhone 5的传言，直到2012年5月，才有具体的参数流出[4]。7月，一些网站放出了iPhone 5的具体参数，声称苹果公司将会在9月发布iPhone 5[5]。9月4日，苹果公司向媒体寄出了定于9月12日的苹果发布会邀请函在揭幕仪式上，苹果公司宣布推出iPhone 5[6]的同时还推出了新的iPod Nano和iPod touch机型。他们还指出，前期订单将会于2012年9月14日开始接受。新手机的需求远超其前身的所有产品，在24小时内收到逾200万的预购订单，iPhone5还创下前3日​销售逾500万部的记录。[7]。
+2013年9月10日，苹果在推出iPhone 5s和iPhone 5c后宣布iPhone 5停产[8]。这款手机也是乔布斯于2011年度这段开发期间内，所能参与开发的最后手机产品。
+性能[编辑]
+iPhone 5的显示屏尺寸扩大至4英寸，使用Retina显示屏，分辨率为1136x640，像素密度为326ppi。
+iPhone 5搭载了Apple A6，该SoC包括一个1.3 GHz的双核处理器，1GB的RAM和三核心的PowerVR SGX543MP4。运算速度为前代A5的两倍。
+电池方面，iPhone 5能够支持8小时通话或者8小时3G上网、8小时LTE上网、10小时WiFi上网、10小时视频播放，待机时间达到225小时，比较以往型号长久。
+同时，支持LTE网络，使得仰赖行动宽带与高速联网的云、流、影视等成为可能，内置iOS 6操作系统，首次内置苹果地图。
+iPhone 5采用了全新设计Lightning的双面8针接口，取代了以往的30针接口。Lightning接头不需区分正反面，可以随意插入设备中。
+外形方面除了金属机身之外，iPhone 5的厚度为7.6mm，仍然采用800万像素镜头，前置镜头由30万像素提升至120万像素，同时包含黑色和白色两种机身颜色。重量较iPhone 4S轻20%，薄18%。
+销售[编辑]
+iPhone 5于9月14日起正式开始接受预订。
+
+2012年9月21日在首批9个国家和地区上市销售：美国、香港、日本、加拿大、英国、法国、德国、澳大利亚、新加坡。
+2012年9月28日第二批在以下国家和地区上市销售：爱尔兰、比利时、荷兰、卢森堡、瑞士、列支敦士登，奥地利、捷克、斯洛伐克、匈牙利、斯洛文尼亚、丹麦、挪威、瑞典、芬兰、爱沙尼亚、立陶宛、波兰、意大利、葡萄牙、西班牙与新西兰。
+2012年11月2日第三批在以下国家上市销售：印度。
+2012年12月，iPhone 5开始在100个国家的240个运营商开卖。
+2012年12月7日，iPhone 5开始在韩国于KT和SK Telecom。
+2012年12月14日，iPhone 5开始在欧洲的阿尔巴尼亚、马其顿、摩尔多瓦、黑山、俄罗斯、美洲的安提瓜和巴布达、巴哈马、格林纳达、牙买加、哥斯达黎加、巴拿马、委内瑞拉、厄瓜多尔、玻利维亚、巴西、巴拉圭、智利、亚洲的土耳其、塞浦路斯、以色列、约旦、科威特、巴林、卡达、沙特阿拉伯、阿拉伯联合酋长国、亚美尼亚、中国大陆、印尼、马来西亚、菲律宾、台湾、与非洲的南非上市。
+2012年12月21日，iPhone 5开始在美洲的巴巴多斯、圣基茨、圣卢西亚、圣文森特和格林纳丁斯、非洲的博茨瓦纳、喀麦隆、中非共和国、埃及、几内亚、科特迪瓦、肯亚、马达加斯加、马利、毛里求斯、摩洛哥、尼日、塞内加尔、突尼斯、乌干达与亚洲的越南等国上市。
+
+品质问题[编辑]
+苹果公司重新设计了iPhone 5的外框倒角，先用金刚石切削并抛光，再做阳极氧化上漆。iPhone5反应普遍良好，惟有用户发现，黑色版iPhone 5的倒角漆面易脱落，甚至从未使用过的新机的倒角区域已有缺口。[9]网络上流传，苹果的SVP菲利普·席勒以电子邮件形式回应该名用户，指经过使用的手机出现掉漆现象是正常，但这不代表官方回应。[10]而白色版则有用户发现其前屏幕漏光。[11]CNN网站刊登署名为Doug Gross的文章，枚举了包括黑色版掉漆、白色版漏光在内的iPhone 5用户的五大怨言。
+相关条目[编辑]
+
+iPhone
+
+引用参考[编辑]
+
+
+^ Apple - iPhone 5 - Loving it is easy. That’s why so many people do.
+^ iPhone 5 Pre-Orders Top Two Million in First 24 Hours (新闻稿). Apple. September 17, 2012 [September 24, 2012]. 
+^ iPhone 5 First Weekend Sales Top Five Million (新闻稿). Apple. September 24, 2012 [September 24, 2012]. 
+^ German, Kent and La, Lynn. iPhone 5 rumor roundup. CNET. September 11, 2012 [September 13, 2012]. 
+^ Whitney, Lance. Apple reportedly to unveil iPhone 5, iPad Mini on Sept. 12. CNET. July 30, 2012 [September 13, 2012]. 
+^ Template:Cite press release =September 12, 2012
+^ Lowensohn, Josh. Apple's September 12 invite hints at iPhone 5. CNET. September 4, 2012 [September 13, 2012]. 
+^ 苹果iPhone 5停产！iPhone 5C、iPhone 5S规格比一比
+^ Did your iPhone 5 come pre-scratched or scuffed? | PhoneDog
+^ iPhone 5 paint may chip, Apple exec says that's 'normal' - GadgetBox on NBCNews.com
+^ iPhone 5 leaks light, say some users | Apple - CNET News
+
+
+外部链接[编辑]
+
+iPhone 香港官方网站（繁体中文）
+
+
+
+前任：
+iPhone 4S
+iPhone 5
+第六代
+继任：
+iPhone 5c
+iPhone 5s
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+苹果公司
+
+
+
+
+
+
+创始人
+
+
+
+史蒂夫·乔布斯
+斯蒂夫·沃兹尼亚克
+罗纳德·韦恩
+
+
+
+
+
+
+
+
+
+
+
+董事会
+
+
+
+
+现任
+
+
+
+比尔·坎贝尔
+米拉德·德雷克斯勒（英语：Millard Drexler）
+艾尔·高尔
+蒂姆·库克（CEO）
+锺彬娴
+薛修忠
+罗纳德·苏格（英语：Ronald Sugar）
+鲍勃·伊戈尔
+
+
+
+
+
+
+
+
+前任
+
+
+
+杰瑞·约克（英语：Jerry York）
+埃里克·施密特
+拉里·埃里森
+
+
+
+
+
+
+
+
+
+
+
+管理层
+
+
+
+
+现任
+
+
+
+提姆·库克
+艾迪·柯尔（英语：Eddy Cue）
+克雷格·费德里吉
+乔纳森·埃维
+彼得·奥朋海莫（英语：Peter Oppenheimer）
+菲利普·席勒（英语：Phil Schiller）
+安吉拉·阿伦茨
+
+
+
+
+
+
+
+
+前任
+
+
+
+罗恩·约翰逊
+约翰·博文特（英语：John Browett）
+斯科特·福斯特尔
+托尼·法戴尔
+马克·裴波马斯特（英语：Mark Papermaster）
+伯特兰·赛莱特（英语：Bertrand Serlet）
+辛那·塔马顿（英语：Sina Tamaddon）
+阿瓦德斯·特凡尼安
+乔恩·鲁宾斯坦
+南西·R·海因（英语：Nancy R. Heinen）
+弗莱德·D·安德森（英语：Fred D. Anderson）
+
+
+
+
+
+
+
+
+
+
+
+产品
+
+
+
+
+软件
+
+
+
+Classic Mac OS
+macOS
+
+版本历史
+Server
+
+
+iOS
+
+版本历史
+
+
+watchOS
+
+版本历史
+
+
+tvOS
+
+版本历史
+
+
+Core Foundation
+Developer Tools
+Final Cut Studio
+Logic Studio
+QuickTime
+
+
+
+
+
+
+
+
+硬件
+
+
+
+
+Mac
+
+
+
+Macintosh
+iMac
+Mac Pro
+iMac Pro
+Mac mini
+Macbook
+
+Air
+Pro
+
+
+
+
+
+
+
+
+
+
+iPod
+
+
+
+Touch
+
+第一代
+2
+3
+4
+5
+6
+
+
+nano
+classic
+shuffle
+
+
+
+
+
+
+
+
+iPhone
+
+
+
+第一代
+3G
+3GS
+4
+4s
+5
+5c
+5s
+6/6 Plus
+6S/6S Plus
+SE
+7/7 Plus
+8/8 Plus
+X
+
+
+
+
+
+
+
+
+iPad
+
+
+
+第一代
+2
+3
+4
+Air
+Air 2
+2017
+
+
+
+
+mini
+
+
+
+第一代
+2
+3
+4
+
+
+
+
+
+
+
+
+Pro
+
+
+
+iPad Pro
+
+
+
+
+
+
+
+
+
+
+
+其他
+
+
+
+AirPods
+Apple Watch
+
+Series 2
+
+
+Magic Mouse
+Magic Trackpad
+苹果标准键盘
+Apple TV
+HomePod
+AirPower
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+商店
+
+
+
+Apple Store
+App Store
+iTunes Store
+Mac App Store
+iBooks Store
+
+
+
+
+
+
+
+
+服务
+
+
+
+Developer（英语：Apple Developer）
+AppleCare
+Certifications（英语：Apple certification programs）
+Game Center
+iAd（英语：iAd）
+Genius Bar（英语：Genius Bar）
+iBooks
+iLife
+iWork.com
+Apple ID
+MobileMe
+iCloud
+One to One（英语：One to One）
+ProCare（英语：ProCare）
+Apple Pay
+Apple Music
+
+
+
+
+
+
+
+
+公司
+
+
+
+
+
+
+
+Braeburn Capital（英语：Braeburn Capital）
+FileMaker Inc.（英语：FileMaker Inc.）
+
+
+
+
+
+
+
+
+并购
+
+
+
+Emagic
+FingerWorks
+Intrinsity
+Lala
+NeXT
+Nothing Real
+P.A. Semi
+Final Cut Pro
+Siri
+Beats by Dr. Dre
+
+
+
+
+
+
+
+
+
+
+
+相关
+
+
+
+总部
+Apple Park
+广告
+
+1984
+不同凡想
+Get a Mac
+iPod
+口号
+
+
+历史
+
+社区
+纠纷
+批评
+使用过的广告歌曲
+
+
+苹果全球软件开发者年会
+音乐节
+皮克斯
+向英特尔平台迁移
+iOS应用程序审核
+
+
+
+
+
+
+
+
+
+
+
+ 分类
+ 主题
+ 共享资源
+ 模板
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+iPhone
+
+
+
+
+
+
+机型
+
+
+
+第一代
+3G
+3GS
+4
+4s
+5
+5s
+
+5c
+
+
+6/6 Plus
+6s/6s Plus
+SE
+7/7 Plus
+8/8 Plus
+9
+X
+
+
+
+
+
+
+
+
+功能
+
+
+
+App Store
+Push Notifications
+Cards（英语：Cards (iOS)）
+FaceTime
+Find My iPhone
+查找朋友
+Game Center
+iAd（英语：iAd）
+iBooks
+iBookstore
+iCloud
+iTunes Store
+iMovie
+iMessage
+音乐
+邮件
+地图
+Newsstand（英语：Newsstand (application)）
+备忘录
+通知中心
+Passbook
+提醒事项
+Safari
+
+版本历史
+
+
+Siri
+Spotlight
+SpringBoard（英语：SpringBoard）
+电话
+
+
+
+
+
+
+
+
+停止服务
+
+
+
+MobileMe
+
+
+
+
+
+
+
+
+
+
+
+300页账单
+FairPlay（英语：FairPlay）
+历史（英语：History of the iPhone）
+iFund（英语：iFund）
+越狱
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+苹果公司硬件系列（1998年起）
+
+
+
+
+
+
+消费型电脑
+
+
+
+iMac
+eMac
+Mac mini
+
+
+
+
+
+
+
+
+专业型电脑
+
+
+
+iMac Pro
+Mac Pro
+Power Mac
+Xserve
+苹果工作组服务器
+
+
+
+
+
+
+
+
+便携型计算机
+
+
+
+MacBook Air
+MacBook (Retina显示屏)
+MacBook Pro
+MacBook
+iBook
+PowerBook
+
+
+
+
+
+
+
+
+消费型电子产品
+
+
+
+iPod
+iPad
+iPhone
+Apple TV
+Newton
+Apple Watch
+
+
+
+
+
+
+
+
+配件
+
+
+
+AirPort
+iPod
+iSight
+Keyboard
+Magic Trackpad
+Magic Mouse
+遥控器
+SuperDrive
+Time Capsule
+USB调制解调器
+Xserve RAID
+Apple Pencil
+AirPods
+HomePod
+AirPower
+
+
+
+
+
+
+
+
+
+苹果公司硬件系列（1998年前）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+移动电话
+
+
+
+
+
+
+概括
+
+
+
+功能
+历史
+GSM（服务（英语：GSM services））
+操作系统（比较）
+安全
+移动电话
+SMS
+彩信
+垃圾信息（英语：Mobile phone spam）
+跟踪（英语：Mobile phone tracking）
+网页（英语：Mobile Web）
+
+HTML5（英语：HTML5 in mobile devices）
+
+
+
+
+
+
+
+
+
+
+应用
+
+
+
+飞行模式
+应用开发（英语：Mobile application development）
+应用发行平台
+行动商务
+即时短信（英语：Mobile instant messaging）
+行动学习
+本地搜索（英语：Mobile local search）
+本地追踪（英语：Mobile phone tracking）
+窃听
+移动营销
+彩信
+手机音乐（英语：Mobile music）
+手机新闻（英语：Mobile news）
+移动支付
+Push email
+Root
+Telephony电话通讯（英语：Mobile telephony）
+移动云计算（英语：Mobile cloud computing）
+
+
+
+
+
+
+
+
+手机文化
+
+
+
+手机吊饰
+手机漫画（英语：Mobile comic）
+手机约会
+日本手机文化
+手机小说
+电话铃声
+SMS语（英语：SMS language）
+移动电视
+手机广告
+
+
+
+
+
+
+
+
+移动设备
+
+
+
+Android Root
+Android设备列表
+Windows Phone手提电话列表
+功能型手机
+相机手机
+智能手机
+平板手机
+手机规格
+移动电话公司
+智能手机列表（英语：Comparison of smartphones）
+
+
+
+
+
+
+
+
+环境卫生
+
+
+
+电子垃圾
+移动电话辐射和健康
+
+
+
+
+
+
+
+
+法规
+
+
+
+Carrier IQ（英语：Carrier IQ）
+行车安全（英语：Mobile phones and driving safety）
+拍照（英语：Photography and the law）
+开车时发短信（英语：Texting while driving）
+监狱（英语：Mobile phones in prison）
+电话窃听
+
+
+
+
+
+
+
+
+网络
+
+
+
+信道容量
+手机频率（英语：Cellular frequencies）
+移动电话运营商列表
+手机信号（英语：Mobile phone signal）
+SIM卡
+USIM卡
+手机标准列表（英语：Comparison of mobile phone standards）
+VoIP
+VoLTE
+WAP
+XHTML MP
+
+
+时代（英语：List of mobile phone generations）：0G
+1G
+2G
+2.5G
+2.75G
+3G
+3.5G
+3.9G
+4G
+4.5G（英语：LTE Advanced Pro）
+5G
+
+
+
+
+
+
+
+
+
+
+
+
+分类：IPhone智能手机隐藏分类：小写标题

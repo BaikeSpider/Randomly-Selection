@@ -1,0 +1,91 @@
+吡啶-2-甲醛
+
+
+吡啶-2-甲醛
+
+
+
+
+
+
+
+
+别名
+2-醛基吡啶
+2-吡啶甲醛
+
+
+识别
+
+
+CAS号
+1121-60-4  
+
+
+PubChem
+14273
+
+
+ChemSpider
+13635
+
+
+SMILES
+
+
+
+ 
+
+O=Cc1ncccc1
+
+
+
+
+
+
+性质
+
+
+化学式
+C6H5NO
+
+
+摩尔质量
+107.11 g·mol−1
+
+
+密度
+1.126 g/mL
+
+
+沸点
+181 °C（454 K）
+
+
+相关物质
+
+
+相关化学品
+吡啶-2-甲酸（英语：Picolinic acid）
+
+
+若非注明，所有数据均出自一般条件（25 ℃，100 kPa）下。
+
+
+吡啶-2-甲醛是一种有机化合物，化学式为NC5H4CHO。它是带有特征性气味的无色油状液体，久置后变为棕红色。它可用于配合物、药物的制备。它可通过羟甲基或甲基吡啶的氧化来合成。[1]
+反应和应用[编辑]
+吡啶-2-甲醛可以用于合成氯解磷定药物。
+醛基官能团可作为亲核进攻的试剂，制备Schiff碱，用作双齿配体。[2]亚氨基吡啶的配合物十分稳定。[3]
+参考文献[编辑]
+
+
+^ Shinkichi Shimizu; Nanao Watanabe; Toshiaki Kataoka; Takayuki Shoji; Nobuyuki Abe; Sinji Morishita; Hisao Ichimura. Pyridine and Pyridine Derivatives. Ullmann's Encyclopedia of Industrial Chemistry. 2002. doi:10.1002/14356007.a22_399. 
+^ Chatterjeea, D.; Mitra, A. Synthesis, Characterization and Reactivities of Schiff-base Complexes of Ruthenium(III). J. Coord. Chem. 2004, 57: 175–182. doi:10.1080/00958970410001662435. 
+^ Mal, P.; Breiner, B.; Rissanen, K.; Nitschke, J. R. White Phosphorus is Air-Stable Within a Self-Assembled Tetrahedral Capsule. Science. 2009, 324 (5935): 1697–1699. PMID 19556504. doi:10.1126/science.1175313. 
+
+
+
+
+
+
+分类：醛吡啶隐藏分类：无CAS号重定向的物质条目无附加数据页的化学条目

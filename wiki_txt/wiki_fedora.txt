@@ -1,0 +1,2 @@
+Fedora
+Fedora Linux（第七版以前为Fedora Core）是较具知名度的Linux发行包之一，由Fedora项目社区开发、红帽公司赞助，目标是创建一套新颖、多功能并且自由（开放源代码）的操作系统。

@@ -414,9 +414,13 @@ class HtmlParser(object):
         # u = urlopen(pageviews_url)
         response = json.loads(u.text)
         totalviews = 0
-        for jj in response['items']:
-           totalviews += jj['views']
-
+        #for jj in response['items']:
+        #   totalviews += jj['views']
+        if len(response) != 1:
+            totalviews = 999999999
+        else:
+            for jj in response['items']:
+               totalviews += jj['views']
         # pageviws_cont = self.downloader.download(pageviws_url)
         # pageviws_soup = BeautifulSoup(pageviws_cont, 'html.parser')
         # text2 = pageviws_soup.find('div', class_='legend-block--body')

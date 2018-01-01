@@ -1,0 +1,2 @@
+Ubuntu Mobile
+Ubuntu Mobile Internet Device Edition，主要用于Intel Atom处理器为主的x86手持设备平台上的移动操作系统，源自于 Linux Ubuntu 包。

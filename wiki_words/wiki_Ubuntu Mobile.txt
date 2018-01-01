@@ -1,0 +1,643 @@
+Ubuntu Mobile
+
+
+
+
+
+
+Ubuntu MID Edition
+
+250px
+
+
+
+
+
+开发者
+Canonical
+
+
+操作系统家族
+类Unix
+
+
+运作状态
+开发商发布
+
+
+源码模式
+自由及开放源代码软件
+
+
+最新版本
+8.04.1（2008年7月30日）
+
+
+支持的语言
+英文
+
+
+支持平台
+Intel Mobile Internet Device (Expected)
+
+
+许可证
+主要GNU GPL / 各种其它
+
+
+官方网站
+www.ubuntu.com/products/mobile
+
+
+Ubuntu Mobile Internet Device Edition，主要用于Intel Atom处理器为主的x86手持设备平台上的移动操作系统，源自于 Linux Ubuntu 包。
+它使用 GNOME 的框架 Hildon 为基础，作为它的图形用户界面。
+设备生产商将能够定制自己的发行版，包括选择Flash，Java或自定义界面。
+
+
+
+目录
+
+
+1 Ubuntu Netbook Edition
+2 Ubuntu MID版本
+3 特点
+4 参考资料
+5 外部链接
+
+
+
+Ubuntu Netbook Edition[编辑]
+Ubuntu Netbook Edition是基于Ubuntu Mobile及专为netbook而设。
+Ubuntu MID版本[编辑]
+2008年6月Ubuntu MID版本8.04发布。[1][2]
+而从Ubuntu MID版本9.10 Alpha 6开始停止更新。[3]
+特点[编辑]
+
+Small size/form factor
+4至7吋触摸式屏幕
+(虚拟)键盘
+Wi-Fi,3G,蓝牙,GPS,WiMAX
+2至8GB闪存或磁盘,最少256MB内存(512MB建议)
+OpenGL 3D
+USB,视频镜头,耳机插孔,扬声器,麦克风
+
+参考资料[编辑]
+
+
+^ Canonical Blog » Blog Archive » Ubuntu MID Edition 8.04 achieves its first public release
+^ [Phoronix] Ubuntu MID Edition 8.04
+^ Ubuntu Mobile Team Wiki
+
+
+外部链接[编辑]
+
+Ubuntu Mobile
+Ubuntu MobileAndEmbedded wiki
+Ubuntu Mobile Guide 7.10
+Ubuntu Mobile released
+Mobile & Internet Linux Project by Intel
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+移动操作系统
+
+
+
+
+
+
+Linux内核
+
+
+
+
+Android
+
+
+
+CyanogenMod
+CopperheadOS（英语：CopperheadOS）
+Fira OS（英语：Fira OS）
+Fire OS（英语：Fire OS）
+Hive UI（英语：Hive UI）
+Indus OS（英语：Indus OS）
+LineageOS
+Resurrection Remix OS
+OPhone
+Replicant
+Ubuntu for Android
+诺基亚X平台（英语：Nokia X platform）
+百度云OS
+MIUI
+YunOS
+
+
+
+
+
+
+
+
+SHR（英语：SHR (operating system)）
+
+
+
+OpenEmbedded
+
+Familiar Linux
+OpenZaurus（英语：OpenZaurus）
+KaeilOS（英语：KaeilOS）
+
+
+Openmoko Linux
+
+Qt Extended
+Ångström Linux-based
+
+
+
+
+
+
+
+
+
+
+其他
+
+
+
+Access Linux
+Bada (操作系统)
+EZX Linux（英语：EZX Linux）
+Firefox OS
+LuneOS（英语：LuneOS）
+MeeGo
+MotoMagx
+Sailfish OS
+Tizen
+Ubuntu Touch
+webOS
+
+
+
+
+
+
+
+
+
+
+
+XNU
+
+
+
+iOS
+
+
+
+
+
+
+
+
+QNX
+
+
+
+BlackBerry 10
+BlackBerry PlayBook OS
+
+
+
+
+
+
+
+
+Windows
+
+
+
+Windows Mobile
+Windows Phone
+Windows XP Tablet PC Edition
+Windows RT
+Windows 8.1 with Bing
+Windows 10移动版
+
+
+
+
+
+
+
+
+其他
+
+
+
+BlackBerry OS
+EPOC
+GEOS（英语：GEOS (16-bit operating system)）
+任天堂DSi
+任天堂3DS
+S30
+S30+（英语：Series 30+）
+S40
+诺基亚Asha平台（英语：Nokia Asha platform）
+DR-DOS
+Palm OS
+PSP
+PS Vita
+Symbian
+
+MOAP（英语：MOAP）(S)
+UIQ
+S60
+S80
+S90
+
+
+
+
+
+
+
+
+
+
+相关
+平台
+
+
+
+无线二进制运行环境（BREW）
+Java ME
+JavaFX Mobile
+
+
+
+
+
+
+
+
+
+
+
+移动操作系统比较
+移动软件发行平台列表
+开放手持设备联盟
+开放移动联盟
+移动应用程序开发（英语：Mobile application development）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+Ubuntu
+
+
+
+
+
+
+一般
+
+
+
+Canonical公司
+发行
+Ubuntu哲学
+
+
+
+
+
+
+
+
+人物
+
+
+
+Jono Bacon（英语：Jono Bacon）
+Ben Collins
+Benjamin Mako Hill（英语：Benjamin Mako Hill）
+Ian Jackson（英语：Ian Jackson）
+Scott James Remnant（英语：Scott James Remnant）
+马克·沙特尔沃思
+Jeff Waugh（英语：Jeff Waugh）
+Jane Silber（英语：Jane Silber）
+
+
+
+
+
+
+
+
+派生版
+
+
+
+
+官方版本
+
+
+
+Ubuntu
+Ubuntu Server
+Ubuntu Touch
+Ubuntu
+Ubuntu Kylin
+
+
+
+
+
+
+
+
+社区支持
+
+
+
+Edubuntu
+Kubuntu
+Lubuntu
+Ubuntu Budgie（英语：Ubuntu Budgie）
+Ubuntu GNOME
+Ubuntu MATE
+Ubuntu Studio
+Xubuntu
+
+
+
+
+
+
+
+
+第三方
+
+
+
+EasyPeasy
+Elementary OS
+Emmabuntüs（英语：Emmabuntüs）
+Linux Mint
+Trisquel
+Peppermint Linux OS
+
+
+
+
+
+
+
+
+已终止
+
+
+
+Gobuntu
+Mythbuntu（英语：Mythbuntu）
+Ubuntu Mobile
+Ubuntu Netbook Edition
+Ubuntu JeOS（英语：Ubuntu JeOS）
+
+
+
+
+
+
+
+
+
+
+
+软件
+
+
+
+Bazaar（英语：GNU Bazaar）
+Juju（英语：Juju (software)）
+Startup Disk Creator（英语：Startup Disk Creator）
+软件更新器
+Ubiquity
+
+
+
+
+已终止
+
+
+
+Mir显示服务器
+OpenCD（英语：OpenCD）
+StartUp-Manager（英语：StartUp-Manager）
+Ubuntu for Android
+Ubuntu One
+Ubuntu 软件中心
+Unity界面
+Upstart
+Usplash（英语：Usplash）
+Wubi
+XSplash（英语：XSplash）
+
+
+
+
+
+
+
+
+第三方
+
+
+
+Brasero
+Nautilus文件浏览器
+
+
+
+
+
+
+
+
+
+
+
+技术和用户界面
+
+
+
+LightDM
+Side Stage（英语：Side Stage）
+Snappy
+简单防火墙
+
+
+
+
+第三方
+
+
+
+AppArmor（英语：AppArmor）
+APT
+deb格式
+Dpkg
+
+
+
+
+
+
+
+
+
+
+
+硬件
+
+
+
+System76（英语：System76）
+Ubuntu Edge（英语：Ubuntu Edge）
+
+
+
+
+
+
+
+
+支持
+
+
+
+Ask Ubuntu（英语：Ask Ubuntu）
+Launchpad
+Medibuntu（英语：Medibuntu）
+Paper cut bug（英语：Paper cut bug）
+Ubuntu
+受限额外程序（英语：ubuntu-restricted-extras）
+Ubuntu专业认证（英语：Ubuntu Professional Certification）
+Ubuntu论坛（英语：Ubuntu Forums）
+Ubuntu One Account（Ubuntu SSO（英语：Ubuntu Single Sign On））
+
+
+
+
+第三方
+
+
+
+GetDeb（英语：GetDeb）
+
+
+
+
+
+
+
+
+
+
+
+字体
+
+
+
+Ubuntu (字体)
+Ubuntu-Title
+
+
+
+
+
+
+
+
+媒体
+
+
+
+Full Circle杂志
+Ubuntu User（英语：Ubuntu User）
+
+
+
+
+
+
+
+
+相关主题
+
+
+
+Debian
+aptitude
+dash
+debconf软件包（英语：debconf (software package)）
+
+
+
+
+
+
+
+
+
+
+
+ 分类
+ 共享资源
+ 书籍
+ 维基学院
+
+
+
+
+
+
+
+
+
+
+
+
+分类：Ubuntu派生版Mobile Linux隐藏分类：缺少文件的条目使用过时图像语法的页面

@@ -1,0 +1,553 @@
+Spotify
+
+
+
+
+
+
+
+声田公司
+
+
+
+
+
+以Mac OS X运行的Spotify香港区用户界面
+
+
+
+语言
+50多种，其中20种可用于桌面版
+
+
+成立
+2006年4月，​11年前​（2006-04）
+
+
+创始人
+Daniel Ek, Martin Lorentzon
+
+
+产业
+音乐
+
+
+服务
+音乐流
+
+
+员工
+1,500+[1]
+
+
+网站
+spotify.com
+
+
+Alexa排名
+▲251（2016年7月[update]）[2]
+
+
+注册
+必要（注册时）
+
+
+用户
+1.4亿用户以上[3]
+
+
+推出时间
+2008年10月7日
+
+
+现状
+在线
+
+
+编程语言
+C++
+
+
+Spotify（中文名：声田）是一个起源于瑞典的音乐流服务，是全球最大的流音乐服务商，提供包括Sony Music、EMI、Warner Music Group和Universal四大唱片公司及众多独立厂牌所授权、由数字版权管理（DRM）保护的音乐[4]，使用用户在2017年6月已经达到1.4亿以上[3]。
+该公司以一种免费增值的企业类型创立，提供两种档次之流音乐：Spotify Free（160kbit/s）和Spotify Premium （320kbit/s以上）。付费版的Premium订阅（全球价钱均不同，美国之定价为美金$9.99/每月）全程没有广告，提升了音乐音质外，更允许该订阅用户可以下载进行离线收听。另外，有家庭版Premium订阅，可以供六个账号使用，功能一样，但价钱不同(全球价钱均不同，香港之定价为港币$88/月，而台湾为台币$149/月）[5]。支持多种设备，包括Windows、macOS、Linux电脑，和Android、iOS智能手机及平板电脑。
+不同于店内购买或下载销售每首歌曲或专辑是支付固定的价格，而Spotify支付演出者的金额基于市场份额，为歌曲的音频流在总歌曲中的点击率和播放次数比例，每次播放大约为0.04-0.1 美分。Spotify的营收来自两个方面。其中，免费服务的收入主要来自广告，而付费服务的收入来自Spotify Premium用户每月支付的费用。
+
+
+
+目录
+
+
+1 技术信息
+2 商业模式
+
+2.1 订阅
+2.2 广告
+
+
+3 服务地区
+4 争议
+5 参考资料
+6 外部链接
+
+
+
+技术信息[编辑]
+Spotify的软件是专有的 ，并且使用数字版权管理（DRM），以防止未经授权的使用，系统将在用户点击歌曲时，找出存储在手机或电脑桌面已经加密的音乐进行播放。其中，会限制播放期限(例如：七天免费试用，只可七天内离线下载，而其后必须升级为Premium。[6]
+音频流使用“Ogg Vorbis”格式有3个音质档次：
+Spotify Mobile Q3（96kbit/s），
+Spotify Free Q5（160kbit/s），[7]
+Spotify Premium Q9（320kbit/s）[8]。
+Spotify有265毫秒或390毫秒本机的暂存播放延迟[9]。
+Spotify目前尚在测试“Spotify Hi-Fi”，采用“FLAC”格式的CD音质音乐（16bit/44.1kHz）和高清晰度音频Hi-Res音乐（24bit/96kHz或24bit/192kHz）服务，每月需多付费 5 到 10 美金，目前仅在欧美地区提供服务[10]。
+高速暂存的大小和位置是可以配置的。建议电脑要有1GB或更多的硬盘空间。[11]在OS X上，需要一个G4处理器或更高版本。 用户必须创建一个Spotify账户或用Facebook账户登录来使用该软件。此账户可以在多台电脑中使用，但音乐播放时只能限制在任一个设备上。
+到了0.4.3软件版本，它可以播放电脑存储的MP3和AAC音乐文件。
+除了在电脑或手机播放，Spotify也可通过蓝牙在一些厂牌的车载娱乐系统中操作播放，例如福特SYNC系统。
+商业模式[编辑]
+Spotify采用免费增值模式（基本服务是免费的，而附加功能是通过付费订阅提供）。Spotify靠流媒体订阅Premium用户和第三方的广告来做为其营收收入。
+订阅[编辑]
+Spotify鼓励人们为音乐付费，并以用户订阅作为其主要的收入来源。
+订阅用户去除广告和限制，并增加了更高音质的歌曲为320 kbit/s。另外，Spotify计划在2017年中推出Hifi音质的订阅服务，费用为5美元至10美元一个月.（在基本月费内添加）[12]订阅付费用户还允许无限制的在手机移动设备上使用，以及离线拨放和播放清单的在线访问。
+Spotify为新用户提供的Premium功能免费试用30天。用户必须输入信用卡或其他付款信息来订阅，以避免支付高级功能到试用期结束之前，可以随时终止其订阅。
+BBC音乐周刊主编Tim·Ingham说：“不像购买CD或音乐下载，流音乐不是一次性支付金钱给音乐人，而是每一天数以亿计正在点击拨放的流音乐流，迅速的提供音乐人所需要的潜在收入。这些收入提供音乐人稳定而长期的收入来源”。[13]
+广告[编辑]
+Spotify为免费用户提供七种不同类型的广告，在他们的广告规格描述：音乐广告、显示广告、广告商广告、首页广告、品牌化播放清单、灯箱和广告商的网页[14]，这些广告的尺寸，类型和用户参与度有所不同。音乐商业广告运行最长30秒在流音乐歌曲之间。[15] 显示广告，广告牌，灯箱及活动和非活动使用过程中出现。
+2009年2月，非付费用户的广告为15秒[16]。2009年5月，Neowin网站报导这已经上升到约30秒[17]。
+服务地区[编辑]
+
+
+
+
+Spotify 在全球服务的地区 截至2016年12月 (2016-12)[update]
+
+
+
+
+亚太地区
+欧洲及中东地区
+拉丁美洲及加勒比海地区
+北美地区
+
+
+
+
+ 澳大利亚
+ 印尼
+ 马来西亚
+ 新西兰
+ 菲律宾
+ 新加坡
+ 日本
+ 台湾
+ 香港
+ 泰国
+
+
+
+
+ 安道尔
+ 奥地利
+ 比利时
+ 保加利亚
+ 塞浦路斯
+ 捷克
+ 丹麦
+ 爱沙尼亚
+ 芬兰
+ 法国
+ 德国
+ 希腊
+ 匈牙利
+ 冰岛
+ 爱尔兰
+ 意大利
+ 拉脱维亚
+ 列支敦士登
+ 立陶宛
+ 卢森堡
+ 马耳他
+ 摩纳哥
+ 葡萄牙
+ 波兰
+ 西班牙
+ 斯洛伐克
+ 瑞典
+ 瑞士
+ 土耳其（限制每日聆听时间，适用于 Premium）
+ 英国
+
+
+
+
+ 阿根廷
+ 玻利维亚
+ 巴西
+ 智利
+ 哥伦比亚
+ 哥斯达黎加
+ 多米尼加
+ 厄瓜多尔
+ 萨尔瓦多
+ 危地马拉
+ 洪都拉斯
+ 墨西哥
+ 尼加拉瓜
+ 巴拿马
+ 巴拉圭
+ 秘鲁
+ 乌拉圭
+
+
+
+
+ 加拿大
+ 美国
+
+
+
+
+另外Spotify计划2017年在 中华人民共和国(最终与腾讯音乐娱乐集团相互持股，腾讯控股有限公司入股)、 俄罗斯、 印度推出，并在当年上市。
+争议[编辑]
+Spotify和其他流媒体行业共同面临着，因为流媒体造成专辑销售下滑，导致演出者声称得到不公平的工作报酬作等一些批评。Spotify会与艺人进行收入分为3：7，即为唱片公司和艺人获得收入的70%，而Spotify抽30%。Spotify会将应支付的版税全部一起通过算法去计算，每位艺人应当获得多少的比例。解释起来很简单，但操作时并不容易。[1]，除了上述的版税支付差异之外，唱片公司和艺人还认为，免费服务带来了更大的问题，因为Spotify为这类服务支付的版税太低。
+但Spotify亚太区总监Sunita Kaur澄清，Spotify获取授权只面对版权所有人，如唱片公司、厂牌、发行单位、著作权集体管理团体等居中、汇聚内容单位，Spotify也只会与汇聚所有音乐版权、将音乐数字化的版权所有人进行分润。Sunita Kaur强调平台不会直接面对音乐人、乐团或创作者，是由这些版权所有人自行与音乐人协商分润，Spotify一直以来都无从置喙。而Spotify近年都如实支出七成以上的营收都作为权利金，支付给版权所有人；所以在版权所有者与音乐人之间如何沟通分润、比率，并不是Spotify卸责，是因为此类合议行为平台根本无权居中干涉。“Spotify为求公开透明，自2013年开始便提供上架的音乐人申请账号进入后台、浏览Dashboard的服务，让音乐人直接了解自己的作品被流的次数等数据，方便与权利所有人进行款项核对，音乐人有所疑虑皆可主动申请此项服务。[18]
+参考资料[编辑]
+
+
+^ Interview Insider: How to Get Hired at Spotify. 
+^ spotify.com – Traffic Details from Alexa. Alexa Internet, Inc. [10 October 2014]. 
+^ 3.0 3.1 付费用户持续上升！Spotify 每月活跃用户突破 1.4 亿人. unwire.hk. 2017-06-16 [2017-06-16]. 
+^ Orlowski, Andrew. Spotify, DRM and the celestial jukebox. The Register. 
+^ Spotify Premium. 
+^ Spotify® Terms and Conditions of Use. 
+^ Spotify FAQ. Spotify. [16 March 2009]. 
+^ Sehr, Andres. Bumping up the bitrate. Spotify. 25 June 2009 [26 June 2012]. 
+^ Kreitz, G.; Niemela, F. Spotify – Large Scale, Low Latency, P2P Music-on-Demand Streaming (PDF). 2010 IEEE Tenth International Conference on Peer-to-Peer Computing (P2P): 1–10. 25–27 August 2010. doi:10.1109/P2P.2010.5569963. 
+^ Spotify 推出 Spotify Hi-Fi 无损音质流服务，每月仅需10美元、还有黑胶唱片曲目可选
+^ Spotify Brings Free Music To Mobile Devices. [11 April 2014]. （原始内容存档于2014年4月14日）. 
+^ Spotify Bitrategate, The Story So Far. Spotify Classical Playlists (blog). ulyssestone (pen name). 18 July 2011 [18 July 2011]. 
+^ Spotify reveals artists earn $0.007 per stream. The Guardian. 4 December 2013 [4 December 2013]. 
+^ Spotify. Spotify Ad Specs. Spotify. Spotify. [4 June 2014]. 
+^ Spotify. Spotify Audio Ads. Spotify. Spotify. [4 June 2014]. 
+^ Neil McCormick. Make way for Spotify: a big digital jukebox in the ether. The Telegraph (London). 24 February 2009 [4 December 2013]. 
+^ Elliot Harrison. Spotify review: The iTunes killer?. Neowin. Neowin LLC. 2 May 2009 [4 December 2013]. [失效链接]
+^ 亚太区总监澄清迷思：音乐人能否赚得合理收入 并非 Spotify 能力所及. 吹音乐. 2016-06-07 [2016-08-21]. 
+
+
+外部链接[编辑]
+
+
+
+维基共享资源中相关的多媒体资源：Spotify
+
+
+
+官方网站：Spotify
+Spotify的Facebook专页
+Spotify的Twitter账户
+Spotify的Instagram账户
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+数字内容分发平台
+
+
+
+
+
+
+书籍
+
+
+
+Amazon Kindle
+Barnes & Noble Nook
+PocketBook Reader
+Sony Reader
+iBooks
+List of digital library projects（英语：List of digital library projects）
+FanFiction.Net（英语：FanFiction.Net）
+FictionPress（英语：Fiction Press#FictionPress）
+
+
+
+
+
+
+
+
+音乐
+
+
+
+Online music store（英语：Online music store）
+7digital（英语：7digital）
+Amazon MP3（英语：Amazon MP3）
+Amie Street（英语：Amie Street）
+Apple Music
+Bandit.fm（英语：Bandit.fm）
+Beatport
+BigPond Music（英语：BigPond#Services）
+BuyMusic（英语：BuyMusic）
+CD Baby（英语：CD Baby）
+Ditto music（英语：Ditto music）
+Djshop（英语：Djshop）
+eMusic（英语：eMusic）
+GoMusic（英语：GoMusic）
+Grooveshark
+Groove音乐
+Guvera（英语：Guvera）
+imeem（英语：imeem）
+iMesh（英语：iMesh）
+iTunes Store
+Jamendo
+Joox
+Juno Records（英语：Juno Records）
+Kazaa（英语：Kazaa）
+酷狗音乐
+酷我音乐
+KKBOX
+FriDay音乐
+Hami Music（英语：Hami Music）
+Last.fm
+Magnatune
+MusicStation（英语：MusicStation）
+myMusic
+Napster（英语：Napster (pay service)）
+Nimbit（英语：Nimbit）
+Pandora
+PlayNow（英语：PlayNow）
+Puretracks（英语：Puretracks）
+QQ音乐
+Qriocity
+Rhapsody
+RouteNote（英语：RouteNote）
+Sellaband（英语：Sellaband）
+Spotify
+Songza（英语：Songza）
+SoundCloud
+Streamwaves（英语：Streamwaves）
+Tidal
+Ubetoo（英语：Ubetoo）
+Vodafone Music
+we7（英语：we7）
+Walmart Music
+网易云音乐
+Zune_Marketplace
+虾米音乐
+
+
+
+
+
+
+
+
+视频
+
+
+
+56.com
+AcFun
+Amazon Instant Video
+AOL Video
+BBC iPlayer
+BigPond Movies（英语：BigPond#Services）
+bilibili
+blip.tv（英语：blip.tv）
+Break.com
+Brightcove（英语：Brightcove）
+Crackle（英语：Crackle）
+Crunchyroll
+Dailymotion
+Fearnet（英语：Fearnet）
+Hulu
+爱奇艺
+iTunes Store
+Joost
+乐视网
+megavideo
+Metacafe（英语：Metacafe）
+MUZU TV（英语：MUZU TV）
+NICONICO
+Netflix
+The NewsMarket（英语：The NewsMarket）
+PlayNow（英语：PlayNow）
+PlayStation Store
+索尼娱乐网络
+RTÉ player（英语：RTÉ player）
+RuTube（英语：RuTube）
+ThePlatform（英语：ThePlatform）
+土豆网
+TVCatchup（英语：TVCatchup）
+V Cast
+Veoh（英语：Veoh）
+Vimeo
+Voddler（英语：Voddler）
+优酷
+YouTube
+Zattoo（英语：Zattoo）
+Zune Marketplace Joox
+
+
+
+
+
+
+
+
+软件
+
+
+
+
+
+Windows平台
+
+
+
+
+AppUp（英语：AppUp）
+BigPond GamesArena（英语：BigPond#Services）
+Direct2Drive（英语：Direct2Drive）
+DotEmu（英语：DotEmu）
+EA Origin
+Gaikai（英语：Gaikai）
+GamersGate（英语：GamersGate）
+GameAgent（英语：GameAgent）
+GameShadow（英语：GameShadow）
+GameTap（英语：GameTap）
+GFW Marketplace（英语：Games for Windows – Live#Games for Windows Marketplace）
+GOG
+Good Old Games
+Impulse（英语：Impulse (content delivery)）
+Jumboplay（英语：Jumboplay）
+Metaboli（英语：Metaboli）
+Microsoft Store
+OnLive（英语：OnLive）
+RealArcade（英语：RealArcade）
+Steam
+Triton（英语：Triton (content delivery)）
+Uplay
+WildTangent（英语：WildTangent）
+Windows Marketplace（英语：Windows Marketplace）
+Windows Store
+Zylom（英语：Zylom）
+
+
+
+
+
+
+
+
+
+Mac平台
+
+
+
+
+Gametreeonline.com（英语：Transgaming#GameTree Online）
+GameAgent（英语：GameAgent）
+GamersGate（英语：gamersgate）
+GOG
+Mac App Store
+Mac Games Arcade（英语：Inside Mac Games）
+OnLive（英语：OnLive）
+Steam
+
+
+
+
+
+
+
+
+
+其他平台
+
+
+
+
+Gaikai（英语：Gaikai）
+Nintendo Wi-Fi Connection
+OnLive（英语：OnLive）
+PlayStation Store
+Wii Shop Channel
+Xbox Games商店
+ZeeboNet 3G
+Ubuntu Store（英语：Ubuntu Store）
+Nintendo eShop
+
+
+
+
+
+
+
+
+
+移动平台
+
+
+
+
+App Catalog
+App Store
+AppUp（英语：AppUp）
+App World
+Firefox Marketplace
+F-Droid
+GetJar（英语：GetJar）
+Google Play
+Handango（英语：Handango）
+N-Gage
+Ovi商店
+PlayNow（英语：PlayNow）
+Samsung Apps（英语：Samsung Apps）
+Windows Marketplace for Mobile（英语：Windows Marketplace for Mobile）
+Windows Phone Store
+Amazon Appstore
+Opera Mobile Store
+移动应用商场
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+相关：BitTorrent
+共享软件
+老软件
+免费软件
+
+
+
+
+
+
+
+
+
+
+
+
+分类：Twitter用户名与维基数据相同2006年成立的公司跨平台软件音乐软件免费软件Android软件IOS软件音乐网站瑞典公司线上音乐商店音乐零售商美国音乐零售商台湾音乐零售商香港音乐零售商在线内容分发隐藏分类：带有失效链接的条目条目有永久失效的外部链接使用过时图像语法的页面使用未知Infobox website参数的页面

@@ -1,0 +1,118 @@
+勒洛三角形
+
+
+
+
+勒洛三角形是一个固定宽度的曲线图，以一个等边三角形为基础。边上的每个点到对应顶点的距离都是相等的。
+
+
+
+
+
+
+在旧金山的勒洛三角形形状的水阀门盖板。
+
+
+勒洛三角形（英语：Reuleaux triangle），也译作莱洛三角形或弧三角形，又被称为划粉形[1]或曲边三角形，是除了圆形以外，最简单易懂的勒洛多边形，一个定宽曲线。将一个曲线图放在两条平行线中间，使之与这两平行线相切，则可以做到：无论这个曲线图如何运动，只要它还是在这两条平行线内，就始终与这两条平行线相切。这个定义由Franz Reuleaux,一个十九世纪的德国工程师命名。
+
+
+
+目录
+
+
+1 绘制
+2 其他形状
+
+2.1 三维空间
+
+
+3 参见
+4 备注
+5 相关资料
+
+
+
+绘制[编辑]
+
+
+
+
+如何绘制一个勒洛三角形
+
+
+
+
+在正方形中滚动的勒洛三角形
+
+
+使用一个圆规，画一个大小合适的圆弧。
+以同样的半径，以第一个圆弧上的一点画第二个圆弧。
+以2个圆的一个交点为圆心，半径不变，做第三个圆弧。
+通过勒贝格积分可以算出，勒洛三角是定宽曲线所能构成的面积最小的图形，其面积为
+
+
+
+
+
+1
+2
+
+
+(
+π
+−
+
+
+3
+
+
+)
+
+s
+
+2
+
+
+
+
+{\displaystyle {1 \over 2}(\pi -{\sqrt {3}})s^{2}}
+
+，s为定宽宽度。
+勒洛三角也是“除了圆形以外，还有什么形状的下水道盖不会掉入下水道？”这个问题的一个答案[2]。
+其他形状[编辑]
+三维空间[编辑]
+
+
+
+
+四个相交的球体，其中心为一个勒洛四面体
+
+
+参见[编辑]
+
+三尖瓣线
+超椭圆
+椭圆形光轮（英语：Vesica piscis）
+汪克尔引擎（Wankel engine）
+
+备注[编辑]
+
+
+^ Theoni Pappas, 陈以鸿译. 《数学放轻松》. 台北县新店市: 世茂出版社. 2004: P.280. ISBN 9577766110.  引文格式1维护：冗余文本 (link)
+^ Klee, Victor, Shapes of the future, The Two-Year College Mathematics Journal, 1971, 2 (2): 14–27, doi:10.2307/3026963 .
+
+
+
+Heinrich Guggenheimer (1977) Applicable Geometry, page 58, Krieger, Huntington ISBN 0-88275-368-1 .
+
+相关资料[编辑]
+
+How Round is Your Circle? - book about various geometric properties, including curves and solids of constant width
+Shapes of constant width at cut-the-knot
+Russian-language site with downloadable films about the Reuleaux triangle, also showing the Wankel engine and the mechanics of a famous Soviet film projector[失效链接]
+
+
+
+
+
+分类：曲线多边形定宽曲线隐藏分类：引文格式1维护：冗余文本带有失效链接的条目条目有永久失效的外部链接使用ISBN魔术链接的页面

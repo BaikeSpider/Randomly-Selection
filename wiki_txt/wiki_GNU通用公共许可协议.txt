@@ -1,0 +1,2 @@
+GNU通用公共许可协议
+GNU通用公共许可协议（英语：GNU General Public License，简称 GNU GPL、GPL）是广泛使用的免费软件许可证，可以保证终端用户得自由运行，学习，共享和修改软件。[6]许可证最初由GNU项目的自由软件基金会 （FSF）的理查德·斯托曼（Richard Matthew Stallman）撰写，并授予计算机程序的收件人自由软件定义的权利。 [7] GPL是一个Copyleft许可证，这意味着派生作品只能以相同的许可条款分发。 这与许可免费软件许可证有所区别 ，其中BSD许可证和MIT许可证是广泛使用的示例。 GPL是第一个普遍使用的Copyleft许可证。

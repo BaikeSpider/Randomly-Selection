@@ -1,0 +1,2095 @@
+科普特字母
+
+
+科普特字母
+
+
+类型
+字母系统
+
+
+语言
+科普特语
+
+
+使用时期
+约公元300年 - 公元14世纪（埃及和其他地方的Coptic church仍然使用）
+
+
+母书写系统
+
+腓尼基字母和圣书体
+
+希腊字母和世俗体
+
+科普特字母
+
+
+
+
+
+
+
+姊妹书写系统
+古努比亚字母（Old Nubian alphabet）
+拉丁字母
+西里尔字母
+亚美尼亚字母
+
+
+ISO 15924
+Copt、204
+
+
+书写方向
+从左到右
+
+
+Unicode范围
+
+U+2C80至U+2CFF
+U+03E2至U+03EF
+
+
+注意：本页可能包含Unicode的国际音标。
+
+
+科普特字母（Coptic alphabet）是用作记录科普特语，字形源自希腊字母和世俗体字母，是首个记录埃及语的字母文字。不同科普特语方言和次方言的书写系统采用不同科普特字母。
+
+
+
+目录
+
+
+1 历史
+2 字形
+3 字母表
+
+3.1 世俗体演化而成的字母
+
+
+4 Unicode编码
+5 字母表注释
+6 注释
+7 参考文献
+8 外部链接
+
+
+
+历史[编辑]
+
+
+
+
+
+
+字母历史
+
+
+
+
+
+
+
+青铜中期文化时期 前19-15世纪
+
+乌加里特字母 前15世纪
+原始迦南字母 前15世纪
+
+腓尼基字母 前12世纪
+
+古希伯来字母 前10世纪
+
+撒马利亚字母 前6世纪
+
+
+亚兰字母 前9世纪
+
+佉卢文 前4世纪
+婆罗米文 前4世纪
+
+婆罗米系文字
+
+天城文 13世纪
+僧伽罗文 8世纪
+悉昙文
+
+藏文 7世纪
+
+八思巴文 13世纪
+
+
+
+
+
+
+帕拉瓦文 6世纪
+
+孟加拉文 11世纪
+泰语字母 13世纪
+高棉文 611年
+缅文 1050年
+寮文 1350年
+
+
+
+
+希伯来字母 前3世纪
+叙利亚字母 前2世纪
+
+粟特文 3世纪
+
+古突厥文 6世纪
+回鹘文 8世纪
+
+蒙古文 1204年
+
+满文 1599年
+
+
+
+
+
+
+纳巴泰字母 前2世纪
+
+阿拉伯字母 4世纪
+
+
+
+
+阿维斯陀字母 4至6世纪
+
+
+希腊字母 前9世纪
+
+埃特鲁斯坎字母 前8世纪
+
+拉丁字母 前7世纪
+卢恩字母 2世纪
+欧甘字母 4世纪
+
+
+科普特字母 3世纪
+哥特字母 3世纪
+格鲁吉亚字母 4至5世纪
+亚美尼亚字母 405年
+格拉哥里字母 862年
+西里尔字母 10世纪
+
+
+伊比利亚文字 前6世纪
+
+
+南阿拉伯字母 前9世纪
+
+吉兹字母 前5至6世纪
+
+
+
+
+
+
+
+
+
+
+
+
+
+麦罗埃文 前3世纪
+
+
+
+
+
+
+
+假名 约800年
+
+
+
+
+
+
+
+谚文 1446年
+
+
+
+
+
+
+
+加拿大原住民音节文字 1840年
+
+
+
+
+
+
+
+注音符号 1913年
+
+
+
+
+
+
+
+彝文 1980年部分规范后成为音节文字
+
+
+
+
+
+
+
+
+完整系谱
+
+
+
+
+
+
+
+
+
+本模板：
+
+查看
+讨论
+编辑
+
+
+
+
+
+
+
+
+
+科普特字母的历史可追溯至托勒密王朝，当时利用希腊字母把世俗体文字音译以记录世俗体的正确发音。公元首2个世纪时，出现以希腊字母纪录埃及语的古科普特文，而部分源自世俗体的字母，也在真正的科普特文中出现。
+随着基督教传入埃及，在公元3世纪后期不再使用圣书体，世俗体也逐渐消失，文字系统与基督教会的关系变得紧密。公元4世纪，科普特字母被统一化，对沙希地语（Sahidic）有很大的影响。科普特文不在现代社会使用，只会在宗教文件中出现。
+古努比亚字母（Old Nubian alphabet）中源自安色尔体希腊字母的部分字母，借用了源自世俗体的科普特字母和麦罗埃文。
+字形[编辑]
+科普特字母是埃及第一个标示元音的文字系统，使以科普特字母写成的文献成为解读早期埃及文字的重要工具。
+有些埃及语音节只有响音而没有元音，如果这类音节在沙希地语（Sahidic）或古努比亚语（Old Nubian language）中出现，便会在以科普特字母写成的音节上方加上横线标示；例如ⲃ̅ 、ⲧ̅…。不同的书吏派系使用有限的附加符号，例如有的把撇号（apostrophe）用来分隔单字和作为附着词素，有的运用分音符或扬抑符表示另一个元音的开端。[1]
+字母表[编辑]
+科普特字母主要以希腊字母作基础，有24个字母源自希腊字母，另外6或7个（视乎不同方言）由世俗体演化而成。而科普特语维基百科所采用的字母是以"Unicode大小写"的标准为主。
+
+
+古典大写字母
+古典小写字母
+Unicode大写
+Unicode小写
+表示数值
+名称
+希腊语等值字母
+转写（IPA）
+
+
+
+
+Ⲁ
+ⲁ
+1
+Alpha
+Α, α
+a [a, ʔ, ʕ]
+
+
+
+
+Ⲃ
+ⲃ
+2
+Bēta
+Β, β
+b, v [β~v]
+
+
+
+
+Ⲅ
+ⲅ
+3
+Gamma
+Γ, γ
+g [ɡ]
+
+
+
+
+Ⲇ
+ⲇ
+4
+Delta
+Δ, δ
+d [d]
+
+
+
+
+Ⲉ
+ⲉ
+5
+Ei
+Ε, ε
+e [i, e][note 1]
+
+
+
+
+Ⲋ
+ⲋ
+6
+So
+Ϛ, ϛ（Stigma）
+–
+
+
+
+
+Ⲍ
+ⲍ
+7
+Zēta
+Ζ, ζ
+z [z]
+
+
+
+
+Ⲏ
+ⲏ
+8
+Ēta
+Η, η
+ē / e [eː]
+
+
+
+
+Ⲑ
+ⲑ
+9
+Thēta
+Θ, θ
+th / t' [tʰ]
+
+
+
+
+Ⲓ
+ⲓ
+10
+Yota
+Ι, ι
+i [iː~j]
+
+
+
+
+Ⲕ
+ⲕ
+20
+Kappa
+Κ, κ
+k [k]
+
+
+
+
+Ⲗ
+ⲗ
+30
+Lamda
+Λ, λ
+l [l]
+
+
+
+
+Ⲙ
+ⲙ
+40
+Me
+Μ, μ
+m [m]
+
+
+
+
+Ⲛ
+ⲛ
+50
+Ne
+Ν, ν
+n [n]
+
+
+
+
+Ⲝ
+ⲝ
+60
+Eksi
+Ξ, ξ
+ks
+
+
+
+
+Ⲟ
+ⲟ
+70
+O
+Ο, ο
+o [o]
+
+
+
+
+Ⲡ
+ⲡ
+80
+Pi
+Π, π
+p [p]
+
+
+
+
+Ⲣ
+ⲣ
+100
+Ro
+Ρ, ρ
+r [r]
+
+
+
+
+Ⲥ
+ⲥ
+200
+Sima
+Σ, σ, ς
+s [s]
+
+
+
+
+Ⲧ
+ⲧ
+300
+Taw
+Τ, τ
+t [t]
+
+
+
+
+Ⲩ
+ⲩ
+400
+Epsilon
+Υ, υ
+u / ou [uː][note 2]
+
+
+
+
+Ⲫ
+ⲫ
+500
+Fi
+Φ, φ
+ph / p' [pʰ]
+
+
+
+
+Ⲭ
+ⲭ
+600
+Khe
+Χ, χ
+kh [kʰ]
+
+
+
+
+Ⲯ
+ⲯ
+700
+Epsi
+Ψ, ψ
+ps
+
+
+
+
+Ⲱ
+ⲱ
+800
+Ōu
+Ω, ω
+ō / o [oː]
+
+
+
+
+Ϣ
+ϣ
+
+Shay
+（none）
+sh / š [ʃ]
+
+
+
+
+Ϥ
+ϥ
+90
+Fay
+Ϙ, ϙ（koppa）
+（form, number）
+f [f]
+
+
+
+
+Ϧ（Ⳉ）
+ϧ（ⳉ）[note 3]
+
+Khay
+（none）
+x [x]
+
+
+
+
+Ϩ
+ϩ
+
+Hōri
+（none）
+h [h, ħ]
+
+
+
+
+Ϫ
+ϫ
+
+Janja
+（none）
+j / dzh [dʒ]
+
+
+
+
+Ϭ
+ϭ
+
+Tshēma
+Ϙ, ϙ（koppa）
+（function）
+q / tsh [kʲ, tʃ][note 4]
+
+
+
+
+Ϯ
+ϯ
+
+Ti / De
+（none）
+ti / de [ti, de][note 5]
+
+
+
+
+Ⳁ
+ⳁ
+900
+
+
+世俗体演化而成的字母[编辑]
+下列是由世俗体演化而成的字母：
+
+
+圣书体
+
+世俗体
+
+科普特文
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+→
+
+→
+Ϣ š
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+→
+
+→
+Ϥ f
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+→
+
+→
+Ϧ x
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+→
+
+→
+Ϩ h
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+→
+
+→
+Ϫ dʒ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+→
+
+→
+Ϭ q
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+→
+
+→
+Ϯ ti
+
+
+Unicode编码[编辑]
+在早期版本的Unicode编码中，科普特字母和相似的希腊字母使用相同编码。从2005年的4.1版本起，科普特字母脱离希腊字母，新的科普特文字区块范围是U+2C80至U+2CFF。希腊文字区块包括7个由世俗体演化而成的科普特字母（表格中高亮处），它们在科普特文中也有出现。
+
+
+希腊字母和科普特字母
+Greek and Coptic[1][2]
+Unicode Consortium官方代码表（PDF）
+
+
+ 
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+A
+B
+C
+D
+E
+F
+
+
+U+037x
+Ͱ
+ͱ
+Ͳ
+ͳ
+ʹ
+͵
+Ͷ
+ͷ
+
+
+ͺ
+ͻ
+ͼ
+ͽ
+;
+Ϳ
+
+
+U+038x
+
+
+
+
+΄
+΅
+Ά
+·
+Έ
+Ή
+Ί
+
+Ό
+
+Ύ
+Ώ
+
+
+U+039x
+ΐ
+Α
+Β
+Γ
+Δ
+Ε
+Ζ
+Η
+Θ
+Ι
+Κ
+Λ
+Μ
+Ν
+Ξ
+Ο
+
+
+U+03Ax
+Π
+Ρ
+
+Σ
+Τ
+Υ
+Φ
+Χ
+Ψ
+Ω
+Ϊ
+Ϋ
+ά
+έ
+ή
+ί
+
+
+U+03Bx
+ΰ
+α
+β
+γ
+δ
+ε
+ζ
+η
+θ
+ι
+κ
+λ
+μ
+ν
+ξ
+ο
+
+
+U+03Cx
+π
+ρ
+ς
+σ
+τ
+υ
+φ
+χ
+ψ
+ω
+ϊ
+ϋ
+ό
+ύ
+ώ
+Ϗ
+
+
+U+03Dx
+ϐ
+ϑ
+ϒ
+ϓ
+ϔ
+ϕ
+ϖ
+ϗ
+Ϙ
+ϙ
+Ϛ
+ϛ
+Ϝ
+ϝ
+Ϟ
+ϟ
+
+
+U+03Ex
+Ϡ
+ϡ
+Ϣ
+ϣ
+Ϥ
+ϥ
+Ϧ
+ϧ
+Ϩ
+ϩ
+Ϫ
+ϫ
+Ϭ
+ϭ
+Ϯ
+ϯ
+
+
+U+03Fx
+ϰ
+ϱ
+ϲ
+ϳ
+ϴ
+ϵ
+϶
+Ϸ
+ϸ
+Ϲ
+Ϻ
+ϻ
+ϼ
+Ͻ
+Ͼ
+Ͽ
+
+
+注释
+
+1. ^ Unicode 版本 8.0
+2. ^ 灰色区域指示未分配码点
+
+
+
+
+
+
+科普特字母
+Coptic[1][2]
+Unicode Consortium官方代码表（PDF）
+
+
+ 
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+A
+B
+C
+D
+E
+F
+
+
+U+2C8x
+Ⲁ
+ⲁ
+Ⲃ
+ⲃ
+Ⲅ
+ⲅ
+Ⲇ
+ⲇ
+Ⲉ
+ⲉ
+Ⲋ
+ⲋ
+Ⲍ
+ⲍ
+Ⲏ
+ⲏ
+
+
+U+2C9x
+Ⲑ
+ⲑ
+Ⲓ
+ⲓ
+Ⲕ
+ⲕ
+Ⲗ
+ⲗ
+Ⲙ
+ⲙ
+Ⲛ
+ⲛ
+Ⲝ
+ⲝ
+Ⲟ
+ⲟ
+
+
+U+2CAx
+Ⲡ
+ⲡ
+Ⲣ
+ⲣ
+Ⲥ
+ⲥ
+Ⲧ
+ⲧ
+Ⲩ
+ⲩ
+Ⲫ
+ⲫ
+Ⲭ
+ⲭ
+Ⲯ
+ⲯ
+
+
+U+2CBx
+Ⲱ
+ⲱ
+Ⲳ
+ⲳ
+Ⲵ
+ⲵ
+Ⲷ
+ⲷ
+Ⲹ
+ⲹ
+Ⲻ
+ⲻ
+Ⲽ
+ⲽ
+Ⲿ
+ⲿ
+
+
+U+2CCx
+Ⳁ
+ⳁ
+Ⳃ
+ⳃ
+Ⳅ
+ⳅ
+Ⳇ
+ⳇ
+Ⳉ
+ⳉ
+Ⳋ
+ⳋ
+Ⳍ
+ⳍ
+Ⳏ
+ⳏ
+
+
+U+2CDx
+Ⳑ
+ⳑ
+Ⳓ
+ⳓ
+Ⳕ
+ⳕ
+Ⳗ
+ⳗ
+Ⳙ
+ⳙ
+Ⳛ
+ⳛ
+Ⳝ
+ⳝ
+Ⳟ
+ⳟ
+
+
+U+2CEx
+Ⳡ
+ⳡ
+Ⳣ
+ⳣ
+ⳤ
+⳥
+⳦
+⳧
+⳨
+⳩
+⳪
+Ⳬ
+ⳬ
+Ⳮ
+ⳮ
+⳯
+
+
+U+2CFx
+⳰
+⳱
+Ⳳ
+ⳳ
+
+
+
+
+
+⳹
+⳺
+⳻
+⳼
+⳽
+⳾
+⳿
+
+
+注释
+
+1. ^ Unicode 版本 8.0
+2. ^ 灰色区域指示未分配码点
+
+
+
+
+字母表注释[编辑]
+
+
+^ In Sahidic dialect, it is [i], while, in Bohairic dialect, it is [e].
+^ The vowel /uː/ is commonly written with ⲟⲩ not ⲩ alone.
+^ The additional letter xai is Ⳉ ⳉ in Akhmimic and Ⳋ ⳋ in Bohairic, both for a velar fricative /x/.
+^ Some scholars constructed its pronunciation as [kʲ], while others as [tʃ].
+^ In Sahidic dialect, it is [ti], while in Bohairic dialect, it is [de].
+
+
+注释[编辑]
+
+
+^ Ritner, Robert Kriech. 1996. "The Coptic Alphabet". In The World's Writing Systems, edited by Peter T. Daniels and William Bright. Oxford and New York: Oxford University Press. 1994:287–290.
+
+
+参考文献[编辑]
+
+
+Quaegebeur, Jan. 1982. "De la préhistoire de l'écriture copte." Orientalia lovaniensia analecta 13:125–136.
+Kasser, Rodolphe. 1991. "Alphabet in Coptic, Greek". In The Coptic Encyclopedia, edited by Aziz S. Atiya. New York: Macmillan Publishing Company, Volume 8. 30–32.
+Kasser, Rodolphe. 1991. "Alphabets, Coptic". In The Coptic Encyclopedia, edited by Aziz S. Atiya. New York: Macmillan Publishing Company, Volume 8. 32–41.
+Kasser, Rodolphe. 1991. "Alphabets, Old Coptic". In The Coptic Encyclopedia, edited by Aziz S. Atiya. New York: Macmillan Publishing Company, Volume 8. 41–45.
+Wolfgang Kosack: Koptisches Handlexikon des Bohairischen. Koptisch - Deutsch - Arabisch. Verlag Christoph Brunner, Basel 2013, ISBN 978-3-9524018-9-7.
+
+
+外部链接[编辑]
+
+
+
+维基共享资源中相关的多媒体资源：科普特字母
+
+
+
+Copticsounds - a resource for the study of Coptic phonology
+The Coptic Alphabet
+[1] [2] How to install, use and manipulate Coptic ASCII and Unicode fonts
+Michael Everson's Revised proposal to add the Coptic alphabet to the BMP of the UCS
+Download Free Coptic Fonts
+IFAO（[http://www.ifao.egnet.net/publications/outils/polices/ 连结）
+Coptic Unicode fonts
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+书写文字列表
+
+
+
+
+
+
+
+
+
+
+概观
+
+
+
+文字史
+字位
+
+
+
+
+
+
+
+
+列表
+
+
+
+文字列表
+
+未解读文字
+文字发明者（英语：List of inventors of writing systems）
+
+
+诸语言书写系统列表（英语：List of languages by writing system） / 第一次书写记录列表（英语：List of languages by first written accounts）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+辅音音素文字
+
+
+
+
+
+
+
+
+
+辅音音素文字之数字（英语：Abjad numerals）
+古柏柏尔字母（英语：Ancient Berber alphabet）
+阿拉米字母
+阿拉伯语字母
+彼得曼速写（英语：Pitman shorthand）
+爱林觅字母（英语：Elymaic abjad）
+汉尼非文字（英语：Hanifi script）
+希伯来字母
+
+阿斯许利字母（英语：Ashuri alphabet）
+希伯来语草写（英语：Cursive Hebrew）
+拉什文字（英语：Rashi script）
+
+
+爪夷文
+提非纳文字
+摩尼教字母
+纳巴泰字母
+巴拉维字母（英语：Pahlavi scripts）
+古希伯来字母
+皮贡语（英语：Pegon (language)）
+腓尼基字母
+原始迦南字母
+诗篇字母（英语：Psalter alphabet）
+腓尼基字母
+萨巴王国字母（英语：Sabaean alphabet）
+撒玛利亚文字（英语：Samaritan script）
+南阿拉伯字母
+
+宰逋尔字母
+麦斯纳字母
+
+
+粟特字母
+叙利亚字母
+
+爱斯坦字母
+穗他字母
+玛哈亚字母
+
+
+蒂兰速记
+泰穆迪文字（英语：Thalmudic script）
+乌加里特字母
+雅兹迪字母（英语：Yazidi alphabet）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+元音附标文字
+
+
+
+
+
+
+
+
+
+
+婆罗米系文字
+
+
+
+阿洪姆文
+阿卡文字（英语：Akkha script）
+安加梨皮文字（英语：Anga Lipi）
+阿汗拿加利文字（英语：Ardhanagari）
+阿沙字母（英语：AssaArdhanagarimese alphabet）
+巴特加字母（英语：Badaga alphabet）
+巴厘岛字母
+巴塔克字母（英语：Batak alphabet）
+
+巴塔克西马伦根字母（英语：Batak Simalungun alphabet）
+大利巴塔克字母（英语：Dairi Batak alphabet）
+卡罗巴塔克字母（英语：Karo Batak alphabet）
+曼德令巴塔克字母（英语：Mandaling Batak alphabet）
+鸟羽巴塔克字母表的（英语：Toba Batak alphabet）
+
+
+比比贤文字（英语：Baybayin）
+孟加拉文
+Bhaiksuki（英语：Bhaiksuki alphabet）
+Bhattiprolu（英语：Bhattiprolu alphabet）
+Bhujimol（英语：Bhujimol）
+婆罗米文
+布希德文
+缅文
+加拿大原住民音节文字
+Chakma（英语：Chakma alphabet）
+占语字母
+Chameali（英语：Chameali script）
+Chipewyan（英语：Chipewyan syllabics）
+Chis（英语：Chis script）
+Chong（英语：Chong script）
+Coorgi（英语：Coorgi-Cox alphabet）
+Damili（英语：Tamil-Brahmi）
+Dehong Dai（英语：Dehong Dai alphabet）
+Deodhai（英语：Deodhai script）
+天城文
+Dhimal（英语：Dhimal alphabet）
+Dhives Akuru（英语：Dhives Akuru）
+Dīvī Grantha（英语：Maldivian writing systems）
+Duota（英语：Duota script）
+Eastern Nagari（英语：Eastern Nagari script）
+Evēla Akuru（英语：Evēla Akuru）
+Gangga Malayu（英语：Gangga Malayu alphabet）
+Garay
+Golmol（英语：Golmol script）
+Gondi（英语：Gondi script）
+Goykanadi（英语：Goykanadi）
+Grantha
+古吉拉特文
+笈多文
+古木基文
+Gurung（英语：Gurung script）
+哈努诺文（英语：Hanunó'o alphabet）
+Hinmol（英语：Hinmol script）
+Idu azobra（英语：Idu azobra script）
+日本悉昙文（英语：Japanese Siddham）
+爪哇字母
+Kadamba（英语：Kadamba alphabet）
+凯提文
+Kalinga（英语：Kalinga alphabet）
+Kamtapura（英语：Kamtapura script）
+卡纳达文
+卡维文（英语：Kawi script）
+Kayah Li（英语：Kayah Li alphabet）
+Khambu Rai（英语：Khambu Rai）
+Khema Tamu Phri（英语：Khema Tamu Phri）
+高棉文
+
+Âksâr chriĕng（英语：Âksâr chriĕng）
+Âksâr chhôr（英语：Âksâr chhôr）
+Âksâr khâm（英语：Âksâr khâm）
+Âksâr mul（英语：Âksâr mul）
+
+
+Khojki（英语：Khojki）
+Khrom（英语：Khrom script）
+Khudabadi（英语：Khudabadi alphabet）
+Kirat Rai（英语：Kirat Rai alphabet）
+Kolezhuthu（英语：Kolezhuthu）
+Koloma（英语：Koloma）
+Kulitan
+Kunmol（英语：Kunmol script）
+Kutila（英语：Kutila script）
+Kwenmol（英语：Kwenmol script）
+Lampung（英语：Lampung script）
+兰达文（英语：Laṇḍā scripts）
+Langdi（英语：Langdi）
+老傣文
+寮文字
+Leke（英语：Leke script）
+雷布查文（英语：Lepcha alphabet）
+Lik Tai Mao（英语：Lik Tai Mao）
+Lik Hto Ngouk（英语：Lik Hto Ngouk）
+Lik To Yao（英语：Lik To Yao）
+Limbu alphabet
+Litumol（英语：Litumol script）
+龙塔拉文（英语：Lontara alphabet）
+Mahajani（英语：Mahajani）
+马拉雅拉姆文
+Malwari（英语：Malwari script）
+Mangyan（英语：Mangyan alphabet）
+Marchen
+Marchung（英语：Marchung script）
+Meitei Mayek（英语：Meitei Mayek alphabet）
+Mithilakshar（英语：Tirhuta）
+莫迪文（英语：Modi alphabet）
+Mol
+孟文
+Multani（英语：Multani script）
+Muriya（英语：Muriya script）
+Nagar Barap（英语：Nagar Barap）
+城文
+Nandinagari（英语：Nandinagari）
+Old Bimanese（英语：Old Bimanese script）
+古卡纳达文（英语：Old Kannada alphabet）
+古卡维文（英语：Kawi alphabet）
+古高棉文（英语：Old Khmer script）
+奥里亚文
+Pachumol（英语：Pachumol script）
+帕拉瓦文
+八思巴文
+Prachalit Nepal（英语：Prachalit Nepal alphabet）
+Pranagari（英语：Pranagari script）
+Pyu
+
+Pyu Pali（英语：Pyu Pali）
+Pyu Tircul（英语：Pyu Tircul）
+
+
+兰札文
+
+Lanydza（英语：Lanydza）
+
+
+Rejang（英语：Rejang alphabet）
+
+Bengkulu（英语：Bengkulu script）
+Lembak（英语：Lembak script）
+Lintang（英语：Lintang script）
+Kaganga（英语：Kaganga script）
+Lampung（英语：Lampung script）
+Lebong（英语：Lebong script）
+Serawai（英语：Serawai script）
+
+
+Rencong（英语：Rencong alphabet）
+Saindhu（英语：Saindhu script）
+夏拉达文
+Saurashtra（英语：Saurashtra alphabet）
+Shan
+僧伽罗文
+悉昙文字
+Sorang Sompeng
+Soyombo
+巽他字母（英语：Sundanese alphabet）
+Syloti Nagri（英语：Syloti Nagri）
+塔格板瓦文（英语：Tagbanwa alphabet）
+傣哪文
+Tai Laing（英语：Tai Laing script）
+Tai Noy（英语：Tai Noy script）
+傣担语
+Takri（英语：Takri alphabet）
+Tam Yig（英语：Tam Yig）
+泰米尔文
+Tanchangya（英语：Tanchangya alphabet）
+泰卢固文
+泰文字
+藏文字
+
+有头体
+无头体
+Bamyik（英语：Bamyik script）
+Joyig（英语：Joyig script）
+Monyig（英语：Monyig script）
+Lhoyig（英语：Lhoyig script）
+
+
+Tikamuli（英语：Tikamuli script）
+Tocharian
+Tua Tham
+Tulu（英语：Tulu alphabet）
+Varang Kshiti（英语：Varang Kshiti）
+Vatteluttu（英语：Vatteluttu alphabet）
+Visayan（英语：Visayan alphabet）
+Xäwtää Dörböljin（英语：Xäwtää Dörböljin）
+Zolai（英语：Zou script）
+
+
+
+
+
+
+
+
+其他书写系统
+
+
+
+Boyd's syllabic shorthand（英语：Boyd's syllabic shorthand）
+吉兹字母
+日本盲文
+佉卢文
+Mandombe（英语：Mandombe script）
+麦罗埃文
+柏格理苗文
+Mwangwego（英语：Mwangwego alphabet）
+Pahawh Hmong（英语：Pahawh Hmong）
+Thomas Natural Shorthand（英语：Thomas Natural Shorthand）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+全音素文字
+
+
+
+
+
+
+
+
+
+
+线性文字系统
+
+
+
+阿布哈兹字母
+Anglo-Saxon（英语：Anglo-Saxon runes）
+Ariyaka alphabet（英语：Ariyaka）
+亚美尼亚字母
+阿维斯陀字母（英语：Avestan alphabet）
+Avoiuli（英语：Avoiuli）
+Bassa Vah（英语：Bassa alphabet）
+博拉马字母
+布里亚特字母
+Camunian（英语：Camunian alphabet）
+Carian（英语：Carian alphabet）
+Caucasian Albanian（英语：Caucasian Albanian alphabet）
+科普特字母
+西里尔字母
+Dalecarlian runes（英语：Dalecarlian runes）
+Deseret（英语：Deseret alphabet）
+Duployan shorthand（英语：Duployan shorthand）
+早期西里尔字母
+Eclectic shorthand（英语：Eclectic shorthand）
+Elbasan（英语：Elbasan script）
+Elder Futhark（英语：Elder Futhark）
+鄂温克字母
+Faliscan（英语：Faliscan alphabet）
+老傈僳文
+Fula Ba（英语：Fula Ba）
+Fula Dita（英语：Fula Dita）
+Gabelsberger shorthand
+格鲁吉亚字母
+
+Asomtavruli
+Nuskhuri
+Mkhedruli
+
+
+格拉哥里字母
+哥德字母
+Gregg shorthand（英语：Gregg shorthand）
+希腊字母
+希腊—伊比利亚字母
+Gurung Khe Phri（英语：Gurung Khe Phri）
+IPA
+Jenticha（英语：Jenticha script）
+Kaddare（英语：Kaddare script）
+拉丁字母(拉丁文)
+
+Beneventan（英语：Beneventan script）
+Blackletter
+Carolingian minuscule（英语：Carolingian minuscule）
+Fraktur
+Gaelic（英语：Gaelic type）
+Insular（英语：Insular script）
+Kurrent（英语：Kurrent）
+Merovingian（英语：Merovingian script）
+聚特林书写体
+Visigothic（英语：Visigothic script）
+
+
+Lemnian（英语：Lemnian alphabet）
+Lycian（英语：Lycian alphabet）
+Lydian（英语：Lydian alphabet）
+满文
+曼达字母（英语：Mandaic alphabet）
+卢恩字母
+Medieval runes（英语：Medieval runes）
+Molodtsov（英语：Molodtsov alphabet）
+蒙古字母
+Mro（英语：Mro script）
+新提非纳文字
+西双版纳傣文
+N'Ko（英语：N'Ko script）
+Numidian（英语：Numidian alphabet）
+欧甘字母
+托忒蒙古文
+Ol Chiki（英语：Ol Chiki script）
+古匈牙利字母
+古意大利字母
+
+Camunic（英语：Camunic alphabet）
+Etruscan
+Faliscan（英语：Faliscan alphabet）
+Lepontic
+Magrè（英语：Magrè alphabet）
+Marsiliana（英语：Marsiliana alphabet）
+Messapic（英语：Messapic alphabet）
+North Picene（英语：North Picene alphabet）
+Nucerian（英语：Nucerian alphabet）
+Oscan
+Sanzeno（英语：Sanzeno alphabet）
+South Picene（英语：South Picene alphabet）
+Umbrian（英语：Umbrian alphabet）
+古意大利字母
+
+
+古彼尔姆文
+古突厥文
+回鹘字母
+奥斯曼亚字母
+Palmyrene（英语：Palmyrene alphabet）
+Pau Cin Hau（英语：Pau Cin Hau alphabet）
+Pisidian（英语：Pisidian alphabet）
+卢恩字母
+Salifou Hausa（英语：Salifou Hausa alphabet）
+Satavahana（英语：Satavahana script）
+Sidetic（英语：Sidetic script）
+Shavian
+Somali（英语：Somali ancient script）
+Staveless runes（英语：Staveless runes）
+Tafi（英语：Tafi alphabet）
+提非纳文字
+Todhri（英语：Todhri alphabet）
+Tolong Siki（英语：Tolong Siki）
+Visible Speech（英语：Visible Speech）
+Vithkuqi（英语：Vithkuqi alphabet）
+沃洛夫语
+Younger Futhark（英语：Younger Futhark）
+Zaghawa（英语：Zaghawa alphabet）
+
+
+
+
+
+
+
+
+非线性文字系统
+
+
+
+它拿字母
+谚文
+小儿经
+老维文
+盲文
+
+希伯来盲文（英语：Hebrew Braille）
+韩国盲文（英语：Korean braille）
+
+
+国际信号旗
+摩尔斯电码
+New York Point（英语：New York Point）
+Semaphore line（英语：Semaphore line）
+旗语
+Moon type（英语：Moon type）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+形意文字/象形文字
+
+
+
+
+
+
+
+
+
+Adinkra（英语：Adinkra symbols）
+阿兹特克文字
+Blissymbol
+东巴文
+尔苏沙巴文
+绘文字
+IConji（英语：IConji）
+Isotype
+Kaidā（英语：Kaidā glyphs）
+Míkmaq（英语：Mi'kmaq hieroglyphic writing）
+Mixtec（英语：Mixtec writing）
+New Epoch Notation Painting（英语：New Epoch Notation Painting）
+Nsibidi（英语：Nsibidi）
+Ojibwe Hieroglyphs（英语：Ojibwe_writing_systems#Ojibwe_"hieroglyphs"）
+Siglas poveiras（英语：Siglas poveiras）
+SignWriting（英语：SignWriting）
+Testerian（英语：Testerian）
+耶基斯语
+Zapotec（英语：Zapotec script）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+语素文字
+
+
+
+
+
+
+
+
+
+
+汉字
+
+
+
+繁体中文
+简化字
+朝鲜汉字
+口诀
+吏读
+乡札
+日本汉字
+琉球汉字
+喃字
+岱喃字
+僰文
+方块壮字
+古布依文
+方块侗字
+
+
+
+
+
+
+
+
+受汉字影响的
+
+
+
+女真文
+契丹大字
+西夏文
+
+
+
+
+
+
+
+
+楔形的
+
+
+
+Akkadian
+Assyrian
+Eblaite（英语：Eblaite cuneiform）
+Elamite（英语：Elamite cuneiform）
+Hattic（英语：Hattic cuneiform）
+Hittite
+Hurrian（英语：Hurrian cuneiform）
+Luwian
+苏美文字
+Urartic（英语：Urartic cuneiform）
+
+
+
+
+
+
+
+
+其他标示音节文字
+
+
+
+Anatolian（英语：Anatolian hieroglyphs）
+Cretan（英语：Cretan hieroglyphs）
+楔形文字
+印度河文字
+Isthmian（英语：Isthmian script）
+Kaidā（英语：Kaidā glyphs）
+玛雅象形文字
+原始埃兰文字
+水书
+Urartic（英语：Urartic hieroglyphs）
+彝文
+
+
+
+
+
+
+
+
+标示辅音
+
+
+
+埃及语世俗体
+埃及语僧侣体
+埃及语圣书体
+
+
+
+
+
+
+
+
+数字
+
+
+
+印度-阿拉伯数字系统
+Abjad
+Attic（希腊）（英语：Attic numerals）
+罗马数字
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+半音节文字
+
+
+
+
+
+
+
+
+
+
+完全型式
+
+
+
+Celtiberian（英语：Celtiberian script）
+Northeastern Iberian
+Southeastern Iberian（英语：Southeastern Iberian script）
+Khom（英语：Khom script）
+
+
+
+
+
+
+
+
+加赘型式
+
+
+
+Espanca（英语：Espanca script）
+Pahawh Hmong（英语：Pahawh Hmong）
+契丹小字
+Southwest Paleohispanic（英语：Southwest Paleohispanic script）
+注音符号
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+音节文字
+
+
+
+
+
+
+
+
+
+
+无规律符号型式
+
+
+
+Afaka（英语：Afaka syllabary）
+Bamum
+Bété（英语：Bété syllabary）
+Blackfoot（英语：Blackfoot syllabary）
+Byblos（英语：Byblos syllabary）
+切罗基语
+塞浦路斯音节文字
+Cypro-Minoan（英语：Cypro-Minoan syllabary）
+Déné（英语：Carrier syllabics）
+Eskayan（英语：Eskayan syllabary）
+哥巴文
+Kikakui（英语：Mende script）
+Kpelle（英语：Kpelle syllabary）
+线形文字B
+Linear Elamite（英语：Linear Elamite）
+傈僳竹书
+Loma（英语：Loma syllabary）
+万叶假名
+女书
+古波斯楔形文字
+Tani Lipi（英语：Tani Lipi）
+瓦伊语
+Woleai（英语：Woleai script）
+现代彝文
+Yugtun（英语：Yugtun script）
+
+
+
+
+
+
+
+
+元音定向型式
+
+
+
+加拿大原住民音节文字
+
+
+
+
+
+
+
+
+浊音附标型式
+
+
+
+日语书写系统
+
+平假名
+片假名
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+分类：有 ISO 15924 四字母编码的文字字母欧洲文字隐藏分类：有蓝链却未移除内部链接助手模板的页面使用ISBN魔术链接的页面

@@ -1,0 +1,53 @@
+Meerwein芳基化反应
+Meerwein芳基化反应（Meerwein arylation），由 Hans Meerwein 在1939年报道。
+芳基重氮盐在金属盐类存在下对缺电子烯烃的加成反应。产物为取代芳香族化合物。[1][2]
+
+
+
+烯烃上的吸电子基团降低了烯烃双键的电子密度。
+
+
+
+目录
+
+
+1 反应机理
+2 拓展
+3 参见
+4 参考资料
+
+
+
+反应机理[编辑]
+反应的具体机理仍不清楚。[3]
+有认为此反应为自由基-亲核芳香取代机理。首先重氮盐断裂放出氮气，生成芳基自由基，接下来芳基自由基对双键进行自由基加成，产生的烷基自由基中间体被重氮盐中的反离子如卤素或四氟硼酸根捕获，生成取代芳香族化合物。此产物还可继续经过消除放出卤化氢，从而进一步得到苯乙烯衍生物。
+拓展[编辑]
+1、丙烯酸与芳基重氮盐、溴化亚铜和氢溴酸反应生成α-溴羧酸[4]
+2、丁二烯经过反应首先生成4-氯-2-丁烯，再经消除，可得芳基取代的丁二烯[5]
+3、还原芳基化：三氯化钛将新生成的双键还原[6]
+4、千克级无金属 Meerwein 芳基化[7]
+
+
+
+
+参见[编辑]
+
+化学反应列表
+
+参考资料[编辑]
+
+
+^ Meerwein, H;, Buchner, E.; van Emsterk, K. J. Prakt. Chem. 1939, 152, 237.
+^ Minireview Intermolecular Olefin Functionalisation Involving Aryl Radicals Generated from Arenediazonium Salts Markus R. Heinrich doi:10.1002/chem.200801306 Chemistry - A European Journal 2008 Volume 15 Issue 4, Pages 820 - 833
+^ Strategic Applications of Named Reactions in Organic Synthesis Laszlo Kurti, Barbara Czako Academic Press (March 4, 2005) ISBN 0-12-429785-4
+^ Benzenepropanoic acid, 4-acetyl-α-bromo- Organic Syntheses, Coll. Vol. 6, p.21 (1988); Vol. 51, p.1 (1971). Link
+^ 1,3-Butadiene, 1-(p-nitrophenyl)- Organic Syntheses, Coll. Vol. 4, p.727 (1963); Vol. 31, p.80 (1951). Link
+^ 2-Butanone, 4-(4-chlorophenyl)- Organic Syntheses, Coll. Vol. 7, p.105 (1990); Vol. 62, p.67 (1984) Link.
+^ A Practical Synthesis of -Aryl Methyl Ketones via a Transition-Metal-Free Meerwein Arylation Carmela Molinaro, Jeffrey Mowat, Francis Gosselin, Paul D. O'Shea, Jean-François Marcoux, Rémy Angelaud, and Ian W. Davies J. Org. Chem.; 2007; 72(5) pp 1856 - 1858; (Note) doi:10.1021/jo062483g
+
+
+
+
+
+
+分类：碳－碳键形成反应取代反应人名反应隐藏分类：使用ISBN魔术链接的页面

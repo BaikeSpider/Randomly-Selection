@@ -1,0 +1,136 @@
+暗绿鲀
+
+
+
+ 
+
+黑青斑河鲀
+
+
+
+
+
+
+
+保护状况
+
+
+
+
+无危（IUCN 3.1）
+
+
+
+科学分类
+
+
+
+
+
+界：
+动物界 Animalia
+
+
+门：
+脊索动物门 Chordata
+
+
+亚门：
+脊椎动物亚门 Vertebrata
+
+
+纲：
+辐鳍鱼纲 Actinopterygii
+
+
+目：
+鲀形目 Tetraodontiformes
+
+
+亚目：
+四齿鲀亚目 Tetraodontoidei
+
+
+科：
+四齿鲀科 Tetraodontidae
+
+
+属：
+鲀属 Tetraodon
+
+
+种：
+黑青斑河鲀 T. nigroviridis
+
+
+
+
+
+二名法
+
+
+Tetraodon nigroviridis
+Marion de Procé, 1822
+
+
+异名
+
+
+
+
+Tetrodon nigroviridis,Marion de Procé, 1822
+Chelonodon nigroviridis,Marion de Procé, 1822
+Tetraodon potamophilus,Bleeker, 1849
+Tetrodon simulans,Cantor, 1849
+
+
+
+
+黑青斑河鲀，又名暗绿鲀、金娃娃，为辐鳍鱼纲鲀形目四齿鲀亚目四齿鲀科的其中一种，生活在近海淡水或淡咸水，原生地分布于泰国、柬埔寨、马来西亚、缅甸、中国等地区之流域。栖息在溪流、洪氾区。可人工饲养作为观赏鱼，在基因组学研究中有着重要作用。
+
+
+
+目录
+
+
+1 外形及习性
+2 人工饲养
+3 生物学研究
+4 疾病
+5 参考文献
+6 扩展阅读
+
+
+
+外形及习性[编辑]
+成鱼最长能成长到15-20公分左右。全身约成横状楕圆形，鳍部以上（含背部）的皮肤呈金黄色的光泽，另有黑色的圆型斑点交错其中，类似豹纹。鳍部以下（含腹部）的皮肤呈净白色的一片。身体两边一对鱼鳍，在水中的拍动速度相当地快速。
+幼鱼期时栖息在淡咸水域，成鱼期时则应身体需要的盐分提升，转而游进海水域栖息。黑青斑河鲀是肉食性鱼种，牙齿相锋利，以贝类为食。此外亦猎食其它小鱼、海蚯蚓等。[1]
+人工饲养[编辑]
+黑青斑河鲀在上海和台湾的水族馆中相当常见，通常被称为“金娃娃”。一般最佳的饲养温度约在24~27℃之间，底砂以碱性的珊瑚砂为佳。一般在水中加入2%的海盐。
+黑青斑河鲀由于攻击性较强，不宜同其它温和型鱼类混养，同种饲养时亦应当多设置遮蔽处，以便弱小个体躲藏。一般以干燥红虫、小鱼及小虾为主要喂食来源。部分的个体经人为选育也可食用颗粒状肉食鱼饲料。
+黑青斑河鲀等多种鲀类可食用水族缸中水草上附着的难以发觉的小型螺类，有助于保持鱼缸洁净。
+生物学研究[编辑]
+黑青斑河鲀是拥有已知最小基因组的脊椎动物，仅约340兆碱基对（约为人类基因组大小的十分之一）。其基因组相当缺乏内含子与基因间序列，基因间距非常压缩。因此和另一种基因组稍大的河鲀红鳍多纪鲀一同被选为遗传学和基因组学研究的模式生物。其基因组草图于2004年发布。[2]>
+疾病[编辑]
+
+
+
+
+已生病的金娃娃
+
+
+黑青斑河鲀可能患一般鱼类共有的白点病，此时鱼体外观可看到很多白色点状附着物。若白色腹部出现木色条状物，可能为霉菌感染。通过鱼体外观也可以观察其健康状况，若背部的金黄色光泽及腹部白色处出现黑、灰色化的现象时，代表其可能处于非健康状况。
+参考文献[编辑]
+
+^ Froese, Rainer & Daniel Pauly, eds. (2014). Tetraodon nigroviridis in FishBase. 2014年3月版本
+^ Jaillon O, Aury J, Brunet F, Petit J, Stange-Thomann N, Mauceli E, Bouneau L, Fischer C, Ozouf-Costaz C, Bernot A, Nicaud S, Jaffe D, Fisher S, Lutfalla G, Dossat C, Segurens B, Dasilva C, Salanoubat M, Levy M, Boudet N, Castellano S, Anthouard V, Jubin C, Castelli V, Katinka M, Vacherie B, Biémont C, Skalli Z, Cattolico L, Poulain J, De Berardinis V, Cruaud C, Duprat S, Brottier P, Coutanceau J, Gouzy J, Parra G, Lardier G, Chapple C, McKernan K, McEwan P, Bosak S, Kellis M, Volff J, Guigó R, Zody M, Mesirov J, Lindblad-Toh K, Birren B, Nusbaum C, Kahn D, Robinson-Rechavi M, Laudet V, Schachter V, Quétier F, Saurin W, Scarpelli C, Wincker P, Lander E, Weissenbach J, Roest Crollius H. Genome duplication in the teleost fish Tetraodon nigroviridis reveals the early vertebrate proto-karyotype. Nature. 2004, 431 (7011): 946–57. PMID 15496914. doi:10.1038/nature03025. 
+
+扩展阅读[编辑]
+
+ 维基物种中有关黑青斑河鲀的数据
+
+
+
+
+
+分类：IUCN无危物种观赏鱼鲀属隐藏分类：FishBaseLatinNameTaxoboxLatinName本地相关图片与维基数据相同WikispeciesLatinName

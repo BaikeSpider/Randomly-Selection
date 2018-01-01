@@ -1,0 +1,624 @@
+GNU通用公共许可协议
+
+
+
+
+
+本条目格式需要修正以符合格式手册。（2017年8月10日） 
+请协助添加相关的内部链接，并使用百科全书的语气来改善这篇条目。 
+
+
+
+
+
+
+
+本条目需要更新。（2017年5月3日） 
+请更新本文以反映近况和新增内容。完成修改时，请移除本模板。 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+“GPL”重定向至此。关于一场电子竞技联赛，详见“GPL超级联赛”。
+
+
+
+GNU通用公共许可证
+
+
+GNU GPLv3 Logo
+
+
+
+作者
+自由软件基金会
+
+
+版本
+第3版
+
+
+发布者
+自由软件基金会
+
+
+发布日期
+2007年6月29日
+
+
+DFSG兼容
+是[1]
+
+
+自由软件
+是[2]
+
+
+OSI认证
+是[3]
+
+
+Copyleft
+是[2][4]
+
+
+与其他协议代码链接
+仅可与GNU AGPLv3代码相链接[5]
+
+
+网站
+www.gnu.org/licenses/gpl.html
+
+
+GNU通用公共许可协议（英语：GNU General Public License，简称 GNU GPL、GPL）是广泛使用的免费软件许可证，可以保证终端用户得自由运行，学习，共享和修改软件。[6]许可证最初由GNU项目的自由软件基金会 （FSF）的理查德·斯托曼（Richard Matthew Stallman）撰写，并授予计算机程序的收件人自由软件定义的权利。 [7] GPL是一个Copyleft许可证，这意味着派生作品只能以相同的许可条款分发。 这与许可免费软件许可证有所区别 ，其中BSD许可证和MIT许可证是广泛使用的示例。 GPL是第一个普遍使用的Copyleft许可证。
+历史上，GPL许可证系列一直是免费和开源软件领域最受欢迎的软件许可之一。[6][8][9][10][10][10][11][12] 根据GPL许可的优异自由软件程序的例子有Linux内核和GNU编译器集合 （GCC）。 David A. Wheeler认为，GPL提供的Copyleft对于基于Linux的系统的成功至关重要，给予向内核贡献的程序员保证他们的工作将有益于整个世界并保持自由，而不至于被不提供回馈给社区的不肖软件公司所剥削。 [13]
+2007年，发布了第三版许可证（GNU GPLv3），以解决在长期使用期间发现的第二版（GNU GPLv2）所发生的一些困扰。 为了使许可证保持最新状态，GPL许可证包含一个可选的“并延伸到未来版本”条款，允许用户在FSF更新的原始条款或新版本之间进行选择。 有些开发人员在软件授权使用时，选择省略它; 例如，Linux内核已经在GPLv2下获得许可，就不需包括“并延伸到未来版本”的声明。 [14][15]
+GPL授予程序接受人以下权利，或称“自由”，或称“copyleft”：
+
+  * 以任何目的运行此程序的自由；
+  * 再复制的自由；
+  * 改进此程序，并公开发布改进的自由（前提是能得到源代码）。
+
+相反地，随版权所有软件的最终用户许可证几乎从不授予用户任何权利（除了使用的权利），甚至可能限制一些法律允许的行为，比如逆向工程。
+GPL与其他一些更“许可的”自由软件许可证（比如BSD许可证）相比，主要区别就在于GPL寻求确保上述自由能在复制软件及派生作品中得到保障。它通过一种由斯托曼发明的叫Copyleft的法律机制实现，即要求GPL程序的派生作品也要在GPL之下。相反，BSD式的许可证并不禁止演绎作品变成专有软件。
+GPL是自由软件和开源软件的最流行许可证[16]。到2004年4月，GPL已占Freshmeat上所列的自由软件的约75%，SourceForge的约68%。类似的，2001年一项关于Red Hat Linux 7.1的调查显示一般的代码都以GPL发布。著名的GPL自由软件包括EMACS，Linux核心（并非所有Linux发行版的核心都是开源的）和GCC。
+
+
+
+目录
+
+
+1 历史
+2 用语
+
+2.1 GPLv1
+2.2 GPLv2
+2.3 GPLv3
+
+
+3 条款和条件
+4 使用许可软件
+
+4.1 Copyleft
+4.2 许可证与合同的区别
+
+
+5 派生或扩展性
+6 链接和派生作品
+
+6.1 争议：‘非GPL软件是否可以合法地链接或动态地链接到GPL库’
+6.2 观点：动态和静态链接违反GPL
+6.3 观点：静态链接违反GPL，但动态链接需澄清
+6.4 观点：链接无关
+6.5 与非GPL程序的通信和绑妥
+
+
+7 版权所有人
+8 争议
+9 兼容性
+10 批评
+11 参见
+12 参考资料
+13 外部链接
+
+
+
+历史[编辑]
+GPL由Richard Stallman于1989年编写，提供给列入GNU项目的一些软件程序所使用。 原始的GPL基于GNU Emacs （1985）， [17]GNU Debugger和GNU C编译器的早期版本中使用的类似许可证的统一。 [18]这些许可证包含与现代GPL类似的规定，但具体针对每个程序，使其不兼容，尽管是相同的许可证。 [19]Stallman的目标是提供一个可用于任何项目的授权证，从而使许多项目得以共享代码。 GPL版本1就这样，在1989年1月诞生。
+到1990年时，某些因素使得共享庫(Library)，应该要有比GPL更宽松的授权许可的需求。所以当GPL版本2在1991年6月发布，另一许可证——程序库通用许可证（Library General Public License，简称LGPL）也随之诞生，并记作“版本2”以示对GPL的补充。版本号在LGPL版本2.1发布时不再相同，而LGPL也被重命名为GNU宽通用公共许可证以体现GNU的哲学观。
+许可证的第二个版本，版本2，在1991年发布。在接下来的15年中， 免费软件社区的成员很关心GPLv2许可证中的问题，可能会让某些人钻漏洞而违反许可证，而违背了原先GPL许可授权软件的原意。 [20]这些问题包括剔违化(Tivoization)[21] （来自硬件的软件限制，意指将GPL授权软件安装在硬件上，又拒绝运行更动相关软件的修改版本），类似与Affero General Public License类似的兼容性问题，以及微软和免费和开源软件，其中一些被认为试图将专利申请用作于对付免费软件社区的武器。
+第3版旨在解决这些问题，并于2007年6月29日正式发布。 [22]
+用语[编辑]
+根据知识共享官方网站，GNU通用公共许可协议的台湾法律用语翻法为GNU通用公共授權條款[23]，香港法律用语翻法亦为GNU通用公共授权条款. [2010-07-20]. 。
+GPLv1[编辑]
+1989年2月25日发布的GNU GPL 版本1 阻止了软件经销商限制自由软件定义的两个主要方式。 第一个问题是经销商可能仅发布二进制文件 - 可执行，但不能由人类读取或修改。 为了防止这种情况，GPLv1表示，任何分发二进制代码的供应商还必须按照相同的许可条款（许可证的第3a和3b节）提供可读的源代码。
+第二个问题是经销商可能会增加许可证的限制，也可能会将软件与其他具有其他分发限制的软件相结合。 两套限制的联合将适用于组合工作，从而增加不可接受的限制。 为了防止这种情况，GPLv1表示，修改后的版本作为一个整体，必须按照GPLv1（许可证第2b和4节）的条款分发。 因此，根据GPLv1条款分发的软件可以以更宽松的条款​​与软件相结合，因为这不会改变整体可以分发的条款。 然而，根据GPLv1分发的软件不能与在更严格的许可证下分发的软件相结合，因为这与根据GPLv1的条款可以分发的要求相冲突。
+GPLv2[编辑]
+根据理查德·斯托曼（Richard Stallman）的说法，GPLv2的主要变化是“自由或死亡”（"Liberty or Death"）条款，即liberty-or-death Presentation。就如字面上所说，被许可人只有在满足所有许可证的义务下才可以分发包含GPL授权的软件，尽管他们可能拥有任何其他法律义务。 换句话说，就算有相互矛盾的义务，许可证的义务也可能不被切断 。 该条款旨在阻止任何一方使用专利侵权索赔或其他诉讼来损害用户在许可证下的自由。这章中的意思是，为了在一定程度上保障和尊重其它一些人的自由和权益，无论任何人要发布源于GPL的软件的时候，同时也须遵守强制的条款分享源代码，否则他将根本无权发布该软件。（因为在一些国家里，人们只能以二进制代码的形式发布软件，以保护开发软件者的版权。）
+到1990年，越来越明显的是，对于 C库 来说，本质上已经跟受专利保护的软件库的功能表现相当，有一个限制较少许可证对于自由软件发展的策略上来说更为实用; 因此，当GPL（GPLv2）的版本2在1991年6月发布时，第二类别的许可证 : 库通用公共许可证 (Library General Public License)，也同时被引入，并从第二版编号开始，表明两者是互补的。 版本号在1999年发行，当时LGPL的版本2.1被发布，更名为GNU通用公共许可证，以反映其在哲学中的地位。
+最常见的是“GPLv2并延伸到未来版本”的声明，让许可证的用户了解，得以允许升级到GPLv3。
+GPLv3[编辑]
+
+
+
+
+GPLv3 logo
+
+
+
+
+
+
+理查德·斯托曼（Richard Stallman）起草了第一份GNU GPLv3草案，在美国麻州剑桥的麻省理工学院。在他右手边站的是哥伦比亚法律教授伊本·莫格林，软件自由法律中心主席
+
+
+到2005年，GPL版本3开始由斯托曼起草，由伊本·莫格林和软件自由法律中心（Software Freedom Law Center）提供法律咨询。[24] 2005年底， 自由软件基金会 （FSF）宣布了GPL（GPLv3）第3版的工作。 2006年1月16日，公布了GPLv3的第一个“讨论稿”，公众咨询开始。 公众咨询原计划为九至十五个月，但最终延长至十八个月，其中出版四份草案。2007年6月29日，官方正式版GPLv3于由FSF发布。[25]
+之后，理查德·斯托曼([Richard Stallman)在2006年2月25日自由及开源软件开发者欧洲会议的演讲时谈到最重要的四件事：
+
+* 解決軟體專利問題 
+( software patents )；
+* 自由軟體許可證與其它商用許可的兼容性問題
+( free software license compatibility )；
+* 原始碼分割與組成的定義
+( the definition of "source code" );
+* 解决數位版權管理的問題，意即反軟體修改的硬體限制 
+( hardware restrictions on software modification ,"tivoization")；
+
+还有一些其他的更改涉及国际化，如何处理许可证违规，以及版权所有者如何授予额外权限。[24][26] 它还增加了一项规定，“剥离”("strips") 其法定价值的数字版权管理 (Digital Rights Management, DRM) ，所以人们可以合理的当在法院被视为侵犯DRM时，去破解运行GPL软件的任何东西，而不会违反DMCA等法律。 [27]
+公共咨询过程由自由软件基金会在软件自由法律中心， 欧洲自由软件基金会 [28]和其他免费软件组织的协助下进行协调 。通过 FSF [1]网站从公众收集评论。[29]该门户网站运行名为 stet.的专用软件。在公众咨询过程中，提交了第一稿的962条意见。[30]最后，共提交了2636条意见。 [31][32][33]
+第三稿于2007年3月28日发布。 [34] 该草案包括旨在防止与专利相关协议（如有争议的Microsoft-Novell专利协议）的语言 ，并将反倾销(anti-tivoization)条款限于“用户”或“消费品“。 它还明确删除了“地理限制”一节，确认公开咨询开始时就提到可能会删除的这一部分。
+最后的第四个讨论草案,[35] 于2007年5月31日发布。它引入了Apache许可证版本2.0兼容性（以前的版本不兼容），澄清了外部承包商的作用，并提出了一个例外，以避免充满争议的Microsoft-Novell专利协议再度发生，在第11节第6段中说：
+
+  【您不得傳送具GNU許可證保護的軟體作品，如果您是與營銷軟體業務(後稱第三方)進行安排的締約方，根據該協議按照你傳送作品活動的程度，您付款項給第三方，又根據該協議，對於可能收到與您所涉涵蓋的工作的其它方，第三方獲得歧視性專利。】  
+
+这旨在使未来像这样的交易无效。 该许可证还意味着Microsoft将其授予Novell客户的专利许可证扩展到使用GPLv3软件的所有用户，使用GPLv3软件; 除非当Microsoft合法地是GPLv3软件的“发送者”时，才有可能。 [36][37]
+此外，GPLv3的早期草案让许可方添加了一个Affero类的需求，将会填补GPL中的ASP漏洞 。 '.[38][39] 由于担忧该附加要求的代码检查所需要的额外行政费用，决定将GPL和Affero许可证分开。[40]
+值得留意的是 Linux 内核的一些高调的开发人员 ，例如Linus Torvalds ， Greg Kroah-Hartman和 Andrew Morton，向大众媒体发表了评论，并就讨论草案1和2的部分内容作了公开声明。[41] 内核开发人员提及关于DRM/Tivoization ，专利和“附加限制”的GPLv3草案条款，并警告会产生“开源宇宙(Open Source Universe)”的巴尔干半岛式分裂(" Balkanisation ")。[41][42]Linus Torvalds决定不采用GPLv3作为Linux内核，仍然使用GPLv2授权。[14]甚至在几年后重申了他的批评。[43][44]此事曾引起理查德·斯托曼的不满。
+GPLv3提高了与许多开放源代码软件许可证（如Apache许可证版本2.0）和GNU Affero通用公共许可证（GPLv2无法组合）的兼容性。 [45] 但是，如果所使用的GPLv2许可证具有可选的“或更高版本”子句，并且软件升级到GPLv3，GPLv3软件只能与GPLv2软件组合并共享代码。 虽然FSF认为“GPLv2并延伸到未来版本”条款是许可GPLv2软件的最常见形式，[46] 例如， Toybox开发商Rob Landley将其描述为救生艇条款(lifeboat clause) 。[47][48] 使用可选“或更高版本”条款许可的软件项目包括GNU项目 ，而没有该子句的最明显的案例是Linux内核。 [49]
+许可证文本的最终版本于2007年6月29日由自由软件基金会正式发布。 [25]
+条款和条件[编辑]
+GPL的条款和条件必须提供给任何接受GPL应用的作品的副本（“被许可人”）的人员。 任何遵守条款和条件的被授证人员都有权修改作品，以及复制和重新分发作品或任何派生版本。 被许可人被允许为此服务收取费用，或免费。 后一点将GPL与禁止商业再分发的软件许可区分开来。 FSF认为，免费软件不应该限制商业用途， [50] GPL明确规定GPL作品可能以任何价格出售。
+GPL还规定，经销商不得对GPL授予的权利施加“进一步限制”。 禁止根据不披露协议或合同分发软件等活动。
+许可证版本2的第四部分和版本3的第七部分要求，作为预编译二进制文件分发的程序应附有源代码的副本，通过与前一版本相同的机制分发源代码的书面报价编译的二进制文件或书面报价，以获取用户在GPL下接收预编译二进制文件时获得的源代码。 版本2的第二部分和版本3的第五部分还要求“所有收件人本程序附带的许可证副本”。 许可证的版本3允许以其他方式提供源代码来实现第七部分。 这些包括从相邻网络服务器下载源代码或通过点对点传输，只要编译代码是可用的，并且在哪里可以找到源代码的“清晰方向”。
+除非作者明确赋予 FSF 版权 （除了作为GNU项目一部分的程序很少发生），否则FSF对GPL发布的作品不具有版权。 只有个人版权持有人有权在发生许可证时才起诉。
+使用许可软件[编辑]
+GPL下的软件可以用于所有目的，包括商业目的，甚至作为创建专有软件的工具，例如使用GPL授权的编译器时 。 [50]分发GPL许可作品（如软件）的用户或公司可能会收取副本费用或免费提供费用。 这将GPL与共享软件许可证区分开来，允许复制用于个人使用，但禁止商业分发，或版权法(copyright law)禁止复制的专有许可。 FSF认为自由软件不应该限制商业使用和分配（包括再分配）：GPL明确规定，GPL工作可能以任何价格出售。
+在纯私人（或内部）使用 - 没有销售和没有发行 - 软件代码可能被修改和零件重复使用，而不需要发布源代码。 对于销售或分销，整个源代码需要提供给最终用户，包括任何代码更改和添加 - 在这种情况下，应用copyleft来确保最终用户保留上面定义的自由。[51]
+然而，作为GPL许可操作系统（如Linux）下的应用程序运行的软件不需要根据GPL进行许可或者以源代码可用性分发 - 许可只依赖于使用的库和软件组件，而不是依赖于底层平台。 [52]例如，如果一个程序仅由自己的原始定制软件组成(software component)，或者与其他软件组件的 源代码组合在一起[53]，则自己的定制软件组件不需要根据GPL授权，不需要使其代码可用; 即使所使用的底层操作系统是根据GPL授权的，运行在其上的应用程序也不被视为派生作品。 [52] 只有在程序中使用了GPLed部件（程序已经分发）的情况下，程序的所有其他源代码才能在相同的许可条款下提供。 GNU Lesser General公共许可证 （ GNU Lesser General Public license ,LGPL）被创建为具有比GPL更弱的Copyleft，因为它不需要在相同的许可条款下提供自己定制的源代码（不同于LGPLed部分）。
+Copyleft[编辑]
+主条目：Copyleft
+GPL授权版本的修改后作品的发行权不是无条件的。 当有人分发GPL的作品又加上自己的修改时，分发整个作品的要求不能大于GPL中的要求。这个要求被称为Copyleft。 它通过软件程序使用版权获得法律权力。 由于GPL的作品受版权保护，被许可人无权重新分发，即使是以修改形式（除合理使用 ）外，除了许可条款外， 如果希望行使通常受版权法限制的权利，例如重新分配，只需遵守GPL的条款。 相反，如果在不遵守GPL条款（例如保留源代码秘密）的情况下分发作品的副本，则原始作者可以根据版权法起诉 。因此，Copyleft使用版权法来完成与常见法律的设置目的相反，不是施加限制，而是赋予其他人权利，以确保权利不能随之被剥夺的方式。 如果在Copyleft声明中找到任何法律缺陷，它也可以确保不给予无限的重新分发权限。[来源请求]
+许多GPL程序的经销商将源代码与可执行文件捆绑在一起 。 满足Copyleft的替代方法是提供书面报价，以便在物理介质（如CD）上提供源代码。 实际上，许多GPL的程序通过Internet进行分发，源代码通过FTP 或 HTTP.提供 。 对于互联网分发，这匹配许可证。只有当一个人试图重新分发程序时，Copyleft才适用。 只要不将修改后的软件分发给任何人，开发人员可以制作私有修改版本，无需泄露修改。 请注意，Copyleft仅适用于软件，而不适用于其输出（除非该输出本身是程序的派生作品[54] ）。
+
+例如，运行GPL内容管理系统(CMS )修改版的派生产品之公共门户网站不需将其更动分发给底层软件，因为其输出(output)不是派生产品(derivative)。
+
+有人辩论，如果以混淆(obfuscated)形式发布源代码是否违反GPL，例如在作者不太愿意提供源代码的情况下。 普遍认为虽然这是不道德的，但无法认为是违法行为。 这问题已得到澄清：当许可证被更改为v2时，就需要提供源代码的“首选(preferred)"版本。[55]
+许可证与合同的区别[编辑]
+GPL被设计为许可证 ，而不是合同。[56][57]在一些普通法司法（Common Law]）管辖区，许可证和合同之间的法律区别是重要的：合同可以通过合同法运行，而许可证是根据版权法运行的。 然而，这种区别对于合同和执照之间没有区别的许多司法管辖区（如民法(Civil Law)系统）并不有用。 [58]
+GPL原理很简单：在版权法下，你不遵守GPL的条款和条件你就没有相对应的权利。而作品在没有GPL的情况下，版权法作为默认条款发生效力，而不是作品进入公有领域。 那些不接受GPL条款和条件的人根据版权法没有许可复制或分发GPL许可软件或派生作品。 然而，如果他们不重新分发GPL的程序，他们仍然可以按自己的喜好使用组织内的软件，使用该程序构建的工程（包括程序）不需要被该许可证覆盖。
+艾里逊·兰德尔（Allison Randal）认为，GPLv3作为许可证对于读者来说是不必要的混乱，可以在保留相同的条件和法律效力的情况下进行简化。[59]
+派生或扩展性[编辑]
+GPL的文案本身，受版权保护 ，版权由自由软件基金会持有。GPL的文案本身，却不在GPL之下。 经许可的版权不允许修改许可证。 允许复制和分发许可证，因为GPL要求收件人获得“本许可证与本计划一起”的副本。 [62]根据GPL常见问题，任何人都可以使用GPL的修改版本，只要他或她使用不同的名称作为许可证，不提“GNU”，并删除前言，尽管如果使用自由软件基金会（FSF）获得许可，则序言可以在修改后的许可证中使用。 FSF允许人们根据GPL创建新的许可证，只要派生的许可证未经许可不使用GPL前缀。 然而，这是不鼓励的，因为这样的许可证可能与GPL不兼容[60] ，并导致感染的许可证扩散(license proliferation) 。 由GNU项目创建的其他许可证包括GNU通用公共许可证 ， GNU自由文件许可证和Affero通用公共许可证 。
+链接和派生作品[编辑]
+争议：‘非GPL软件是否可以合法地链接或动态地链接到GPL库’[编辑]
+据FSF称 ，“GPL不要求您发布修改版本，或其任何部分，您可以自由地进行修改和私有使用，而无需发布。” [63]然而若是向公众发布GPL许可的实体，则有链接的问题：换言之，使用GPL库的专利程序是否违反了GPL ？
+这个关键的争议的重点是‘非GPL软件是否可以合法地链接或动态地链接到GPL库’。 这个问题有不同的看法。 GPL清楚地表明，GPL下的所有派生作品代码都必须属于GPL。 关于使用GPL库和将GPL软件捆绑到更大的包中（可能通过静态链接混合成二进制文件），会出现歧义。 这最终不是GPL 本身的问题 ，而是版权法如何界定派生作品。 有以下观点存在：
+观点：动态和静态链接违反GPL[编辑]
+
+自由软件基金会 （其拥有若干著名的GPL许可软件产品和许可证文本本身的版权）声称，使用动态链接库的可执行文件确实是派生作品。 然而，这不适用于彼此通信的单独程序。 [64] 自由软件基金会还创建了与GPL几乎相同的LGPL ，但具有允许链接以“使用库”的附加权限。理查德·斯托曼（Richard Stallman）和FSF特别鼓励库作家根据GPL进行许可，以便专有程序无法使用库，以通过为自由软件世界提供比专有世界更多的工具来保护自由软件世界。 [65]
+
+观点：静态链接违反GPL，但动态链接需澄清[编辑]
+
+有些人认为，当静态连接产生派生作品时，不清楚动态链接到GPL代码的可执行文件是否应被视为派生作品（请参阅Weak Copyleft ）。 Linux作者Linus Torvalds同意动态链接可以创建派生作品，但在这种情况下不一致。 [66] Novell律师写道，动态链接不是派生的“有意义”但不是“明确的”，而通过专有的Linux内核驱动程序的存在可以看出良好的动态链接的证据。 [67] 在Galoob诉任天堂 ，美国第九巡回上诉法院将派生作品定义为具有“形式”或“永久性”，并指出“侵权工作必须以某种形式包含一部分受版权保护的作品”， [68]但是没有明确的法院裁决来解决这一特定的冲突。
+
+观点：链接无关[编辑]
+
+根据Linux Journal的一篇文章， Lawrence Rosen （一次性开源计划总顾问）认为，链接的方法与一个软件是否是派生作品的问题大不相干; 更重要的是关于软件是否旨在与客户端软件和/或库连接的问题。 [69]他指出：“新程序是否是派生工作的主要指示是原始程序的源代码是否以[复制粘贴方式]使用，以任何方式进行修改，翻译或以其他方式更改新程序，如果没有，那么我会认为这不是派生工作“， [69]并行出了关于意图，捆绑和联动机制的许多其他观点。 他进一步在他公司的网站上论证[70] ，这种“以市场为基础”的因素比链接技术更重要。
+还有一个具体问题是，一个插件或模块 （如NVidia或ATI 显卡 内核模块 ）是否也必须是GPL，如果它可以合理地被认为是自己的工作。 这个观点表明，如果工作是GPLv2，则可以根据任意许可证，为设计使用插件的软件提供合理的单独插件或插件。 特别感兴趣的是GPLv2段落：
+
+您可以修改本程序或其任何部分的副本或副本，从而根据本程序形成工作，并根据上述第1节的条款复制和分发此类修改或工作，前提是您也匹配所有这些条件：...
+b）您必须将您分发或发布的任何作品全部或部分包含或派生自本计划或其任何部分，根据本许可证的条款免费授予所有第三方。 ...这些要求适用于整体修改后的工作。 如果该作品的可识别部分不是源自该程序，并且可以被合理地视为独立和独立的作品，则本许可证及其条款在将其作为单独作品分发时不适用于这些部分。 但是，当您分发相同的部分作为基于程序的工作的整体的一部分时，整体的分布必须匹配本许可证的条款，其许可证持有人的权限将扩展到整个，和每个部分，无论谁写的。
+
+
+GPLv3有一个不同的条款：
+
+您可以根据第4节的条款，以源代码的形式传达基于本程序的工作，或从程序生成的工作，只要您也匹配以下所有条件： ...
+c）您必需根据本许可将整个作品整体授权给任何拥有副本的人。 因此，本许可证连同任何适用的第7条附加条款适用于整个工作及其所有部分，无论其包装方式如何。 本许可证不允许以任何其他方式许可该作品，但如果您已单独收到，则不会使该许可无效。 ...与其他单独和独立的作品的汇编，而不是其涵盖的作品的性质延伸，而不是与其组合，以形成更大的程序，在一个或多个如果汇编及其产生的版权不被用于限制编辑用户的访问权限或合法权限超出个人作品允许的范围，则称为“汇总”。 合并中的被覆盖的工作不会导致本许可证适用于合并的其他部分。
+
+
+作为一个案例研究，一些据称为GPLv2 CMS软件（如Drupal和WordPress）的专有插件和主题 / 外观已经受到打击 ，双方均被采纳。 [71] [72]
+FSF区分插件如何被调用。 如果通过动态链接调用插件，并且它对GPL程序运行函数调用，那么它很有可能是派生工作。 [73]
+
+与非GPL程序的通信和绑妥[编辑]
+与其他程序通信的行为本身并不要求所有软件都是GPL; 也不用GPL软件分发GPL软件。 但是，必须遵循较小的条件，确保GPL软件的权利不受限制。 以下是gnu.org的 GPL FAQ，该常见问题解答介绍了允许软件与GPL程序进行通信和绑妥的程度：[74]
+
+ Q：“合輯(Aggregate)”與其他類型的“修改版本”有什麼區別？
+ A：“合輯”由多個單獨的程序組成，分佈在同一個CD-ROM或其他媒體上。 GPL允許您創建和分發合輯，即使其他軟件的許可證是非免費的或GPL不兼容的。 唯一的條件是，您不能根據禁止用戶行使每個計劃的個人許可證授予他們的權利的許可證發布合併。
+ Q：兩個單獨的程序之間的區別在哪裡，一個程序有兩個部分？
+ A：這是一個法律問題，最終法官會決定。 我們認為適當的標準取決於通信機制（exec，pipes，rpc，共享地址空間中的函數調用等）和通信的語義（哪些信息被互換）。如果模塊包含在相同的可執行文件中，則它們在一個程序中被明確地組合。 如果模塊設計為在共享地址空間中連接在一起運行，那麼幾乎肯定意味著將它們組合成一個程序。相比之下，管道(pipe)，接口(socket)和命令行參數是通常在兩個獨立程序之間使用的通訊機制。 所以當它們用於通信時，模塊通常是單獨的程序。 但是，如果通信的語義足夠親密，交換複雜的內部數據結構，那麼也可以將這兩個部分合併成一個更大的程序。
+
+因此，FSF想在“库”和“其他程序”之间通过以下两种方式划清界线：
+
+ 1）信息交換的“複雜性(complexity)”和“親密程度(intamacy)”
+ 2）信息交換的“機構(mechanics)“，而不是"語義(semantic)"
+
+但让问题不明确，而又复杂的情况下，交由判例法来决定。
+版权所有人[编辑]
+GPL文本是版权所有的，且著作权人是自由软件基金会。但是，自由软件基金会没有在GPL下发行作品的著作权（除非作者指定自由软件基金会是著作权人）。通常认为，只有著作权人才有权对许可证的违反进行起诉，但是那并不准确。法国的一个教育组织AFPA于2000年从Edu4购买课堂使用的计算机设备发现其使用GPL软件但并未附带源代码。 [61][62]
+自由软件基金会允许人们使用以GPL为基础的其他许可证，但不允许演绎的许可证未经授权地使用GPL的前言。不过像这样的许可证通常与GPL不兼容。 [63]
+GNU计划创立的其他许可证包括：GNU宽通用公共许可证和GNU自由文档许可证。
+争议[编辑]
+一个关于GPL重要的争议是，非GPL软件是否可以动态链接到GPL库。 GPL对GPL作品的演绎作品在GPL下发布规定很明确。但是对于动态链接到GPL库的作品是否是演绎作品就规定得不清楚了。自由和开放源代码社区为此分成两派，自由软件基金会认为这种作品就是演绎作品，但其他专家并不同意。这个问题根本的并不关乎GPL本身，而是一个版权法如何定义演绎作品。美国联邦上诉法院第九巡回审判庭在Galoob v. Nintendo案对演绎作品尝试定义，但最终没有明确的结果。
+不幸的是，许多开发者觉得这是个技术问题。但实际上这完全是法律问题。不过由于迄今为止没有案例表明有人以动态链接的方式来绕过GPL的条款或者并被起诉，动态链接的限制已经是事实上地（de facto）有效，不论它是否是法律上地（de jure）有效。
+2002年，MySQL AB公司起诉Progress NuSphere侵犯版权和商标。 NuSphere被指以链接代码的形式侵犯了著作权。最终此案以调解结束。在听证期间，法官“认为没有什么原因”（不管是否是动态链接）会使得GPL失去法律效力。
+2003年8月，SCO Group称他们认为GPL没有法律效力，且准备就在Linux核心中使用的SCO Unix代码进行诉讼。参见SCO诉IBM。
+2004年4月，在SiteCom拒绝停止发行Netfilter项目的GPL软件后，慕尼黑地区法庭据对GPL条款的侵犯判定对SiteCom进行临时性禁令（诉前停止侵犯专利权行为的措施）。同年7月，法庭确认此勒令为对SiteCom最终判决。此判决明显的印证了自由软件基金会的法律顾问伊本·莫格林的预言：
+
+“被告侵犯了原告的著作权：提供了软件netfilter/iptables的广告及下载，但没有遵守GPL的条款。可以说，如果被告有许可证许可，这些行为是完全合法的……原被告就GPL是否达成协议这是一个独立的问题。如果当事人没有同意，被告将没有复制、发行、公开'netfilter/iptables'的权利。”
+
+此判决十分重要，因为它是全球首次法庭确认GPL是有法律效力的。
+2005年5月，Daniel Wallace于美国联邦印第安纳南区地方法院起诉自由软件基金会，因为二者对GPL是否非法意见不一。后诉讼于3月结束，因为Wallace没有有效的反托拉斯陈述。法庭注意到“GPL鼓励，而不是反对电脑操作系统的自由竞争和发行，这直接使消费者受益。”[64]Wallace被拒绝改变诉由，并被要求支付诉讼费用。
+兼容性[编辑]
+大多数自由软件许可证，比如MIT/X许可证、BSD许可证、LGPL，都是“ GPL兼容的”，即它们的代码与GPL代码混用无冲突（但新代码则是GPL下的）。但是有某些开源软件许可证不是GPL兼容的。通常意见是开发者仅只使用GPL兼容的许可证，以免法律问题。
+参见软件许可证列表以查证兼容性。
+批评[编辑]
+2001年微软的首席运行官史蒂夫·鲍尔默称Linux为“癌症”，因为GPL的影响。微软批评者指出，微软憎恶GPL的真正原因是因为GPL对微软的“包围、扩展、消灭”策略起了反作用。注意微软已以GPL为许可证发行了SFU（Microsoft Windows Services for UNIX）中所包含的部分组件，例如GCC。
+GPL的批评者常常认为GPL是有“传染性”的“病毒”，因为GPL条款规定演绎作品也必须是GPL的。由于“演绎作品”通常被解释为包含GPL代码或动态链接到GPL库（如上）的软件，“病毒说”来源于GPL对于许可证的强制继承的要求。这正是GPL与BSD式许可证的哲学思想上的差异。 GPL的支持者确信自由软件世界应具有自我保护能力和可持续发展性——确保自由软件的演绎作品同样“自由”，但其他人认为自由软件应给予“所有人”最大的自由。
+不同版本之间的GPL并不兼容。例如，当原始的作品以GPLv2发布，而补丁以GPLv3发布时，因为这样的原因，其编译之后产生的二进制版本不可以再行传播。因此，FSF通常会推荐以“GPLv2 or later”这样的形式来标示授权许可证，或GPLv2 + GPLv3双许可证以规避这一问题。
+参见[编辑]
+
+GNU自由文档许可证
+GNU宽通用公共许可证
+GNU通用公共许可证版本3讨论草稿1（英文）
+BSD许可证
+Mozilla公共许可证
+软件许可证列表
+宽松开放版权许可证（英语：Permissive and copyleft licences）
+
+参考资料[编辑]
+
+^ Debian – License information. Software in the Public Interest, Inc. [10 December 2009]. 
+^ 2.0 2.1 Licenses – Free Software Foundation. Free Software Foundation. [10 December 2009]. （原始内容存档于2008年12月16日）. 
+^ Licenses by Name. Open Source Initiative. [10 December 2009]. 
+^ Copyleft: Pragmatic Idealism – Free Software Foundation. Free Software Foundation. [10 December 2009]. 
+^ If a library is released under the GPL (not the LGPL). Free Software Foundation. 
+^ 6.0 6.1 Top 20 licenses. Black Duck Software. 19 November 2015 [19 November 2015]. 1. MIT license 24%, 2. GNU General Public License (GPL) 2.0 23%, 3. Apache License 16%, 4. GNU General Public License (GPL) 3.0 9%, 5. BSD License 2.0 (3-clause, New or Revised) License 6%, 6. GNU Lesser General Public License (LGPL) 2.1 5%, 7. Artistic License (Perl) 4%, 8. GNU Lesser General Public License (LGPL) 3.0 2%, 9. Microsoft Public License 2%, 10. Eclipse Public License (EPL) 2% 
+^ GPL FAQ: Does using the GPL for a program make it GNU Software?
+^ Make Your Open Source Software GPL-Compatible. Or Else.. 
+^ Estimating Linux's Size. www.dwheeler.com. 
+^ 10.0 10.1 10.2 GPLv3 hits 50 percent adoption. 
+^ https://lwn.net/Articles/547400/. License proliferation: a naive quantitative analysis] on lwn.net "Walter van Holst is a legal consultant at the Dutch IT consulting company mitopics. ... Walter instead chose to use data from a software index, namely Freecode ... Walter's 2009 data set consisted of 38,674 projects ... The final column in the table shows the number of projects licensed under "any version of the GPL". In addition, Walter presented pie charts that showed the proportion of projects under various common licenses. Notable in those data sets was that, whereas in 2009 the proportion of projects licensed GPLv2-only and GPLv3 was respectively 3% and 2%, by 2013, those numbers had risen to 7% and 5%."  缺少或|title=为空 (帮助)
+^ Top 20 licenses. Black Duck Software. 23 August 2013 [23 August 2013]. 1. GNU General Public License (GPL) 2.0 33%, 2. Apache License 13%, 3. GNU General Public License (GPL) 3.0 12% 
+^ Why the GPL rocketed Linux to success. So while the BSDs have lost energy every time a company gets involved, the GPL'ed programs gain every time a company gets involved. 
+^ 14.0 14.1 Torvalds, Linus. COPYING. kernel.org. [13 August 2013]. Also note that the only valid version of the GPL as far as the kernel is concerned is _this_ particular version of the license (ie v2, not v2.2 or v3.x or whatever), unless explicitly otherwise stated. 
+^ Linus Torvalds. Linux-2.4.0-test8. lkml.iu.edu. 2000-09-08 [2015-11-21]. The only one of any note that I'd like to point out directly is the clarification in the COPYING file, making it clear that it's only _that_particular version of the GPL that is valid for the kernel. This should not come as any surprise, as that's the same license that has been there since 0.12 or so, but I thought I'd make that explicit 
+^ Ball, Patrick. Holbrook, J., 编. Free Software. Ethics, Science, Technology, and Engineering: A Global Resource (Farmington Hills, MI: Macmillan Reference USA). 2015, 2 (2): 291–295 [2016-11-26]. Thus free software may be used and shared by anyone who accepts the terms of the license. The most common free software license is the general public license (GPL). A GPL offers the following: 
+^ GNU Emacs Copying Permission Notice (1985). [2015-11-08]. 
+^ The History of the GPL. [24 November 2011]. 
+^ Stallman, Richard. Presentation at the second international GPLv3 conference, held in Porto Alegre. 21 April 2006. 
+^ Why Upgrade to GPL Version 3 --GPLv3. Fsf.org. [17 March 2011]. 
+^ Tivoization: A system that incorporates software under the terms of a copyleft software license (like the GPL), but uses hardware restrictions to prevent users from running modified versions of the software on that hardware.. 
+^ FSF releases the GNU General Public License, version 3 – Free Software Foundation – working together for free software. Fsf.org. [15 January 2011]. 
+^ Creative Commons—GNU General Public License. [2010-07-20]. 
+^ 24.0 24.1 Stallman, Richard. Presentation in Brussels, Belgium—the first day of that year's FOSDEM conference.. 25 February 2006. 
+^ 25.0 25.1 GPL第三版 GNU General Public License. [15 June 2012]. 
+^ Interview with Richard Stallman, Free Software Magazine, 23 January 2008.
+^ A Quick Guide to GPLv3 – GNU Project – Free Software Foundation (FSF). Free Software Foundation. 
+^ GPLv3: Drafting version 3 of the GNU General Public License. Free Software Foundation Europe. 
+^ gplv3.fsf.org comments for discussion draft 4. 
+^ gplv3.fsf.org comments for draft 1. Showing comments in file 'gplv3-draft-1' ... found 962 
+^ gplv3.fsf.org comments for draft 2. Showing comments in file 'gplv3-draft-1' ... found 727 
+^ gplv3.fsf.org comments for draft 3. Showing comments in file 'gplv3-draft-3' ... found 649 
+^ gplv3.fsf.org comments for draft 4. Showing comments in file 'gplv3-draft-4' ... found 298 
+^ Guide to the third draft of GPLv3. 
+^ Final Discussion Draft. [4 June 2007]. 
+^ GPL version 3 FAQ. [4 June 2007]. 
+^ Fourth Discussion Draft Rationale (PDF). [4 June 2007]. 
+^ Tiemann, Michael. GNU Affero GPL version 3 and the "ASP loophole". OSI. 7 June 2007 [19 August 2013]. 
+^ List of free-software licences on the FSF website: “We recommend that developers consider using the GNU AGPL for any software which will commonly be run over a network”.
+^ Why did you decide to write the GNU Affero GPLv3 as a separate license? on gnu.org
+^ 41.0 41.1 James E.J. Bottomley; Mauro Carvalho Chehab; Thomas Gleixner; Christoph Hellwig; Dave Jones; Greg Kroah-Hartman; Tony Luck; Andrew Morton; Trond Myklebust; David Woodhouse. Kernel developers' position on GPLv3 - The Dangers and Problems with GPLv3. LWN.net. 15 September 2006 [2015-03-11]. The current version (Discussion Draft 2) of GPLv3 on first reading fails the necessity test of section 1 on the grounds that there's no substantial and identified problem with GPLv2 that it is trying to solve. However, a deeper reading reveals several other problems with the current FSF draft: 5.1 DRM Clauses ... 5.2 Additional Restrictions Clause ... 5.3 Patents Provisions ... since the FSF is proposing to shift all of its projects to GPLv3 and apply pressure to every other GPL licensed project to move, we foresee the release of GPLv3 portends the Balkanisation of the entire Open Source Universe upon which we rely. 
+^ Petreley, Nicholas. A fight against evil or a fight for attention?. linuxjournal.com. 27 September 2006 [2015-03-11]. Second, the war between Linus Torvalds and other Kernel developers and the Free Software Foundation over GPLv3 is continuing, with Torvalds saying he's fed up with the FSF. 
+^ Linus Torvalds says GPL v3 violates everything that GPLv2 stood for Debconf 2014, Portland, Oregon (accessed 11 March 2015)
+^ Kerner, Sean Michael. Torvalds Still Keen On GPLv2. internetnews.com. 2008-01-08 [2015-02-12]. "In some ways, Linux was the project that really made the split clear between what the FSF is pushing which is very different from what open source and Linux has always been about, which is more of a technical superiority instead of a -- this religious belief in freedom," Torvalds told Zemlin. So, the GPL Version 3 reflects the FSF's goals and the GPL Version 2 pretty closely matches what I think a license should do and so right now, Version 2 is where the kernel is." 
+^ GPL 3 Overview. Tech LawForum. 29 June 2007 [2 September 2013]. 
+^ A Quick Guide to GPLv3 – GNU Project – Free Software Foundation (FSF). Free Software Foundation. 
+^ Landley, Rob. Embedded Linux Conference 2013 - Toybox: Writing a New Command Line (video). The Linux Foundation. [2016-06-24]. GPLv3 broke "the" GPL into incompatible forks that can't share code. ... FSF expected universal compliance, but hijacked lifeboat clause when boat wasn't sinking. ... 
+^ Landley, Rob. CELF 2013 Toybox talk. landley.net. [21 August 2013]. GPLv3 broke "the" GPL into incompatible forks that can't share code. ... FSF expected universal compliance, but hijacked lifeboat clause when boat wasn't sinking. ... 
+^ cite web| url=https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux-stable.git/tree/COPYING
+^ GPL FAQ: Use GPL Tools to develop non-free programs
+^ GPL FAQ: GPL require source posted to public, Unreleased modifications, Internal Distribution
+^ 52.0 52.1 GPL FAQ: Port program to GNU/Linux
+^ example: if only GNU Lesser General Public License- (LGPL-) libraries, LGPL-software-components and components with permissive free software licenses are used (thus not GPL itself), then only the source code of LGPL parts has to be made available—for the developer's own self-developed software components this is not required (even when the underlying operating system used is licensed under GPL, as is the case with Linux).
+^ A counter example is the GPL'ed GNU Bison: the parsers it outputs do contain parts of itself and are therefore derivatives, which would fall under the GPL if not for a special exception granted by GNU Bison: Conditions for Using Bison. [11 December 2008]. 
+^ Reasoning behind the "preferred form" language in the GPL. LWN.net. 7 March 2011. 
+^ Essay by Stallman explaining why a license is more suitable than a contract. 
+^ Eben Moglen explaining why the GPL is a license and why it matters. 
+^ Guadamuz-Gonzalez, Andres. Viral contracts or unenforceable documents? Contractual validity of copyleft licenses. European Intellectual Property Review. 2004, 26 (8): 331–339. SSRN 569101. 
+^ Allison Randal. GPLv3, Clarity and Simplicity. 14 May 2007. （原始内容存档于15 October 2008）. 
+^ GPL FAQ: Can I modify the GPL and make a modified license?. 
+^ GNU GPL在法国胜诉. 2009-09-25 [2009-09-25] （中文（中国大陆）‎）. 
+^ paris-16.09 .2009.pdf 判决书（法文）. 
+^ gnu.org. www.fsf.org. 
+^ ENTRY GRANTING REASSERTED MOTION TO DISMISS (PDF). 
+
+外部链接[编辑]
+
+（英文）GNU通用公共许可证版本1.0官方文本
+（英文）GNU宽通用公共许可证版本2.1官方文本
+（英文）GNU通用公共许可证版本3官方文本
+（英文）GPL FAQ
+（英文）践行GNU GPL，Eben Moglen，2001年9月10日
+（英文）GPL-Violations.org－监视侵犯GPL的网站
+（英文）GPL 2.0（CC版）
+（简体中文）GPLv2非正式简体中译本（含多种文件类型）
+（简体中文）GPLv3的非官方简体中文译本
+（繁体中文）GPLv3非官方繁体中文译本
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+GNU计划
+
+
+
+
+
+
+历史
+
+
+
+GNU宣言
+自由软件基金会
+
+欧洲（英语：Free Software Foundation Europe）
+印度（英语：Free Software Foundation of India）
+拉丁美洲（英语：Free Software Foundation Latin America）
+
+
+自由开源软件历史
+
+
+
+
+
+
+
+
+
+
+
+许可证
+
+
+
+GNU通用公共许可证
+GNU宽通用公共许可证
+Affero通用公共许可证
+GNU自由文档许可证
+GPL链接例外
+
+
+
+
+
+
+
+
+软件
+
+
+
+GNU
+
+变种
+
+
+Hurd
+Linux-libre
+glibc
+Bash
+Coreutils
+findutils
+构建系统
+GCC
+binutils
+GDB
+GRUB
+GNOME
+GNUstep
+GIMP
+GNU Emacs
+GNU TeXmacs
+GNU Octave
+GNU R
+GSL
+GMP
+GNU Electric
+GNU Archimedes
+GNUnet
+GNU Privacy Guard
+Gnuzilla
+
+IceCat
+
+
+GNU Health
+GNUmed
+GNU LilyPond
+GNU Go
+GNU Chess
+Gnash
+更多...
+
+
+
+
+
+
+
+
+发言人
+
+
+
+Alexandre Oliva
+Benjamin Mako Hill
+Bradley M. Kuhn
+伊本·莫格林
+Georg C. F. Greve
+Loïc Dachary
+Ricardo Galli
+理查德·斯托曼
+Robert J. Chassell
+John Sullivan
+
+
+
+
+
+
+
+
+其它
+
+
+
+GNU/Linux命名争议
+操作系统革命
+BadVista
+设计式缺陷
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+自由及开放源代码软件
+
+
+
+
+
+
+概念
+
+Copyleft · 自由软件 · 自由软件定义 · 开放源代码软件 · 自由及开放源代码软件列表
+
+
+
+
+
+
+操作系统家族
+
+AROS · BSD · Darwin · FreeDOS · GNU · Haiku · Inferno · Linux · Mach · Minix · OpenSolaris · Symbian · Plan 9 · ReactOS
+
+
+
+
+
+
+开发（英语：Open-source software development）
+
+Eclipse · Free Pascal · GCC · Java · LLVM · Lua · Open64 · Perl · PHP · Python · ROSE · Ruby · Tcl
+
+
+
+
+
+
+历史
+
+GNU · Haiku · Linux · Mozilla (Application Suite · Firefox · Thunderbird)
+
+
+
+
+
+
+组织
+
+Android开源项目 · Apache软件基金会 · Blender基金会 · Eclipse基金会 · freedesktop.org · 自由软件基金会 (欧洲 · 印度 · 拉丁美洲) · FSMI · GNOME基金会 · GNU Project · Google Code · KDE e.V. · Linux基金会 · Mozilla基金会 · 开源地理空间基金会 · 开放源代码促进会 · SourceForge · Symbian基金会 · VideoLAN组织 · 维基媒体基金会 · Xiph.Org基金会 · XMPP标准基金会（英语：XMPP Standards Foundation）  · X.Org基金会  · 文档基金会 · 软件自由法律中心
+
+
+
+
+
+
+许可证
+
+Apache · Artistic · APSL · BSD · GNU GPL · GNU LGPL · Affero通用公共许可证  · ISC · MIT · MPL · 共享源代码 · zlib · WTFPL · 自由及开放源代码软件许可证比较
+
+
+
+
+
+
+挑战
+
+FUD · 拥抱、扩展再消灭 · 二进制blob（英语：Binary blob） · 数字版权管理 · 自由及开放源代码显卡驱动程序（英语：Free and open-source graphics device driver） · 授权扩散（英语：License proliferation）  · Mozilla software rebranding · 专有软件 · SCO-Linux争议 · 安全性 · 软件专利 · 硬件限制 · 可信计算 · 病毒许可证
+
+
+
+
+
+
+其他
+
+Alternative terms · 自由软件社区 · Linux发行版 · 复刻 (软件工程) · 自由软件运动 · 微软开放规范承诺（英语：Microsoft Open Specification Promise） · 操作系统革命 · 与封閉源码的比较（英语：Comparison of open source and closed source）
+
+
+
+
+
+
+
+ 分类 ·  维基共享资源 ·  主题
+
+
+
+
+
+
+
+
+
+
+分类：版权GNUCopyleft自由软件授权隐藏分类：含有缺少标题的引用的页面含有裸露网址的引用的页面使用无效自封闭HTML标签的页面自2017年8月需要维基化的页面自2017年5月待更新条目有未列明来源语句的条目

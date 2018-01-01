@@ -1,0 +1,62 @@
+递减聚合酶链式反应
+递减PCR(touchdown PCR)是一种PCR（聚合酶链式反应）方法，用来避免非特异性序列的扩增。PCR中引物的黏合温度(annealing temperature)决定了黏合的特异性，温度越高特异性越强，但过高则不能实现引物和模板的结合，而过低会产生大量非特异性产物。因此进行PCR时需要寻找合适的黏合温度。
+递减PCR开始先设定一个比较高的黏合温度，每个循环黏合温度下降1℃，到一个较低温度以后每个循环的黏合温度保持不变直到结束。在刚下降到特异性结合可以进行的最高温度时，可以达到最高的特异性。这样在起初的几个循环中，特异性扩增序列可以相对非特异性序列多扩增若干倍，从而减轻非特异性扩增对结果的干扰。这种方法可用于省去多次试验最佳黏合温度的工作。
+此外，递减PCR还可与简并引物(degenerate primer)结合使用，用来推出一段已知肽链的氨基酸序列所对应的DNA碱基序列。
+参考文献[编辑]
+
+
+Don R, Cox P, Wainwright B, Baker K, Mattick J. 'Touchdown' PCR to circumvent spurious priming during gene amplification. Nucleic Acids Res. 1991, 19 (14): 4008. PMC 328507. PMID 1861999. doi:10.1093/nar/19.14.4008. 
+Roux K. Using mismatched primer-template pairs in touchdown PCR. Biotechniques. 1994, 16 (5): 812–4. PMID 8068332. 
+Hecker K, Roux K. High and low annealing temperatures increase both specificity and yield in touchdown and stepdown PCR. Biotechniques. 1996, 20 (3): 478–85. PMID 8679209. 
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+聚合酶链式反应技术
+
+
+
+
+
+
+
+
+
+即时聚合酶链式反应（qPCR）
+逆转录聚合酶链式反应（RT-PCR）
+反向聚合酶链式反应（英语：Inverse polymerase chain reaction）
+巢式聚合酶链式反应（英语：Nested polymerase chain reaction]]]）
+递减聚合酶链式反应
+热启动聚合酶链式反应
+重叠延伸聚合酶链式反应（英语：Overlap extension polymerase chain reaction）
+多重聚合酶链式反应（英语：Multiplex polymerase chain reaction）
+多重连接探针扩增（英语：Multiplex ligation-dependent probe amplification）
+
+
+
+
+
+
+
+
+
+
+分子与细胞生物学主题
+
+
+
+
+
+
+分类：分子生物学实验室技术放大器聚合酶链式反应

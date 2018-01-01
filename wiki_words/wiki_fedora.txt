@@ -1,0 +1,814 @@
+Fedora
+
+
+
+
+
+
+Fedora
+
+
+
+
+
+
+
+开发者
+Fedora项目
+（由Red Hat, Inc.赞助）
+
+
+操作系统家族
+Unix-like（RHEL/Linux）
+
+
+运作状态
+现行
+
+
+源码模式
+开放源代码
+
+
+最新版本
+27（2017年11月14日，​47天前​（2017-11-14））
+
+
+最新测试版本
+27 Beta（2017年10月3日，​2个月前​（2017-10-03））
+
+
+更新方式
+DNF
+
+
+软件包管理系统
+RPM
+
+
+支持平台
+x86、x86-64、PowerPC
+
+
+内核类别
+宏内核
+
+
+默认用户界面
+GNOME/KDE/XFCE/LXDE
+
+
+许可证
+多重（GPL等）
+
+
+官方网站
+Fedora Project
+
+
+Fedora Linux（第七版以前为Fedora Core）是较具知名度的Linux发行包之一，由Fedora项目社区开发、红帽公司赞助，目标是创建一套新颖、多功能并且自由（开放源代码）的操作系统。
+Fedora基于Red Hat Linux。在Red Hat Linux终止发行后，红帽公司项目以Fedora来取代Red Hat Linux在个人领域的应用，而另外发行的Red Hat Enterprise Linux（Red Hat企业版Linux）则取代Red Hat Linux在商业应用的领域[1]。
+Fedora对于用户而言，是一套功能完备、更新快速的免费操作系统；而对赞助者Red Hat公司而言，它是许多新技术的测试平台，被认为可用的技术最终会加入到Red Hat Enterprise Linux中。[2]
+Fedora大约每六个月发布新版本[3]。
+
+
+
+目录
+
+
+1 历史
+2 功能
+
+2.1 发行
+2.2 软件仓库
+2.3 安全功能
+
+
+3 发布
+
+3.1 测试版
+3.2 当前版本
+3.3 发布历史
+3.4 更新维护
+3.5 Re-spins
+
+
+4 系统需求
+5 特色
+
+5.1 与Red Hat Linux的相似度
+5.2 引入新技术
+5.3 软件包
+5.4 多平台支持
+5.5 简化目录结构
+
+
+6 批评
+
+6.1 系统安装
+6.2 发布周期与维护
+6.3 SELinux
+
+
+7 应用
+8 派生版本
+9 参考文献
+10 外部链接
+
+10.1 官方
+10.2 非官方
+10.3 非官方安装指南
+10.4 RPM软件库与搜索网站
+
+
+11 参见
+
+
+
+历史[编辑]
+最早Fedora Linux社区的目标是为Red Hat Linux制作并发布第三方的软件包[4]，然而当免费的Red Hat Linux停止发行后，Fedora社区便集成到Red Hat赞助的Fedora项目，目标是开发出由社区支持的操作系统（事实上，Fedora Project除了由志愿者组织外，也有许多Red Hat的员工参与开发[5]）。Red Hat Enterprise Linux则取代Red Hat Linux成为官方支持的系统版本。
+功能[编辑]
+发行[编辑]
+Fedora项目以不同方式发行Fedora[6]：
+
+Fedora DVD/CD——包含了所有主要软件包的DVD或CD套装；
+Live镜像——CD或DVD大小的光盘镜像，可用于创建Live CD或从USB设备启动，并可选安装到硬盘；
+最小CD——用于通过HTTP、FTP或NFS安装。[7]
+
+您可以通过Fedora Live USB Creator[8]或UNetbootin创建Live USB版本的Fedora。
+同时，Fedora项目发布自定义的Fedora版本，称作Fedora spins[9]。这些版本包含特定的软件包集合，以满足特定种类的用户之需要。Fedora spins由一些对Fedora有特殊兴趣的小组开发[10]。
+Enterprise Linux额外软件包（Extra Packages for Enterprise Linux，EPEL）是由来自Fedora Project的志愿者发起的社区力量，为了创建由高质量的附加软件组成的、用于补足RHEL和其他兼容版本的软件仓库[11]。
+软件包管理主要由yum实用程序提供[12]，在22版后则由dnf取代[13]。Fedora同样提供图形界面（例如pirut，pup和puplet），用于在更新可用时提供视觉通知[12]。apt-rpm是yum的替代品，对于Debian类发行版的用户来说可能更熟悉。这里，APT被用于管理软件包[14]。额外的软件仓库可以被添加到Fedora，以便安装Fedora软件仓库未提供的软件包[15]。
+软件仓库[编辑]
+在Fedora 7之前，有Core和Extras两个主要的仓库。Fedora Core仓库包含所有操作系统必需的基本软件包，以及其他随安装CD/DVD发行的、由Red Hat开发者维护的软件包。Fedora Extras仓库自Fedora Core 3开始加入，包含社区维护的、没有随安装CD/DVD发布的软件包。自Fedora 7开始，Core和Extras软件仓库被合并，因此该版本在其名称中去掉了Core。[16]该软件仓库同样允许社区成员维护的软件包，这在以前是Red Hat开发者才可进行的。
+同样，在Fedora 7发布之前，有一个叫做Fedora Legacy的第三方软件仓库。该软件仓库主要包含社区维护的、针对较老的Fedora和选中的Red Hat发行版，用于延长这些版本的生命周期。[17] Fedora Legacy于2006年12月关闭。[18]
+第三方软件仓库主要用于发布未包含在Fedora中的软件包——可能因为不满足Fedora对自由软件的定义，或该软件包的发行会触犯美国法律。主要的第三方软件仓库（并且是完全兼容的）有RPM Fusion和Livna。前者是由许多第三方软件仓库维护者共同维护的。后者目前仍然独立维护，作为对RPM Fusion的扩展，并且只包含libdvdcss包，用于播放加密的DVD。
+安全功能[编辑]
+安全是Fedora中最重要的功能。其中一项是SELinux——基于内核中的Linux Security Modules（LSM）的、补充了各种安全策略的Linux功能，包括访问控制等。Fedora是引领SELinux的发行版之一[19]。SELinux包含于Fedora Core 2和以后的发行版。默认情况下，该功能强制修改系统的运作方式，因此处于关闭状态，但在SPARC上启用。
+发布[编辑]
+测试版[编辑]
+Fedora Project在发布每一个稳定版本之前，会先发布三次测试版本让用户测试并协助改进。Fedora 7由于要合并Core和Extra，引入了第四个测试版。[20]
+Fedora另外还有个用来放置不稳定（Bleeding-Edge）软件的包库称为Rawhide[21]，开发中的软件包会先发布在Rawhide，然后再转移至Fedora包库。Rawhide更新相当频繁，并不适合一般工作用途，但还是有些开发者和测试者用来作主要的工作系统。
+当前版本[编辑]
+最新的Fedora版本为27，发布于2017年11月14日[22]。 Fedora 26的​主​要​特​性​如​下​：
+
+支持32位UEFI。
+集成了​GNOME桌​面​最​新​版​本​ 3.26。
+
+发布历史[编辑]
+Fedora版本命名规则：第n版与第n+1版有继承关系，但与第n+2版没有相同继承关系。[23]
+
+
+
+颜色
+意义
+
+
+红
+停止支持的版本[24]
+
+
+绿
+仍被支持的版本
+
+
+蓝
+未来版本
+
+
+
+
+名称
+版本
+开发代号
+发布日期
+内核版本
+Xorg
+GNOME
+KDE
+
+
+Fedora
+27
+-
+2017年11月14日[25]
+4.13
+1.19
+3.26
+Plasma 5.11 及 Applications 17.08
+
+
+26
+-
+2017年7月11日[26]
+4.11
+1.19
+3.24
+Plasma 5.10 及 Applications 17.04
+
+
+25
+-
+2016年11月22日[27]
+4.8
+1.19
+3.22
+Plasma 5.8 及 Applications 16.08
+
+
+24
+-
+2016年6月21日[28]
+4.5
+1.18
+3.20
+Plasma 5.5 及 Applications 16.04
+
+
+23
+-
+2015年11月3日[29]
+4.2
+1.17
+3.18
+Plasma 5.4 及 Applications 15.08
+
+
+22
+-
+2015年5月26日[30]
+4.0
+1.17
+3.16
+Plasma 5.3 及 Applications 15.04
+
+
+21
+-[31]
+2014年12月9日[32]
+3.16
+1.16
+3.14
+4.14
+
+
+20
+Heisenbug
+2013年12月17日
+3.11
+1.14
+3.10
+4.11
+
+
+19
+Schrödinger's Cat
+2013年7月2日
+3.9
+1.14
+3.8
+4.10
+
+
+18
+Spherical Cow
+2013年1月15日
+3.6
+1.13
+3.6
+4.9
+
+
+17
+Beefy Miracle
+2012年5月29日
+3.3.4
+1.12
+3.4
+4.8
+
+
+16
+Verne
+2011年11月8日
+3.1.0
+1.11.1
+3.2.1
+4.7.3
+
+
+15
+Lovelock
+2011年5月24日
+2.6.38
+1.10.1
+3.0
+4.6
+
+
+14
+Laughlin
+2010年11月2日
+2.6.35
+1.9.1
+2.32
+4.5.2
+
+
+13
+Goddard
+2010年5月25日
+2.6.33
+1.8.0
+2.30
+4.4.2
+
+
+12
+Constantine
+2009年11月17日
+2.6.31
+1.7.1
+2.28.0
+4.3.2
+
+
+11
+Leonidas
+2009年6月9日
+2.6.29.4
+1.6
+2.26.1
+4.2.2
+
+
+10
+Cambridge
+2008年11月25日
+2.6.27
+1.5.2
+2.24.1
+4.1.2
+
+
+9
+Sulphur
+2008年5月13日
+2.6.25
+1.4.99
+2.22.1
+4.0.3
+
+
+8
+Werewolf
+2007年11月8日
+2.6.23.1
+1.3.0
+2.20.1
+3.5.8
+
+
+7
+Moonshine
+2007年5月31日
+2.6.21
+1.3.0
+2.18.0
+3.5.6
+
+
+Fedora Core
+6
+Zod
+2006年10月24日
+2.6.18
+1.1.1
+2.16.0
+3.5.4
+
+
+5
+Bordeaux
+2006年3月20日
+2.6.15
+1.0.1
+2.14.0
+3.5.1
+
+
+4
+Stentz
+2005年6月13日
+2.6.11
+6.8.2
+2.10.0
+3.4.0
+
+
+3
+Heidelberg
+2004年11月8日
+2.6.9
+6.8.1
+2.8.1
+3.3.0
+
+
+2
+Tettnang
+2004年5月18日
+2.6.5
+6.7.0
+2.6.0
+3.2.2
+
+
+1
+Yarrow
+2003年11月6日
+2.4.19
+4.3.0（XFree86）
+2.4.0
+3.1.4
+
+
+注：由于Fedora每个版本在整个支持周期内会更新上述程序，所以上述表格的程序版本只是该本版发行初始的软件版本
+更新维护[编辑]
+目前Fedora Project每个版本的更新维护持续到其下下个版本发布后一个月，大约每个版本维护13个月。用户如需要更长期的更新维护，在类似的系统中，RHEL或CentOS会是更佳的选择。
+Fedora Legacy Project是由社区发起的项目，目标是为已被官方停止支持的Red Hat、Fedora系统提供（安全性与错误方面的）更新维护，该项目所支持的系统包括：Red Hat Linux 7.3－9、Fedora Core 1－4。然而由于志愿者的缺乏、需求降低以及官方延长更新支持等因素，Fedora Legacy于2006年终停止。
+Re-spins[编辑]
+Fedora Unity Project重新制作了特别版的光盘映像档，称之为Fedora Unity Re-Spins。收纳的皆为更新过的软件包，让用户在安装后得以节省许多在线更新包的时间。
+系统需求[编辑]
+以最新的版本（Fedora 20）为准。[33]
+
+CD或DVD驱动器。
+1GHz处理器或更快
+推荐1GB的内存及以上（RAM）
+推荐10GB的永久存储空间（硬盘驱动器）
+
+如果您的电脑没有CD或DVD驱动器，或者是不能够从该驱动器启动，那么你可能需要从USB存储设备，如USB闪存驱动器来安装Fedora。
+特色[编辑]
+与Red Hat Linux的相似度[编辑]
+Fedora承继了Red Hat Linux的安装接口Anaconda、桌面环境（同时包含Gnome和KDE）、包管理器RPM、多国语系支持以及许多设置工具，所以习惯于使用Red Hat操作系统的用户会感到相当熟悉，也因为如此，Fedora用户在转移至RHEL、CentOS等系统时不会面临太多差异。
+引入新技术[编辑]
+因其趋近半年一次的发布周期，Fedora在引入新技术的部分颇为快速，通常每一个版本都会引入最新版的Xorg、Gnome以及KDE。[34]
+软件包[编辑]
+Fedora使用yum工具（现为DNF）来协助RPM包的管理，可以有效避免相依性地狱的问题。并且，用户可以利用dnf来方便获取原先Fedora因专利权因素所不包含的功能，例如：MP3播放支持[35]、DVD视频支持[36]以及NTFS文件系统支持[37]等功能。
+Fedora的官方包库在收纳上有其多样性，例如ClamAV（杀毒软件）与Wine（Windows软件转译器）都可在官方包库中获取，另外也包含许多开放源代码的游戏软件[38]。livna和freshrpms等社区也提供了和官方包库兼容的第三方包，用户可从中获取NVIDIA[39]和ATI[40]的3D显卡驱动程序或是VLC、MPlayer等播放软件。
+多平台支持[编辑]
+Fedora官方支持x86、x86-64以及PowerPC处理器，游戏机方面，Fedora Core 5、Fedora Core 6、Fedora 7也已成功安装在PlayStation 3上。[41]
+简化目录结构[编辑]
+一直以来unix及类unix系统的目录结构对于很多人显得晦涩难懂，Fedora计划简化其目录结构，将二进制文件集中放在/usr/bin，将库文件集中到/usr/lib和/usr/lib64，而对于原本同样用于存储二进制文件的/bin和/sbin将以连接的形式指向/usr/bin，同样的/lib /lib64也会以连接形式指向对应目录。示意如下：
+
+/  |-- etc |-- usr    |-- bin    |-- lib    |-- lib64|-- run|-- var|-- bin -> usr/bin|-- sbin -> usr/bin|-- lib -> usr/lib|-- lib64 -> usr/lib64
+
+批评[编辑]
+系统安装[编辑]
+Fedora使用的Anaconda安装工具默认会引导图形界面以及ACPI支持，使得安装时所要求的硬件兼容性提高，用户在安装时发生错误就必须尝试更改安装设置[42]。
+发布周期与维护[编辑]
+Fedora以趋近半年一次的速度发布新版本，而每个版本目前提供约13个月的更新维护。使用已停止支持版本的用户必须升级至新版本才能获得更新，然而旧版与新版之间有时会带有软件的重大变动（例如PHP 5与PHP 7、MySQL 4与MySQL 5），这些变动可能会造成用户原先的服务无法正常运作[43]。
+SELinux[编辑]
+Fedora默认会引导SELinux安全加强模块（包括为桌面用户设计的Fedora Workstation版本），用户在未正确设置（或者未关闭）SELinux的情形下，可能会造成系统的服务或功能无法正常运作[44]。
+应用[编辑]
+
+Linux内核网站使用Fedora。[45]
+OLPC项目所使用的操作系统基于Fedora。[46]
+3D动画软件Massive使用Fedora作为其支持系统。[47]
+
+派生版本[编辑]
+
+活跃项目：
+
+Berry Linux——一个中等大小的基于Fedora的发行版，提供日语和英语支持
+Ekaaty——来自巴西
+Fusion Linux - 以Linux Mint为模版，更注重桌面用户和可用性的Remix，现已中止。
+MythDora –基于MythTV的家庭剧院系统
+Ojuba Linux - 来自阿拉伯
+Omega - Rahul Sundaram, Red Hat公司的社区工程师，创建了一个基于Fedora的Remix，通过添加来自RPM Fusion和Livna源的软件，来拥有对全部多媒体（包括MP3和DVD播放）的支持[48]
+Red Hat Enterprise Linux – Red Hat公司提供的企业版Linux，基于当前的Fedora发行版本
+Russian Fedora Remix - 为俄罗斯用户调整的Fedora版本，包含专有软件和驱动程序
+Xange –（曾用名：Simplis和Vixta）以KDE为特色，易于使用的发行版
+Moblin –为上网本设计的Linux发行版，速度极快
+Linpus - 来自台湾Linpus Technologies公司，为亚洲市场设计的Linux
+Pidora - 为 Raspberry Pi移植的Fedora版本
+
+
+
+
+非活跃项目（超过12个月未发布新版本）：
+
+ASPLinux –来自俄罗斯。ASPLinux包含闭源NVIDIA和ATI驱动，且提供专有音频、视频格式的解码器支持[49]
+Aurora SPARC Linux – SPARC平台上基于Fedora的发行版
+BLAG Linux and GNU –压缩至单张CD大小的Fedora，并且使用Debian的APT软件包管理系统
+Eeedora[50] –为Asus Eee PC设计的发行版，始于2007年[51]
+Fox Linux –来自意大利，为家庭用户的需求（如，浏览网页，刻录光盘，播放多媒体内容）而设计
+Linux XP –一个商业Linux发行版，致力于替换Windows XP作为家庭桌面用操作系统
+Nusantara –由印度尼西亚科技部支持的桌面Linux发行版[52]
+Open Discovery:集成的高性能生物信息学Linux平台http://opendiscovery.org.in
+Yellow Dog Linux – PowerPC平台上基于Fedora的发行版
+
+
+
+参考文献[编辑]
+
+^ Enterprise Linux or Fedora?，Red Hat, Inc.
+^ Fedora概述 - 什么是Fedora发行版（英文） - FedoraProject
+^ Fedora生命周期与维护（英文），FedoraProject
+^ Warren Togami, Fedora Network Proposal（存档）
+^ The Fedora Project Board - FedoraProject
+^ Fedora Project. New Users – How Do I Download Installation Files?. [2009-04-03]. 
+^ Fedora Project. Alternative Install Methods. [2009-04-03]. 
+^ LiveUSB Creator
+^ CustomSpins - Fedora Project Wiki.
+^ Fedora Project. Custom Spins. 2007-11-19 [2007-11-19]. 
+^ Extra Packages for Enterprise Linux (EPEL)，检查于2009–05–15.
+^ 12.0 12.1 Stuart Ellis. Software Management Tools in Fedora Core. [2007-11-18]. 
+^ The Tremendous Features Of Fedora 22. Phoronix. [2015-05-26]. 
+^ Fedora Project. APT and Fedora. [2007-11-18]. 
+^ Stuart Ellis. Using Repositories. [2007-11-18]. 
+^ Fedora 7. [2007-01-17]. 
+^ Fedora Project. Fedora Legacy. [2007-11-18]. 
+^ David Eisenstein. Fedora Legacy shutting down. 2006-12-29 [2007-11-18]. 
+^ Mandatory Access Control with SELinux (PDF). [2007-10-07]. 
+^ Jesse Keating，Announcing a change in the Fedora 7 schedule，fedora-maintainers
+^ Fedora Testing Guide，Fedora Project
+^ Michael Larabel. Fedora 27 Debuts With GNOME 3.26 Powered Workstation Spin, Modular Server Coming. Phoronix. 2017-11-14 [2017-11-14]. 
+^ History of Fedora release names - FedoraProject
+^ Fedora Project. Releases. [2008-06-23]. 
+^ Releases/27/Schedule. [2017-10-03]. 
+^ Releases/26/Schedule. [2016-11-23]. 
+^ Michael Larabel. Fedora 25 Officially Released & I Highly Recommend It. Phoronix. 2016-11-22 [2016-11-22]. 
+^ Michael Larabel. Fedora 24 Officially Released: Powered By Linux 4.5 & GNOME 3.20. Phoronix. [2016-06-21]. 
+^ Michael Larabel. Fedora 23 Officially Released. Phoronix. 2015-11-03 [2015-11-03]. 
+^ Michael Larabel. Fedora 22 Is Now Available. Phoronix. [2015-05-26]. 
+^ The Fedora Project Will No Longer Name Its Linux Distributions（英文）Softpedia
+^ Releases/21/Schedule（英文）Fedora Project
+^ [1]
+^ Fedora发行版是什么（英文） - FedoraProject
+^ 如何在Fedora中播放MP3（英文） - FedoraFAQ.org
+^ 如何在Fedora中播放DVD（英文） - FedoraFAQ.org
+^ 如何在Fedora中读取NTFS文件系统（英文） - FedoraFAQ.org
+^ Fedora游戏（英文） - FedoraProject
+^ （英文）如何在Fedora中启用NVIDIA显卡的3D支持 - FedoraFAQ.org
+^ （英文）如何在Fedora中启用ATI显卡的3D支持 - FedoraFAQ.org
+^ Fedora Core 5 Playstation 3完整安装指南（英文）
+^ 奇怪的安装问题（英文） - FedoraFAQ.org
+^ Fedora Core的PHP 4（英文）
+^ 主机能作的保护：权限设置、包更新、SELinux - 鸟哥的Linux私房菜
+^ Site report for www.kernel.org
+^ LWN.net Weekly Edition for July 6, 2006
+^ Massive Software
+^ Omega Linux，于2009年5月15日检阅。
+^ ASPLinux website，于2009年5月15日检阅
+^ martin.andrews; messageforchris and afsilva. eeedora - A Fedora distribution optimized for the Asus Eee PC. （原始内容存档于7 January 2010）.  引文使用过时参数coauthors (帮助)
+^ initial revision of the project. Google code. Google Inc. [7 January 2010]. （原始内容存档于7 January 2010）. Initial directory structure. 
+^ Tentang Nusantara
+
+外部链接[编辑]
+
+
+
+维基共享资源中相关的多媒体资源：Fedora
+
+
+官方[编辑]
+
+官方网站
+Fedora Project Wiki
+
+非官方[编辑]
+
+Fedora中文社区
+Fedora台湾爱用者社区
+DistroWatch.com的Fedora信息
+Fedora支持论坛
+Fedora常见问题
+FedoraNEWS
+Fedora中文用户组
+
+非官方安装指南[编辑]
+
+stanton-finley.net
+mjm wired
+
+RPM软件库与搜索网站[编辑]
+
+RPM Fusion
+rpm.livna.org
+freshrpms
+ATrpms
+jpackage
+planetccrma
+rpmfind
+RPM.pbone.net
+
+参见[编辑]
+
+
+自由软件主题
+
+
+
+Red Hat Linux
+Red Hat Enterprise Linux
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+Linux发行版
+
+
+
+
+
+
+Debian
+
+
+
+Knoppix
+Kali Linux
+MEPIS
+Xandros
+CrunchBang Linux
+Deepin
+Raspbian
+Devuan
+
+
+
+
+Ubuntu
+
+
+
+Kubuntu
+Edubuntu
+Lubuntu
+Xubuntu
+Ubuntu GNOME
+Ubuntu MATE
+Linux Mint
+Elementary OS
+Zorin OS
+Trisquel
+BackTrack
+Peppermint Linux OS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Red Hat
+
+
+
+Red Hat Enterprise Linux
+CentOS
+Scientific Linux
+Fermi Linux
+Oracle Linux
+红旗Linux
+
+
+
+
+Fedora
+
+
+
+Korora
+
+
+
+
+
+
+
+Mandriva
+
+
+
+PCLinuxOS
+Unity Linux
+Mageia
+
+
+
+
+
+
+
+
+
+
+
+Gentoo
+
+
+
+Sabayon Linux
+Calculate Linux
+Funtoo Linux
+Chromium OS
+Google Chrome OS
+
+
+
+
+
+
+
+
+Slackware
+
+
+
+SUSE/openSUSE
+Zenwalk（英语：Zenwalk）
+VectorLinux（英语：VectorLinux）
+SLAX
+
+
+
+
+
+
+
+
+Arch
+
+
+
+Chakra GNU/Linux
+ArchBang
+Manjaro Linux
+Parabola GNU/Linux-libre
+Antergos
+
+
+
+
+
+
+
+
+其它
+
+
+
+Puppy Linux
+Damn Small Linux
+Slitaz
+GoboLinux
+Tiny Core Linux
+Anthon OS
+Qomo Linux
+
+
+
+
+
+
+
+
+
+斜体划线代表终止开发的发行版
+
+分类
+比较
+列表
+共享资源
+
+
+
+
+
+
+
+
+
+
+
+
+分类：自由操作系统Linux发行版Red Hat隐藏分类：含有过时参数的引用的页面使用过时图像语法的页面含有英语的条目维基百科和维基数据上的官方网站不同

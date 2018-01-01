@@ -1,0 +1,671 @@
+外展神经
+
+
+Template:外旋神经
+
+
+
+
+
+细节
+
+
+拉丁语
+nervus abducens
+
+
+来源
+abducens nucleus
+
+
+识别标示
+
+
+Gray's
+p.899
+
+
+MeSH
+A08.800.800.120.030
+
+
+TA（英语：Terminologia Anatomica）
+A14.2.01.098
+
+
+FMA
+FMA:50867
+
+
+解剖学术语（英语：Anatomical terminology）
+
+
+外旋神经(abducent nerve)，中国译外展神经，是十二对脑神经中的第六对，编号为VI。支配外直肌，使眼球向外瞄准。是一条纯粹的运动神经。
+参见[编辑]
+
+外展神经麻痹
+
+外部链接[编辑]
+
+解剖学(Anatomy)-脑神经(cranial nerve)-CN VI(外旋神经)(繁体中文)
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+脑神经
+
+
+
+
+
+
+终末神经（英语：Terminal nerve）
+
+
+
+神经核
+
+隔核（英语：Septal nuclei）
+
+
+路径
+
+无明显分支
+
+
+
+
+
+
+
+
+
+
+嗅神经
+
+
+
+神经核
+
+嗅前核（英语：Anterior olfactory nucleus）
+
+
+路径
+
+嗅球
+嗅径（英语：olfactory tract）
+
+
+
+
+
+
+
+
+
+
+视神经
+
+
+
+神经核
+
+外侧膝状核（英语：Lateral geniculate nucleus）
+
+
+路径
+
+视交叉
+视径（英语：optic tract）
+
+
+
+
+
+
+
+
+
+
+动眼神经
+
+
+
+神经核
+
+动眼神经核（英语：Oculomotor nucleus）
+动眼神经副核
+
+
+分支
+
+上支
+睫状神经节副交感根（英语：parasympathetic root of ciliary ganglion）/睫状神经节
+下支
+
+
+
+
+
+
+
+
+
+
+滑车神经
+
+
+
+滑车神经核（英语：Trochlear nucleus）
+分支
+
+无明显分支
+
+
+
+
+
+
+
+
+
+
+三叉神经
+
+
+
+神经核
+
+PSN（英语：Principal sensory nucleus of trigeminal nerve）
+脊髓核（英语：Spinal trigeminal nucleus）
+MN
+TMN
+
+
+路径
+
+三叉神经节（英语：trigeminal ganglion）
+
+
+分支
+
+眼神经
+上颌神经
+下颌神经
+
+
+
+
+
+
+
+
+
+
+外旋神经
+
+
+
+外旋神经核（英语：Abducens nucleus）
+分支
+
+无明显分支
+
+
+
+
+
+
+
+
+
+
+颜面神经
+
+
+
+
+近起源端
+
+
+
+中间神经（英语：intermediate nerve）
+膝状神经节（英语：Geniculate ganglion）
+
+
+
+
+
+
+
+
+颜面神经管（英语：facial canal）内
+
+
+
+大岩部神经（英语：greater petrosal nerve）
+
+翼颚神经节（英语：pterygopalatine ganglion）
+
+
+镫骨神经（英语：nerve to the stapedius）
+鼓索神经（英语：chorda tympani）
+
+舌神经（英语：lingual nerve）
+颔下神经节（英语：submandibular ganglion）
+
+
+
+
+
+
+
+
+
+
+茎乳突孔（英语：stylomastoid foramen）内
+
+
+
+耳后神经（英语：posterior auricular nerve）
+舌骨上神经（英语：Suprahyoid muscles）
+
+digastric
+stylohyoid
+
+
+腮腺神经丛（英语：parotid plexus）
+
+temporal
+zygomatic
+buccal
+mandibular
+cervical
+
+
+
+
+
+
+
+
+
+
+神经核
+
+
+
+Facial motor nucleus
+孤束核
+Superior salivary nucleus
+
+
+
+
+
+
+
+
+
+
+
+前庭耳蜗神经
+
+
+
+神经核
+
+三叉神经中脑核
+耳蜗核
+
+
+耳蜗神经
+
+髓纹（英语：striae medullares）
+lateral lemniscus
+
+
+前庭神经（英语：vestibular nerve）
+
+Scarpa's ganglion
+
+
+
+
+
+
+
+
+
+
+舌咽神经
+
+
+
+
+颈动脉孔前
+
+
+
+神经节
+
+superior
+inferior
+
+
+
+
+
+
+
+
+
+
+颈动脉孔后
+
+
+
+鼓室神经
+
+tympanic plexus
+小岩部神经
+otic ganglion
+
+
+stylopharyngeal branch
+pharyngeal branches
+tonsillar branches
+lingual branches
+carotid sinus
+
+
+
+
+
+
+
+
+神经核
+
+
+
+疑核
+Inferior salivatory nucleus
+孤束核
+
+
+
+
+
+
+
+
+
+
+
+迷走神经
+
+
+
+
+before jugular fossa
+
+
+
+ganglia
+
+superior
+inferior
+
+
+
+
+
+
+
+
+
+
+after jugular fossa
+
+
+
+meningeal branch
+auricular branch
+
+
+
+
+
+
+
+
+颈
+
+
+
+pharyngeal branch
+
+pharyngeal plexus
+
+
+superior laryngeal
+
+external
+internal
+
+
+喉返神经
+superior cervical cardiac
+
+
+
+
+
+
+
+
+胸
+
+
+
+inferior cardiac
+pulmonary
+迷走神经干
+
+anterior
+posterior
+
+
+
+
+
+
+
+
+
+
+腹
+
+
+
+celiac
+renal
+hepatic
+anterior gastric
+posterior gastric
+
+
+
+
+
+
+
+
+神经核
+
+
+
+疑核
+Dorsal nucleus of vagus nerve
+孤束核
+
+
+
+
+
+
+
+
+
+
+
+副神经
+
+
+
+神经核
+
+疑核
+Spinal accessory nucleus
+
+
+cranial
+spinal
+
+
+
+
+
+
+
+
+舌下神经
+
+
+
+Nucleus
+分支
+
+舌神经
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+周围神经系统索引
+
+
+
+
+
+
+描述
+
+
+
+神经系统
+神经组织（英语：Template:Nervous tissue）
+
+颅
+三叉
+颈丛（英语：Template:Cervical plexus）
+臂丛（英语：Template:Brachial plexus）
+腰骶丛
+体感觉
+脊神经（英语：Template:Spinal nerves）
+自律神经（英语：Template:Autonomic nervous system）
+
+
+生理
+
+反射（英语：Template:Reflex）
+蛋白质（英语：Template:Nerve tissue protein）
+神经递质
+运输蛋白
+
+
+发育（英语：Template:Development of nervous system）
+
+滋养因子（英语：Template:Neurotrophins）
+
+
+
+
+
+
+
+
+
+
+疾病
+
+
+
+自律神经（英语：Template:Autonomic diseases）
+先天（英语：Template:Congenital malformations and deformations of nervous system）
+损伤（英语：Template:Neurotrauma）
+肿瘤与癌症
+其他（英语：Template:PNS diseases of the nervous system）
+症状
+
+齐名（英语：Template:Eponymous medical signs for nervous system）
+
+
+
+
+
+
+
+
+
+
+治疗
+
+
+
+程序（英语：Template:Neuro procedures）
+局部麻醉药
+
+
+
+
+
+
+
+
+
+
+
+ 外展神经是一个与解剖学相关的小作品。你可以通过编辑或修订扩充其内容。
+
+
+
+
+分类：神经系统隐藏分类：使用GraySubject或GrayPage参数的医学信息框模板使用过时参数的医学信息模板解剖学小作品

@@ -1,0 +1,142 @@
+约瑟夫·傅里叶
+
+
+
+
+
+
+
+
+
+
+“傅里叶”重定向至此。关于与此名称相似的其他条目，详见“傅里叶 (消歧义)”。
+
+
+
+
+Joseph Fourier
+
+
+
+
+
+出生
+1768年3月21日
+法国约讷省欧塞尔
+
+
+逝世
+1830年5月16日
+法国巴黎
+
+
+居住地
+法国
+
+
+国籍
+ 法国
+
+
+研究领域
+数学、物理和历史
+
+
+机构
+巴黎高等师范学校
+巴黎综合理工学院
+
+
+母校
+巴黎高等师范学校
+
+
+知名于
+傅里叶变换
+
+
+约瑟夫·傅里叶男爵（法语：Joseph Fourier，1768年3月21日－1830年5月16日），法国数学家、物理学家，提出傅里叶级数，并将其应用于热传导理论与振动理论，傅里叶变换也以他命名。他被归功为温室效应的发现者。[1]
+
+
+
+目录
+
+
+1 生平
+2 热的解析理论
+3 确定的方程
+4 “温室效应”的发现
+5 纪念
+6 参见
+7 参考文献
+8 延伸阅读
+9 外部链接
+
+
+
+生平[编辑]
+约瑟夫·傅里叶于1768年3月21日在法国约讷省欧塞尔出生。幼年时父母双亡，所以很小便被送入天主教本笃会接受教育，之后考入巴黎高等师范学校，毕业后在军队中教授数学。1795年他到巴黎高等师范学校教书，之后又任聘为巴黎综合理工学院教授。
+1798年他跟随拿破仑东征，被任命为下埃及的总督。由于英国舰队对法国人进行了封锁，所以他受命在当地生产军火为远征部队提供军火。这个时期，他向开罗埃及学院递交了几篇有关数学的论文。1801年，拿破仑远征军队失败后，他便被任命为伊泽尔省长官。1809年被封为男爵。1816年他回到巴黎，六年后他当选了科学院的秘书，并发表了《热的分析理论》一文，此文是建立在牛顿的热传导理论的速率和温度差成正比的基础上。
+1830年5月16日他病逝于巴黎，1831年他的遗稿被整理出版成书。
+热的解析理论[编辑]
+1822年傅里叶提出了他在热流上的作品:《热的解析理论》(Théorie analytique de la chaleur)。他的推理的基础是牛顿冷却定律，即两相邻分子的热流和它们之间非常小的温度差成正比。56年后，于1878年，这本书被Freeman翻译与校正成英文版本。让·加斯东·达布又将这本书加以编辑校对，于1888年重新以法文出版。
+这本著作有三个重要贡献，一个是纯粹的数学，另两个实质上是物理。在数学中，傅里叶声明，一个变数的任意函数，不论是否连续或不连续，都可展开为正弦函数的级数，而这正弦函数的参数为变数的倍数。虽然这个结果是不正确的，傅里叶正确地察觉，有些不连续函数是无穷级数的总和。这察觉是一个重大数学突破。约瑟夫·拉格朗日曾给予了这个（错误的）定理一些特别的例子，并暗示这是一般的方法，但他没有继续跟踪这题目。约翰·狄利克雷最先给出，在有限制条件下，对于这结果满意的示范。
+这本书的其中一个物理贡献为：方程两边必须具有相同量纲的概念，意即当方程两边的量纲匹配时，方程才会正确。因此傅里叶在量纲分析有重要贡献。另外一个则是傅里叶提出有关于热能传导扩散的偏微分方程。在现代每位学习数学物理的学生都会学到此方程。
+确定的方程[编辑]
+傅里叶关于确定方程的著作并未完成，克劳德-路易·纳维将这著作加以编辑，并且在1831年出版。在这著作里面有许多原创的研究。弗朗索瓦·布丹（François Budan）于1807年和1811年发表的布丹定理（Budan's theorem）并没有给出令人满意的示范，这定理后来是以傅里叶为命名。傅里叶的证明与通常在教科书里给出的一模一样。1829年，雅克·施图姆给出这问题的最终解答。
+“温室效应”的发现[编辑]
+
+
+
+
+位于格勒诺贝尔的傅里叶胸像
+
+
+1820年，傅里叶计算出，一个物体，如果有地球那样的大小，以及到太阳的距离和地球一样，如果只考虑太阳辐射的加热效应，那这物体应该比地球实际的温度更冷。他试图寻找其它热源。[2][3]虽然傅里叶最终建议，星际辐射或许占了其它热源的一大部分，但他也考虑到另一种可能性：地球大气层可能是一种隔热体。这种看法被广泛公认为是有关现在广为人知的“温室效应”第一次被提出。[4]
+
+
+
+
+位于拉雪兹神父公墓的傅里叶的墓地
+
+
+傅里叶在他的文章提到了奥拉斯-贝内迪克特·德索叙尔的实验。在一个瓶子内部，黏贴满了黑色软木，在软木间，德索叙尔平摆置入几片透明的玻璃，在玻璃与玻璃之间有用来隔热的空气。正午的阳光可以从透明玻璃的顶部射入。这个装置内部的温度变得更高。傅里叶认为在大气中的气体可形成稳定的隔热气，如同玻璃之间的空气。这结论可能导致后来使用温室效应明指决定大气温度的过程。傅里叶指出，在实际决定温度的机制里，会存在大气对流因素，但在德索叙尔的实验装置里不会出现对流。[5]
+纪念[编辑]
+
+小行星10101号傅里叶。
+他是名字被刻在埃菲尔铁塔的七十二位法国科学家与工程师其中一位。
+约瑟夫·傅里叶大学
+
+参见[编辑]
+
+傅里叶级数
+傅里叶变换
+
+参考文献[编辑]
+
+
+^ Cowie, J. Climate Change: Biological and Human Aspects. Cambridge University Press. 2007: 3. ISBN 978-0-521-69619-7. 
+^ Fourier J. Remarques Générales Sur Les Températures Du Globe Terrestre Et Des Espaces Planétaires. Annales de Chimie et de Physique. 1824, 27: 136–67. 
+^ Fourier J. Mémoire Sur Les Températures Du Globe Terrestre Et Des Espaces Planétaires. Mémoires de l'Académie Royale des Sciences. 1827, 7: 569–604. 
+^ Weart, S. (2008). The Carbon Dioxide Greenhouse Effect. Retrieved on 27 May 2008
+^ Translation by W M Connolley of: Fourier 1827: MEMOIRE sur les temperatures du globe terrestre et des espaces planetaires
+
+
+延伸阅读[编辑]
+
+（英文）古腾堡计划中收录的《A Short Account of the History of Mathematics》免费电子版本 (1st ed. 1888 and later editions)
+Fourier, Joseph. (1822). Theorie Analytique de la Chaleur. Firmin Didot (reissued by Cambridge University Press, 2009; ISBN 978-1-108-00180-9)
+Fourier, Joseph. (1878). The Analytical Theory of Heat. Cambridge University Press (reissued by Cambridge University Press, 2009; ISBN 978-1-108-00178-6)
+（法文）Fourier, J.-B.-J. (1824). Mémoires de l'Académie Royale des Sciences de l'Institut de France VII. 570–604 (Mémoire sur Les Temperatures du Globe Terrestre et Des Espaces Planetaires - greenhouse effect essay published in 1827)
+（英文）古腾堡计划中收录的《Biographies of Distinguished Scientific Men》免费电子版本 by François Arago
+Fourier, J. Éloge historique de Sir William Herschel, prononcé dans la séance publique de l'Académie royale des sciences le 7 Juin, 1824. Historie de l'Académie Royale des Sciences de l'Institut de France, tome vi., année 1823, p. lxi.[Pg 227]
+
+外部链接[编辑]
+
+约瑟夫.傅里叶大学（格勒诺贝尔一大）
+
+
+
+
+
+分类：1768年出生1830年逝世法国物理学家法国数学家法兰西学院院士法兰西科学院院士英国皇家学会院士巴黎高等师范学院校友法国荣誉军团勋章持有人约讷省人法国贵族安葬于拉雪兹神父公墓者隐藏分类：含有法语的条目生卒模板的分类索引未使用catIdx作为参数名的页面使用ISBN魔术链接的页面

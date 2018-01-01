@@ -1,0 +1,738 @@
+X射线
+
+
+
+
+
+
+
+
+
+
+胆囊切除术时的X射线影像图
+
+
+X射线（英语：X-ray），又被称为爱克斯射线、艾克斯射线、伦琴射线或X光，是一种波长范围在0.01纳米到10纳米之间（对应频率范围30 PHz到30EHz）的电磁辐射形式。X射线最初用于医学成像诊断和X射线结晶学。X射线也是游离辐射等这一类对人体有危害的射线。
+X射线波长范围在较短处与伽马射线较长处重叠。
+
+
+
+目录
+
+
+1 历史
+2 X射线的产生
+3 探测器
+4 X射线衍射
+5 医学用途
+6 参考文献
+
+6.1 引用
+6.2 来源
+
+
+7 参见
+
+
+
+历史[编辑]
+早期X射线重要的研究者有Ivan Pului教授、威廉·克鲁克斯爵士、约翰·威廉·希托夫、欧根·戈尔德斯坦、海因里希·鲁道夫·赫兹、菲利普·莱纳德、亥姆霍兹、尼古拉·特斯拉、爱迪生、查尔斯·巴克拉、马克思·冯·劳厄和威廉·伦琴。
+
+
+
+
+一台水冷X射线管的图纸（简化／过时）
+
+
+1869年物理学家约翰·威廉·希托夫观察到真空管中的阴极发出的射线。当这些射线遇到玻璃管壁会产生荧光。1876年这种射线被欧根·戈尔德斯坦命名为“阴极射线”。随后，英国物理学家克鲁克斯研究稀有气体里的能量释放，并且制造了克鲁克斯管。这是一种玻璃真空管，内有可以产生高电压的电极。他还发现，当将未曝光的相片底片靠近这种管时，一些部分被感光了，但是他没有继续研究这一现象。1887年4月，尼古拉·特斯拉开始使用自己设计的高电压真空管与克鲁克斯管研究X射线。他发明了单电极X射线管，在其中电子穿过物质，发生了现在叫做轫致辐射的效应，生成高能X射线射线。1892年特斯拉完成了这些实验，但是他并没有使用X射线这个名字，而只是笼统地称为放射能。他继续进行实验，并提醒科学界注意阴极射线对生物体的危害性，但他没有公开自己的实验成果。1892年赫兹进行实验，提出阴极射线可以穿透非常薄的金属箔。赫兹的学生伦纳德进一步研究这一效应，对很多金属进行了实验。亥姆霍兹则对光的电磁本性进行了数学推导。
+
+
+
+
+伦琴拍摄的一张X射线照片，伦琴夫人的手骨与戒指
+
+
+1895年11月8日德国科学家伦琴开始进行阴极射线的研究。1895年12月28日他完成了初步的实验报告“一种新的射线”。他把这项成果发布在维尔茨堡的Physical-Medical Society杂志上。为了表明这是一种新的射线，伦琴采用表示未知数的X来命名。很多科学家主张命名为伦琴射线，伦琴自己坚决反对，但是这一名称直至今日仍然被广泛使用，尤其在德语国家。1901年伦琴获得诺贝尔物理学奖。
+1895年爱迪生研究了材料在X射线照射下发出荧光的能力，发现钨酸钙最为明显。1896年3月爱迪生发明了荧光观察管，后来被用于医用X射线的检验。然而1903年爱迪生终止了自己对X射线的研究，因为他公司的一名玻璃工人喜欢将X射线管放在手上检验，最后得了癌症，尽管进行了截肢手术仍然没能挽回生命。巴克拉发现X射线能够被气体散射，并且每一种元素有其特征X谱线。他因此获得了1917年诺贝尔物理学奖。
+在20世纪80年代，X射线激光器被设置为罗纳德·里根总统的战略主动防御计划的一部分。然而对该装置（一种类似激光炮，或者死亡射线的装置，由热核反应提供能量）最初的、同时也是仅有的试验并没有给出结论性的结果。同时，由于政治和技术的原因，整体的计划（包括X射线激光器）被搁置了（然而该计划后来又被重新启动——使用了不同的技术，并作为布什总统国家导弹防御计划的一部分）。
+在20世纪90年代，哈佛大学建立了Chandra X射线天文台，用来观测宇宙中强烈的天文现象中产生的X射线。与从可见光观测到的相对稳定的宇宙不同，从X射线观测到的宇宙是不稳定的。它向人们展示了恒星如何被黑洞绞碎，星系间的碰撞，超新星和中子星。
+X射线的产生[编辑]
+X射线波长略大于0.5 nm的被称作软X射线。波长短于0.1 nm的叫做硬X射线。硬X射线与波长长的（能量小）伽马射线范围重叠，二者的区别在于辐射源，而不是波长：X射线光子产生于高能电子加速，伽马射线则来源于原子核衰变。
+产生X射线的最简单方法是用加速后的电子撞击金属靶。撞击过程中，电子突然减速，其损失的动能会以光子形式放出，形成X射线光谱的连续部分，称之为制动辐射。通过加大加速电压，电子携带的能量增大，则有可能将金属原子的内层电子撞出。于是内层形成空穴，外层电子跃迁回内层填补空穴，同时放出波长在0.1纳米左右的光子。由于外层电子跃迁放出的能量是量子化的，所以放出的光子的波长也集中在某些部分，形成了X射线谱中的特征线，此称为特性辐射。
+此外，高强度的X射线亦可由同步加速器或自由电子激光产生。同步辐射光源，具有高强度、连续波长、光束准直、极小的光束截面积并具有时间脉波性与偏振性，因而成为科学研究最佳之X射线光源。
+探测器[编辑]
+X射线的探测可基于多种方法。最普通的一种方法叫做照相底板法，这种方法在医院里经常使用。将一片照相底片放置于人体后方，X射线穿过人体内软组织（皮肤及器官）后会照射到底片，令这些部位于底片经显影后保留黑色；X射线无法穿过人体内的硬组织，如骨或其他被注射含钡或碘的物质，底片于显影后会显示成白色。光激影像板（image plate）因容易数字化，在少部分医院已取代传统底片。另一方法是利用X射线照射在特定材质上以产生荧光，例如碘化钠（NaI）。科学研究上，除了使用X射线CCD，也利用X射线游离气体的特性，使用气体游离腔做为X射线强度之侦测。这些方法只能显示出X射线的光子密度，但无法显示出X射线的光子能量。X射线光子的能量通常以晶体使X射线衍射再依布拉格定律计算出。
+X射线衍射[编辑]
+在晶体学研究上，劳厄发现了X射线通过晶体之后产生的衍射现象，即X射线衍射。布拉格则使用布拉格定律对衍射关系进行了定量的描述。
+医学用途[编辑]
+
+
+
+
+X射线下的六指手掌
+
+
+伦琴发现X射线后仅仅几个月时间内，它就被应用于医学影像。1896年2月，苏格兰医生约翰·麦金泰尔（英语：John Macintyre）在格拉斯哥皇家医院（英语：Glasgow Royal Infirmary）设立了世界上第一个放射科。
+放射医学是医学的一个专门领域，它使用放射线照相术和其他技术产生诊断图像。的确，这可能是X射线技术应用最广泛的地方。X射线的用途主要是探测骨骼的病变，但对于探测软组织的病变也相当有用。常见的例子有胸腔X射线，用来诊断肺部疾病，如肺炎、肺癌或肺气肿；而腹腔X射线则用来检测肠道梗塞，自由气体（free air，由于内脏穿孔）及自由液体（free fluid）。某些情况下，使用X射线诊断还存在争议，例如结石（对X射线几乎没有阻挡效应）或肾结石（一般可见，但并不总是可见）。
+借助计算机，人们可以把不同角度的X射线影像合成成三维图像，在医学上常用的电脑断层扫描（CT扫描）就是基于这一原理。
+X射线穿透能力与其频率有关，利用其容易被高原子序数材料吸收的特点，防护上一般可用2-3mm左右的铅板加以屏蔽。
+美国艾伯特.C.盖瑟（英语：Albert C. Geyser）曾利用X射线制造出美容除毛机并建立崔可公司[1]，但因为辐射使他罹患癌症，最后为避免癌症扩散，他切除了右手，而X射线的美容除毛机也导致数百万名妇女出现皱纹、色斑、感染、溃疡，甚至皮肤癌等症状[2]。
+参考文献[编辑]
+引用[编辑]
+
+
+^ Herzig, Rebecca "The Matter of Race in Histories of American Technology" in Technology and the African-American Experience
+^ 80年前的X射线致癌事件
+
+
+来源[编辑]
+
+电离辐射
+x射线
+
+参见[编辑]
+
+
+物理主题
+
+
+
+X射线晶体学
+X射线天文学
+X射线光学
+X射线吸收光谱
+X射线机
+X射线显微术
+盖革计数器
+N射线
+同步辐射光源
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+电磁波谱
+
+
+
+
+
+
+
+← 波长越短       波长越长 →
+← 频率越高       频率越低 →
+
+伽马射线
+X射线
+紫外线
+可见光
+红外线
+太赫兹辐射
+微波
+无线电波
+
+
+
+
+
+
+
+
+可见光
+
+
+
+红
+橙
+黄
+绿
+蓝
+靛
+紫
+
+
+
+
+
+
+
+
+微波
+
+
+
+W波段（英语：W band）
+V波段（英语：V band）
+Q波段（英语：Q band）
+Ka波段（英语：Ka band）
+K波段（英语：K band）
+Ku波段
+X波段
+S波段
+C波段
+L波段
+
+
+
+
+
+
+
+
+无线电波
+
+
+
+极高频（EHF）
+超高频（SHF）
+特高频（UHF）
+甚高频（VHF）
+高频（HF）
+中频（MF）
+低频（LF）
+甚低频（VLF）
+特低频（ULF）
+超低频（SLF）
+极低频（ELF）
+
+
+
+
+
+
+
+
+波长
+
+
+
+微波
+短波
+中波
+长波
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+辐射（物理与健康）
+
+
+
+
+
+
+主文章
+
+
+
+
+
+非游离辐射
+
+
+
+
+声辐射力（英语：Acoustic radiation force）
+紫外线
+光
+红外线
+微波
+无线电波
+
+
+
+
+
+
+
+
+
+游离辐射
+
+
+
+
+α粒子
+背景辐射
+β粒子
+宇宙射线
+伽马射线
+核分裂
+核聚变
+放射性
+核反应堆
+核武器
+粒子加速器
+放射性同位素
+X射线
+
+
+
+
+
+
+
+
+
+
+
+地球辐射平衡
+电磁波
+热辐射
+
+
+
+
+
+
+
+
+
+
+
+辐射与健康
+
+
+
+保健物理（英语：Health physics）
+放射量测定（英语：Dosimetry）
+电磁辐射与健康
+激光安全性（英语：Laser safety）
+激光与航空安全性（英语：Lasers and aviation safety）
+医学X射线摄影术（英语：Medical radiography）
+移动电话辐射和健康
+急性辐射综合症
+放射线疗法
+放射性与生命科学（英语：Radioactivity in the life sciences）
+放射性污染
+放射生物学
+生物剂量单位和数量
+无线电子设备与健康（英语：Wireless electronic devices and health）
+
+
+
+
+
+
+
+
+相关文章
+
+
+
+放射源
+半衰期
+原子核物理学
+抗辐射（英语：Radiation hardening）
+民用辐射事故列表（英语：List of civilian radiation accidents）
+
+
+
+
+
+
+
+
+
+
+参见分类：Category:辐射影响、Category:放射性和Category:放射生物学。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+医学影像 (ICD-9-CM V3 87–88, ICD-10-PCS B（英语：ICD-10 Procedure Coding System）, CPT（英语：Current Procedural Terminology） 70010–79999)
+
+
+
+
+
+
+X射线/
+放射摄影技术（英语：Radiography）
+
+
+
+
+2D（英语：Projectional radiography）
+
+
+
+
+医用：
+
+
+
+气脑造影成像（英语：Pneumoencephalography）
+牙科放射摄影（英语：Dental radiography）
+Sialography（英语：Sialography）
+Myelography（英语：Myelography）
+CXR（英语：Chest radiograph）
+
+Bronchography（英语：Bronchography）
+
+
+AXR（英语：Abdominal x-ray）
+KUB（英语：Kidneys, ureters, and bladder x-ray）
+DXA（英语：Dual-energy X-ray absorptiometry）/DXR（英语：Digital X-ray radiogrammetry）
+Upper gastrointestinal series（英语：Upper gastrointestinal series）/Small-bowel follow-through（英语：Small-bowel follow-through）/大肠钡剂灌肠造影
+Cholangiography（英语：Cholangiography）/Cholecystography（英语：Cholecystography）
+乳房摄影术
+Pyelogram（英语：Pyelogram）
+Cystography（英语：Cystography）
+Arthrogram（英语：Arthrogram）
+Hysterosalpingography（英语：Hysterosalpingography）
+Skeletal survey（英语：Skeletal survey）
+血管摄影
+
+Angiocardiography（英语：Angiocardiography）
+Aortography（英语：Aortography）
+
+
+静脉成像
+Lymphogram（英语：Lymphogram）
+
+
+
+
+
+
+
+
+商用：
+
+
+
+Radiographic testing（英语：Radiographic testing）
+
+
+
+
+
+
+
+
+
+
+
+3D / XCT
+
+
+
+
+医用：
+
+
+
+CT pulmonary angiogram（英语：CT pulmonary angiogram）
+Computed tomography of the heart
+Computed tomography of the abdomen and pelvis（英语：Computed tomography of the abdomen and pelvis）
+
+Virtual colonoscopy（英语：Virtual colonoscopy）
+
+
+CT angiography
+Computed tomography of the head（英语：Computed tomography of the head）
+Quantitative computed tomography（英语：Quantitative computed tomography）
+Spiral computed tomography（英语：Spiral computed tomography）
+High resolution CT（英语：High resolution CT）
+Whole body imaging（英语：Whole body imaging）
+
+Full-body CT scan（英语：Full-body CT scan）
+
+
+X-ray microtomography（英语：X-ray microtomography）
+Electron beam tomography（英语：Electron beam tomography）
+
+
+
+
+
+
+
+
+商用：
+
+
+
+Industrial computed tomography（英语：Industrial computed tomography）
+
+
+
+
+
+
+
+
+
+
+
+其他
+
+
+
+荧光镜检查（英语：Fluoroscopy）
+X-ray motion analysis（英语：X-ray motion analysis）
+
+
+
+
+
+
+
+
+
+
+
+核磁共振
+
+
+
+MRI of the brain（英语：Magnetic resonance imaging of the brain）
+MR neurography（英语：Magnetic resonance neurography）
+心血管磁共振成像/Cardiac MRI perfusion（英语：Cardiac MRI perfusion）
+MR angiography（英语：Magnetic resonance angiography）
+MR cholangiopancreatography（英语：Magnetic resonance cholangiopancreatography）
+Breast MRI（英语：Breast MRI）
+功能性磁共振成像
+扩散磁振造影
+Synthetic MRI（英语：Synthetic MRI）
+
+
+
+
+
+
+
+
+医学超声检查
+
+
+
+超声心动图
+Doppler echocardiography（英语：Doppler echocardiography）
+
+TTE（英语：Transthoracic echocardiogram）
+TEE（英语：Transesophageal echocardiogram）
+
+
+Intravascular（英语：Intravascular ultrasound）
+Gynecologic（英语：Gynecologic ultrasonography）
+Obstetric（英语：Obstetric ultrasonography）
+Echoencephalography（英语：Echoencephalography）
+Transcranial Doppler（英语：Transcranial Doppler）
+Abdominal ultrasonography（英语：Abdominal ultrasonography）
+Transrectal（英语：Transrectal ultrasonography）
+Breast ultrasound（英语：Breast ultrasound）
+Transscrotal ultrasound（英语：Transscrotal ultrasound）
+Carotid ultrasonography（英语：Carotid ultrasonography）
+超声造影成像
+3D ultrasound（英语：3D ultrasound）
+Endoscopic ultrasound（英语：Endoscopic ultrasound）
+Emergency ultrasound（英语：Emergency ultrasound）
+
+FAST（英语：Focused assessment with sonography for trauma）
+Pre-hospital ultrasound（英语：Pre-hospital ultrasound）
+
+
+Duplex（英语：Duplex ultrasonography）
+
+
+
+
+
+
+
+
+核医学
+
+
+
+
+2D / 闪烁显象术（英语：scintigraphy）
+
+
+
+
+
+
+
+Cholescintigraphy（英语：Cholescintigraphy）
+Scintimammography（英语：Scintimammography）
+Ventilation/perfusion scan（英语：Ventilation/perfusion scan）
+Radionuclide ventriculography（英语：Radionuclide ventriculography）
+Radionuclide angiography（英语：Radionuclide angiography）
+Radioisotope renography（英语：Radioisotope renography）
+Sestamibi parathyroid scintigraphy（英语：Sestamibi parathyroid scintigraphy）
+Radioactive iodine uptake test（英语：Radioactive iodine uptake test）
+Bone scintigraphy（英语：Bone scintigraphy）
+Immunoscintigraphy（英语：Immunoscintigraphy）
+
+
+
+
+
+
+
+
+全身：
+
+
+
+Octreotide scan（英语：Octreotide scan）
+Gallium 67 scan（英语：Gallium 67 scan）
+Indium-111 WBC scan（英语：Indium-111 WBC scan）
+
+
+
+
+
+
+
+
+
+
+
+3D / ECT（英语：emission computed tomography）
+
+
+
+
+
+
+
+SPECT（英语：Single-photon emission computed tomography）
+
+gamma ray: Myocardial perfusion imaging（英语：Myocardial perfusion imaging）
+
+
+
+
+
+
+
+
+
+
+PET（正电子）：
+
+
+
+Brain PET（英语：Brain positron emission tomography）
+Cardiac PET（英语：Cardiac PET）
+PET mammography（英语：Positron emission mammography）
+PET-CT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+光学（英语：Optical imaging）激光
+
+
+
+Optical tomography（英语：Optical tomography）
+
+光学相干断层扫描
+
+
+共聚焦显微镜
+Endomicroscopy（英语：Endomicroscopy）
+
+
+
+
+
+
+
+
+热成像仪
+
+
+
+non-contact thermography（英语：non-contact thermography）
+contact thermography
+dynamic angiothermography（英语：dynamic angiothermography）
+
+
+
+
+
+
+
+
+
+
+
+
+
+规范控制
+
+
+
+GND: 4129728-3
+NDL: 00561905
+
+
+
+
+
+
+
+
+
+
+
+
+分类：X射线电磁波谱IARC第1类致癌物质医学物理放射成像乌克兰发明隐藏分类：包含规范控制信息的维基百科条目

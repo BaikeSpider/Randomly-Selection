@@ -1,0 +1,918 @@
+创伤后压力综合征
+
+
+
+
+
+ 维基百科中的医疗相关内容仅供参考，详见医学声明。如需专业意见请咨询专业人士。
+
+
+创伤后压力综合征
+
+
+
+
+
+西班牙画家弗朗西斯科·戈雅（Francisco de Goya）所绘制《战争的灾难》系列版画第9号作品〈他们不想要〉（No quieren）
+
+
+分类和外部资源
+
+
+医学专科
+精神病学、临床心理学
+
+
+ICD-10
+F43.1
+
+
+ICD-9-CM
+309.81
+
+
+DiseasesDB
+33846
+
+
+MedlinePlus
+000925
+
+
+eMedicine
+med/1900
+
+
+Patient UK
+创伤后压力综合征
+
+
+MeSH
+D013313
+
+
+
+[编辑此条目的维基数据]
+
+
+
+创伤后压力症 （Post-traumatic stress disorder，简称PTSD，又称创伤后遗症）是指人在经历过性侵害、战争、交通事故等创伤事件后产生的精神疾病[1]。其症状包括会出现不愉快的想法、感受或梦，接触相关事物时会有精神或身体上的不适和紧张，会试图避免接触、甚至是摧毁相关的事物，认知与感受的突然改变、以及应激状态频发等。这些症状往往会在创伤事件发生后出现，且持续一个月以上 。与成人相异，儿童（尤其是十岁以下的幼童）较不容易出现创伤后压力症[2]，孩童患者亦较少出现身心不适的症状，但对创伤事件的记忆可能会在与他人互动时体现出[1]。创伤后压力症患者的自杀风险较高[3]。有时候也会将创伤后压力症称为创伤后压力反应（post-traumatic stress reaction）以强调这个现象乃经验创伤后所产生之合理结果，而非病患心理状态原本就有问题。
+大多数人不会因经历创伤事件而出现创创伤后压力症[3] 经历非人身侵犯性创伤（例如事故或自然灾害）比较不容易出现创伤后压力症，而经历因人际互动而造成创伤（例如强奸或儿童时期受到虐待）的人更容易出现这类的反应[4]。强奸受害者近半数都会有这类的反应[3]。在诊断创伤后压力症时，会以患者在经历创伤事件后出现的特异性症状为基础[3]。
+若患者有出现创伤后压力症的早期症状，可以进行针对创伤的行为认知治疗（英语：Trauma focused cognitive behavioral therapy）以进行预防，但若针对所有受到创伤者进治疗，无法达到预防的效果[3] 。目前用于治疗创伤后压力症的主要方法为心理咨商与药物治疗 [5]。以个人或是群体方式进行的的一些心理治疗方式可能会对创伤后压力症有一些疗效[5][6] 。选择性血清素回摄抑制剂（SSRIs）类抗抑郁剂是治疗创伤后压力症的一线药物，半数患者在服药后病情有一定程度的改善[7]。但药物治疗的效果不及心理治疗[3]。目前还不确定合并药物与心理治疗是否会对患者产生更好的治疗效果[3][8] 其他药物缺乏其用于治疗创伤后压力症有效的证据，甚至苯二氮䓬类药物的使用还会使病情加重[9][10]
+在美国，每年约3.5%的成人罹患创伤后压力症，而约9%的人会在其一生的某阶段中患上此症[1]。在其他国家，患上创伤后压力症的人每年占整体约0.5-1%[1] ，而在武装冲突频发地区之比重可能会更高[3] 。总体来说，女性的发病率高于男性[5]。 迄今对创伤后压力症的最早文字记载可追溯至古希腊时代。[11]两次世界大战使学界增加对创伤后压力症的研究，期间此疾病有许多不同称呼，包括“弹震症（英语：shell shock）”（又称：炮弹休克症，英文: shell shock）及“战争性神经官能症”（英文: combat neurosis）[12]。创伤后压力症一称呼于20世纪70年代开始被使用，其命名主要受越南战争后美国退伍军人相关诊断影响[13]。1980年在精神病诊断与统计手册第三版（DSM-III）中，创伤后压力症被美国精神医学学会认正式认定为一种精神病[14]
+
+
+播放媒体
+
+
+影片解释
+
+
+
+
+
+目录
+
+
+1 序论
+2 历史背景
+3 病因
+
+3.1 神经内分泌学
+3.2 神经解剖学
+
+
+4 治疗
+5 参考文献
+
+5.1 引用
+5.2 来源
+
+
+6 外部链接
+
+
+
+序论[编辑]
+PTSD的主要症状包括做恶梦、性格大变、情感解离、麻木感（情感上的禁欲或疏离感）、失眠、逃避会引发创伤回忆的事物、易怒、过度警觉、失忆和易受惊吓。
+可能会造成这些症状的经验包括：
+
+孩童时期遭受身体或心理上的虐待
+经历性侵害
+暴力攻击
+经历战争、打斗（常称为战斗压力反应（combat stress reaction））
+严重的车祸、意外事件
+目睹亲人、恋人等关系亲近者的突然死亡
+自然灾难，如地震、海啸
+难产
+校园霸凌
+职场霸凌
+
+在《精神病诊断与统计手册》中指出，个体也有可能在经验创伤后并没有出现全部创伤后压力综合征的症状。大部分人对创伤事件的情感会在几个月后淡去。如果其持续过长的时间，就有可能导致精神上的失调。大部分经验创伤事件的人并不会产生PTSD。PTSD是一种焦虑性失常，不应和一般的悲伤或创伤后之调适混淆，此疾病也有可能伴随着其他精神失调（合并症，comorbidity）包括重度忧郁、一般性焦虑失调和各种成瘾性。
+PTSD的发病时间可能会延迟数年甚至数十年。创伤记忆有时候会被贮存在程序记忆（procedural memory）中，当病患做了某一特定身体动作时，便触发了创伤后压力症。延迟发病的PTSD也有可能在另一个压力事件下浮出台面，如家人或亲密朋友之死亡、或被诊断患有重大疾病。临床研究指出，曾罹患PTSD之幼童，在成年后比起没有PTSD的人有更高的犯罪倾向。
+历史背景[编辑]
+创伤后心理障碍是在公元前1900年由埃及人提出，以形容些对于创伤歇斯底里的反应。一世纪前，歇斯底里也和"遗留的创伤"相关。佛洛伊德的学生卡丁纳是第一位形容这种不久后以“创伤后心理压力失调症状”的现象。
+希波克拉底使用体内平衡理论来解释为何疾病和压力总是被定义为一种对威胁一个系统的平衡或生理平衡的状况的反应。引起这种压力的状况被定义为“施压者”，而非压力的反应，而非压力危害生理平衡。因此，根据压力的理论，创伤后压力被视为一种“神经传递的化学不平衡”。然而，创伤后压力心理障碍症本身是一个相较之下在精神病学较新的诊断。
+病因[编辑]
+神经内分泌学[编辑]
+PTSD所造成脑部、体内的生物化学变化，和其他精神失调疾病（如重郁症）不太一样。诊断有PTSD的病患，对于地塞米松抑制试验（dexamethasone suppression test）的反应要比忧郁症的人来得强。此外，多数PTSD的病患，尿液里皮质醇的分泌会降低，而儿茶酚胺的分泌则会增加，使得正肾上腺素/皮质醇的比值增加。在正常的压力反应里，儿茶酚胺和皮质醇的浓度皆会增加。
+脑部儿茶酚胺的浓度会下降，而促肾上腺皮质素释放因子（corticotropin-releasing factor，CRF）浓度增加。这可能暗示病患的下丘脑-垂体-肾上腺轴（hypothalamic-pituitary-adrenal axis）功能有所异常。
+由于PTSD患者对地塞米松造成的皮质醇抑制反应特别强烈，其HPA轴的异常，可能是源于糖皮质素受体的敏感性增加，使得对皮质醇分泌的负回馈抑制增强。关于PTSD的神经生物学依然有许多争论。最近一则回顾研究就指出，皮质醇浓度和PTSD并没有明确的关系。只有一部分病患有皮质醇低下的情况，其他人并没有改变或甚至更高。
+神经解剖学[编辑]
+除了生物化学上的改变，PTSD也会有脑部形态学上的改变。在关于越战退伍军人的研究中发现，比起没有PTSD的退伍军人，有PTSD者其海马回体积少了20%。杏仁核在人类情感记忆的形成里十分重要，尤其是恐惧相关的记忆。在神经影像学的研究中显示，PTSD病患，其杏仁核有过度反应的倾向，而前额皮质、海马回对其调控机能则较低落。
+治疗[编辑]
+深度的心理治疗可以控制、改善和治疗病情。
+参考文献[编辑]
+引用[编辑]
+
+
+^ 1.0 1.1 1.2 1.3 American Psychiatric Association. Diagnostic and Statistical Manual of Mental Disorders 5th. Arlington, VA: American Psychiatric Publishing. 2013: 271–280. ISBN 978-0-89042-555-8. 
+^ National Collaborating Centre for Mental Health (UK). Post-Traumatic Stress Disorder: The Management of PTSD in Adults and Children in Primary and Secondary Care. NICE Clinical Guidelines, No. 26. Gaskell (Royal College of Psychiatrists). 2005. Lay summary – Pubmed Health (plain English).  
+^ 3.0 3.1 3.2 3.3 3.4 3.5 3.6 3.7 Bisson, JI; Cosgrove, S; Lewis, C; Robert, NP. Post-traumatic stress disorder.. BMJ (Clinical research ed.). 26 November 2015, 351: h6161. PMC 4663500. PMID 26611143. 
+^ Zoladz, Phillip. Current status on behavioral and biological markers of PTSD: A search for clarity in a conflicting literature. Neuroscience and Biobehavioral Reviews. June 2013, 37 (5): 860–895. PMID 23567521. doi:10.1016/j.neubiorev.2013.03.024. 
+^ 5.0 5.1 5.2 Post-Traumatic Stress Disorder. National Institute of Mental Health. February 2016 [10 March 2016]. 
+^ Haagen, JF; Smid, GE; Knipscheer, JW; Kleber, RJ. The efficacy of recommended treatments for veterans with PTSD: A metaregression analysis.. Clinical Psychology Review. August 2015, 40: 184–94. PMID 26164548. doi:10.1016/j.cpr.2015.06.008. 
+^ Berger, W; Mendlowicz, MV; Marques-Portella, C; Kinrys, G; Fontenelle, LF; Marmar, CR; Figueira, I. Pharmacologic alternatives to antidepressants in posttraumatic stress disorder: a systematic review.. Progress in neuro-psychopharmacology & biological psychiatry. 17 March 2009, 33 (2): 169–80. PMC 2720612. PMID 19141307. doi:10.1016/j.pnpbp.2008.12.004. 
+^ Hetrick, SE; Purcell, R; Garner, B; Parslow, R. Combined pharmacotherapy and psychological therapies for post traumatic stress disorder (PTSD).. The Cochrane database of systematic reviews. 7 July 2010, (7): CD007316. PMID 20614457. doi:10.1002/14651858.CD007316.pub2. 
+^ Guina, J; Rossetter, SR; DeRHODES, BJ; Nahhas, RW; Welton, RS. Benzodiazepines for PTSD: A Systematic Review and Meta-Analysis.. Journal of Psychiatric Practice. July 2015, 21 (4): 281–303. PMID 26164054. doi:10.1097/pra.0000000000000091. 
+^ Hoskins, M.; Pearce, J.; Bethell, A.; Dankova, L.; Barbui, C.; Tol, WA.; van Ommeren, M.; de Jong, J.; Seedat, S. Pharmacotherapy for post-traumatic stress disorder: systematic review and meta-analysis.. Br J Psychiatry. February 2015, 206 (2): 93–100. PMID 25644881. doi:10.1192/bjp.bp.114.148551. Some drugs have a small positive impact on PTSD symptoms 
+^ Carlstedt, Roland. Handbook of Integrative Clinical Psychology, Psychiatry, and Behavioral Medicine Perspectives, Practices, and Research.. New York: Springer Pub. Co. 2009: 353. ISBN 9780826110954. 
+^ Herman, Judith. Trauma and Recovery: The Aftermath of Violence--From Domestic Abuse to Political Terror. Basic Books. 2015: 9. ISBN 9780465098736. 
+^ Klykylo, William M. Clinical child psychiatry 3. Chichester, West Sussex, UK: John Wiley & Sons. 2012: Chapter 15. ISBN 9781119967705. 
+^ Friedman, MJ. Finalizing PTSD in DSM-5: getting here from there and where to go next.. Journal of traumatic stress. October 2013, 26 (5): 548–56. PMID 24151001. doi:10.1002/jts.21840. 
+
+
+来源[编辑]
+
+
+^ David Satcher; 等. Chapter 4.2. Mental Health: A Report of the Surgeon General. 1999.  引文格式1维护：显式使用等标签 (link)
+^ Forbes, D. et al. (2001) "Brief report: treatment of combat-related nightmares using imagery rehearsal: a pilot study", Journal of Traumatic Stress 14 (2): 433-442
+^ Devilly, G. J., & Spence, S. H. (1999). "The relative efficacy and treatment distress of EMDR and a cognitive behavioral trauma treatment protocol in the amelioration of post traumatic stress disorder". Journal of Anxiety Disorders, 13, 131–157.
+
+
+外部链接[编辑]
+
+
+National Center for PTSD
+PTSD summary from the Child Advocate
+PTSD, organised violence and treatment
+New Scientist, 25 August 2005, "Trauma of war hits troops years later"
+Help For PTSD[失效链接]
+www.brainexplorer.org
+Researchers have discovered a simple blood test that can detect Post-Traumatic Stress Disorder in advance - An article
+OEF/OIF PTSD Incident Database
+Blaming the Veteran: The Politics of Post-Traumatic Stress Disorder
+
+Neurobiological background info and studies about medication
+
+EMDR Institute
+
+Criticism of EMDR
+
+
+TIR website
+PTSD & Hypoglycemia
+New blood test can diagnose anxiety disorders including PTSD - A web article
+[1] - International Society for Traumatic Stress Studies
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+精神与行为障碍（英语：Emotional and behavioral disorders）（F 290–319（英语：List of ICD-9 codes 290–319: mental disorders）)
+
+
+
+
+
+
+
+
+
+
+ 
+神经性或症状性精神障碍
+
+
+
+
+
+
+
+
+
+
+
+痴呆症
+
+
+
+
+轻度认知障碍（英语：Mild cognitive impairment）
+阿兹海默病
+血管性痴呆
+皮克氏病
+克雅二氏病
+亨丁顿舞蹈症
+帕金森病
+爱滋病痴呆综合征（英语：AIDS dementia complex）
+额颞叶痴呆症（英语：Frontotemporal dementia）
+日落综合征
+逃逸型痴呆症（英语：Wandering (dementia)）
+
+
+
+
+
+
+
+
+
+自闭症光谱
+
+
+
+
+自闭症
+亚斯伯格综合征
+学者综合征
+待分类的广泛性发展障碍
+高功能自闭症
+
+
+
+
+
+
+
+
+
+其他
+
+
+
+
+谵妄
+脑震荡综合征
+器质性脑病综合征（英语：Organic brain syndrome）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+精神活性物质引起的精神障碍
+
+
+
+
+
+
+
+
+
+药物中毒（英语：Substance intoxication）/药物过量
+生理依赖
+物质依赖
+Rebound effect（英语：Rebound effect）
+Double rebound（英语：Double rebound）
+药物戒断
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+精神分裂症、分裂性人格障碍和妄想症
+
+
+
+
+
+
+
+
+
+
+思觉失调
+
+
+
+分裂情感性障碍
+分裂情感性障碍（英语：Schizophreniform disorder）
+短暂应急性障碍（英语：Brief reactive psychosis）
+
+
+
+
+
+
+
+
+精神分裂症
+
+
+
+Disorganized schizophrenia（英语：Disorganized schizophrenia）
+妄想症
+二联性精神病
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+情感障碍
+
+
+
+
+
+
+
+
+
+狂躁
+躁郁症
+
+I型（英语：Bipolar I disorder）
+II型（英语：Bipolar II disorder）
+
+
+循环性情感症
+Bipolar NOS（英语：Bipolar disorder not otherwise specified）)
+抑郁性障碍
+
+重性抑郁障碍
+心境恶劣障碍
+季节性情绪失调
+非典型抑郁障碍
+忧郁型抑郁障碍
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+神经性、压力相关身心性疾病
+
+
+
+
+
+
+
+
+
+
+
+焦虑症
+
+
+
+
+
+
+恐惧症
+
+
+
+
+广场恐惧症
+社交焦虑症（英语：Social anxiety）
+社交恐惧症
+
+恐见人症（英语：Anthropophobia）
+
+
+特殊恐惧症
+
+幽闭恐惧症
+蜘蛛恐惧症
+
+
+
+
+
+
+
+
+
+
+
+其他
+
+
+
+
+恐慌症
+恐慌发作
+广泛性焦虑症
+强迫症
+压力
+
+急性应激反应（英语：Acute stress reaction）
+创伤后心理压力紧张综合征
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+适应障碍症（英语：Adjustment disorder）
+
+
+
+
+Adjustment disorder with depressed mood（英语：Adjustment disorder）
+
+
+
+
+
+
+
+
+
+身心性疾病
+
+
+
+
+Somatization disorder（英语：Somatization disorder）
+身体畸形恐惧症
+疑病症
+Nosophobia（英语：Nosophobia）
+Da Costa's syndrome（英语：Da Costa's syndrome）
+心理性疼痛（英语：Psychogenic pain）
+转化障碍（英语：Conversion disorder）
+
+甘塞尔综合征（英语：Ganser syndrome）
+咽球症（英语：Globus pharyngis）
+
+
+神经衰弱
+Mass psychogenic illness（英语：Mass psychogenic illness）
+
+
+
+
+
+
+
+
+
+解离症
+
+
+
+
+解离性人格疾患
+Psychogenic amnesia（英语：Psychogenic amnesia）
+Fugue state（英语：Fugue state）
+人格解体障碍
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+生理/物理性行为
+
+
+
+
+
+
+
+
+
+
+
+进食障碍
+
+
+
+
+神经性厌食症
+神经性暴食症
+反刍综合征
+NOS（英语：Eating disorder not otherwise specified）
+
+
+
+
+
+
+
+
+
+非器质性
+睡眠障碍
+
+
+
+
+嗜睡症
+失眠
+Parasomnia（英语：Parasomnia）
+
+快速眼动期睡眠行为障碍（英语：Rapid eye movement sleep behavior disorder）
+夜惊
+恶梦
+
+
+
+
+
+
+
+
+
+
+
+性功能障碍
+
+
+
+
+性欲
+
+Hypoactive sexual desire disorder（英语：Hypoactive sexual desire disorder）
+性欲亢进
+
+
+
+
+性刺激
+
+女性性功能障碍
+
+
+勃起功能障碍
+
+
+性高潮
+
+Anorgasmia（英语：Anorgasmia）
+Delayed ejaculation（英语：Delayed ejaculation）
+早发性射精
+Sexual anhedonia（英语：Sexual anhedonia）
+
+
+
+
+疼痛
+
+阴道痉挛
+性交疼痛
+
+
+
+
+
+
+
+
+
+
+
+产后（英语：Psychiatric disorders of childbirth）
+
+
+
+
+产后抑郁症
+产后综合征（英语：Postpartum psychosis）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+成人人格及行为障碍
+
+
+
+
+
+
+
+
+
+
+
+性别不安症
+
+
+
+
+Sexual maturation disorder（英语：Sexual maturation disorder）
+Ego-dystonic sexual orientation（英语：Ego-dystonic sexual orientation）
+Sexual relationship disorder（英语：Sexual relationship disorder）
+性偏离
+
+窥视症
+恋物癖
+
+
+
+
+
+
+
+
+
+
+
+其他
+
+
+
+
+人格障碍
+冲动控制障碍（英语：Impulse control disorder）
+
+窃盗癖
+拔毛癖
+纵火癖
+皮肤搔抓症（英语：Dermatillomania）
+
+
+Body-focused repetitive behavior（英语：Body-focused repetitive behavior）
+人为疾患
+
+孟乔森综合征
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+幼年时期引发的人格及行为障碍（英语：Mental disorders diagnosed in childhood）
+
+
+
+
+
+
+
+
+
+
+
+智能障碍
+
+
+
+
+X染色体连锁精神发育迟滞
+
+Lujan–Fryns syndrome（英语：Lujan–Fryns syndrome）
+
+
+
+
+
+
+
+
+
+
+
+心理发展
+（发展障碍（英语：Developmental disability））
+
+
+
+
+特殊性发育障碍
+广泛性发展障碍
+自闭症光谱
+
+
+
+
+
+
+
+
+
+情绪及行为障碍（英语：Emotional and behavioral disorders）
+
+
+
+
+注意力不足过动症
+品行障碍
+
+ODD（英语：Oppositional defiant disorder）
+
+
+情绪及行为障碍（英语：Emotional and behavioral disorders）
+
+分离性焦虑障碍（英语：Separation anxiety disorder）
+
+
+社会功能
+
+选择性缄默症
+RAD（英语：Reactive attachment disorder）
+DAD（英语：Disinhibited attachment disorder）
+
+
+抽动障碍
+
+妥瑞症
+
+
+发音问题
+
+口吃
+语言错乱（英语：Cluttering）
+
+
+刻板运动障碍（英语：Movement disorder）
+
+Stereotypic（英语：Stereotypic movement disorder）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+症状及未分类疾病
+
+
+
+
+
+
+
+
+
+紧张性抑郁障碍
+假性怀孕
+Intermittent explosive disorder（英语：Intermittent explosive disorder）
+Psychomotor agitation（英语：Psychomotor agitation）
+Stereotypy（英语：Stereotypy）
+Psychogenic non-epileptic seizures（英语：Psychogenic non-epileptic seizures）
+克鲁尔-布西综合征
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+规范控制
+
+
+
+GND: 4361388-3
+NDL: 01000003
+
+
+
+
+
+
+
+
+
+
+
+
+分类：精神病学诊断异常心理学创伤后应激障碍露宿者症候群军事医学军事社会学战争后果隐藏分类：含有西班牙语的条目拥有贡献者连结的条目含有英语的条目引文格式1维护：显式使用等标签带有失效链接的条目条目有永久失效的外部链接包含规范控制信息的维基百科条目

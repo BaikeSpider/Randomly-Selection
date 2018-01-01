@@ -1,0 +1,282 @@
+资料平行
+
+
+
+
+
+资料平行（英语：Data parallelism，又译为数据平行），是一种多处理器的平行运算模式，将资料分配到不同的平行运算节点中。资料平行把大的任务化解成若干个相同的子任务，处理起来比任务平行简单。
+概论[编辑]
+在一个多处理器系统中，执行相同的指令集（SIMD），当每个处理器都处理同一个行程中不同的资料时，就达成资料平行。
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+并行计算
+
+
+
+
+
+
+概论
+
+
+
+分布式计算
+并行计算
+大规模并行处理机
+云端运算
+高性能计算
+多元处理
+大规模多核心处理器（英语：Manycore processor）
+GPGPU
+计算机网络
+Systolic array（英语：Systolic array）
+
+
+
+
+
+
+
+
+层级
+
+
+
+比特
+指令
+线程
+任务
+数据
+内存
+循环（英语：Loop-level parallelism）
+流水线
+
+
+
+
+
+
+
+
+多线程
+
+
+
+时间（英语：Temporal multithreading）
+同步多线程（SMT）
+投机（英语：Speculative multithreading）（SpMT）
+抢占式
+协作
+集群多线程（CMT）
+硬件侦测
+
+
+
+
+
+
+
+
+理论
+
+
+
+PRAM模型
+并行算法分析（英语：Analysis of parallel algorithms）
+阿姆达尔定律
+Gustafson's law（英语：Gustafson's law）
+Cost efficiency（英语：Cost efficiency）
+Karp–Flatt metric（英语：Karp–Flatt metric）
+减速（英语：Parallel slowdown）
+加速比
+
+
+
+
+
+
+
+
+元素
+
+
+
+行程
+线程
+纤程
+指令窗口（英语：Instruction window）
+
+
+
+
+
+
+
+
+协调
+
+
+
+多元处理
+内存一致性（英语：Memory coherence）
+高速缓存一致性
+高速缓存失效（英语：Cache invalidation）
+屏障
+同步
+应用程序检查点（英语：Application checkpointing）
+
+
+
+
+
+
+
+
+编程
+
+
+
+流处理（英语：Stream processing）
+数据流处理（英语：Dataflow programming）
+模型（英语：Parallel programming model）
+
+隐式并行（英语：Implicit parallelism）
+显式并行（英语：Explicit parallelism）
+并发性
+
+
+非阻塞算法（英语：Non-blocking algorithm）
+
+
+
+
+
+
+
+
+硬件
+
+
+
+费林分类法
+
+单指令流单数据流
+单指令流多数据流
+单指令多线程（英语：Single instruction, multiple threads）（SIMT）
+多指令流单数据流
+多指令流多数据流
+
+
+数据流架构（英语：Dataflow architecture）
+指令管线化
+超标量
+并行向量处理机
+多处理器
+
+对称
+非对称
+
+
+内存（英语：Semiconductor memory）
+
+共享
+分布式内存（英语：Distributed memory）
+分布式共享
+UMA
+NUMA
+COMA（英语：Cache-only memory architecture）
+
+
+大规模并行处理机
+计算机集群
+网格计算
+
+
+
+
+
+
+
+
+API
+
+
+
+Ateji PX（英语：Ateji PX）
+Boost.Thread
+Charm++（英语：Charm%2B%2B）
+Cilk
+Coarray Fortran（英语：Coarray Fortran）
+CUDA
+Dryad（英语：Dryad (programming)）
+C++ AMP
+Global Arrays（英语：Global Arrays）
+MPI
+OpenMP
+OpenCL
+HMPP开放标准
+OpenACC
+TPL（英语：Parallel Extensions#Task Parallel Library）
+PLINQ（英语：Parallel Extensions#PLINQ）
+并行虚拟机（英语：Parallel Virtual Machine）（PVM）
+POSIX线程
+RaftLib（英语：RaftLib）
+UPC
+TBB（英语：Threading Building Blocks）
+
+
+
+
+
+
+
+
+问题
+
+
+
+软件闭锁（英语：Software lockout）
+可扩展性
+竞争冒险
+死锁
+活锁
+饥饿（英语：Starvation (computer science)）
+确定性算法
+并行变慢（英语：Parallel slowdown）
+
+
+
+
+
+
+
+
+
+
+
+ 分类：并行计算
+ 维基共享资源中有关资料平行的多媒体资源
+
+
+
+
+
+
+
+
+
+
+
+
+分类：并行计算
