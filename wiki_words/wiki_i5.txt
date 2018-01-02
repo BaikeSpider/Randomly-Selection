@@ -1,0 +1,593 @@
+Intel Core i5
+
+
+
+
+
+本条目需要更新。（2017年7月25日） 
+请更新本文以反映近况和新增内容。完成修改时，请移除本模板。 
+
+
+
+
+
+
+
+
+
+Core i5
+
+
+
+i5 750
+
+
+
+生产时间
+2009年至今
+
+
+制造商
+
+
+
+Intel
+
+
+
+
+
+处理器速度
+2.3GHz至 4.2+GHz(水冷超频)
+
+
+前端总线速率
+2.5GT/s至 8GT/s
+
+
+制作工艺
+45nm 至 14nm
+
+
+指令集
+x86、MMX、SSE、SSE2、SSE3、SSSE3、x86-64、SSE4、SSE4.2、EM64T、SSE4.1、VT-X、AES、AVX、AVX2、FMA3、TSX
+
+
+微架构
+Intel Nehalem
+Intel Sandy Bridge
+Intel Ivy Bridge
+Intel Haswell
+Intel Skylake
+Intel Kaby Lake
+IntelCoffee Lake
+
+
+核心数量
+2 / 4/6
+
+
+插座
+
+
+
+Socket H (LGA 1156)
+Socket H2 (LGA 1155)
+Socket H3 (LGA 1150)
+Socket H4 (LGA 1151)
+Socket R4 (LGA 2066)(极致版使用)
+
+
+
+
+
+核心（代号）
+
+
+
+Lynnfield、Clarkdale、Sandy Bridge、Ivy Bridge、Haswell、Broadwell、Skylake、Kaby Lake、Coffee Lake
+
+
+
+
+
+Core i5（中文：酷睿 i5）处理器是英特尔的一款产品，是Intel Core i7的派生低级版本，第一代Core i5基于Intel Nehalem微架构。与Core i7支持三通道内存不同，Core i5只会集成双通道DDR3内存控制器（从六代Core CPU开始则支持DDR4内存）。另外，Core i5会集成一些北桥的功能，将集成PCI-Express控制器。处理器核心方面，第一代Core i5代号Lynnfield，采用45奈米制程的Core i5有四核心，不支持超线程技术，总共仅提供4个线程。以后的桌上版Core i5均多采用4核心4线程设计。
+芯片组方面，第一代Core i5采用Intel H55、P55、H57、P57等（代号：IbexPeak）。它除了支持Lynnfield外，还会支持Havendale处理器。后者虽然只有两个处理器核心，但却集成显示核心。P55会采用单片机设计，功能与传统的南桥相似，支持SLI和Crossfire技术。但是，与高端的X58芯片组不同，P55不会采用较新的QPI连接，而会使用传统的DMI技术[1]。接口方面，可以与其他的5系列芯片组兼容[2]。
+
+
+
+
+i5-2300放置在LGA1155插槽中。
+
+
+Core i5处理器于2009年7月生产，8月出货，官方在9月1日正式发布。
+2011年1月，Intel发表第二代的Core i5，与旧款不同的在于新一代的Core i5改用Sandy Bridge架构，同年二月发表双核版本的Core i5，但桌上版Core i5四核四线程为主。第二代Core i5接口亦更新为与旧款不兼容的LGA 1155。代码中除了前四位数字外，最后加上的英文字意义分别为：K=未锁倍频版，S=低功耗版，T=超低功耗版，P=无HD Graphics版(在Ivy Bridge中为 U=低电压版 M=标准版）。
+标准的桌面版Core i5基于4核心设计，较Core i7不支持超线程技术。移动版Core i5长期为2核心并采用超线程技术，但自第6代Core i5开始，Intel亦推出4核心的移动版Core i5处理器。从第8世代Intel Core开始，Intel又推出6核6线程设计的Core i5。
+
+
+
+目录
+
+
+1 处理器列表
+2 参考资料
+3 外部链接
+4 相关条目
+
+
+
+处理器列表[编辑]
+主条目：Intel Core i5处理器列表
+
+
+
+
+
+Intel的微处理器架构路线图，从 NetBurst以及P6至Tigerlake
+
+
+
+
+参考资料[编辑]
+
+
+^ Intel未来新芯片组P55新特性初步曝光 互联网档案馆的存档，存档日期2010-01-08.
+^ 8大改变 LGA1156接口P55芯片规格曝光
+
+
+
+亲民版“爱妻”号，Core i5深度剖析与评测
+Intel 官网 Core I5 详细规格
+
+外部链接[编辑]
+
+详细规格 Intel官方网站
+
+相关条目[编辑]
+
+Intel Core i 系列产品
+
+Intel Core i3
+Intel Core i5
+Intel Core i7
+Intel Core i9
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+Intel处理器
+
+
+
+
+
+
+已停产
+
+
+
+
+
+x86前产品
+
+
+
+
+4004
+4040
+8008
+8080
+8085
+
+
+
+
+
+
+
+
+
+x87（外置浮点运算器）
+
+
+8/16位总线：8087
+
+16位总线：80187
+80287
+80387SX
+32位总线：80387DX
+80487
+
+
+
+
+
+
+
+
+
+x86-16（16位）
+
+
+
+
+8086
+8088
+80186
+80188
+80286
+
+
+
+
+
+
+
+
+
+x86-32/IA-32（32位）
+
+
+
+
+80386
+80486
+Pentium
+
+OverDrive
+Pro
+II
+III
+4
+M
+
+
+Celeron
+
+M
+D
+
+
+Core
+Atom
+
+
+
+
+
+
+
+
+
+x86-64/Intel 64（64位）
+
+
+
+
+Pentium
+
+4（部分型号）
+D
+EE
+
+
+Celeron D（部分型号）
+Core 2
+Atom
+
+
+
+
+
+
+
+
+
+EPIC/IA-64（64位）
+
+
+
+
+Itanium
+
+
+
+
+
+
+
+
+
+RISC
+
+
+
+
+i860
+i960
+StrongARM
+XScale
+
+
+
+
+
+
+
+
+
+微控制器
+
+
+
+
+8048
+8051
+MCS-96
+
+
+
+
+
+
+
+
+
+
+
+现有产品
+
+
+
+
+
+x86-32/IA-32
+
+
+
+
+EP80579
+A100
+
+
+
+
+
+
+
+
+
+x86-64/Intel 64
+
+
+
+
+Xeon
+
+E3
+E5
+E7
+Phi
+
+
+Celeron
+Pentium
+Core
+
+i3
+i5
+i7
+i9
+M
+
+
+Atom
+
+x3
+x5
+x7
+
+
+
+
+
+
+
+
+
+
+
+EPIC/IA-64
+
+
+
+
+Itanium 2
+
+
+
+
+
+
+
+
+
+
+
+未来产品
+
+
+
+Tukwila（英语：Tukwila (processor)）
+Moorestown
+
+
+
+
+
+
+
+
+平台
+
+
+
+Centrino
+Centrino2
+Centrino Duo
+Centrino Pro
+vPro
+Viiv
+MID
+
+
+
+
+
+
+
+
+微架构
+
+
+
+
+
+状况未知或已取消
+
+
+
+
+Larrabee
+
+
+
+
+
+
+
+
+
+已完成
+
+
+
+
+P5
+P6
+NetBurst
+Core / Penryn
+Bonnell / Saltwell
+Nehalem / Westmere
+Sandy Bridge / Ivy Bridge
+Haswell / Broadwell
+Skylake / Kaby Lake
+Coffee Lake
+
+
+
+
+
+
+
+
+
+未来
+
+
+
+
+Cannonlake / Icelake / Tigerlake
+
+
+
+
+
+
+
+
+
+
+
+列表
+
+
+
+处理器插座
+处理器
+处理器代号
+PCH
+Atom
+Celeron
+Core
+
+2
+i3
+i5
+i7
+i9
+M
+
+
+Itanium
+Pentium
+
+II
+III
+4
+D
+Dual-Core
+M
+
+
+Xeon
+
+Phi
+
+
+
+
+
+
+
+
+
+
+相关
+
+
+
+芯片组
+PCH
+SCH（英语：System Controller Hub）
+ICH
+PIIX（英语：PCI IDE ISA Xcelerator）
+GPU comparison（英语：Comparison of Intel graphics processing units）
+Codenames（英语：List of Intel codenames）
+GMA
+HD Graphics
+
+
+
+
+
+
+
+
+
+
+
+
+分类：Intel x86处理器Intel处理器列表隐藏分类：Webarchive模板wayback链接自2017年7月待更新条目

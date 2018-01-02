@@ -1,0 +1,2 @@
+Intel Core i5
+Core i5（中文：酷睿 i5）处理器是英特尔的一款产品，是Intel Core i7的派生低级版本，第一代Core i5基于Intel Nehalem微架构。与Core i7支持三通道内存不同，Core i5只会集成双通道DDR3内存控制器（从六代Core CPU开始则支持DDR4内存）。另外，Core i5会集成一些北桥的功能，将集成PCI-Express控制器。处理器核心方面，第一代Core i5代号Lynnfield，采用45奈米制程的Core i5有四核心，不支持超线程技术，总共仅提供4个线程。以后的桌上版Core i5均多采用4核心4线程设计。

@@ -1,0 +1,3 @@
+Nexus Q
+Wi-Fi (802.11 a/b/g/n), NFC,
+Bluetooth, microUSB (for service and support), 10/100BASE-T Ethernet (RJ45).

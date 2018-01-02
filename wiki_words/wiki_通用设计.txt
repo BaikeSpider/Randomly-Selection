@@ -1,0 +1,888 @@
+通用设计
+
+
+
+
+
+本条目部分链接不符合格式手册规范。跨语言链接及章节标题等处的链接可能需要清理。（2015年12月11日） 
+请协助改善此条目。参见WP:LINKSTYLE、WP:MOSIW以了解细节。突出显示跨语言链接可以便于检查。 
+
+
+
+
+
+
+
+本条目需要补充更多来源。（2012年9月18日） 
+请协助添加多方面可靠来源以改善这篇条目，无法查证的内容可能会因为异议提出而移除。 
+
+
+
+
+身心障碍
+
+
+
+
+理论与模式
+
+
+身心障碍理论
+身心障碍歧视
+医学模式
+社会模式
+国际健康功能与身心障碍分类系统
+
+
+
+
+
+
+
+
+教育
+
+
+主流化
+个别化教育计划
+特殊需要
+特殊学校
+特殊教育
+学习障碍
+融合教育
+赛马会手语双语共融教育计划
+手语辅助教学计划
+
+
+
+
+
+
+
+
+治疗
+
+
+物理治疗
+职能治疗
+言语治疗
+
+
+
+
+
+
+
+
+社会影响
+
+
+身心障碍者权利运动
+包容
+以人为优先的语言
+贬义词
+
+
+
+
+
+
+
+
+个人 / 肢体协助
+
+
+日常生活活动
+义肢
+辅具
+助听器
+人工耳蜗
+无障碍环境
+通用设计
+网页亲和力
+无障消费计划
+手语翻译
+手语翻译员伴读
+手语旁述世界杯
+龙耳手译宝
+
+
+
+
+
+
+
+
+社会经济援助
+
+
+社会安全残障保险
+补充保障收入
+身心障碍生活津贴
+伤残津贴
+长者及合资格残疾人士公共交通票价优惠计划
+
+
+
+
+
+
+
+
+群体及组织
+
+
+残疾研究学会
+残疾人国际协会
+新加坡智障人士福利促进会
+龙耳
+龙耳电视
+特教平权
+香港中文大学手语及聋人研究中心
+无障碍剧团
+
+
+
+
+
+
+
+
+身心障碍者体育
+
+
+特殊奥林匹克运动会
+帕拉林匹克运动会（残奥会）
+听障奥林匹克运动会
+
+
+
+
+
+
+
+
+文化
+
+
+艺术里的身心障碍
+身心障碍艺术
+媒体上的身心障碍
+聋人文化
+
+
+
+
+
+
+
+
+ 身心障碍主题
+ 分类：身心障碍
+
+
+
+
+
+
+
+查
+论
+编
+
+
+
+
+
+通用设计又名全民设计、全方位设计或是通用化设计，是指无须改良或特别设计就能为所有人使用的产品、环境及通讯。除了考量身障者和其他弱势使用族群，也顾及一般人的使用情况及需求，不仅考量使用者的使用情形，还顾虑到使用时的心理感受。[1]在学术领域，“Universal Design”还有一个名称为“共用性设计”。
+
+
+
+目录
+
+
+1 演进历史
+2 七项原则
+3 参考文献
+4 外部链接
+
+
+
+演进历史[编辑]
+通用设计的演进始于1950年代，当时人们开始注意残障问题。
+在日本、欧洲及美国，“无障碍空间设计”（barrier-free design）为身体障碍者除去了存在环境中的各种障碍。在1970年代时，欧洲及美国一开始是采用“广泛设计”（accessible design），针对在不良于行的人士在生活环境上之需求，并不是针对产品。
+当时一位美国建筑师麦可·贝奈（Michael Bednar）提出：撤除了环境中的障碍后，每个人的官能都可获得提升。他认为建立一个超越广泛设计且更广泛、全面的新观念是必要的。也就是说广泛设计一词并无法完整说明他们的理念。
+1987年，美国设计师，罗纳德·麦斯（Ronald L. Mace）开始大量的使用“通用设计”一词，并设法定义它与“广泛设计”的关系。他表示，“通用设计”不是一项新的学科或风格，或是有何独到之处。它需要的只是对需求及市场的认知，以及以清楚易懂的方法，让我们设计及生产的每件物品都能在最大的程度上被每个人使用。
+他并说“通用”（universal）一词并不理想，更准确地说，Design for All（DfA, 泛用设计）是一种设计方向，让产品能在不借外力做特别调整下，被更多人使用。在1990年中期，罗纳德·麦斯与一群设计师为“全民设计”订定了七项原则。
+七项原则[编辑]
+
+公平使用：这种设计对任何使用者都不会造成伤害或使其受窘。
+弹性使用：这种设计涵盖了广泛的个人喜好及能力。
+简易及直觉使用：不论使用者的经验、知识、语言能力或集中力如何，这种设计的使用都很容易了解。
+明显的资讯：不论周围状况或使用着感官能力如何，这种设计有效地对使用者传达了必要的资讯。
+容许错误：这种设计将危险及因意外或不经意的动作所导致的不利后果降至最低。
+省力：这种设计可以有效、舒适及不费力地使用。
+适当的尺寸及空间供使用：不论使用者体型、姿势或移动性如何，这种设计提供了适当的大小及空间供操作及使用。
+
+三项附则
+
+可长久使用，具经济性
+品质优良且美观
+对人体及环境无害
+
+参考文献[编辑]
+
+
+^ 通用设计与无障碍设计的差异. [2015-09-03]. 
+
+
+外部链接[编辑]
+
+通用设计中心网页 （英文）
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+设计
+
+
+
+
+
+
+
+
+
+设计纲要（英语：Outline of design）
+设计主题
+设计师
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+学科
+
+
+
+
+
+
+
+
+
+
+传媒设计
+
+
+
+广告
+装帧
+企业形象设计
+展会设计
+电影标题设计（英语：Film title design）
+平面设计
+
+运动图形设计（英语：Motion graphic design）
+邮票设计（英语：Postage stamp design）
+打印设计（英语：Print design）
+
+
+插画
+信息设计
+教学设计
+新闻设计（英语：News design）
+摄影
+零售设计（英语：Retail design）
+标示 / 交通标志设计（英语：交通标志设计）
+字体排印学 / 字形设计（英语：Type design）
+视频设计（英语：Video design）
+商品展示设计
+
+
+
+
+
+
+
+
+环境设计
+
+
+
+建筑
+建筑光学
+建筑设计
+
+被动太阳能建筑设计（英语：Passive solar building design）
+
+
+环境设计
+环境影响设计（英语：Environmental impact design）
+园林设计
+
+电脑辅助园林设计（英语：Computer-aided garden design）
+
+
+健康社区设计（英语：Healthy community design）
+旅店设计（英语：Hotel design）
+室内建筑（英语：Interior architecture）
+室内设计
+
+体验室内设计（英语：Experiential interior design）
+
+
+Keyline设计（英语：Keyline design）
+景观建筑
+
+可持续景观建筑（英语：Sustainable landscape architecture）
+
+
+景观设计（英语：Landscape design）
+空间设计（英语：Spatial design）
+城市设计
+
+
+
+
+
+
+
+
+工业设计
+
+
+
+汽车设计
+汽车悬架设计（英语：Automotive suspension design）
+CMF设计（英语：CMF design）
+瓦楞纸箱设计（英语：Corrugated box design）
+电吉他设计（英语：Electric guitar design）
+家具设计
+
+可持续家具设计（英语：Sustainable furniture design）
+
+
+硬件接口设计（英语：Hardware interface design）
+摩托车设计（英语：Motorcycle design）
+包装
+摄影镜头设计（英语：Photographic lens design）
+产品设计（英语：Product design）
+美术指导
+感官设计
+服务设计
+
+
+
+
+
+
+
+
+交互设计
+
+
+
+体验设计
+
+员工体验设计（英语：Employee experience design）
+
+
+游戏设计
+
+关卡设计（英语：Level design）
+电子游戏设计
+
+
+硬件接口设计（英语：Hardware interface design）
+图标设计
+沉浸式设计（英语：Immersive design）
+信息设计
+声音交互设计
+用户体验设计
+用户界面设计
+网页设计
+
+
+
+
+
+
+
+
+其他应用艺术
+
+
+
+公共艺术
+陶艺 / 玻璃设计（英语：Glass art）
+时尚设计
+
+剧装设计
+珠宝设计
+
+
+花卉设计（英语：Floral design）
+游戏艺术设计（英语：Game art design）
+道具设计师（英语：Property designer）
+风景设计（英语：Scenic design）
+音效设计（英语：Sound design）
+舞台/照明设计（英语：Lighting designer）
+纺织设计（英语：Textile design）
+
+
+
+
+
+
+
+
+其他设计和工程学
+
+
+
+算法设计
+锅炉设计（英语：Boiler design）
+概念设计（英语：Conceptual design）
+数据库设计（英语：Database design）
+药物设计
+电动系统设计（英语：Electrical system design）
+试验设计
+滤波器设计
+任务设计（英语：Job design）
+集成电路设计
+
+电路设计
+物理设计
+电力网络设计（英语：Power network design (IC)）
+
+
+核武器设计方案
+核酸设计（英语：核酸设计）
+组织设计（英语：组织设计）
+程序设计 (化工)
+CPU设计
+蛋白质设计（英语：蛋白质设计）
+研究设计（英语：研究设计）
+社会设计（英语：社会设计）
+软件设计
+宇宙飞船设计（英语：宇宙飞船设计）
+战略设计（英语：战略设计）
+系统设计（英语：系统设计）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+途径
+
+
+
+
+
+
+
+
+
+以活动为中心设计（英语：Activity-centered design）
+自适应网页设计（英语：Adaptive web design）
+情感设计（英语：Affective design）
+脑力激荡法
+按委员会设计（英语：Design by committee）
+契约式设计
+概念知识理论（英语：C-K theory）
+设计收敛
+参与式设计（英语：Participatory design）
+面向概念设计（英语：Concept-oriented design）
+配置设计（英语：Configuration design）
+语境设计（英语：Contextual design）
+持续设计（英语：Continuous design）
+从摇篮到摇篮设计
+创造性解决问题（英语：Creative problem-solving）
+创意技术（英语：Creativity techniques）
+关键设计（英语：Critical design）
+
+设计小说（英语：Design fiction）
+
+
+防守设计（英语：Defensive design）
+设计-招标-建造（英语：Design–bid–build）
+设计－建造
+
+建筑师主导设计（英语：Architect-led design–build）
+
+
+域驱动设计
+生态设计
+能源中性设计（英语：Energy neutral design）
+工程设计流程（英语：Engineering design process）
+
+概率设计（英语：Probabilistic design）
+
+
+容错设计（英语：Error-tolerant design）
+容许故障设计（英语：Fault-tolerant design）
+面向框架设计（英语：Framework-oriented design）
+为装配设计
+为改变行为设计（英语：Design for behaviour change）
+为制造设计
+为六西格玛设计（英语：Design for Six Sigma）
+可测试性设计
+为X设计（英语：Design for X）
+实用设计（英语：Functional design）
+生成设计（英语：Generative Design）
+地理设计（英语：Geodesign）
+顶层设计（英语：High-level design）
+集成设计（英语：Integrated design）
+集成顶层设计（英语：Integrated topside design）
+基于智能设计（英语：Intelligence-based design）
+迭代设计（英语：Iterative design）
+KISS原则
+底层设计（英语：Low-level design）
+元设计（英语：Metadesign）
+心智图
+模块化设计（英语：Modular design）
+新浪潮（英语：New Wave (design)）
+面向对象设计
+开放设计（英语：Open design）
+参数设计（英语：Parametric design）
+参与设计（英语：Participatory design）
+基于平台设计（英语：Platform-based design）
+基于原则设计
+流程为中心设计（英语：Process-centered design）
+公共利益设计（英语：Public interest design）
+理性设计（英语：Rational design）
+可再生设计（英语：Regenerative design）
+可靠度
+基于研究设计（英语：Research-based design）
+责任驱动设计（英语：Responsibility-driven design）
+响应式网页设计
+安全寿命设计
+永续设计
+系统设计（英语：Systemic Design）
+
+面向系统设计（英语：Systems Oriented Design）
+
+
+无表格网页设计
+限制理论
+自上而下和自下而上设计（英语：Top-down and bottom-up design）
+转型设计（英语：Transformation design）
+隔代设计（英语：Transgenerational design）
+TRIZ
+通用设计
+
+为所有人设计（英语：Design for All (in ICT)）
+
+
+以使用率为中心设计（英语：Usage-centered design）
+以使用为中心设计（英语：Use-centered design）
+以用户为中心的设计
+
+感情植入设计（英语：Empathic design）
+
+
+用户创新
+价值驱动设计（英语：Value-driven design）
+价值敏感设计（英语：Value sensitive design）
+
+为隐私设计（英语：Privacy by Design）
+
+
+
+
+设计选择（英语：Design choice）
+设计计算（英语：Design computing）
+设计控制（英语：Design controls）
+设计流程（英语：Design flow (EDA)）
+设计领导（英语：Design leadership）
+设计管理（英语：Design management）
+设计标记（英语：Design marker）
+设计方法（英语：Design methods）
+设计模式
+设计研究
+设计科学（英语：Design science）
+设计战略（英语：Design strategy）
+设计理论（英语：Design theory）
+设计思考
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+工具
+知识产权
+组织
+奖项
+
+
+
+
+
+
+
+
+
+
+
+
+
+设计工具（英语：Design tool）
+
+
+
+算法辅助设计（英语：Algorithms-Aided Design (AAD)）（AAD）
+建筑模型（英语：Architectural model）
+蓝图
+综合布局（英语：Comprehensive layout）
+计算机辅助设计（CAD）
+
+计算机辅助工业设计（英语：Computer-aided industrial design）（CAID）
+虚拟家居设计软件（英语：Virtual home design software）
+
+
+计算机自动设计（CAutoD）
+设计质量指标（英语：Design quality indicator）
+电子设计自动化
+流程图
+Mockup
+产品设计规格
+原型 (工程)
+写生
+分镜
+工程制图
+HTML编辑器
+网站线框（英语：Website wireframe）
+
+
+
+
+
+
+
+
+知识产权
+
+
+
+社区设计（英语：Community design）
+围绕设计（英语：Design around）
+设计专利（英语：Design patent）
+Geschmacksmuster（英语：Geschmacksmuster）
+工业设计权（英语：Industrial design right）
+
+欧盟工业设计权（英语：Industrial design rights in the European Union）
+
+
+
+
+
+
+
+
+
+
+组织
+
+
+
+美国平面设计协会
+特许设计师协会（英语：Chartered Society of Designers）
+设计与工业协会（英语：Design and Industries Association）
+设计委员会（英语：Design Council）
+国际论坛设计
+设计学会（英语：The Design Society）
+设计研究学会（英语：Design Research Society）
+
+
+
+
+
+
+
+
+奖项
+
+
+
+欧洲设计奖（英语：European Design Award）
+德国设计奖（英语：German Design Award）
+好设计奖 (芝加哥)（英语：Good Design Award (Chicago)）
+好设计奖
+Graphex（英语：Graphex）
+IF产品设计奖
+詹姆斯·戴森奖（英语：James Dyson Award）
+菲利浦亲王设计奖
+普利策克奖
+iF产品设计奖
+红点设计大奖
+菲尔·卡夫曼奖
+东京ADC赏
+日本文化厅媒体艺术祭
+时报广告奖
+台湾精品奖
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+相关主题
+
+
+
+
+
+
+
+
+
+美学
+概念艺术
+创意产业
+文化图标（英语：Cultural icon）
+.设计（英语：.design）
+企业架构
+未来学
+智能设计
+新产品开发
+设计哲学
+过程模拟（英语：Process simulation）
+慢设计（英语：Slow design）
+STEAM fields（英语：STEAM fields）
+非智能设计（英语：Unintelligent design）
+可视化
+恶性问题（英语：Wicked problem）
+
+
+设计简介（英语：Design brief）
+设计改变（英语：Design change）
+经典设计（英语：Design classic）
+设计总监（英语：Design director）
+设计教育
+设计元素和原则（英语：Design elements and principles）
+设计工程师（英语：Design engineer）
+设计公司
+设计史
+设计知识（英语：Design knowledge）
+设计语言（英语：Design language）
+设计寿命（英语：Design life）
+设计负载（英语：Design load）
+设计博物馆
+设计范例（英语：Design paradigm）
+设计导向（英语：Design rationale）
+设计审查（英语：Design review）
+设计规格
+设计工作室（英语：Design studio）
+设计技术（英语：Design technology）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+维基共享资源
+维基教科书
+维基新闻
+维基语录
+维基文库
+维基词典
+
+
+
+
+
+
+
+
+
+
+
+
+
+规范控制
+
+
+
+NDL: 00925695
+
+
+
+
+
+
+
+
+
+
+
+
+分类：设计隐藏分类：自2015年12月连结格式不正确的条目自2012年9月需补充来源的条目拒绝当选首页新条目推荐栏目的条目

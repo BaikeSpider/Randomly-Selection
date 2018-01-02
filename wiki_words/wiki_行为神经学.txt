@@ -1,0 +1,418 @@
+行为神经学
+行为神经学是神经学的一个分支，专注于研究行为、记忆、与认知的神经学基础，也探讨神经损伤与疾病的影响和治疗方法。与行为神经学相关的领域包括神经病学与神经心理学等。“行为神经学与神经病学”已经在2004年正式被UCNS认可为神经学的一个分支学科。
+行为神经学所研究的症状与疾病包括（但不限于）:
+
+认识不能
+失读症
+失忆症
+失语症
+运用不能
+注意力不足过动症
+自闭症
+失智症
+思觉失调
+中风
+脑部创伤
+
+
+
+
+目录
+
+
+1 历史
+2 其他
+3 参考资料
+4 外部链接
+
+
+
+历史[编辑]
+对行为症状的叙述可追溯至古希腊与古埃及，但直到19世纪行为神经学才开始兴起。在弗朗兹·约瑟夫·加尔建立灵长类大脑功能定位理论后，紧接着19世纪中期保罗·布洛卡及卡尔·韦尼克提出失语症的功能定位。伴随着爱罗斯·阿兹海默与阿诺德·皮克对失智症的症状叙述，功能定位神经学与症状叙述的相关研究在19世纪末至20世纪初达到巅峰。
+卡尔·拉什利的大鼠研究结果使得功能定位理论与行为功能的病变模型暂缓发展，直到诺曼·贾许温德的研究使得美国境内的行为神经学研究复兴，贾许温德以其对分离综合症的研究著名。1980年代出现的活体神经成像则提供了研究病变、结构与行为功能障碍一项有力的工具。
+其他[编辑]
+
+神经行为学
+生物心理学
+
+参考资料[编辑]
+
+Benson DF (1993). "The history of behavioral neurology". Neurol Clin 11 (1): 1–8. PMID 8441365.
+Martha J. Farah, Todd E. Feinberg; Behavioral Neurology and Neuropsychology; McGraw-Hill Professional Publishing; 1st edition (August 1, 1996)
+Valenstein, Edward; Heilman, Kenneth M. (2003). Clinical neuropsychology (4th ed.). Oxford [Oxfordshire]: Oxford University Press. ISBN 0-19-513367-6.
+
+外部链接[编辑]
+
+Society for Behavioral and Cognitive Neurology
+United Council for Neurologic Subspecialties
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+神经科学
+
+
+
+
+
+
+基础科学
+
+
+
+行为表观遗传学（英语：Behavioral epigenetics）
+行为神经病学
+行为遗传学
+脑机接口
+细胞神经科学
+计算神经科学
+连接组学
+进化神经科学（英语：Evolutionary neuroscience）
+成像遗传学（英语：Imaging genetics）
+整合神经科学（英语：Integrative neuroscience）
+分子神经科学（英语：Molecular neuroscience）
+神经发育
+神经工程
+神经网络（人工的以及生物的）
+神经信号处理
+神经组织再生
+神经生物工程学
+神经生命学
+神经心脏病学
+神经化学
+神经芯片
+神经多样性
+胚胎学
+神经内分泌学
+神经行为学
+神经遗传学
+神经免疫学
+神经信息学
+神经测量学
+神经调制
+神经功能监测
+神经物理学
+神经生理学
+神经可塑性
+神经机器人学（英语：Neurorobotics）
+神经技术（英语：Neurotechnology）
+神经毒素
+神经递质
+
+
+
+
+
+
+
+
+
+
+
+临床神经科学（英语：Clinical neuroscience）
+
+
+
+行为神经学
+临床神经生理学（英语：Clinical neurophysiology）
+神经退行性疾病
+神经发育疾病
+神经成像
+神经内科
+神经流行病学
+神经眼科学
+神经解剖学
+神经胃肠病学
+神经重症护理
+神经学
+神经肿瘤学
+神经病理学（英语：Neuropathology）
+神经义肢技术
+神经药理学（英语：Neuropharmacology）
+Neuroradiology（英语：Neuroradiology）
+Neurorehabilitation（英语：Neurorehabilitation）
+神经外科
+神经病毒学（英语：Neurovirology）
+精神病学
+神经精神病学
+神经耳科学
+古神经病学（英语：Paleoneurology）
+
+
+
+
+
+
+
+
+认知神经科学
+
+
+
+情感神经科学（英语：Affective Neuroscience）
+行为神经科学
+时间生物学
+文化神经科学（英语：Cultural neuroscience）
+教育神经科学（英语：Educational neuroscience）
+分子细胞认知（英语：Molecular cellular cognition）
+神经语言学
+生物心理学
+神经心理学
+Sensory neuroscience（英语：感官神经科学）
+社会神经科学
+Systems neuroscience（英语：系统神经科学）
+
+
+
+
+
+
+
+
+非科学
+
+
+
+神经经济学
+神经语言学
+神经哲学（英语：Neurophilosoph）
+神经伦理学
+神经社会学（英语：Neuro-sociology）
+神经神学（英语：Neurotheology）
+
+
+
+
+
+
+
+
+
+
+
+ 书籍
+ 神经科学的条目分类
+ 共享资源
+ 神经科学主题
+ 专题
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+神经科学
+
+
+
+
+
+
+
+神经科学概要（英语：Outline of neuroscience）
+
+
+
+
+
+
+基础科学
+
+
+
+行为的遗传讯息学（英语：Behavioral epigenetics）
+行为遗传学
+细胞神经科学（英语：Cellular neuroscience）
+计算神经科学
+连接组学
+影像遗传学（英语：Imaging genetics）
+整合性神经科学（英语：Integrative neuroscience）
+分子神经科学（英语：Molecular neuroscience）
+神经工程
+神经解剖（构造）学
+神经化学
+神经内分泌学（英语：Neuroendocrinology）
+神经基因学（英语：Neurogenetics）
+神经信息学
+神经测量学（英语：Neurometrics）
+神经科学与生物形态学（英语：Neuromorphology）
+神经物理（英语：Neurophysics）
+神经生理学
+
+
+
+
+
+
+
+
+
+
+
+临床神经科学（英语：Clinical neuroscience）
+
+
+
+行为神经学
+临床神经生理学（英语：Clinical neurophysiology）
+神经心脏学（英语：Neurocardiology）
+神经流行病学（英语：Neuroepidemiology）
+神经与消化系统学（英语：Neurogastroenterology）
+神经免疫学（英语：Neuroimmunology）
+神经重症学
+神经内科
+神经肿瘤学（英语：Neurooncology）
+神经眼科学
+神经病理学（英语：Neuropathology）
+神经药学（英语：Neuropharmacology）
+神经假体
+神经与精神病学（英语：Neuropsychiatry）
+神经放射学（英语：Neuroradiology）
+神经复健学（英语：Neurorehabilitation）
+神经外科
+神经病毒学（英语：Neurotology）
+神经病毒学（英语：Neurovirology）
+营养与神经科学（英语：Nutritional neuroscience）
+精神病学
+
+
+
+
+
+
+
+
+认知神经科学
+
+
+
+情感神经科学（英语：Affective neuroscience）
+生物心理学
+时间生物学
+分子细胞的认知（英语：Molecular cellular cognition）
+肌肉运动的/运动神经的控制（英语：Motor control）
+神经语言学
+神经心理学
+感知神经科学（英语：Sensory neuroscience）
+社会神经科学
+系统神经科学（英语：Systems neuroscience）
+
+
+
+
+
+
+
+
+跨领域
+
+
+
+消费性神经科学（英语：Consumer neuroscience）
+文化的神经科学（英语：Cultural neuroscience）
+教育的神经科学（英语：Educational neuroscience）
+Evolutionary neuroscience（英语：Evolutionary neuroscience）
+神经人类学（英语：Neuroanthropology）
+神经生物工程（英语：Neurobioengineering）
+神经与生态学（英语：Neurobiotics）
+神经科学与犯罪学（英语：Neurocriminology）
+神经经济学
+神经科学与哲学的认识理论（英语：Neuroepistemology）
+Neuroesthetics（英语：Neuroesthetics）
+神经科学与伦理道德（英语：Neuroethics）
+神经行为学
+神经科学与历史学（英语：Neurohistory）
+神经科学与法律（英语：Neurolaw）
+神经科学与行销学（英语：Neuromarketing）
+神经科学与现象学
+神经科学与哲学（英语：Neurophilosophy）
+神经科学与政治学（英语：Neuropolitics）
+神经科学与机器人（英语：Neurorobotics）
+神经科学与社会学（英语：Neurosociology）
+神经科学与宗教学（英语：Neurotheology）
+神经科学与古生物学（英语：Paleoneurology）
+
+
+
+
+
+
+
+
+概念
+
+
+
+脑机界面
+神经发展（英语：Neural development）
+人工神经网络
+生物神经网络
+信号检测理论
+多执行之神经生理监测（英语：Intraoperative neurophysiological monitoring）
+神经芯片（英语：Neurochip）
+神经退行性疾病
+神经发展及疾患（英语：Neurodevelopmental disorder）
+神经多样性（英语：Neurodiversity）
+神经发生
+神经成像
+神经免疫系统（英语：Neuroimmune system）
+神经管理（英语：Neuromanagement）
+神经调节
+神经可塑性
+神经科技（英语：Neurotechnology）
+神经毒素
+
+
+
+
+
+
+
+
+
+
+
+ 相关书籍（英语：Book:Neuroscience）
+ 神经科学的条目分类
+ 共享资源
+ 神经科学主题
+ 专题
+
+
+
+
+
+
+
+
+
+
+
+
+分类：神经科学行为科学隐藏分类：使用PMID魔术链接的页面使用ISBN魔术链接的页面

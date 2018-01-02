@@ -1,0 +1,485 @@
+斯科维尔指标
+
+
+
+
+
+斯科维尔指标（Scoville Scale）是1912年由美国化学家威尔伯·斯科维尔（Wilbur Scoville）所制订的度量辣椒素（Capsaicin）含量的一项指标。他以自己的姓“斯科维尔”（Scoville）作为单位名称，称为“斯科维尔辣度单位”（Scoville Heat Unit），缩写为SHU。
+斯科维尔设计一套称为“斯科维尔感官测试”（Scoville Organoleptic Test）的实验方法来度量辣椒素含量。该方法为将被测物一单位的辣椒素溶解到糖水里，然后交给数个人品尝，之后逐渐增加糖水量，直到无法尝出辣味为止，此时糖水量的总和即为被测物的斯科维尔辣度单位（SHU）。例如甜椒生吃也没有辣味，因此SHU为0；多香果的SHU介于100到500之间，代表一单位的多香果辣素需要100～500倍的糖水来中和。
+因为这个实验方法受人的主观影响甚大，所以后人开发出称为“高效液相色谱”的方法来量测。不过由于斯科维尔指标的流用已久，所以现今仍常将高效液相色谱的量测值转换为SHU来表示辣椒素含量。
+
+
+
+目录
+
+
+1 斯科维尔指标列表
+2 参见
+3 注释
+4 外部链接
+
+
+
+斯科维尔指标列表[编辑]
+
+
+SHU
+代表物
+
+
+ 
+16,000,000,000
+RTX（英语：Resiniferatoxin）*
+
+
+ 
+5,300,000,000
+TTX（英语：Tinyatoxin）*
+
+
+ 
+16,000,000
+纯辣椒素*、二氢辣椒素*、布莱的一千六百万储备[注 1]
+
+
+ 
+9,100,000
+降二氢辣椒素*
+
+
+ 
+8,600,000
+高二氢辣椒素*、高辣椒素*
+
+
+ 
+5,300,000
+军用催泪瓦斯、FN 303刺激性弹药
+
+
+ 
+2,480,000
+龙之气息
+
+
+
+2,200,000
+卡罗莱纳死神
+
+
+ 
+2,000,000
+民用催泪瓦斯
+
+
+
+1,460,000
+特立尼达蝎子壮汉T辣椒（又名“特立尼达毒蝎辣椒”，Trinidad Scorpion Butch T pepper）
+
+
+
+1,382,118
+娜迦毒蛇辣椒
+
+
+ 
+1,067,286
+永恒辣椒(无限辣椒)（英语：Infinity chili）
+
+
+ 
+1,041,427
+印度鬼椒（Bhut Jolokia）
+
+
+
+800,000
+戴维的魔鬼辣酱
+
+
+ 
+350,000 - 580,000
+墨西哥的沙维那亚伯内洛红辣椒（魔鬼椒）
+
+
+ 
+400,000 - 500,000
+巧克力辣椒（chocolate habanero chili）、涮涮辣
+
+
+ 
+100,000 - 350,000
+哈瓦那辣椒（Habanero）
+
+
+ 
+100,000 - 325,000
+苏格兰斯科奇·伯纳特辣椒（Scotch Bonnet）
+
+
+ 
+100,000 - 225,000
+鸟眼辣椒（Bird's Eye）
+
+
+ 
+100,000 - 200,000
+多香果（牙买加辣椒）
+
+
+ 
+100,000 - 125,000
+美国卡罗莱纳·卡宴辣椒
+
+
+ 
+95,000 - 110,000
+巴哈马辣椒（Bahamian）
+
+
+ 
+85,000 - 115,000
+塔比彻辣椒（Tabiche）
+
+
+ 
+50,000 - 100,000
+泰国辣椒、墨西哥奇特品辣椒（Chiltepin）
+
+
+ 
+40,000 - 58,000
+皮奎辣椒（Piquin）
+
+
+ 
+40,000 - 50,000
+猛辣红椒（Super Chili Pepper）、三鹰唐辛子
+
+
+ 
+30,000 - 48,000
+朝天椒[来源请求]、鸡心椒
+
+
+ 
+30,000 - 50,000
+卡宴辣椒（Cayenne）、塔巴斯科辣椒（Tabasco）
+
+
+ 
+15,000 - 30,000
+迪阿波辣椒（De Arbol)
+
+
+ 
+12,000 - 30,000
+曼扎诺辣椒（Manzano）、味椒盐
+
+
+ 
+10,000
+普通辣椒
+
+
+ 
+7,000 - 8,000
+塔巴斯科－哈瓦那辣椒酱（Tabasco habanero）
+
+
+ 
+5,000 - 23,000
+墨西哥泽拉诺辣椒（Serrano）
+
+
+ 
+5,000 - 10,000
+热蜡辣椒（Hot Wax）
+
+
+ 
+2,500 - 8,000
+墨西哥哈拉贝纽辣椒（Jalapeño）、三鹰唐辛子
+
+
+ 
+2,500 - 5,000
+墨西哥瓜希柳辣椒（Guajillo）
+
+
+ 
+1,500 - 2,500
+塔巴斯科－契普拉辣椒酱（Tabasco chipotle）
+
+
+ 
+1,200 - 1,800
+塔巴斯科－大蒜辣椒酱（Tabasco garlic）
+
+
+ 
+1,500 - 2,500
+若可蒂洛辣椒（Rocotillo）
+
+
+ 
+1,000 - 2,000
+干辣椒（Pasilla Chile）、安可辣椒（Ancho）
+
+
+ 
+1,000 - 2,000
+墨西哥波布拉诺辣椒（Poblano）
+
+
+ 
+700 - 1,000
+科罗拉多辣椒（Coronado）
+
+
+ 
+600 - 1,200
+塔巴斯科－绿辣椒酱（Tabasco green jalapeño pepper sauce）
+
+
+ 
+500 - 2,500
+阿纳海辣椒（Anaheim）
+
+
+ 
+500 - 1,000
+新墨西哥辣椒（New Mexico）
+
+
+ 
+500 - 700
+圣太菲辣椒（Santa Fe Grande）
+
+
+ 
+100 - 500
+希腊金椒（Pepperoncini）、多香果
+
+
+ 
+0 - 5
+甜椒
+
+
+注：标示“*”者为纯化学物质。
+参见[编辑]
+
+这是本条目的朗读版本（info/dl）
+
+
+
+
+
+
+
+
+
+
+
+此音频文件是根据2016年3月27日的“斯科维尔指标”条目的修订版本创建的，以粤语朗读，不会反映对该条目的后续编辑。（媒体帮助）
+更多有声条目
+
+
+pH值
+酸度
+
+注释[编辑]
+
+
+^ 布莱的一千六百万储备（Blair's 16 Million Reserve）是金氏世界记录认证全世界最辣的辣椒加工产品。
+
+
+外部链接[编辑]
+
+
+饮食主题
+化学主题
+
+
+
+Wilbur Scoville profile on NNDB
+Scoville Scale/Scoville Heat Units Explanation at Tabasco Website
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+辣椒品种
+
+
+
+
+
+
+辣椒
+
+
+
+Aleppo
+Banana pepper
+甜椒
+Bird's eye
+Cascabel
+Cayenne
+Chilaca
+Chungyang red pepper
+Cubanelle
+De árbol
+Dundicut
+Espelette
+朝天椒
+'Fresno Chili'
+Friggitello
+Guajillo
+Guntur Sannam
+Hungarian wax
+墨西哥辣椒
+Medusa
+Mulato
+New Mexico (Anaheim)
+Padrón
+Pasilla
+Peter
+Pimiento · Poblano
+Santa Fe Grande
+塞拉诺辣椒
+Shishito
+
+
+
+
+
+
+
+
+C. annuum var. glabriusculum
+
+
+
+Piquín
+Wild chiltepin
+
+
+
+
+
+
+
+
+黄灯笼辣椒
+
+
+
+Adjuma
+Ají dulce
+断魂椒
+卡罗莱纳死神
+Datil
+Fatalii
+哈瓦那辣椒
+Hainan yellow lantern
+Madame Jeanette
+Naga Morich
+沙维那亚伯内洛红辣椒
+Scotch bonnet
+Trinidad moruga scorpion
+特立尼达蝎子壮汉T辣椒
+
+
+
+
+
+
+
+
+小米辣
+
+
+
+African bird's eye · Kambuzi
+马拉盖塔椒
+Siling labuyo
+Tabasco
+
+
+
+
+
+
+
+
+C. baccatum
+
+
+
+Ají
+Bishop's crown
+柠檬辣椒
+Peppadew
+
+
+
+
+
+
+
+
+C. pubescens
+
+
+
+Rocoto pepper
+
+
+
+
+
+
+
+
+其他
+
+
+
+斯科维尔指标
+
+
+
+
+
+
+
+
+
+
+
+ 辣椒
+ 辣椒
+
+
+
+
+
+
+
+
+
+
+
+
+分类：饮食隐藏分类：有未列明来源语句的条目有声条目嵌入hAudio微格式的条目

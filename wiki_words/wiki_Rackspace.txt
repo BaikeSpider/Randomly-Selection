@@ -1,0 +1,183 @@
+Rackspace
+
+
+
+
+
+本条目过于依赖第一手来源。（2017年9月8日） 
+请添加第二手及第三手来源，以改善这篇条目。 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rackspace
+
+
+公司类型
+上市公司
+(NYSE：RAX)
+
+
+成立
+1998
+
+
+产业
+互联网托管服务
+
+
+网站
+www.rackspace.com
+
+
+Rackspace（NYSE：RAX）全球三大云计算中心之一，1998年成立，是一家全球领先的主机托管及云计算提供商，公司总部位于美国，分别在英国、澳大利亚、瑞士、荷兰及香港设有分部。[1]
+
+
+
+目录
+
+
+1 服务概述
+2 Fanatical Support
+3 OpenStack
+4 公司殊荣
+5 外部链接
+6 参考
+
+
+
+服务概述[编辑]
+Rackspace在全球拥有10个以上数据中心，管理超过10万台服务器。Rackspace的托管服务产品包括专用主机、电子邮件、SharePoint、云服务器、云存储、云网站等。在服务架构上提供专用托管、公有云、私有云及混合云。[2]
+Fanatical Support[编辑]
+在提供与其他大型云托管服务商相似的技术产品之外，Rackspace创造了其标志性的支持服务"Fanatical Support"，将其核心价值集中在服务质量上。[3][4]
+OpenStack[编辑]
+2010年，Rackspace与美国国家航空航天局（NASA）合作创始了开放源代码云平台OpenStack。2012年Rackspace宣布在自己的云平台使用创建于OpenStack的技术，并开放源代码自己的云平台软件Rackspace Cloud。
+公司殊荣[编辑]
+Rackspace分别在2008、2011、2012、2013年均入选美国财富杂志“100家最适宜工作的公司”。[5][6]
+外部链接[编辑]
+
+（英文） 官网Cloud Computing, Managed Hosting, Dedicated Server Hosting by Rackspace
+
+参考[编辑]
+
+^ http://www.rackspace.com/information/aboutus/
+^ http://www.rackspace.com/whyrackspace/network/datacenters/
+^ http://www.rackspace.com/whyrackspace/support/
+^ http://tech.fortune.cnn.com/2011/12/02/rackspace/
+^ http://money.cnn.com/magazines/fortune/bestcompanies/2008/snapshots/32.html
+^ http://money.cnn.com/magazines/fortune/best-companies/2013/list/?iid=bc_sp_full
+
+
+
+
+这是一篇与信息技术或软硬件相关公司和企业的小作品。你可以通过编辑或修订扩充其内容。
+
+
+查
+论
+编
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+云计算
+
+
+
+
+
+
+客户端
+
+网页浏览器 · 智能手机 · 上网本 · 迷你台式电脑
+
+
+
+
+
+
+应用
+
+SAP OnDemand Solutions  · Google Apps  · MSN  · SalesForce
+
+
+
+
+
+
+平台
+
+Google App Engine  · Microsoft Azure  · Engine Yard（英语：Engine Yard）  · Force.com  · Heroku  · RightScale（英语：RightScale）  · SAP Cloud Platform（英语：SAP Cloud Platform）
+
+
+
+
+
+
+基础设施
+
+AWS ( Amazon EC2 · Amazon S3 ) · Google云平台  · Eucalyptus  · GoGrid（英语：GoGrid）  · IBM cloud computing（英语：IBM cloud computing） · Nimbus（英语：Nimbus (cloud computing)）  · OpenStack  · Rackspace Cloud
+
+
+
+
+
+
+类型
+
+SaaS  · PaaS  · IaaS  · SECaaS
+
+
+
+
+
+
+技术
+
+云数据库（英语：Cloud_database）  · 数据中心  · 分布式文件系统 · 硬件虚拟化  · Web服务  · 虚拟设备  · 多租户技术  · 虚拟私有云 · 微服务
+
+
+
+
+
+
+标准
+
+Ajax · Atom · HTML5 · REST · XMPP · BitTorrent
+
+
+
+
+
+
+
+
+
+
+分类：纽约证券交易所上市公司美国公司云端运算1998年建立隐藏分类：自2017年9月缺少可靠来源的条目含有英语的条目全部小作品资讯科技公司小作品

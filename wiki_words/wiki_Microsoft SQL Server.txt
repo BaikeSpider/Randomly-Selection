@@ -1,0 +1,1243 @@
+Microsoft SQL Server
+
+
+
+
+
+
+Microsoft SQL Server
+
+
+
+
+开发者
+Microsoft
+
+
+稳定版本
+
+
+
+稳定版本
+
+SQL Server 2016  / 2016年6月1日 (2016-06-01)
+
+
+
+操作系统
+Microsoft Windows
+
+
+类型
+关系数据库管理系统
+
+
+许可协议
+Microsoft EULA
+
+
+网站
+http://www.microsoft.com/zh-cn/server-cloud/products/sql-server/
+
+
+
+
+提示：本条目的主题不是MySQL。
+Microsoft SQL Server是由美国微软公司所推出的关系数据库解决方案，最新的版本是SQL Server 2017，已在美国时间2017年10月2日发布。 数据库的内置语言原本是采用美国标准局（ANSI）和国际标准组织（ISO）所定义的SQL语言，但是微软公司对它进行了部分扩充而成为作业用SQL（Transact-SQL）。 几个初始版本适用于中小企业的数据库管理，但是近年来它的应用范围有所扩展，已经触及到大型、跨国企业的数据库管理。
+
+
+
+目录
+
+
+1 历史渊源
+2 版本演进
+
+2.1 SQL Server 1.0 & 1.1
+2.2 SQL Server 4.2
+2.3 SQL Server for Windows NT
+2.4 SQL Server 6.0
+2.5 SQL Server 7.0
+2.6 SQL Server 2000
+2.7 SQL Server 2005
+2.8 SQL Server 2008
+2.9 SQL Server 2008 R2
+2.10 SQL Server 2012
+2.11 SQL Server 2014
+2.12 Windows Azure SQL Database
+2.13 SQL Server 2016
+2.14 SQL Server 2017
+2.15 SQL Server on Linux
+
+
+3 架构
+4 服务
+5 数据库管理工具
+6 对编程的支持
+7 版本
+8 参考文献
+
+8.1 引用
+8.2 书籍
+
+
+9 外部链接
+
+
+
+历史渊源
+SQL Server一开始并不是微软自己研发的产品，而是当时为了要和IBM竞争时，与Sybase合作所产生的，其最早的发展者是Sybase[1]，同时微软也和Sybase合作过SQL Server 4.2版本的研发，微软亦将SQL Server 4.2移植到Windows NT（当时为3.1版），在与Sybase终止合作关系后，自力开发出SQL Server 6.0版，往后的SQL Server即均由微软自行研发。
+在与微软终止合作关系后，Sybase在Windows NT上的数据库产品原本称为Sybase SQL Server，后来改为现在的Sybase Adaptive Server Enterprise。
+版本演进
+
+
+版本
+年份
+发布名称
+代号
+
+
+1.0
+(OS/2)
+1989年
+SQL Server 1.0
+-
+
+
+4.21
+(WinNT)
+1993年
+SQL Server 4.21
+-
+
+
+6.0
+1995年
+SQL Server 6.0
+SQL95
+
+
+6.5
+1996年
+SQL Server 6.5
+Hydra
+
+
+7.0
+1998年
+SQL Server 7.0
+Sphinx
+
+
+-
+1999年
+SQL Server 7.0
+OLAP工具
+Plato
+
+
+8.0
+2000年
+SQL Server 2000
+Shiloh
+
+
+8.0
+2003年
+SQL Server 2000
+64-bit版本
+Liberty
+
+
+9.0
+2005年
+SQL Server 2005
+Yukon
+
+
+10.0
+2008年
+SQL Server 2008
+Katmai
+
+
+10.25
+2009年
+SQL Azure
+CloudDatabase
+
+
+10.50
+2010年
+SQL Server 2008 R2
+Kilimanjaro（aka KJ）
+
+
+11.0
+2012年
+SQL Server 2012
+Denali
+
+
+12.0
+2014年
+SQL Server 2014
+
+
+
+13.0
+2016年
+SQL Server 2016
+
+
+
+SQL Server 1.0 & 1.1
+SQL Server的发源最早要回到1986年，当时微软已和IBM合作开发OS/2（当时为了要继承MS-DOS）操作系统，但由于缺乏数据库的管理工具，而IBM也打算将其数据库工具放到OS/2中销售之下，微软和Sybase合作，将Sybase所开发的数据库产品纳入微软所研发的OS/2中，并在获得Ashton-Tate的支持下，第一个挂微软名称的数据库服务器Ashton-Tate/Microsoft SQL Server 1.0于1989年上市。
+不过在1989-1990年间，由于Ashton-Tate的dBase IV项目不顺，让微软原本打算由dBase IV来开发SQL Server应用程序的项目变得无法实现，因此微软终止与Ashton-Tate的合约，真正挂微软单一品牌的Microsoft SQL Server 1.1于1990年中出货。同一年，微软为SQL Server创建技术支持团队，并于1991年初起陆续获取Sybase的授权，有权利可以查看与修改SQL Server的原始代码，但由于主控权仍在Sybase，因此微软的任何修正都需要由Sybase查看并且同意后才可以运行，这个里程碑对日后微软开始发展自己的数据库服务器时，在数据库引擎的发展上，提供了相当重要的基础。
+然而在OS/2的销售状况不佳下，SQL Server 1.0/1.1/1.11（后续发布的1.1升级版）的销售状况都不佳[1]。
+SQL Server 4.2
+1992年，由Sybase与微软共同发表SQL Server 4.2版，微软在此版本中的贡献为：
+
+与Sybase合作，将Sybase的SQL Server核心代码移植到OS/2中。
+提供MS-DOS，Windows以及OS/2的客户端库（Client Library）。
+开发部分管理工具。
+
+不过SQL Server 4.2一开始并不是以32位为基础，而是以16位为基础开发。
+SQL Server for Windows NT
+在1992年时，由于市场上对32位操作系统的需求逐渐升高，但IBM的OS/2 2.0却又没有如期在时程内完成，SQL Server的开发小组利用OS/2的32位接口移植SQL Server到OS/2 2.0（当时为beta）测试时，发现32位并没有如预期来的有效率，另外一方面，微软内部当时也正在开发新一代操作系统（即Windows NT），使得SQL Server团队决定要终止对SQL Server for OS/2的发展，同时挹注全力开发出支持Windows NT的版本，代号为“SQL NT”。
+在SQL NT中，微软将SQL Server 4.2的核心代码，以Win32 API翻写，并于1993年Windows NT 3.1出货后30天，完成SQL Server for Windows NT（4.2）的开发工作，在市场上销售[1]。
+SQL Server 4.2是第一个Windows NT上的SQL Server，也是第一个出现在微软认证考试中的SQL Server产品。
+SQL Server 6.0
+在微软利用SQL Server 4.2 for Windows NT赚取高额营收（自SQL Server 4.2 for Windows NT发行起九个月内，微软SQL Server带来的营收已成长两倍）时，对于其合作伙伴Sybase而言，微软的SQL Server已不被Sybase所重视（Sybase自己要关注在自家的产品线），并且因为SQL Server的权利在Sybase手中（1987年与Sybase签订的合约），微软无法在SQL Server中自行添加与修改功能。
+微软自SQL Server 1.0到4.2 for Windows NT，数个版本的历程中，其SQL Server团队已经大幅成长，但受限于与Sybase的合约，微软即使有新研发的Windows NT功能，也无法加入SQL Server中，因此于1994年4月12日，微软和Sybase正式终止了合作关系（并向Sybase买下了Windows版本的SQL Server代码版权），微软获得了对SQL Server代码的完全控制权，不过挑战也接踵而来——Sybase即将于年底发表System 10 for Windows NT，微软必须要提出新的版本项目，以防止Sybase将原本的微软客户抢走，“SQL 95”项目这样产生了。
+SQL 95的命名是仿自Windows 95，也就是新一代的数据库服务器软件，此版本于1994年10月发布第一个beta版本，并且后续又发布了不同的beta修正版，其中较引人注目的是首次出现在SQL Server中的“复制”（Replication）功能，复制功能所需要的“可滚动式数据游标”（scrollable-cursor），以及其管理工具（代号为“Starfighter”，即SQL Enterprise Manager）。
+SQL Server 6.0（SQL 95）于1995年6月14日完成并进入RTM（released to manufacturing），对于SQL Server团队以及微软来说，SQL Server 6.0是重要的里程碑，因为此版本是完全由微软自行开发，未假手Sybase或其他厂商，因此SQL Server 6.0的发行，让微软的数据库研发能力正式被外界认可[1]。
+SQL Server 6.5发布于1996年，约于SQL Server 6.0发表后十个月后发行[1]。
+SQL Server 7.0
+当微软正在发展SQL Server 6.5时，已经另外有一个团队正在发展新的数据库，由于微软项目要能够让此种数据库引擎能够具有可向上发展，亦可以缩小到PC或笔记本电脑中，因此数据库的核心必须要重新撰写，这就会涉及数据结构的改变，为了要让数据库的升级能够确保其稳定性，微软在1997年特别邀请1000个组织备份数据库，交由开发小组进行升级，并且在升级过程中找出可能的失败原因。同时在1998年2月起，微软与ISV合作发展运行于SQL Server 7.0的软件，除了保持兼容性外，也让ISV能够特别为SQL Server 7.0的特性撰写程序。
+在同一时间，OLE DB的技术，以及很多人熟知的MSDE（Microsoft Data Engine）也在研发中，后来OLE DB成为Windows平台上数据访问的显学，其上的ADO更获得多数开发人员的采用。而MSDE也做为Microsoft Access数据库外的另一种单机数据库的选择。
+SQL Server 7.0最终冻结版本为7.00.623.07，于1998年12月进入RTM[1]。
+SQL Server 2000
+原本SQL Server 2000只是SQL Server 7.0的一个小改款，代号为“Shiloh”，版本号码为7.5；真正要做大翻修的SQL Server版本，代号则是“Yukon”。Shiloh在开发过程中，因为要加入的功能并不多，只是要完成在7.0版中没有写完的功能，并且预期可能升级的客户不多，因此当时在微软内部，只是把Shiloh视为是一个“Super Service Pack”而已，有如SQL Server 6.0和6.5的角色。
+不过因为几个因素，让SQL Server 7.5摆脱“Super Service Pack”的束缚：
+
+SQL Server 7.0 Service Pack 2已经发表，无需再开发一个Service Pack。
+来自客户对于性能以及在数据仓库中对星状拓朴支持的分区查看与最优化的要求。
+来自于竞争者Oracle的压力。
+
+在微软决定要把时程展延到18个月（完整的软件周期）时，也开始为SQL Server 7.5加入新的功能，版本代码升级到8.0（最终版本为8.0.194），同时因应当时Windows 2000的项目，Microsoft BackOffice也命名为BackOffice 2000，故SQL Server 8.0也改名为SQL Server 2000。
+SQL Server 2000于2000年8月6日完成，并于2000年8月9日进入RTM状态[1]。
+SQL Server 2000可说是微软数据库服务器中“生命期最久”（自2000年8月9日RTM开始到2005年11月SQL Server 2005上市为止，长达五年又三个月），而且后续添加的新功能相当多，Service Pack也最多（最后的Service Pack为SP4）的版本，诸如：
+
+SQL Server 2000 Notification Services
+SQL Server 2000 Reporting Services
+SQL Server 2000 Web Administration
+SQL Server 2000 XML（SQLXML）
+
+同时，它也是第一个出现在Windows CE上的SQL Server。
+SQL Server 2005
+SQL Server 2005（代号为“Yukon”）在千呼万唤下终于在2005年11月，与Visual Studio 2005一起发表，在SQL Server 2005的研发过程中，其实并不顺利。
+SQL Server“Yukon”在2003年底左右就发表了Beta 1，虽然已经有数据库以及部分的新功能，但由于太多的除错码（当时SQL Server作为CLR Hosting基底的.NET Framework 2.0也正在研发中），让运行速度变得很慢。一直到2004年中左右才发布Beta 2，此版本的稳定度就高些，在Beta 2和Beta 3之间，每一至三个月左右就会发布一个测试版本，由于并不是达到特定功能或特定时程的测试版，因此都以“CTP”（Community Technology Preview）的方式发行（现在广泛运用于各微软的产品测试版本中），Beta 2和Beta 3之间相距几乎一年，2005年6月才发布Beta 3，此时整个环境才大致底定下来。
+SQL Server 2005具代表性的新功能有[2]：
+
+SQL Server管理工具的改变，SQL Server Management Studio（SSMS）取代SQL Server Enterprise Manager。
+将商业智能的开发功能由SQL Server Enterprise Manager切出，加入Visual Studio中，即Business Intelligence Development Studio（BIDS）。
+新增多种Transact-SQL指令，例如PIVOT/UNPIVOT，Common Table Expression（CTE）等等。
+强化XML的处理能力，并新增本地的XML数据类型，以及支持原生XML数据类型的XML查询运算符。
+新增varchar（max），nvarchar（max），varbinary（max）型数据类型，用来取代text、ntext与image类型。
+将.NET Framework功能植入数据库引擎中（SQL CLR），让VB.NET和C#可以开发SQL Server Stored Procedure，Function，User-Defined Type等。
+原本的DTS改名为SQL Server Integration Services，强化其ETL（Extract, Transform and Load）功能。
+Data Mining新增到八种算法。
+数据库引擎的安全性功能大幅强化，引入主体（Principal），结构（Schema）以及数据层次的加解密。
+对于数据结构变更的触发程序支持（DDL Trigger）。
+
+除了服务器版本的改变外，MSDE也正式由SQL Server Express所接替，作为SQL Server 2005核心的微型数据库服务器，并且在随后的版本，也添加了SQL Server Express Reporting Service以及SQL Server Management Studio Express等小工具，让SQL Server Express比MSDE更好管理。
+SQL Server 2008
+SQL Server 2008在2008年8月6日正式发表，并且同时发布SQL Server 2008 Express版本，研发代号为“Katmai”，作为SQL Server 2005的功能强化版本，其主要的新功能[3]与特色有：
+
+以原则为主（Policy-Based）的管理基础架构。
+与Windows Server 2008、Windows Vista的Data Collector技术集成的Performance Data Collection。
+可以经由管理者设置以调整运行资源的资源调节器（Resource Governer）。
+可预测的查询性能。
+数据压缩能力。
+DDL（数据定义语言）审核能力。
+透通式数据加密（Transparent Data Encryption）
+日志数据流压缩（Log Stream Compression）
+ADO.NET Object Services的直接支持，这代表SQL Server 2008可支持LINQ和ADO.NET Entity Framework。
+本地的DATE和TIME分区的数据类型，并且支持时间位移的DATETIMEOFFSET和更精确的DATETIME2数据类型。
+FILESTREAM数据类型：将大型二进制数据存到NTFS文件系统中（即不直接存在数据库中）。
+稀疏字段（Sparse Column）的支持，可节省因为NULL值所占据的存储空间。
+空间数据类型集，包含geometry（平面或Euclidean（平面地球）数据）以及geography（椭圆体（圆形地球）数据），分别可存储平面和立面型的数据，有助于GIS型系统的开发。
+变更数据收集与捕捉（Change Data Capture）。
+宽数据表（Wide table），可以容纳最高30,000个字段，但必须要配合Sparse字段使用。
+hierarchyid数据类型，可以允许存储层次结构化的数据。
+MERGE语句，可根据与来源数据表联结的结果，在目标数据表上运行插入、更新或删除作业，其功能与ADO.NET中的DataSet.Merge()方法类似。
+Report Server应用程序嵌入能力。
+Reporting Service可支持窗体验证。
+预测分析能力（SSAS）。
+数据表型参数与变量，可以在变量或参数中使用table的类型。
+
+SQL Server 2008比起以往版本存在以下优势： （1）保护数据库查询 （2）在服务器的管理操作上花费更少的时间 （3）增加应用程序稳定性 （4）系统执行性能最优化与预测功能
+SQL Server 2008 R2
+SQL Server 2008 R2在2010年4月21日正式发表，并且同时发布SQL Server 2008 R2 Express版
+SQL Server 2012
+SQL Server 2012在2012年3月6日正式发表。提供标准、企业、智能商务三种版本。
+SQL Server 2014
+SQL Server 2014在2014年4月1日正式发表。
+Windows Azure SQL Database
+主条目：Windows Azure SQL Database
+SQL Azure是微软Windows Azure Platform上的云关系数据库服务（Database as a Service），早期被称为SQL Server Data Services或SQL Services，应用程序可以直接利用TDS over SSL来访问SQL Azure中的数据库，同时SQL Azure基于Windows Azure平台之上，亦具有与Windows Azure相同的高可用性（High Availability），高延展性 (High Extensibility)以及高扩充性（High Scalability）。
+在Windows Azure的2012年度Spring Release时，进行了品牌重整，将SQL Azure纳入Windows Azure产品线下，改名为Windows Azure SQL Database。
+SQL Server 2016
+已在2016年6月1日发布。[4]
+SQL Server 2017
+已在美国时间2017年10月2日发布。[5]
+SQL Server on Linux
+微软公司于2016年3月8日发布封闭预览测试版的SQL Server on Linux，预定于2017年上市。此为SQL Server推出27年以来，再次支持Windows以外的操作系统。[6]
+2017年10月，SQL Server 2017 on Linux作为SQL Server 2017的多操作系统版本已发布。[7]
+架构
+服务
+数据库管理工具
+
+SQL Server Management Studio
+
+SQL Server默认的数据库管理工具，随着SQL Server安装时勾选客户端的选项而安装。
+
+
+Navicat for SQL Server[8]
+
+是一套专为Microsoft SQL Server设计的强大数据库管理及开发工具。它可以用于任何版本的 SQL Server数据库，并支持大部分 SQL Server的功能，包括触发器、索引、查看等。断点。
+
+
+
+对编程的支持
+
+以T-SQL语法写SQL预存程序或SQL预存函数。[9]
+ODBC 及 OLE DB 支持。
+SQL Server Native Client，SQL Server 的原生客户端组件，也是 ODBC 和 OLE DB 驱动程序的提供者。[10]SQL Server 2012 起废除。[11]
+自SQL Server 2005以后，以SQL CLR支持使用C#或VB.NET撰写外挂的DLL档，来扩充原本TSQL语法所欠缺的功能。[12]
+以sqlcmd来提供在批处理文件运行SQL命令的功能。[13]
+在ASP，可以经由ADO对于SQL Server进行访问。[14]
+在ASP.NET，可以经由ADO.NET对于SQL Server进行访问。[15]
+在Java或JSP，可以经由JDBC对于SQL Server进行访问。[16]
+在PHP，可以经由PDO对于SQL Server进行访问。[17]
+
+版本
+SQL Server依功能的不同，分成下列的版本：
+
+SQL Server Enterprise Edition：具有企业级功能的SQL Server版本，适用于大型企业以及大型数据库或数据仓库的服务器版本。
+SQL Server Standard Edition：具有标准功能的SQL Server版本，适用于一般企业的服务器版本。
+SQL Server Workgroup Edition：自SQL Server 2000开始才有的版本，专为工作组或部门所设计，适用于较小规模的组织。
+SQL Server Web Edition：自SQL Server 2008开始才有的版本，专为Web服务器与Web Hosting所设计，功能上较Workgroup Edition少一些。
+SQL Server Express Edition：免费的SQL Server版本，适用于小型应用程序或是单机型应用程序，但在功能上有设限，如只能使用一颗处理器，以及最大数据库大小为4GB等。请见SQL Server Express。
+
+SQL Server 2008 Express下载地址
+
+SQL Server 2008 Express
+SQL Server 2008 Express and Advanced Services
+SQL Server 2008 Express with Tools
+
+
+MSDE下载地址
+
+Microsoft SQL Server 2000 Desktop Engine (MSDE 2000) Release A
+
+
+SQL Server 2005 Express下载地址
+
+Microsoft SQL Server 2005 Express Edition with Advanced Services Service Pack 2
+Microsoft SQL Server 2005 Express Edition Toolkit Service Pack 2
+Microsoft SQL Server Management Studio Express Service Pack 2
+Microsoft SQL Server 2005 Express Edition Service Pack 2
+SQL Server Compact Edition：免费的SQL Server版本，专用于移动设备以及Windows CE操作系统。
+
+
+
+
+SQL Server Developer Edition，具有与SQL Server Enterprise Edition相同的功能，但只授权在开发应用程序与测试之用，也正因为如此，SQL Server Developer Edition的价格只有Enterprise Edition约千分之一而已。
+
+SQL Server 2014 Developer Edition: 对Visual Studio Dev Essentials会员免费下载
+
+
+
+参考文献
+引用
+
+
+^ 1.0 1.1 1.2 1.3 1.4 1.5 1.6 The Evolution of Microsoft SQL Server: 1989 to 2000 互联网档案馆的存档，存档日期2011-11-25.
+^ SQL Server 2005 Top 30 Features
+^ SQL Server 2008 New Features
+^ What's new in SQL Server 2016
+^ What's new in SQL Server 2017
+^ 微软拥抱Linux，SQL Server明年中将推出Linux版本
+^ What's new for SQL Server 2017 on Linux
+^ Navicat for SQL Server
+^ Transact-SQL Reference (Transact-SQL). Microsoft. [2014-05-14]. 
+^ 数据访问技术路线图. Microsoft. [2016-10-29]. 
+^ SQL Server Native Client (ODBC). Microsoft. [2016-10-29]. 
+^ Introduction to SQL Server CLR Integration. Microsoft. [2014-05-14]. 
+^ Use the sqlcmd Utility. Microsoft. [2014-05-14]. 
+^ Using ADO with SQL Server Native Client. Microsoft. [2014-05-14]. 
+^ SQL Server and ADO.NET. Microsoft. [2014-05-14]. 
+^ Microsoft JDBC Driver 4.0 for SQL Server. Microsoft. [2014-05-14]. 
+^ Microsoft Drivers 3.0 for PHP for SQL Server. Microsoft. [2014-05-14]. 
+
+
+书籍
+
+Kalen Delaney (2001). "Inside SQL Server 2000". Microsoft Press. ISBN 0-7356-0998-5.
+Scalability Experts (2005). "SQL Server 2005 : Changing the Paradigm". Sams ISBN 0-672-32778-3
+Thomas Rizzo, Adam Machanic, et al (2005). "Pro SQL Server 2005". Apress ISBN 1-59059-477-0
+Fernando Guerrero, Carlos Eduardo Rojas (2001). "Sql Server Programming By Example", QUE ISBN 0-7897-2449-9
+Tony Bain, et al (2004). "Beginning SQL Server 2000 DBA From Novice to Professional", aPress ISBN 1-59059-293-X
+Brian Knight, Kathi Kellenberger, et al (2006). "Professional SQL Server 2005 Integration Services", Wrox ISBN 0-7645-8435-9
+Buck Woody (2005). "Administrator's Guide to SQL Server 2005". Pearson Education ISBN 0-321-39797-5
+Mike Gunderloy, Joseph L. Jorden, David W. Tschanz (2006). "Mastering SQL Server 2005", Sybex, ISBN 0-7821-4380-6
+
+外部链接
+
+http://www.microsoft.com/taiwan/sql/prodinfo/overview/default.mspx SQL Server 2005概觀，微软官方网站，2005年11月7日
+http://www.microsoft.com/taiwan/sql/history/default.htm Microsoft SQL Server & Microsoft Visual Studio：歷史牆，微软官方网站，
+http://www.ithome.com.tw/itadm/article.php?c=34161 扛起企業重資料，SQL Server 2005邁進企業級資料庫，iThome电脑报，2005年11月21日
+SQL Server Official Site
+High Performance SQL Server
+Longer version of the history from a dev team member
+SQL Server 2005知识库/程序设计俱乐部
+SQL Server Worldwide Users Group Help Site
+Support Lifecycle
+WinFS Team Blog about WinFS rollup into Katmai and other various products
+Data Platform Vision
+
+
+
+
+数据库管理系统（DBMS） （查看 · 讨论 · 编辑）
+
+
+
+概念
+数据库 · 数据模型 · 数据库存储结构（英语：Database storage structures） · 关系 (数据库) · 关系模型 · 分布式数据库 · ACID ( 原子性（英语：Atomicity (database systems)） · 一致性· 隔离性· 持久性（英语：Durability (database systems)） ) · Null值
+关系模型 · 数据库规范化 · 数据库完整性 · 实体完整性 · 引用完整性（英语：Referential integrity） · 关系数据库管理系统 
+主键 · 外键 · 代理键 · 超键 · 候选键 
+
+
+
+
+数据库组件
+触发器 · 视图 · 数据库表 · 指标 (数据库) · 事务日志（英语：Transaction log） · 数据库事务 · 并发控制 · 乐观锁 · 悲观锁 · 数据库索引 
+存储程序 · 数据库分区（英语：Partition (database)）
+
+
+SQL
+分类： 数据查询语言（DQL） - 数据定义语言（DDL） - 数据操纵语言（DML） - 数据控制语言（DCL）
+指令：SELECT · INSERT · UPDATE · MERGE · DELETE · JOIN · UNION（英语：Union (SQL)） · CREATE · DROP · Begin work · COMMIT · ROLLBACK · TRUNCATE · ALTER
+安全： SQL注入攻击 · 参数化查询
+
+
+
+数据库管理系统的实现
+
+
+
+实现类型
+关系数据库 · 文件型数据库 · Deductive · 维度化数据库 · 层次结构式 · 图形数据库 · NoSQL· 对象数据库 · 对象关系数据库 · Temporal · XML数据库
+
+
+
+
+数据库产品
+对象型（对比） · 关系型（对比）
+
+
+数据库组件
+数据查询语言 · 查询最优化器 · 查询项目 · 嵌入式SQL · ODBC · JDBC · OLE DB
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+ 微软
+
+
+
+
+
+
+
+
+
+历史
+
+
+
+
+
+
+
+
+人物
+（列表）
+
+
+
+
+创始人
+
+
+
+比尔·盖茨
+保罗·艾伦
+
+
+
+
+
+
+
+
+董事会
+
+
+
+约翰·W·汤普森（主席）
+萨蒂亚·纳德拉（首席执行官）
+迪娜·杜伯伦
+里德·霍夫曼
+Maria Klawe（英语：Maria Klawe）
+David Marquardt（英语：David Marquardt）
+Charles Noski（英语：Charles Noski）
+Helmut Panke（英语：Helmut Panke）
+Mason Morfit（英语：Mason Morfit）
+John W. Stanton（英语：John W. Stanton）
+
+
+
+
+
+
+
+
+高层领导团队
+
+
+
+萨蒂亚·纳德拉（首席执行官）
+Chris Caposella（营销长）
+Kurt DelBene
+Scott Guthrie（英语：Scott Guthrie）
+Amy Hood（英语：Amy Hood）（财务长）
+Kathleen Hogan
+陆奇
+特里·迈尔森
+沈向洋
+Brad Smith
+Kevin Turner（英语：B. Kevin Turner）（首席首席运营官）
+
+
+
+
+
+
+
+
+公司副总裁
+
+
+
+乔北峰
+Panos Panay
+理查德·拉希德（高级副总裁）
+S. Somasegar（英语：S. Somasegar）（高级副总裁）
+
+
+
+
+
+
+
+
+
+
+
+部门
+
+
+
+工程团队
+
+配件
+移动
+
+
+反网络犯罪中心（英语：Microsoft Digital Crimes Unit）
+车库（英语：Microsoft Garage）
+出版社
+研究院
+工作室
+.NET基金会
+Outercurve基金会（英语：Outercurve Foundation）
+
+
+
+
+
+
+
+
+产品系列
+
+
+
+操作系统
+
+Windows
+
+
+软件
+
+Office
+Servers
+Visual Studio
+
+
+Hololens
+Surface
+Xbox
+
+
+
+
+
+
+
+
+网络性
+
+
+
+必应
+Channel 9
+CodePlex
+领英
+开发者网络
+MSN
+Office.com
+OneDrive
+Outlook.com
+TechNet
+Windows Store
+How-old.net
+
+
+
+
+
+
+
+
+大会
+
+
+
+Build
+MIX（英语：MIX (Microsoft)）
+PDC
+TechEd（英语：TechEd）
+WinHEC
+微软全球合作伙伴大会（英语：Microsoft Worldwide Partner Conference）
+
+
+
+
+
+
+
+
+批评
+
+
+
+Microsoft Windows捆绑销售（英语：Bundling of Microsoft Windows）
+iLoo（英语：iLoo#Reaction）
+Internet Explorer
+_NSAKEY（英语：_NSAKEY）
+Windows
+
+XP
+Vista
+8
+
+
+Xbox 360
+
+
+
+
+
+
+
+
+诉讼
+
+
+
+阿尔卡特-朗讯诉微软（英语：Alcatel-Lucent v. Microsoft Corp.）
+苹果诉微软（英语：Apple Computer, Inc. v. Microsoft Corp.）
+欧盟微软竞争案（英语：Microsoft Corp v Commission）
+微软诉Lindows（英语：Microsoft Corp. v. Lindows.com, Inc.）
+微软诉MikeRoweSoft
+微软诉Shah（英语：Microsoft Corp. v. Shah）
+美国诉微软案
+
+
+
+
+
+
+
+
+收购（英语：List of mergers and acquisitions by Microsoft）
+
+
+
+6Wunderkinder
+Altamira Software（英语：Altamira Software）
+aQuantive
+Azyxxi
+The Blue Ribbon SoundWorks（英语：The Blue Ribbon SoundWorks）
+Bungie
+Calista Technologies（英语：Calista Technologies）
+Colloquis（英语：Colloquis）
+Connectix（英语：Connectix）
+Consumers Software（英语：Consumers Software）
+Danger（英语：Danger (公司)）
+Farecast
+FASA Studio
+Fast Search & Transfer（英语：Fast Search & Transfer）
+Firefly（英语：Firefly (website)）
+Forethought（英语：Forethought, Inc.）
+GIANT Company Software
+GreenButton（英语：GreenButton）
+Groove Networks（英语：Groove Networks）
+Hotmail
+Jellyfish.com（英语：Jellyfish.com）
+领英
+LinkExchange（英语：LinkExchange）
+Lionhead Studios
+Massive Incorporated（英语：Massive Incorporated）
+Mojang
+诺基亚
+Onfolio（英语：Windows Live Toolbar#Onfolio）
+PlaceWare（英语：PlaceWare）
+Powerset
+ProClarity（英语：ProClarity）
+Rare
+Revolution Analytics（英语：Revolution Analytics）
+ScreenTonic（英语：ScreenTonic）
+Skype
+Sunrise Atelier（英语：Sunrise Calendar）
+Winternals Software
+Teleo（英语：Teleo）
+Telekinesys Research
+Tellme Networks（英语：Tellme Networks）
+Twisted Pixel Games
+Vermeer Technologies（英语：Vermeer Technologies）
+Visio Corporation（英语：Visio Corporation）
+Vivaty（英语：Flux (software)）（解散）
+VoloMetrix（英语：VoloMetrix）
+VXtreme（英语：NetShow）
+WebTV Networks
+Yammer
+Yupi（英语：Yupi）
+
+
+
+
+
+
+
+
+
+
+
+ 分类
+ 共享资源
+ 微软主题
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+微软开发工具
+
+
+
+
+
+
+开发环境
+
+
+
+
+
+Visual Studio
+
+
+
+
+Code
+Express
+Lab Management（英语：Visual Studio Lab Management）
+Team System Profiler（英语：VSTS Profiler）
+Test Professional
+Tools for Applications（英语：Visual Studio Tools for Applications）
+Tools for Office（英语：Visual Studio Tools for Office）
+
+
+
+
+
+
+
+
+
+其他
+
+
+
+
+.NET Compiler Platform（英语：.NET Compiler Platform）
+App Studio（英语：Windows App Studio）
+Blend（英语：Microsoft Blend）
+Expression Web（英语：Microsoft Expression Web）
+GW-BASIC
+Microsoft Pascal（英语：Microsoft Pascal）
+MSBuild（英语：MSBuild）
+Robotics Developer Studio
+SharePoint Designer
+
+FrontPage
+
+
+PowerShell ISE
+QuickBASIC
+
+QBASIC
+
+
+QuickC（英语：QuickC）
+Small Basic
+WebMatrix
+Windows SDK
+
+CLR Profiler（英语：CLR Profiler）
+ILAsm（英语：ILAsm）
+Native Image Generator（英语：Native Image Generator）
+XAMLPad
+
+
+
+
+
+
+
+
+
+
+
+
+
+语言
+
+
+
+Microsoft Basic
+Visual Basic
+Visual Basic .NET
+Microsoft Visual C++
+
+C++/CX
+C++/CLI
+Managed C++
+
+
+C#
+
+Visual C#
+
+
+F#
+J#
+Visual FoxPro
+IronPython
+IronRuby
+JScript
+PowerShell
+TypeScript
+VBScript
+XAML
+
+
+
+
+
+
+
+
+主要API和框架
+（完整列表）
+
+
+
+
+
+
+
+Windows API
+Silverlight
+XNA
+DirectX
+
+Managed DirectX（英语：Managed DirectX）
+
+
+Xbox开发工具包
+Windows Installer
+
+
+
+
+
+
+
+
+
+.NET框架
+
+
+
+
+ASP.NET
+
+ASP.NET Core
+ASP.NET AJAX
+ASP.NET Dynamic Data（英语：ASP.NET Dynamic Data）
+ASP.NET MVC Framework
+ASP.NET Razor（英语：ASP.NET Razor）
+
+
+ADO.NET
+
+Entity Framework
+
+
+CardSpace
+Communication Foundation
+Identity Foundation（英语：Windows Identity Foundation）
+语言集成查询（LINQ）
+Presentation Foundation
+Workflow Foundation
+
+
+
+
+
+
+
+
+
+驱动程序
+
+
+
+
+驱动程序开发工具包（WDK）
+WDF
+
+KMDF
+UMDF
+
+
+Windows Hardware Certification Kit（英语：Windows Hardware Certification Kit）
+WDM
+
+
+
+
+
+
+
+
+
+
+
+数据库
+
+
+
+
+
+SQL Server
+
+
+
+
+Express
+Compact（英语：SQL Server Compact）
+Management Studio（英语：SQL Server Management Studio）
+Business Intelligence Development Studio（英语：Business Intelligence Development Studio）
+MSDE
+
+
+
+
+
+
+
+
+
+SQL服务
+
+
+
+
+Analysis（英语：Microsoft Analysis Services）
+Reporting
+Integration（英语：SQL Server Integration Services）
+Notification（英语：SQL Server Notification Services）
+
+
+
+
+
+
+
+
+
+其他
+
+
+
+
+Visual FoxPro
+Microsoft Access
+Jet Engine
+可扩展存储引擎（ESE）
+Azure DocumentDB（英语：DocumentDB）
+
+
+
+
+
+
+
+
+
+
+
+源代码控制
+
+
+
+Team Foundation Server
+Visual SourceSafe
+
+
+
+
+
+
+
+
+交付
+
+
+
+Active Setup（英语：Active Setup）
+ClickOnce
+NuGet（英语：NuGet）
+Web Platform（英语：Web Platform Installer）
+Windows Installer
+
+WiX（英语：WiX）
+
+
+Windows商店
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+微软服务器
+
+
+
+
+
+
+服务器操作系统
+
+
+
+Windows Server
+Windows Server
+Windows Home Server
+Windows Compute Cluster Server
+
+
+
+
+
+
+
+
+中小企业专用
+
+
+
+Windows Small Business Server（英语：Windows Small Business Server）
+Windows Essential Business Server
+
+
+
+
+
+
+
+
+IT管理
+
+
+
+System Center
+Operation Manager (SCOM)（英语：System Center Operations Manager）
+Configuration Manager (SCCM)（英语：System Center Configuration Manager）
+Mobile Device Manager (SCMDM)（英语：System Center Mobile Device Manager）
+Virtual Machine Manager (SCVMM)（英语：System Center Virtual Machine Manager）
+Data Protection Manager (SCDPM)（英语：System Center Data Protection Manager）
+Essentials（英语：System Center Essentials）
+Windows Server Update Services（WSUS）
+
+
+
+
+
+
+
+
+应用程序平台
+
+
+
+Microsoft SQL Server
+BizTalk Server
+Commerce Server（英语：Commerce Server）
+IIS
+
+
+
+
+
+
+
+
+安全性
+
+
+
+Client Security
+Server Security
+Edge Security
+Intelligent Application Gateway（英语：Microsoft Intelligent Application Gateway）
+Identity Lifecycle Manager（英语：Identity Lifecycle Manager）
+
+
+
+
+
+
+
+
+企业生产力
+
+
+
+SharePoint Server
+Microsoft Office Forms Server
+Groove Server（英语：Microsoft Office Groove Server）
+Excel Services（英语：Excel Services）
+Exchange Server
+Project Server（英语：Microsoft Project Server）
+Search Server（英语：Microsoft Search Server）
+PerformancePoint Server（英语：Microsoft_Office_PerformancePoint_Server）
+
+
+
+
+
+
+
+
+虚拟化
+
+
+
+Hyper-V（英语：Hyper-V）
+Virtual Server（英语：Microsoft Virtual Server）
+
+
+
+
+
+
+
+
+
+
+
+
+分类：被半保护的页面数据库管理系统微软软件微软服务器技术隐藏分类：Webarchive模板wayback链接使用过时图像语法的页面使用ISBN魔术链接的页面

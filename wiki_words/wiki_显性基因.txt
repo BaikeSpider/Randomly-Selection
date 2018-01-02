@@ -1,0 +1,40 @@
+显性
+
+
+
+
+豆荚中的豌豆。
+
+
+在基因学中，显性（英语：dominance）是一个基因中一对等位基因之间的关系，其中一个等位基因的表型会表现出来，掩盖了同一基因座中另一个等位基因的表现[1][2]。前面的等位基因称为显性基因，后者则称为隐性（recessive）基因。对于体染色体（除性染色体外的任何染色体）上的基因来说，其等位基因与所联系的性状可分为体染色体显性（autosomal dominant）与体染色体隐性（autosomal recessive）。显性是孟德尔遗传与古典遗传学（英语：Classical genetics）的关键概念。通常显性等位基因可以转译成一个有功能的蛋白质，而隐性等位基因无法转译。
+显性的一个经典案例是豌豆种子形状的遗传。豌豆的外观可能是圆滑的或有绉折的，对应于等位基因为R或r。在这个例子当中，会出现3种可能的等位基因组合（基因型），分别是RR、Rr与rr。RR的个体会呈现圆滑的豌豆种子，rr的个体则会呈现有绉折的豌豆种子。在Rr的个体当中，等位基因R会掩盖等位基因r的存在，因此这些个体也会呈现圆滑的豌豆种子。因此，等位基因R对于等位基因r而言为显性，r对于R则为隐性。通常显性会用大写字母表示，隐性则以小写字母表示，这种表示方式成为广泛遵循的惯例。
+一般来说，当一个基因存在了两种等位基因版本时（假设为A与a），会有可能出现3种等位基因组合：AA、Aa与aa。如果AA与aa的个体（同型合子（英语：Zygosity））在部分性状出现不同型态（表型），而Aa的个体（异型合子）则呈现出与AA个体相同的性状，则等位基因A对于等位基因a而言可称为显性，反之则可称为隐性。
+显性不是单一等位基因的遗传，而是各个等位基因之间的关连性；其中一个等位基因可能对第二个等位基因产生显性关连，对第三个等位基因产生隐性关连，对第四个等位基因产生共显性关连。而且，一个等位基因可能会对一个性状的特定部分产生显性，但不会影响此性状有关的其他基因。显性与上位作用（英语：epistasis）不同，上位作用是指一个基因中等位基因的表现，会影响另一个不同基因中等位基因的表现[3]。
+参见[编辑]
+
+线粒体DNA
+旁氏表
+等位基因
+隐性基因
+癌基因
+肿瘤抑制基因
+
+参考资料[编辑]
+
+
+^ dominance. Oxford Dictionaries Online. Oxford University Press. [14 May 2014]. 
+^ express. Oxford Dictionaries Online. Oxford University Press. [14 May 2014]. 
+^ Griffiths AJF; Gelbart WM; Miller JH; 等. Gene Interaction Leads to Modified Dihybrid Ratios. Modern Genetic Analysis. New York: W. H. Freeman & Company. 1999. ISBN 0-7167-3118-5. 
+
+
+外部链接[编辑]
+
+（英文）"Online Mendelian Inheritance in Man" (OMIM)
+（英文）"Autosomal dominance of Huntington's Disease". Huntington's Disease Outreach Project for Education at Stanford
+（英文）"Examples of incomplete dominance" (YouTube)
+
+
+
+
+
+分类：古典遗传学隐藏分类：含有英语的条目

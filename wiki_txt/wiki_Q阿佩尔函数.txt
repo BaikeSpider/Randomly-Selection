@@ -1,0 +1,2 @@
+Q阿佩尔函数
+q阿佩尔函数（q-Appell function）又名q阿佩尔多项式（q-Appell polynomials)是数学家Jackson创立的阿佩尔函数的q模拟[1][2]

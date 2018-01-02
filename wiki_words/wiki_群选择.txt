@@ -1,0 +1,622 @@
+族群选择
+
+
+
+
+早期对社会行为的解释，如黑琴鸡的求偶场，常提及“对整体物种的优势”[1]。《求偶场的黑琴鸡》，水彩画，阿奇博尔德·托尔本（Archibald Thorburn）作，1901年
+
+
+族群选择是演化的一种机制，是指天择作用在族群而非个体的层级上，主要用在解释动物的利他行为的演化。
+依据天择演化，因为利他行为会造成个体的适应度下降，这类行为在族群内的频率下降；但这类行为有利于整个族群的生存，因此带有这种行为的族群数量会提高。若利他行为透过群数量提高的速率高于透过族群内个体下降的速度，这个行为就是透过族群选择来演化。
+这个机制在自然界中的重要性仍存在争议，许多生物学家认为这个机制不常发生。因为个体的生命周期普遍短于族群存在的时间长度，因此一般认为个体演化的速率大过族群演化的速率，故族群选择很难运作。
+
+
+
+目录
+
+
+1 发展史
+2 理论分支
+
+2.1 多层级选择
+2.2 空间分布
+2.3 文化演化
+2.4 演化均衡策略
+2.5 族群生物学
+
+
+3 反对
+4 参考资料
+5 外部链接
+
+
+
+发展史[编辑]
+参见：自然选择和亲属选择
+
+
+
+
+蜜蜂的真社会性可以用亲属选择解释，单双套遗传系统造成工蜂无法繁殖且和蜂后（上图中央）在遗传上非常相近。
+
+
+在达尔文的天择进化论得到认同后，动物行为就理所当然被视为天择演化的产物。达尔文本人即有提到族群选择的概念，认为这是利他行为的演化基础[2]；康拉德·洛伦兹在其书中也用“对物种整体有利”之类的词语来解释动物行为[1][3]，而没有人真的去实际量测各种行为对适应度的影响。至1962年，动物学家V·C·韦恩-爱德华兹（V. C. Wynne-Edwards）观察到大多数动物分布在一个个小族群中，因此认定动物行为影响的是整个族群的生存和繁殖，并主张动物行为主要是源自作用在族群层级的天择演化[4]。但J·M·史密斯（J. M. Smith）和G·C·威廉斯（G. C. Williams）等演化生物学随即家用数学模型证明了生物不会为了族群而牺牲个体的适应度进行利他行为，因此主张天择主要运作在个体上，只有在少数如蜜蜂和蚂蚁等真社会性的动物中才会因为亲属选择而出现利他行为[5][6][7]。
+至1970年代有实验显示利他行为可以透过族群选择来演化[8]，但是这些实验只看单一基因在特定环境下的运作，而实际上群族内每个个体的基因都会彼此互动，因此每个基因面对的环境不应视为固定的[9]。
+1990年代族群选择的理论持续发展 [10][11][12][13]。有些理论生物学家提出族群选择可以运作的条件[14]，也有研究证明族群选择确实可以在自然界中发生[15]。另一方面，亲属选择理论用在解释利他行为没有得到太多争议 [16]，因此，学界主流认为亲属选择是社会行为的主要演化机制。
+有些学者认为要完整地解释社会行为的演化，必须同时使用亲属选择和族群选择[17]。利用计量遗传学计算利他行为在族群中固定的机率，研究发现当亲属选择是主要的演化动力时，会提高近交衰退的机率，而当族群选择较强而非亲属选择时，即可避开此问题[18]，但是亲属选择仍需要存在[19]。
+2010年，M·A·诺瓦克（M. A. Nowak）、C·E·达尔尼塔（C. E. Tarnita）和艾德华·威尔森认为多层次的选择，包括族群选择，才是真社会性的演化基础，而亲属选择是个失败的理论[20]，但学界主流，包括至少137位演化生物学家，反对他们的观点。[21]
+理论分支[编辑]
+多层级选择[编辑]
+1994年大卫·斯隆·威尔逊（David Sloan Wilson）和E·索伯尔（E. Sober）重新建构了族群选择理论。他们同时考虑天择在各个层级上的作用，带有适应度较高的特征的族群会增加频率，而族群的演化和个体的演化同时运作，称为多层级选择（multilevel selection）[22]。Wilson将众多层级比喻作俄罗斯娃娃，最里面的是基因，往外一层是个体，然后是族群，每个族群一起运作，受天择影响而提高适应度[12]，这个理论显示作用在族群上的选择必须强过作用在个体上的选择，利他行为才会透过族群选择演化[23]。多层级选择可以用来分析个体和族群层级的选择如何达到平衡[23]，例如威廉·缪尔（William Muir）比较母鸡的产蛋，发现攻击性强的品系会在个体的层级被天择偏好，因此推论鸡的攻击性没有那么高是因为族群选择。[24]。多层级选择也被用来解释和文化演化，因为人类社会的各种常规时常降低个体的适应度，但能提高族群的适应度，让人类族群适应不同的环境。[23]
+空间分布[编辑]
+如Wynne-Edwards原先的观点，在特定空间分布的族群有稳定的生殖速率[25][26]。虽然这提供了多层级选择的可能性，但因为这些族群的组成不完全固定，所以依据韦恩-爱德华兹提出方式运作的族群选择仍缺乏足够的直接证据。
+亲属选择理论曾认为生物散布的限制是一个建立群体的可能方式：已知生物的散布广泛存有一定的限制，大多数生物个体在一生中能移动的距离有限，因此住在附近的个体往往有亲缘关系[27] 。这也使得整个生物族群中同时存在个体选择、亲属选择、亲属族群选择、和纯族群选择，而且无法轻易划分。然而，数学模型显示因为位置临近的亲属间除了亲属选择的优势之外，还存有竞争关系，而这个竞争关系正好抵消亲属选择，所以单靠生物散布的限制并不足以造成合作和利他行为的演化[28][29]，正因为亲属选择被抵消，这表示任何合作的利益都有可能透过族群选择演化[13]。除此之外，如果族群大小不固定，或是当个体间存在适应度的差异时，个别族群也能把合作的利益“储存”在后代的适应度中，因为当竞争越激烈，存活的后代适应度越高[30][13]。
+
+
+
+
+人类的发展非常快速，或许是透过基因—文化共演化，形成了图中新加坡马里安曼庙 的哥博林塔。
+
+
+文化演化[编辑]
+基因—文化共演化是将演化生物学和社会生物学结合的现代假说，并时常使用族群选择理论[31]。此假说将文化遗传视为另一个演化中的系统，与基因遗传并行，并且相互影响，共同形塑人类的性状。因为文化的演化比基因演化快速，因此基因—文化共演化可以让人类更快速适应环境压力。而适应环境的文化可以透过学习快速传给整个族群，让此种文化适应可以持续许多世代。[32]。尤于其他理论如亲属选择和互恵式利他行为都未考虑文化遗传，因此此假说可以说是最完整的人类的社会行为演化模型。族群选择在此理论中主要用在不同文化之间的竞争。2003年的研究发现鼓励合作的社会较其他社会有较高的存活率，证明社会之间的文化特征会遭受族群选择[33][34]。
+演化均衡策略[编辑]
+在生物演化的赛局中，有些策略是纳许平衡。当一个族群中的个体都使用此策略，使用其他策略的个体无法提高适应度，此策略称为演化均衡策略（Evolutionary Stable Strategy）。许多情况下，不只一个演化均衡策略会存在，而使用不同策略的族群可能有不同的适应度，因此，即使族群选择比个体选择弱，族群选择仍然可以在已经稳定至不同演化均衡策略的族群之间运作。[35]
+族群生物学[编辑]
+族群选择会和族群生物学的其他机制交互影响。举例来说，狮子兼有领域性和合作行为，在群体中，雄狮会保护族群，而母狮负责合作养育幼狮并打猎。在食物稀少时，合作打猎的好处大过群居的缺点，族群选择会偏好合作的族群，但当食物充足，合作打猎的优势较小，天择就不再偏好合作的族群[36]。另外，对族群有利但对个体有害的警戒叫声也会影响猴子和天敌的互动[37]。
+反对[编辑]
+用普莱斯公式描述族群的作法在2012年被范维林（van Veelen）批判，认为其中的数学假设有误[38]。
+理查德·道金斯和其他主张基因中心论的人也反对族群选择[39][40][41]，认为族群选择没有区分复制者和其载具[42]。心理学家史蒂芬·平克认为心理学和社会科学中没有族群选择的地位[43]。演化生物学家杰里·科因（Jerry Coyne）在纽约时报的评论中说
+
+族群选择没有得到演化生物学家的普遍认可，有几个原因。第一，它不能有效率地挑选那些对个体有害但对族群有利的性状，例如利他行为。族群分裂成更多族群的数度远低于个体生殖产生更多个体的速度，所以族群选择对利他行为的偏好很难超越族群内因为投机者被天择偏好而失去利他行为的速度。再者，少有证据指出族群选择曾推动任何特征的演化。最后，其他更可能的演化力量，如对个体的回馈行为的直接选择，可能让人类有倾向社会合作。这些原因说明了为什么只有少数的生物学家，如大卫·斯隆·威尔逊和艾德华·威尔森（非亲戚）鼓吹族群选择为合作行为的演化来源[44]
+
+参考资料[编辑]
+
+
+^ 1.0 1.1 Tudge, Colin. Engineer In The Garden. Random House. 31 March 2011: 115. ISBN 978-1-4464-6698-8. 
+^ Darwin,C.: 1871, The Descent of Man
+^ Burkhardt, Richard W. Patterns of Behavior: Konrad Lorenz, Niko Tinbergen, and the Founding of Ethology. University of Chicago Press. 2005: 432. ISBN 978-0-226-08090-1. 
+^ Wynne-Edwards, V. C. Animal dispersion in relation to social behaviour. Oliver and Boyd. ISBN 005001482X. 
+^ Maynard Smith, J. Group selection and kin selection. Nature. 1964, 201 (4924): 1145–1147. doi:10.1038/2011145a0. 
+^ George C. Williams (1972) Adaptation and Natural Selection: A Critique of Some Current Evolutionary Thought. Princeton University Press.ISBN 0-691-02357-3
+^ Williams, G.C. (editor) (2008) [1971] Group Selection, Transaction Publishers. ISBN 0-202-36222-1
+^ Wade, M. J. An experimental study of group selection. Evolution. 1977, 31 (1): 134–153. JSTOR 2407552. doi:10.2307/2407552. 
+^ Goodnight, C. J.; Stevens, L. Experimental studies of group selection: What do they tell us about group selection in nature. American Naturalist. 1997, 150: S59–S79. doi:10.1086/286050. 
+^ Koeslag, J.H. (1997). Sex, the prisoner's dilemma game, and the evolutionary inevitability of cooperation. J. theor. Biol. 189, 53--61
+^ Koeslag, J.H. (2003). Evolution of cooperation: cooperation defeats defection in the cornfield model. J. theor. Biol. 224, 399-410
+^ 12.0 12.1 Wilson, D. S.; Wilson, E. O. Evolution 'for the good of the group'.. American Scientist. 2008, 96 (5): 380–389. doi:10.1511/2008.74.1. 
+^ 13.0 13.1 13.2 Yang, Jiang-Nan. Viscous populations evolve altruistic programmed aging in ability conflict in a changing environment. Evolutionary Ecology Research. 2013, 15: 527–543. 
+^ Burton Simon, Jeffrey A. Fletcher, Michael Doebeli. Towards a general theory of group selection. Evolution. 2013, 6 (6): 1561-1572. doi:10.1111/j.1558-5646.2012.01835.x. 
+^ Bryony Jones. Nature Review Genetics. 2014, 15: 778-779. doi:10.1038/nrg3851.  缺少或|title=为空 (帮助)
+^ Wade, MJ; Wilson, DS; Goodnight, C; Taylor, D; Bar-Yam, Y; de Aguiar, MA; Stacey, B; Werfel, J; Hoelzer, GA; Brodie ED, 3rd; Fields, P; Breden, F; Linksvayer, TA; Fletcher, JA; Richerson, PJ; Bever, JD; Van Dyken, JD; Zee, P. Multilevel and kin selection in a connected world.. Nature. Feb 18, 2010, 463 (7283): E8–9; discussion E9–10. PMC 3151728. PMID 20164866. doi:10.1038/nature08809.  引文使用过时参数coauthors (帮助)
+^ Goodnight, Charles. June 2013. On multilevel selection and kin selection: Contextualanalysis meets direct fitness. Evolution67.6: 1539-1548.
+^ Wade,M. J. and F. Breden. Sept. 1981. Effect of Inbreeding on the Evolution of Altruistic Behavior by Kin Selection. Evolution 35.5: 844-858.
+^ Muir,W. M., et al. June 2013. Multilevel selection with kin and non-kin groups,Experimental results with Japanese quail. Evolution 67.6: 1598-1606.
+^ Nature 466, 1057–1062 (26 August 2010) doi:10.1038/nature09205
+^ Nature 471, E1–E4 (24 March 2011) doi:10.1038/nature09831
+^ Wilson, D.S.; Sober, E. Reintroducing group selection to the human behavioral sciences. Behavioral and Brain Sciences. 1994, 17 (4): 585–654. doi:10.1017/s0140525x00036104. （原始内容存档于2004-02-03）. 
+^ 23.0 23.1 23.2 O'Gorman, R.; Wilson, D. S.; Sheldon, K. M. For the good of the group? Exploring group-level evolutionary adaptations using multilevel selection theory. Group Dynamics-Theory Research and Practice. 2008, 12 (1): 17–26. doi:10.1037/1089-2699.12.1.17. 
+^ Muir, W. M. Genetic selection and behaviour. Canadian Journal of Animal Science. 2009, 89 (1): 182–182. 
+^ Rauch, E. M.; Sayama, H.; Bar-Yam, Y. Dynamics and genealogy of strains in spatially extended host-pathogen models. Journal of Theoretical Biology. 2003, 221: 655–664. doi:10.1006/jtbi.2003.3127. 
+^ Werfel, J.; Bar-Yam, Y. The evolution of reproductive restraint through social communication. Proceedings of the National Academy of Sciences of the United States of America. 2004, 101 (30): 11019–11020. doi:10.1073/pnas.0305059101. 
+^ Hamilton, W. D. The Genetical Evolution of Social Behaviour. Journal of Theoretical Biology. 1964, 7 (1): 1–16. PMID 5875341. doi:10.1016/0022-5193(64)90038-4. 
+^ Wilson, D.S.; Pollock, G.B.; Dugatkin, L.A. Can altruism evolve in purely viscous populations?. Evol. Ecol. 1992, 6: 331–341. doi:10.1007/bf02270969. 
+^ Taylor, P.D. Altruism in viscous populations – an inclusive fitness model.. Evol. Ecol. 1992, 6: 352–356. doi:10.1007/bf02270971. 
+^ Mitteldorf, Joshua; Wilson, D.S. Population viscosity and the evolution of altruism (PDF). J. Theor. Biol. 2000, 204: 481–496. doi:10.1006/jtbi.2000.2007. 
+^ Mesoudi, A.; Danielson, P. Ethics, evolution and culture. Theory in Biosciences. 2008, 127 (3): 229–240. PMID 18357481. doi:10.1007/s12064-008-0027-y. 
+^ Boyd, R., & Richerson, P. J. (2009) Culture and the evolution of human cooperation.
+^ Gintis, H. The hitchhiker's guide to altruism: Gene-culture coevolution, and the internalization of norms. Journal of Theoretical Biology. 2003, 220 (4): 407–418. PMID 12623279. doi:10.1006/jtbi.2003.3104. 
+^ Gintis, H. The hitchhiker's guide to altruism: Gene-culture coevolution, and the internalization of norms. Journal of Theoretical Biology. 2003, 220 (4): 407–418. PMID 12623279. doi:10.1006/jtbi.2003.3104. 
+^ Mackie, J. L. The Law of the Jungle: Moral Alternatives and Principles of Evolution. Philosophy. 1978, 53 (206): 455-464. 
+^ Heinsohn, R.; Packer, C. Complex cooperative strategies in group-territorial African lions. Science. 1995, 269 (5228): 1260–1262. PMID 7652573. doi:10.1126/science.7652573. 
+^ Cheney,D. L. & Seyfarth, R. M. (1990). How monkeys see the world: Inside the mind of another species. University of Chicago Press. ISBN 978-0-226-10246-7.
+^ Group selection and inclusive fitness are not equivalent; the Price equation vs. models and statistics. Journal of Theoretical Biology: 64–80. doi:10.1016/j.jtbi.2011.07.025. 
+^ See the chapter God's utility function in Dawkins, Richard. River Out of Eden. New York: Basic Books. 1995. ISBN 0-465-06990-8. 
+^ Dawkins, R. Burying the Vehicle Commentary on Wilson & Sober: Group Selection. Behavioural and Brain Sciences. 1994, 17 (4): 616–617. （原始内容存档于2006-09-15）. 
+^ Dennett, D.C. E Pluribus Unum? Commentary on Wilson & Sober: Group Selection. Behavioural and Brain Sciences. 1994, 17 (4): 617–618. （原始内容存档于2007-12-27）. 
+^ Richard Dawkins, "Replicators and Vehicles", King's College Sociobiology Group, eds., Current Problems in Sociobiology, Cambridge, Cambridge University Press, (1982), pp. 45-64
+^ Pinker, S. (2012). The False Allue of Group Selection. Edge, Jun 19, 2012. http://edge.org/conversation/the-false-allure-of-group-selection
+^ Coyne, J. A. (2011). Can Darwinism Improve Binghamton?, New York Review of Books, September 9, 2011.
+
+
+外部链接[编辑]
+
+（英文）Lloyd, Elisabeth, "Units and Levels of Selection." The Stanford Encyclopedia of Philosophy, (Fall 2005 Edition), Edward N. Zalta (ed.)
+（英文）The Controversy of the Group Selection Theory - a review from the "Science Creative Quarterly" (a blog)
+（英文）Binghamton: D.S. Wilson
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+进化心理学
+
+
+
+
+
+
+过程
+
+
+
+利他行为
+族群选择
+亲属选择
+性选择
+社会生物学
+共同演化
+演化平衡策略
+
+
+
+
+
+
+
+
+领域
+
+
+
+Psychological development
+道德的演化
+宗教演化心理学
+Depression
+Developmental psychopathology
+Educational psychology
+Evolutionary aesthetics
+Music
+Darwinian literary studies
+情绪的演化
+
+
+
+
+
+
+
+
+开创性作者
+
+
+
+Pascal Boyer
+Leda Cosmides
+查尔斯·达尔文
+理查德·道金斯
+丹尼尔·丹尼特
+贾德·戴蒙
+Robin Dunbar
+David Geary
+彼得·克鲁泡特金
+Geoffrey Miller
+Steven Mithen
+史迪芬·平克
+John Tooby
+罗伯特·泰弗士
+艾德华·威尔森
+D. S. Wilson
+
+
+
+
+
+
+
+
+相关主题
+
+
+
+模因学
+社会生物学
+演化神经科学
+人类演化
+社会演化
+演化人类学
+演化医学
+演化语言学
+Biosocial criminology
+演化生物学
+神经心理学
+
+
+
+
+
+
+
+
+列表
+
+
+
+演化心理学家
+Evolutionary psychology research groups and centers
+关于进化论和人类行为的文献目录
+
+
+
+
+
+
+
+
+
+
+
+进化心理学分类
+心理学主题
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+演化生物学
+
+
+
+
+
+
+
+
+
+共同起源
+演化的证据
+生命演化历程
+生命进化史（英语：Evolutionary history of life）
+
+
+
+
+
+
+
+
+进化过程
+
+
+
+自然发生
+生命起源
+适应
+宏演化
+微演化
+物种形成
+灭绝
+多态性
+适应
+
+
+
+
+
+
+
+
+
+
+
+群体遗传学机制
+
+
+
+基因流动
+遗传漂变
+突变
+自然选择
+性选择
+族群选择
+亲属选择
+
+
+
+
+
+
+
+
+演化发育生物学机制
+
+
+
+渠道导向（英语：Canalisation (genetics)）
+反演（英语：Inversion (evolutionary biology)）
+模块化（英语：modularity (biology)）
+表型的可塑性（英语：Phenotypic plasticity）
+
+
+
+
+
+
+
+
+类群的演化
+
+
+
+鸟类（英语：Evolution of birds）
+腕足动物（英语：Evolutionary history of brachiopods）
+头足纲（英语：Evolutionary history of cephalopods）
+恐龙
+鱼类（英语：Evolution of fish）
+真菌（英语：Evolution of fungi）
+昆虫（英语：Evolution of insects）
+
+蝴蝶（英语：Butterfly evolution）
+
+
+生命（英语：Evolutionary history of life）
+哺乳动物（英语：Evolution of mammals）
+
+猫（英语：Cat gap）
+狗（英语：Origin of the domestic dog）
+马（英语：Evolution of the horse）
+人类演化
+狐猴（英语：Evolutionary history of lemurs）
+鲸豚（英语：Evolution of cetaceans）
+海牛（英语：Evolution of sirenians）
+
+
+软体动物（英语：Evolution of Mollusca）
+植物（英语：Evolution of plants）
+爬行动物（英语：Evolution of reptiles）
+蜘蛛（英语：Evolution of spiders）
+四足类
+病毒（英语：Viral evolution）
+
+流感（英语：Evolution of Influenza）
+
+
+
+
+
+
+
+
+
+
+特定构造的进化
+
+
+
+细胞（英语：Evolution of cells）
+DNA（英语：Models of DNA evolution）
+真核生物
+
+染色体
+
+
+内膜系统
+眼睛（英语：Evolution of the eye）
+鞭毛（英语：Evolution of flagella）
+头发
+线粒体
+哺乳动物听小骨进化
+神经系统（英语：Evolution of nervous systems）
+
+大脑（英语：Evolution of the brain）
+
+
+细胞核
+色素体
+
+
+
+
+
+
+
+
+生物进程（英语：Biological process）的演化
+
+
+
+衰老（英语：Evolution of ageing）
+Avian flight（英语：Origin of avian flight）
+Biological complexity
+Cooperation（英语：Co-operation (evolution)）
+彩色视觉（英语：Evolution of color vision）
+
+灵长目彩色视觉的演化
+
+
+情绪（英语：Evolution of emotion）
+同理心
+伦理
+Eusociality（英语：Evolution of eusociality）
+代谢
+Monogamy（英语：Monogamous pairing in animals）
+道德（英语：Evolution of morality）
+Mosaic evolution（英语：Mosaic evolution）
+多细胞生物
+有性生殖的演化
+
+
+
+
+
+
+
+
+形态模式
+
+
+
+Anagenesis（英语：Anagenesis）
+Catagenesis（英语：catagenesis (biology)）
+Cladogenesis（英语：Cladogenesis）
+异域物种形成
+Peripatric（英语：Peripatric）
+Parapatric（英语：Parapatric）
+Sympatric（英语：Sympatric speciation）
+Hybrid speciation（英语：Hybrid speciation）
+
+
+
+
+
+
+
+
+相关领域
+
+
+
+生态遗传学
+分子进化
+系统发生学
+原初生命体
+系统分类学
+比较解剖学
+演化心理学
+文化演化
+
+
+
+
+
+
+
+
+历史
+
+
+
+演化思想史
+查尔斯·达尔文
+
+物种起源
+
+
+生物分类法
+Gene-centered view of evolution（英语：Gene-centered view of evolution）
+生命 (classification trees)
+现代进化综论
+
+
+
+
+
+
+
+
+
+
+
+ 分类
+ 共享
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+社会生物学
+
+
+
+
+
+
+主题
+
+
+
+行为遗传学
+Challenge hypothesis
+Dual inheritance theory
+动物行为学
+演化心理学
+Evolution of morality
+族群选择
+Kin recognition
+亲属选择
+Male Warrior hypothesis
+Reciprocal altruism
+Sexual selection in human evolution
+Sex and psychology
+Sociality (真社会性, Evolution of eusociality, Presociality)
+邓巴数
+
+
+
+
+
+
+
+
+论述
+
+
+
+Not in Our Genes
+艾德华·威尔森
+
+Sociobiology: The New Synthesis
+
+
+
+
+
+
+
+
+
+
+
+Evolutionary biology portal
+
+
+
+
+
+
+
+
+
+
+分类：选择群体遗传学隐藏分类：含有缺少标题的引用的页面含有过时参数的引用的页面使用ISBN魔术链接的页面

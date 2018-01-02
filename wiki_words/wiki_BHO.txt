@@ -1,0 +1,251 @@
+浏览器辅助对象
+
+
+
+
+
+
+浏览器帮助对象（英语：Browser Helper Object，缩写：BHO）是一个DLL 模组。它被设计为微软公司开发的网页浏览器Internet Explorer的一个插件，以便提供一些附加功能。BHO在1997年10月于Internet Explorer 4中被引入。多数BHO都是在Internet Explorer每载入一个新的实例（通常是新窗口）时被执行。由于BHO在一些情形之下能拥有与浏览器本身一样的权限，因而这有可能会降低浏览器的安全性。
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+ Internet Explorer
+
+
+
+
+
+
+版本（英语：Internet Explorer versions）
+
+
+
+
+
+主要版本
+
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+
+
+
+
+
+
+
+
+
+其它版本
+
+
+
+
+Mobile
+Mac
+UNIX
+IEs4Linux
+
+
+
+
+
+
+
+
+
+
+
+概览
+
+
+
+历史
+附加组件（英语：List of Internet Explorer add-ons）
+IE盒模型缺陷
+浏览器帮助对象（BHO）
+彩蛋
+扩展（英语：List of Internet Explorer extensions）
+删除（英语：Removal of Internet Explorer）
+Shell（英语：Internet Explorer shell）
+
+
+
+
+
+
+
+
+技术
+
+
+
+加速器
+ActiveX
+DHTML
+
+HTA
+HTCS（英语：HTML Components）
+
+
+favicon.ico
+HTML+TIME（英语：HTML+TIME）
+Index.dat
+JScript
+MHTML
+MSXML
+RSS平台（英语：Windows RSS Platform）
+智能标签
+临时Internet文件（英语：Temporary Internet Files）
+VML语言
+网页快讯
+WPAD
+XHR/XDomainRequest
+
+
+
+
+
+
+
+
+软件与引擎
+
+
+
+Administration Kit
+开发人员工具
+集成Windows身份验证（英语：Integrated Windows Authentication）
+Tasman
+Trident
+
+Chakra
+
+
+
+
+
+
+
+
+
+
+实现
+
+
+
+Active Channel（英语：Active Channel）
+活动桌面
+ActiveMovie（英语：ActiveMovie）
+频道定义格式（英语：Channel Definition Format）（.cdf）
+Comic Chat/Chat 2.0（英语：Microsoft Comic Chat）
+DirectX Media（英语：DirectX Media）
+Internet邮件和新闻
+Microsoft Java虚拟机（MSJVM）
+MSN Explorer（英语：MSN Explorer）
+MSN for Mac OS X（英语：MSN for Mac OS X）
+NetMeeting（英语：Microsoft NetMeeting）
+NetShow（英语：NetShow）
+Outlook Express
+服务器网关加密（英语：Server gated cryptography）（SGC）
+Spyglass
+Windows通讯录（英语：Windows Address Book）
+Windows桌面更新（英语：Windows Desktop Update）
+
+
+
+
+
+
+
+
+人物
+
+
+
+坦塔克·塞里克
+托马斯·里尔登
+迪安·哈查莫维奇
+斯科特·艾萨克斯（英语：Scott Isaacs）
+蓝泽祈
+
+
+
+
+
+
+
+
+事件
+
+
+
+第一轮浏览器大战
+第二轮浏览器大战
+合众国诉微软案
+Download.ject（英语：Download.ject）
+Eolas与微软（英语：Eolas#Patents）
+Sun与微软
+
+
+
+
+
+
+
+
+相关
+
+
+
+对Internet Explorer的批评
+IE Only
+
+
+
+
+
+
+
+
+
+
+
+ 分类
+ 共享资源
+ 微软主题
+ 互联网主题
+
+
+
+
+
+
+
+
+
+
+
+
+分类：Internet Explorer隐藏分类：含有英语的条目

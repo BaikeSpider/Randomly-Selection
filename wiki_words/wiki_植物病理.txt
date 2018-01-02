@@ -1,0 +1,744 @@
+植物病理学
+
+
+
+
+病原体的生命周期。
+
+
+
+
+
+
+感染晚疫病的土豆（马铃薯晚疫病菌（英语：Phytophthora infestans））。
+
+
+
+
+
+
+悬铃木主干上的肿瘤。
+
+
+植物病理学，是对于引起植物疾病的病原体（感染性微生物）和环境条件（生理因素）的科学研究[1] 。引起感染性疾病的生物体包括真菌，卵菌，细菌，病毒，类病毒，病毒样生物，植原体，原生动物，线虫和寄生植物。不包括体外寄生虫像昆虫，螨类，脊椎动物，或其他害虫，会通过消费植物组织而影响植物健康。植物病理学主要认识并了解植物生病的原因，对人类社会与经济之关系，病原菌的鉴定，生理和生态特性、疾病的病因、疾病的周期、寄生性、致病性、植物抗病性（英语：Plant disease resistance）、病害防治、病害系统遗传学、和植物病害管理等等的研究[2]。
+
+
+
+目录
+
+
+1 病原菌造成植物病害的致病因子
+2 植物病原体
+
+2.1 真菌
+
+2.1.1 子囊菌纲
+2.1.2 担子菌纲
+
+
+2.2 类似真菌的生物
+
+2.2.1 卵菌纲
+2.2.2 Phytomyxea
+
+
+2.3 细菌
+
+2.3.1 植物菌质体
+
+
+2.4 病毒，类病毒和病毒类生物
+2.5 线虫
+2.6 原生动物和藻类
+2.7 寄生植物
+
+
+3 植物生理障碍
+
+3.1 自然
+3.2 人造
+
+
+4 管理
+5 相关条目
+6 注释
+7 参考文献
+8 外部链接
+
+
+
+病原菌造成植物病害的致病因子[编辑]
+
+细胞壁降解酶(Cell Wall Degrading Enzyme): 可分解寄主植物细胞壁 ，用以释放内部的营养物质。
+毒素(Phytotoxin): 毒素可分成具专一性或非专一性的毒素，能破坏植物细胞的特定胞器或结构。
+效应蛋白(Effector Protein)：这些可以被分泌到细胞外环境，或直接进入宿主细胞，通常是通过III型分泌系统。有些效应是已知的抑制宿主防御过程。这可能包括：减少植物内部信令机制或减少的植物化学物质的生产[3]。细菌，真菌和卵菌是已知的具有此功能[4][5]。
+
+植物病原体[编辑]
+真菌[编辑]
+
+
+
+
+白粉病是一种活体营养真菌。
+
+
+植物病原真菌的大多数属于子囊菌纲和担子菌纲
+真菌的有性生殖和无性生殖都是经由生产孢子和其它结构的繁殖。
+
+
+
+
+水稻叶稻热病
+
+
+显著植物病原真菌包括：
+子囊菌纲[编辑]
+担子菌纲[编辑]
+
+黑粉菌属（黑穗病致病因子）
+
+
+类似真菌的生物[编辑]
+卵菌纲[编辑]
+卵菌纲不是真正的真菌，而是类似真菌的生物。它们包括一些最具破坏性的植物病原体，包括疫霉（英语：Phytophthora）属，其中包括马铃薯晚疫病和橡树猝死的致病因子[6][7]。卵菌纲的某些特定物种导致根腐病。
+显著卵菌植物病原体：
+
+马铃薯晚疫病菌（英语：Phytophthora infestans） - 包括爱尔兰大饥荒（1845年至1849年）的致病因子。
+
+Phytomyxea[编辑]
+Phytomyxea中一些粘菌会引起重大疾病，包括白菜及其亲属的棒状根（英语：clubroot），和马铃薯粉痂（英语：Powdery scab）。
+细菌[编辑]
+
+
+
+
+由农杆菌造成的肿瘤病。
+
+
+大多数细菌与植物相互相生的，并没有伤害到植物本身。 然而，少数细菌，大约有100余种已知的物种，能导致疾病[8][9]。细菌性疾病在世界的亚热带和热带地区更为普遍的多。
+大多数植物病原细菌是革兰氏阴性杆状菌（杆菌）。为了能够定殖的植物，它们具有特定的致病因素。众所周知的五种主要类型的细菌致病因素是：使用细胞壁降解酶，毒素，效应蛋白，植物激素，和胞外多糖（英语：Extracellular polymeric substance）。
+植物病原体细菌各属及其导致疾病
+
+假单胞菌属（Pseudomonas）：
+黄假单胞菌属（Xanthomonas）：Citrus Canker
+农杆菌属（Agrobacterium）：Crown Gall Disease
+欧氏杆菌属（Erwinia）：Shoot Blight
+棒杆菌属（Clavibacter）：
+链霉菌属（Streptomyces）：
+木质杆菌属（Xylella）：
+果胶杆菌 (Pectobacterium)：Soft Rot Disease
+
+
+
+
+
+
+带有植物菌质体感染的酿酒葡萄。
+
+
+植物菌质体[编辑]
+主条目：植物菌质体
+植物菌质体（phytoplasma）是一种无细胞壁的原核生物[10]。
+
+
+
+
+
+烟草镶嵌病毒。
+
+
+病毒，类病毒和病毒类生物[编辑]
+有许多类型的植物病毒（英语：Plant virus），有的甚至是无症状的。
+大多数植物病毒具有小的，单链RNA基因组。但是，一些植物病毒也是具有双链RNA或单链或双链DNA基因组。
+线虫[编辑]
+主条目：线虫动物门
+线虫是小的多细胞蠕虫状的动物。许多自由生活于土壤中，但也有一些物种寄生于植物根部。在世界上热带和亚热带地区，它们是一个问题，在那里它们可能会感染农作物。
+原生动物和藻类[编辑]
+有由原生动物引起植物病害的的几个例子（例如，Phytomonas，一种动质体）[11]。
+一些无色的寄生藻类（如Cephaleuros）也引起植物病害。
+寄生植物[编辑]
+槲寄生和菟丝子寄生植物如包含在植物病理学研究。 菟丝子，例如，被用来作为一个管道，用于传输从一个宿主植物的病毒或病毒样剂一种植物，通常不是一个主机或代理不是接枝传播。
+植物生理障碍[编辑]
+重要的非生物性疾病可引起：
+自然[编辑]
+
+干旱
+霜冻伤害，和破损， 雪和冰雹
+洪水和排水不畅
+营养不足
+盐沉积和其他可溶性矿物过激行为（如石膏 ）
+风 （吹风引起的皮肤发炎和破裂的飓风和龙卷风 ）
+闪电和野火 （通常也人造）
+
+人造[编辑]
+
+土壤压实
+污染的空气，土壤，或两者兼而有之
+冬季道路使用的盐
+除草剂超额使用
+失败的教育培训（如割草机损坏树木）
+破坏
+
+管理[编辑]
+更多信息：病虫害防治
+相关条目[编辑]
+
+
+植物主题
+
+
+
+植物学
+食草动物
+农药
+杀真菌剂
+真菌学
+柯霍氏法则
+
+注释[编辑]
+
+
+^ Agrios, George N. PLANT PATHOLOGY.3rd ed. New York: ACADEMIC PRESS INC., 1972. print.
+^ 《作物病害与防治》，柯勇，艺轩图书出版社，1页1998年，ISBN：9576164826
+^ Ma, Winbo. How do plants fight disease? Breakthrough research by UC Riverside plant pathologist offers a clue. UC Riverside. March 28, 2011. 
+^ Nicole Davis. Genome of Irish potato famine pathogen decoded. Haas et al. Broad Institute of MIT and Harvard. September 9, 2009 [24 July 2012]. 
+^ 1st large-scale map of a plant's protein network addresses evolution, disease process. Dana-Farber Cancer Institute. July 29, 2011 [24 July 2012]. 
+^ Kamoun, S.; Furzer, O.; Jones, J. D. G.; Judelson, H. S.; Ali, G. S.; Dalio, R. J. D.; Roy, S. G.; Schena, L.; Zambounis, A.; Panabières, F.; Cahill, D.; Ruocco, M.; Figueiredo, A.; Chen, X. R.; Hulvey, J.; Stam, R.; Lamour, K.; Gijzen, M.; Tyler, B. M.; Grünwald, N. J.; Mukhtar, M. S.; Tomé, D. F. A.; Tör, M.; Van Den Ackerveken, G.; McDowell, J.; Daayf, F.; Fry, W. E.; Lindqvist-Kreuze, H.; Meijer, H. J. G.; 等. The Top 10 oomycete pathogens in molecular plant pathology. Molecular Plant Pathology. 2015: n/a. doi:10.1111/mpp.12190. 
+^ Grünwald, N. J.; Goss, E. M.; Press, C. M. Phytophthora ramorum: A pathogen with a remarkably wide host range causing sudden oak death on oaks and ramorum blight on woody ornamentals. Molecular Plant Pathology. 2008, 9 (6): 729. doi:10.1111/J.1364-3703.2008.00500.X. 
+^ 《作物病害与防治》，柯勇，艺轩图书出版社，69页～80页，1998年，ISBN：9576164826
+^ Jackson RW (editor). Plant Pathogenic Bacteria: Genomics and Molecular Biology. Caister Academic Press. 2009. ISBN 978-1-904455-37-0. 
+^ 《作物病害与防治》，柯勇，艺轩图书出版社，88页，1998年，ISBN：9576164826
+^ Jankevicius, J.V. et al. Ciclo biológico de Phytomonas / Biological cycle of Phytomonas. Memórias do Instituto Oswaldo Cruz, Rio de Janeiro, v. 83, supl. 1, 1988.
+
+
+参考文献[编辑]
+
+
+《植物病理学通论》，孙守恭，艺轩图书出版社，1988年，ISBN：9576161703
+《科学发展》2009年11月，443期，42 ~ 49页
+《花木果病虫害防治》，廖健雄，五洲出版社，1988年
+《真菌分类学》，邵力平，中国林业出版社，1983年
+《植物病理学》，吴文希，茂昌图书公司，1985年
+《植物病理学通论》，孙守恭，艺轩图书出版社，1993年，ISBN码 :9576161703
+《植物病理学精要》，蔡竹固，台湾复文兴业公司，1995年
+《简易植物病毒诊断图鉴》，柯南靖，台湾省政府农林厅，109页，1989年
+《土壤微生物学》，林良平，南山堂出版社，1987年
+《植物病害流行学》，曾士迈，农业出版社，1984年
+《台湾果树病害》，孙守恭，世维出版社，1992年
+R.S.Staple and G.H.Toenniessen，Plant DiseaseControl,John Wiley Sons,New York,1981.
+
+外部链接[编辑]
+
+（英文）国际植物病理学协会
+（英文）澳大拉西亚植物病理协会
+（英文）美国植物病理学协会
+（英文）英国植物病理学协会
+（英文）食品安全杂志
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+植物疾病/控制
+
+
+
+
+
+
+
+
+
+植物生理障碍
+植物病理学
+植物应力测量（英语：Plant stress measurement）
+移植 (植物)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+农业
+
+
+
+
+
+
+定义
+
+
+
+农业综合企业（英语：農業綜合企業）
+农业科学
+农林业
+农学
+畜牧业
+粗放农业
+工厂化养殖（英语：Factory farming）
+农场
+土鸡
+工业化农业
+农业机械化
+集约农业
+有机农业
+朴门
+Stock-free agriculture（英语：Stock-free agriculture）
+可持续农业
+都市型现代农业
+农业大学及学院列表（英语：List of agricultural universities and colleges）
+
+
+
+
+
+
+
+
+历史
+
+新石器革命、阿拉伯农业革命（英语：Arab Agricultural Revolution）、英国农业革命、绿色革命、有机农业的历史（英语：History of organic farming）
+
+
+
+
+
+
+生产
+
+水产养殖、酪农业、放牧、水耕栽培、家畜、养猪业、果园、家禽养殖（英语：Poultry farming）、羊养殖（英语：Sheep husbandry）
+
+
+
+
+
+
+经济
+
+各国农业、农业公司、生物技术、家畜、肉类加工业、家禽业
+
+
+
+
+
+
+
+
+
+分类
+主题
+共享资源
+ 专题
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+植物学
+
+
+
+
+
+
+
+植物学历史（英语：History of botany）
+
+
+
+
+
+
+学科分支
+
+
+
+植物系统分类学（英语：History of plant systematics）
+植物形态学
+植物分类学
+植物生理学
+民族植物学
+植物遗传学（英语：Plant evolutionary developmental biology）
+植物解剖学
+植物生态学
+植物地理学
+
+植物地理探勘（英语：Geobotanical prospecting）
+植物相
+
+
+植物化学
+植物病理学
+古植物学
+苔藓学
+藻类学
+树木学
+
+
+
+
+
+
+
+
+植物群体
+
+
+
+藻类植物
+原始色素体生物
+苔藓植物
+蕨类植物
+非维管植物
+维管植物
+种子植物
+裸子植物
+被子植物（开花植物）
+
+草
+
+
+有胚植物
+水生植物
+陆生植物
+
+
+
+
+
+
+
+
+
+植物形态学
+
+
+
+
+
+植物细胞
+
+
+
+细胞壁
+色素体
+叶绿素
+叶绿体
+胞间连丝
+液泡
+
+
+
+
+
+
+
+
+组织
+
+
+
+分生组织
+维管束
+基本组织 (植物)
+木头
+贮藏器官（英语：Storage organ）
+
+
+
+
+
+
+
+
+营养
+
+
+
+叶
+茎
+根
+假根
+根茎
+鳞茎
+
+
+
+
+
+
+
+
+植物繁殖
+（花）
+
+
+
+被子植物花发育
+花序
+
+总状花序
+苞片
+花梗
+
+
+植物有性生殖（英语：Plant reproductive morphology）
+花被
+
+花被片
+花瓣
+花萼
+
+
+雌蕊群
+
+子房
+
+胚珠
+
+
+柱头
+
+
+颈卵器
+雄蕊
+
+花粉
+
+
+配子体
+孢子体
+胚乳
+果实
+
+蒴果
+种子
+
+
+
+
+
+
+
+
+
+
+表面结构
+
+
+
+表皮 (植物)
+表皮蜡质
+气孔
+花蜜
+刺
+
+
+
+
+
+
+
+
+
+
+
+植物生理学 · 材料
+
+
+
+植物营养学（英语：Plant nutrition）
+光合作用
+
+叶绿素
+
+
+植物激素
+蒸腾作用
+膨压
+糖
+树液
+淀粉
+纤维素
+
+
+
+
+
+
+
+
+繁殖 · 进化（英语：Evolutionary history of plants） · 生态
+
+
+
+世代交替
+授粉
+孢子囊
+
+孢子
+
+
+传粉
+
+花粉管
+
+
+发芽
+植物进化发育生物学（英语：Plant evolutionary developmental biology）
+植物进化历史（英语：Evolutionary history of plants）
+
+时间线（英语：Timeline of plant evolution）
+
+
+植物对食草动物的防御（英语：Plant defense against herbivory）
+
+
+
+
+
+
+
+
+植物分类学
+
+
+
+植物标本馆
+植物命名法规（英语：Botanical nomenclature）
+
+双名法
+植物学名命名法
+植物学作者引证
+国际藻类、真菌、植物命名法规（ICN）
+国际植物命名法规
+
+
+国际植物分类学会（英语：International Association for Plant Taxonomy）
+植物种志
+分类级别
+栽培品种
+
+
+
+
+
+
+
+
+实践
+
+
+
+农学
+花卉栽培（英语：Floriculture）
+园艺学
+林业
+
+
+
+
+
+
+
+
+术语表
+
+
+
+植物考察
+植物学术语列表（英语：Glossary of botanical terms）
+植物形态学术语列表（英语：Glossary of plant morphology）
+植物学家列表（英语：List of botanists）
+
+按命名人缩写
+
+
+
+
+
+
+
+
+
+
+
+
+
+分类
+主题
+共享资源
+ 专题
+
+
+
+
+
+
+
+
+
+
+
+
+
+规范控制
+
+
+
+GND: 4130197-3
+NDL: 00572138
+
+
+
+
+
+
+
+
+
+
+
+
+分类：植物病理学植物病因与病症农学病理学隐藏分类：包含规范控制信息的维基百科条目

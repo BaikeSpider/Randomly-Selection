@@ -1,0 +1,644 @@
+天苑四
+
+
+
+
+
+
+天苑四
+
+观测资料
+历元 J2000.0
+
+
+星座
+波江座
+
+
+星官
+天苑
+
+
+赤经
+03h 32m 55.8442s[1]
+
+
+赤纬
+−09° 27′ 29.744 ″[1]
+
+
+视星等（V）
+3.73[1]
+
+
+特性
+
+
+光谱分类
+K2V[1]
+
+
+U−B 色指数
++0.58[2]
+
+
+B−V 色指数
++0.88[2]
+
+
+V−R 色指数
++0.50
+
+
+R−I 色指数
++0.42
+
+
+变星类型
+天龙座BY变星[1][3]
+
+
+天体测定
+
+
+
+
+
+径向速度 (Rv)
++15.5±0.9[1] km/s
+
+
+自行 (μ)
+赤经：−976.36[1] mas/yr
+赤纬：17.98[1] mas/yr
+
+
+视差 (π)
+310.74 ± 0.85[1] mas
+
+
+距离
+10.5 ± 0.03 ly
+(3.218 ± 0.009 pc)
+
+
+绝对星等 (MV)
+6.19[4]
+
+
+
+
+
+详细资料
+
+
+
+
+
+质量
+0.85[4] M☉
+
+
+半径
+0.84[5] R☉
+
+
+表面重力 (log g)
+4.57[6]
+
+
+亮度
+0.28 L☉
+
+
+温度
+5073±42[7] K
+
+
+金属量
+[Fe/H]=−0.13±0.04[7]
+
+
+自转
+11.1 days
+
+
+年龄
+(0.5–1.0) × 109[8] 年
+
+
+
+
+
+参考数据库
+
+
+SIMBAD
+data
+
+
+
+
+
+
+其他命名
+
+
+
+18 Eridani, BD -09°697, GCTP 742.00, GJ 144, HD 22049, HIP 16537, HR 1084, LHS 1557, SAO 130564, WDS 03330-0928[1]
+
+
+
+天苑四（ε Eri / ε Eridani） 是一颗主序带上分类为K2的恒星。它是波江座内最靠近我们，也是在近距离恒星列表上能以裸眼看见的全天第三靠近的恒星。估计他的年龄少于十亿年，相对来说还是颗年轻的恒星，因此这颗恒星的磁场活动比太阳强，而恒星风的强度估计是太阳的30倍。自转也比较快速，虽然有纬度上的变化，估计周期约为11.1 天。天苑四不仅质量和体积都比太阳小，它的金属量（原子量大于氦的元素）也比较低[8]。
+虽然一些径向速度观测数据暗示可能存在一颗大行星，然而由于该恒星活跃的磁场导致数据中存在高水平背景噪音，因此该结果仍未被完全接受[9]。如果真有这样的一颗行星，它的轨道周期应该是2502天，与恒星的平均距离为3.4天文单位（5亿5百万公里）。迄2008年，天苑四是距离太阳最近的已知拥有行星的恒星。这颗恒星也有两条小行星带，一条在大约3天文单位的距离上，另一条在20天文单位，并且可能是受到尚未能确认的第二颗行星摄动的物质[10]。它看起来也有柯伊伯带，有比太阳附近更多物质密集的在轨道上环绕着[9]，证实了对这颗恒星尚年轻的怀疑。
+由于它是相对接近且与太阳相似的恒星，所以天苑四经常出现在科幻作品中。与它最接近的邻居是距离5.22光年远的鲁坦726-8（鲸鱼座UV和鲸鱼座BL）[11]。
+
+
+
+目录
+
+
+1 观测
+2 性质
+3 行星系
+
+3.1 行星
+3.2 尘埃环
+
+
+4 相关条目
+5 注解和参考资料
+6 外部链接
+
+
+
+观测[编辑]
+这颗恒星位于波江座北部，在明亮的波江座δ星东方约3度，赤纬-9.45度，在地球绝大部分的地区都能看见这颗恒星，只有北半球纬度80度以上的地区是永久隐藏在地平线下[12]。它的视星等是3.73等，使得在都市中的居民，因为城市的光污染照亮了夜空，而很难以裸眼看见它。[13]。
+天苑四在约翰·拜耳于1603年出版的测天图（Uranometria）中已经以拜耳命名法标示出来。ε是第五个希腊字母，意味着他大概也是波江座内最亮恒星中的第五颗亮星[14]。约翰·佛兰斯蒂德在1712年初步完成的佛氏星表中将它编为波江座18号星[1]。这颗恒星在1918年亨利·杜雷伯星表中被标示为HD 22049，并预编为光谱类型为K0的恒星[15]。
+天文学家以1800年至1880年间的观测为基础，发现天苑四的自行很大，当时估计为每年3角秒，暗示了它与太阳相当接近[16]，所以这颗恒星适合作为三角视差法测量的目标[17]。从1881年至1883年间, 威廉·路易斯·埃尔金（William Lewis Elkin）使用太阳仪在南非好望角的皇家天文台对天苑四做了一系列的观测。根据这些观测结果，天文学家初步认定天苑四的视差为0.14 ± 0.02 角秒[18][19]。天文学家到了1917年根据观测结果精确估计天苑四视差为0.317 角秒[20]，这个数值已经非常接近现代采用的数值0.3107 角秒[1]。这个视差值相当于10.5 光年的距离，所以天苑四是距离太阳第13近的恒星（第9接近的恒星系统）[4]。
+弗兰克·德雷克使用西维吉尼亚州绿堤电波望远镜搜寻预期中的外星高智生命讯号，该计划被称为奥兹玛计划，计划所选定的目标就是靠近太阳的天苑四和天仓五，但是目前没有发现任何来自外星球生物的讯号（1960年4月8日曾收到一个飞机发出的假讯号）[21]。凤凰计划观测范围包含距离太阳7.2 秒差距内恒星，该计划在1995年以天苑四为目标，使用微波巡天搜寻外星生物的讯号[22]。到了2004年，凤凰计划已经检验过800颗恒星，没有检测任何可疑的讯号[23]。
+天文学家根据1938年至1972年对天苑四观测到的摄动，怀疑有看不见的伴星以25 年的轨道周期环绕着它运转[24]，但是这项主张在1993年被否定。天文学家在1980年至2000年对天苑四径向速度的观测提出令人信服的证据，显示有一颗周期大约7年的行星级伴星环绕它[25]。他们在1998年发现尘埃环环绕着这颗恒星的证据，加强行星系统存在的证据，天苑四与附近的行星产生交互作用可以解释尘埃被凝聚起来的现象[26]。天文学家在2006年使用哈伯太空望远镜证实确实有一颗行星以6.9年的周期环绕着这颗恒星[27]
+性质[编辑]
+
+
+
+
+天苑四（左）与太阳（右）的相对大小比较。
+
+
+估计天苑四的质量是太阳质量的85%[4]，半径是太阳半径的84% [5]，但是亮度只有太阳的28%。它是继半人马座αB之后第二接近的光谱类型K型星[4]。相较于太阳，这颗恒星拥有的原子序大于氦的元素比较少，在它的色球层中铁的含量只有太阳的74%[7]。
+天苑四色球层的磁场活动比太阳活跃，在光球层的9%深度的范围内发现的磁场强度是0.14 Tesla[28]。整颗恒星的磁场活动是不规则的，但它可能有5年的周期性变化。假设恒星的半径在这段时间内不会改变，则在活动程度上的变化相当于在温度上有15 K的改变，这相当于0.014星等的变化[29]。
+磁场活动的转动振幅显示恒星赤道的自转周期是11.10 ± 0.03 天，或是略短于太阳自转周期的一半。恒星光度的变化是由于磁场的活动加上自转的因素，被分类为天龙座BY变星[3]。光度计的观测证实天苑四的表面也像太阳一样有微差转动，因此自转周期会随着纬度改变，从10.8天至12..3天变化著[29]。这颗恒星的转轴倾角尚未确定，估计是在低的24°至高的72°之间[30]。
+高程度的色球活动、强烈的磁场和相较之下算是快速的自转，都显示这是一颗年轻的恒星[31]。电脑模型给的估计年龄是7亿至8亿5千万年，但实际的年龄可能低至5亦或高达10亿年[8]。但是，重元素的低丰度是一些老旧恒星的特征，这种异常的现象可能是对流层输送了一些氦和重元素到星球外层的光球层，产生了扩散过程造成的[32]。
+相对于太阳，天苑四的外层大气看起来比太阳大和热，这是它的恒星风比太阳强30倍造成大量质量损失造成的。恒星风在大约8,000 天文单位处形成星状球，并且在距离恒星1,600 天文单位处造成弓形震波。以地球到这颗恒星的距离估计，星状球的视角大约有42弧分，比我们满月时的月球还要大[33]。
+天苑四空间速度的分量分别是U = −3，V = +7和W = −20 公里/秒，在银河系内以平均银心距离8,800秒差距，离心率0.09的轨道上运转着[34]。在过去的数百万年间，相信曾有三颗恒星交近天苑四至2秒差距的距离内。最近一次大约是在12,500年前与卡普坦星的遭遇，但这些遭遇都被认为对星周盘没有影响[35]。天苑四大约在105,000年前最接近太阳，当时的距离大约只有7光年[36]。
+行星系[编辑]
+
+天苑四系统
+
+伴星
+(依照与恒星的距离)
+质量
+半长轴
+(AU)
+轨道周期
+(天)
+离心率
+
+
+小行星带
+3 AU
+
+
+波江座εb
+1.55 ± 0.24 MJ
+3.39 ± 0.36
+2502 ± 10
+0.702 ± 0.039?
+ ?
+ ?
+
+
+小行星带
+20 AU
+
+
+波江座εc (unconfirmed)
+0.1 MJ
+40?
+102200?
+0.3
+
+
+尘埃盘
+35 — 100 AU
+
+
+行星[编辑]
+
+波江座εb
+波江座εc
+
+由于天苑四是距离最接近我们太阳的太阳型恒星，许多搜寻行星的企图都被尝试过了。但是因恒星本身高度的活动性和变化，使得平常发现行星最有效的径向速度法很难奏效，恒星活动妨碍了行星的侦测。
+
+
+
+
+天苑四b的轨道清空了尘埃带中的一个区域。
+
+
+已经证实有一个行星系统存在，并且确认其中的一颗行星。天苑四b是类似木星的行星，以2,500天的周期，在3.39天文单位的轨道上运行着。天体测量和径向速度的数据表明他是在一个非常高离心率（离心率0.7）轨道上运行的系外行星。但是这个轨道与出现在3天文单位的小行星带并不一致：如果离心率真的如此大，这颗行星将会穿越小行星带，并且很快的清空它[37]。还可能有一颗低质量的行星天苑四c，在40天文单位的距离上，以低于0.3的离心率运行着。
+没有第3颗或更多木星等级的行星存在这个系统内[38]。
+RAND协会在1964年的研究，史帝芬. R.多尔的适合人居住的行星，在22光年的距离内列出了14颗最可能有适居行星的恒星，而估计在天苑四周围的轨道出现适居行星的机率只有3.3%[39]。天苑四的适居带展开在0.5至1.0天文单位之处，相当于地球到太阳的距离上。而当这颗恒星的年龄达到200亿岁时，适居带会扩张至0.6至1.4天文单位[40]。然而，在邻近适居带的附近有一颗高椭圆轨道的大行星存在，会使适居带内有轨道稳定的类地行星出现的机率降低[41]。
+
+
+
+
+可能有第二颗行星环绕着这颗恒星，但尚未能证实。
+
+
+在天苑四的外围有一颗行星存在，会对附近有彗星体的尘埃环造成摄动的效应，使得其中有些天体会进入系统的内部，并且可能会掠过距离恒星不到1天文单位的任何一颗行星的轨道。因此，一颗类地行星可能会遭遇到类似地球在6亿年前经历的后期重轰炸时期的炮击状态[42]。
+因为天苑四有允许形成类地行星的性质，因此是被列在行星发现计划中的一个目标。虽然这个系统不是列在已经被取消的类地行星发现者的主要候选者，但它依然是NASA太空干涉测量任务中作为搜寻地球大小行星的目标之一[43]。
+尘埃环[编辑]
+
+
+
+
+环绕天苑四的两条小行星带。
+
+
+天文学家使用詹姆士·克拉克·玛克斯威望远镜观测后发现，次微米波长的辐射延伸至距离恒星半径35 角秒之处，辐射尖峰出现在距离18角秒的地区（相当于距离恒星60天文单位），距离恒星30天文单位的地区也有强度较低的辐射。天文学家认为这些辐射来自于类似太阳系柯伊伯带的小行星带，这条小行星带与视线的方向大约有25度的倾斜角[44]。
+尘埃带不对称的结构也许是受到行星摄动的影响，尘埃带中的丛集可能与天文学家怀疑的行星轨道有正数周期的共振，例如：行星运转3周时，尘埃带的丛集可能正好运行了2周的3:2共振[45]。经过电脑摹拟显示圆环型态可以让轨道离心率0.3的行星在5:3和3:2的轨道共振上捕获尘埃带的粒子[46]。
+尘埃带内包含的尘埃量大约是我们太阳系附近尘埃的1,000倍，意味着可以比太阳系多形成1,000倍的彗星体。估计尘埃的总量6倍于月球质量，这些尘埃可能是彗星体碰撞产生的，范围在10至30公里直径的总质量达到地球质量的5至9倍，这与柯伊伯带估计有10被地球质量非常相似[42]。
+距离恒星35天文单位处的尘埃几乎完全消失，或许意味着恒星系统已经有行星形成，清空这个区域内的尘埃。这种现象与目前天文学家接受的内太阳系的模型是一致的，因此可能有类地行星环绕着这颗恒星。
+NASA的史匹哲太空望远镜在2008年10月27日的观测显示确实有两条小行星带环绕恒星，其中有一条是系外黄道尘。有一条小行星带的位置与我们太阳系的相同；较密集的第二条小行星带很类似太阳系小行星带群聚，它位于第一条和彗星带中间。小行星带暗示天苑四还有其他行星存在[37]。
+相关条目[编辑]
+
+科幻中的天苑四
+恒星距离列表
+
+注解和参考资料[编辑]
+
+
+^ 1.00 1.01 1.02 1.03 1.04 1.05 1.06 1.07 1.08 1.09 1.10 1.11 HD 22049 -- Variable of BY Dra type. SIMBAD. Centre de Données astronomiques de Strasbourg. [2007-11-29]. 
+^ 2.0 2.1 Mendoza, E. E.; Gomez, V. T.; Gonzalez, S. UBVRI photometry of 225 Am stars.. Astronomical Journal. 1978, 83: 606–614 [2007-11-29]. doi:10.1086/112242.  引文使用过时参数coauthors (帮助)
+^ 3.0 3.1 GCVS Query=eps Eri. General Catalog of Variable Stars. Sternberg Astronomical Institute, Moscow, Russia. [2009-05-20]. 
+^ 4.0 4.1 4.2 4.3 4.4 Staff. The One Hundred Nearest Star Systems. Research Consortium on Nearby Stars. June 8, 2007 [2007-11-29]. （原始内容存档于2012年5月13日）. 
+^ 5.0 5.1 Johnson, H. M.; Wright, C. D. Predicted infrared brightness of stars within 25 parsecs of the sun. Astrophysical Journal Supplement Series. 1983, 53: 643–711 [2007-11-29]. doi:10.1086/190905.  引文使用过时参数coauthors (帮助)—see p. 653.
+^ Zhao, G.; Chen, Y. Q.; Qiu, H. M.; Li, Z. W. Chemical Abundances of 15 Extrasolar Planet Host Stars. The Astronomical Journal. 2002, 124 (4): 2224–2232 [2007-06-01]. doi:10.1086/342862. 
+^ 7.0 7.1 7.2 Santos, N. C.; Israelian, G.; Mayor, M. Spectroscopic [Fe/H] for 98 extra-solar planet-host stars: Exploring the probability of planet formation. Astronomy & Astrophysics. 2004, 415: 1153–1166 [2007-11-29]. doi:10.1051/0004-6361:20034469.  引文使用过时参数coauthors (帮助); 参数|title=值左起第15位存在删除符 (帮助)—the percentage of iron is given by 
+
+
+
+
+
+
+
+
+
+10
+
+−
+0.13
+
+
+=
+0.74
+
+
+
+
+
+
+
+{\displaystyle {\begin{smallmatrix}10^{-0.13}=0.74\end{smallmatrix}}}
+
+, or 74%
+^ 8.0 8.1 8.2 Di Folco, E.; 等. VLTI near-IR interferometric observations of Vega-like stars. Radius and age of α PsA, β Leo, β Pic, ε Eri and τ Cet. Astronomy and Astrophysics. 2004, 426: 601–617 [2008-07-24].  引文格式1维护：显式使用等标签 (link)
+^ 9.0 9.1 Backman, D.; et al.. Epsilon Eridani’s planetary debris disk: Structure and dynamics based on Spitzer and CSO observations. The Astrophysical Journal. 2008, 690 (2): 1522–1538. Bibcode:2009ApJ...690.1522B. doi:10.1088/0004-637X/690/2/1522.  引文使用过时参数coauthors (帮助)
+^ Aguilar, David A.; Pulliam, Christine. Solar system's young twin has two asteroid belts. Harvard-Smithosonian Center for Astrophysics. 2008-10-27 [2008-11-10].  引文使用过时参数coauthors (帮助)
+^ Data at http://www.solstation.com/stars/eps-erid.htm, accessed on November 28, 2008.
+^ Campbell, William Wallace. The Elements of Practical Astronomy. New York: The MacMillan Company. 1899. 
+^ Narisada, Kohei; Schreuder, Duco. Light Pollution Handbook. Springer. 2004. ISBN 140202665X.  引文使用过时参数coauthors (帮助)
+^ Kanas, Nick. Star Maps: History, Artistry, and Cartography. Springer. 2007. ISBN 0387716688. 
+^ Cannon, Annie J.; Pickering, Edward C. The Henry Draper catalogue 0h, 1h, 2h, and 3h. Annals of Harvard College Observatory. 1918, 91: 1–290 [2008-07-21].  引文使用过时参数coauthors (帮助)—see p. 236
+^ Belkora, Leila. Minding the Heavens: The Story of Our Discovery of the Milky Way. CRC Press. 2002. ISBN 0750307307. 
+^ Gill, David; Elkin, W. L. Heliometer Determinations of Stellar Parallaxes in the Southern Hemisphere. Memoirs of the Royal Astronomical Society. 1884, 48: 77–115 [2008-07-21].  引文使用过时参数coauthors (帮助)—see pp. 174–80
+^ Gill, David. Heliometer Observations for Determination of Stellar Parallax. London: Eyre and Spottiswoode. 1893. 
+^ Gill, David. The Fixed Stars. Nature. 1884, 30: 156–159. 
+^ Adams, W. S.; Joy, A. H. The luminosities and parallaxes of five hundred stars.. Astrophysical Journal. 1917, 46: 313–339 [2008-07-19].  引文使用过时参数coauthors (帮助)
+^ Heidmann, Jean; Dunlop, Storm. Extraterrestrial intelligence. Cambridge University Press. 1995. ISBN 0521585635.  引文使用过时参数coauthors (帮助)
+^ Henry, T.; 等. The Current State of Target Selection for NASA's High Resolution Microwave Survey. Progress in the Search for Extraterrestrial Life. Santa Cruz, California: Astronomical Society of the Pacific: 207–218. August 16–20, 1993 [2008-07-22].  引文格式1维护：显式使用等标签 (link)
+^ Whitehouse, David. NASA's Hubble Space Telescope Finds "Blue Straggler" Stars in the Core of a Globular Cluster. BBC News. 2004-03-25 [2008-07-22]. 
+^ van de Kamp, P. Parallax and orbital motion of Epsilon Eridani.. Astronomical Journal. 1974, 79: 491–492 [2008-07-28]. 
+^ Hatzes, Artie P.; 等. Evidence for a Long-period Planet Orbiting Epsilon Eridani. The Astrophysical Journal. 2000, 544 (2): L145–L148. doi:10.1086/317319.  引文格式1维护：显式使用等标签 (link)
+^ Greaves, Jane. Astronomers discover a nearby star system just like our own Solar System. JAC/UCLA. 1998-07-08 [2008-07-28]. （原始内容存档于2006-05-03）. 
+^ Benedict, G. Fritz; McArthur, Barbara E.; 等. The Extrasolar Planet ε Eridani b: Orbit and Mass. The Astronomical Journal. 2006, 132 (5): 2206–2218 [2008-07-28].  引文格式1维护：显式使用等标签 (link)
+^ Valenti, Jeff A.; Marcy, Geoffrey W.; Basri, Gibor. Infrared Zeeman analysis of epsilon Eridani. The Astrophysical Journal, Part 1. 1995, 439 (2): 939–956 [2008-07-19].  引文使用过时参数coauthors (帮助)
+^ 29.0 29.1 Gray, David F.; Baliunas, Sallie L. Magnetic activity variations of epsilon Eridani. Astrophysical Journal, Part 1. 1995, 441 (1): 436–442 [2008-07-19].  引文使用过时参数coauthors (帮助)
+^ Froehlich, H.-E. The differential rotation of epsilon Eri from MOST data. Astronomische Nachrichten. 2007, 328: 1037 [2008-07-25]. 
+^ Drake, Jeremy J.; Smith, Geoffrey. The fundamental parameters of the chromospherically active K2 dwarf Epsilon Eridani. Astrophysical Journal, Part 1. 1993, 412 (2): 797–809 [2008-07-24].  引文使用过时参数coauthors (帮助)
+^ Gai, Ning; Bi, Shao-Lan; Tang, Yan-Ke. Modeling ε Eridani and asteroseismic tests of element diffusion. SAO/NASA ADS. 2008 [2008-07-24].  引文使用过时参数coauthors (帮助)
+^ Wood, Brian E.; Müller, Hans-Reinhard; Zank, Gary P.; Linsky, Jeffrey L. Measured Mass-loss Rates of Solar-like Stars as a Function of Age and Activity. The Astsophysical Journal. 2002, 574: 1–2. doi:10.1086/340797.  引文使用过时参数coauthors (帮助)
+^ de Mello, G. F. Porto; del Peloso, E. F.; Ghezzi, L. Astrobiologically Interesting Stars within 10 parsecs of the Sun. Astrobiology. 2005, 6 (2): 308–331 [2008-07-27].  引文使用过时参数coauthors (帮助)
+^ Deltorn, J.-M.; Kalas, P. Search for Nemesis Encounters with Vega, epsilon Eridani, and Fomalhaut. (编) Jayawardhana, Ray; Greene, Thoas. Young Stars Near Earth: Progress and Prospects. San Francisco, CA: Astronomical Society of the Pacific: 227–232. 2001 [2008-07-22]. ISBN 1-58381-082-X.  引文使用过时参数coauthors (帮助)
+^ García-Sánchez, J.; Weissman, P. R.; Preston, R. A.; Jones, D. L.; Lestrade, J.-F.; Latham, D. W.; Stefanik, R. P.; Paredes, J. M. Stellar encounters with the solar system. Astronomy and Astrophysics. 2001, 379: 634–659 [2008-06-12]. doi:10.1051/0004-6361:20011330.  引文使用过时参数coauthors (帮助)
+^ 37.0 37.1 Closest Planetary System Hosts Two Asteroid Belts. NASA/JPL-Caltech. [27 October 2008]. （原始内容存档于2009年1月5日）. 
+^ Janson, Markus; 等. A comprehensive examination of the ɛ Eridani system. Verification of a 4 micron narrow-band high-contrast imaging approach for planet searches. Astronomy and Astrophysics. 2008, 488 (2): 771–780. Bibcode:2008A&A...488..771J. doi:10.1051/0004-6361:200809984.  引文格式1维护：显式使用等标签 (link)
+^ Dole, Stephen H. Habitable Planets for Man First edition. New York: Blaisdell Publishing Company. 1964 [2008-07-22].  引文格式1维护：冗余文本 (link)
+^ Underwood, David R.; Jones, Barrie W.; Sleep, P. Nick. The evolution of habitable zones during stellar lifetimes and its implications on the search for extraterrestrial life. International Journal of Astrobiology. 2003, 2: 289–299 [2008-07-22]. doi:10.1017/S1473550404001715.  引文使用过时参数coauthors (帮助)
+^ Jones, Barrie W.; Underwood, David R.; Sleep, P. Nick. The Stability of the Orbits of Earth-mass Planets in and near the Habitable Zones of Known Exoplanetary Systems. Proceedings of the Conference on Towards Other Earths: DARWIN/TPF and the Search for Extrasolar Terrestrial Planets. Heidelberg, Germany: Dordrecht, D. Reidel Publishing Co.: 625–630. April 22–25, 2003 [2008-07-22]. ISBN 92-9092-849-2.  引文使用过时参数coauthors (帮助)
+^ 42.0 42.1 Greaves, J. S.; 等. Structure in the ε Eridani Debris Disk. The Astrophysical Journal. 2005, 619 (2): L187–L190 [2008-07-30].  引文格式1维护：显式使用等标签 (link)
+^ McCarthy, Chris. Space Interferometery Mission: Key Science Project. Exoplanets Group, San Francisco State University. 2008 [2008-07-22]. 
+^ Greaves, J. S.; Holland, W. S.; Moriarty-Schieven, G.; Jenness, T.; Dent, W. R. F.; Zuckerman, B.; McCarthy, C.; Webb, R. A.; Butner, H. M.; Gear, W. K.; Walker, H. J. A Dust Ring around epsilon Eridani: Analog to the Young Solar System. The Astrophysical Journal. 1998, 506 (2): L133–L137 [2008-07-29].  引文使用过时参数coauthors (帮助)
+^ Ozernoy, Leonid M.; Gorkavyi, Nick N.; Mather, John C.; Taidakova, Tanya A. Signatures of exosolar planets in dust debris disks. The Astrophysical Journal Letters. 2000, 537: L147–L151. doi:10.1086/312779.  引文使用过时参数coauthors (帮助)
+^ Quillen, A. C.; Thorndike, Stephen. Structure in the ε Eridani Dusty Disk Caused by Mean Motion Resonances with a 0.3 Eccentricity Planet at Periastron. Astrophysical Journal. 2002, 578 (2): L149–L142 [2008-07-30]. doi:10.1086/344708.  引文使用过时参数coauthors (帮助)
+
+
+外部链接[编辑]
+
+Astronomers discover a nearby star system just like our own Solar System. JAC/UCLA. [24 March 2005]. （原始内容存档于2005年11月10日）. 
+Bruce Campbell, G.A.H. Walker, S. Yang. A search for substellar companions to solar-type stars. Astrophysical Journal. 1988, 331 (Part 1): 902 – 921. doi:10.1086/166608. 
+Sean Moran, Marc Kuchner, and Matthew J. Holman. The Dynamical Influence of a Planet at Semimajor Axis 3.4 AU on the Dust around ε Eridani. The Astrophysical Journal. 2004, 612: 1163 – 1170. doi:10.1086/422796. 
+Notes for star Epsilon Eridani. The Extrasolar Planets Encyclopaedia. [13 April 2006]. （原始内容存档于2006年6月20日）. 
+Epsilon Eridani. SolStation. [13 April 2006]. 
+
+天球赤道座标： 03h 32m 55.8442s，+09°27′29.744″
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+波江座恒星
+
+
+
+
+
+
+B
+
+
+
+α
+β
+γ
+δ
+ε
+ζ
+η
+θ
+ι
+κ
+λ
+μ
+ν
+ξ
+ο¹
+ο²
+π
+ρ¹
+ρ²
+ρ³
+τ¹
+τ²
+τ³
+τ⁴
+τ⁵
+τ⁶
+τ⁷
+τ⁸
+τ⁹
+υ¹
+υ²
+υ³
+υ⁴
+φ
+χ
+ψ
+ω
+b
+c
+d
+e(82G.)
+f
+g
+h
+i
+l
+p
+q¹
+q²
+s
+v
+w
+y
+A
+
+
+
+
+
+
+
+
+F
+
+
+
+1(τ¹)
+2(τ²)
+3(η)
+4
+5
+6
+7
+8(ρ¹)
+9(ρ²)
+10(ρ³)
+11(τ³)
+13(ζ)
+14
+15
+16(τ⁴)
+17
+18(ε)
+19(τ⁵)
+20
+21
+22
+23(δ)
+24
+25
+26(π)
+27(τ⁶)
+28(τ⁷)
+29
+30
+32(w)
+33(τ⁸)
+34(γ)
+35
+36(τ⁹)
+37
+38(ο¹)
+39(A)
+40(ο²)
+41(υ⁴)
+42(ξ)
+43(υ³)
+45
+46
+47
+48(ν)
+50(υ¹)
+51(c)
+52(υ²)
+53(l)
+54
+55
+56
+57(μ)
+58
+59
+60
+61(ω)
+62(b)
+63
+64
+65(ψ)
+66
+67(β)
+68
+69(λ)
+
+
+
+
+
+
+
+
+近距离恒星
+
+
+
+ε
+DEN 0255-4700
+ο²(40)
+LHS 1723
+2MASS 0415-0935
+e(82 G.)
+LP 771-095
+p
+LP 655-48
+HR 1614
+δ
+2MASS J04390101-2353083
+
+
+
+
+
+
+
+
+
+波江座恒星列表
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+星官 天苑 包括的恒星
+
+
+
+
+
+
+正星
+
+
+
+天苑一
+天苑二
+天苑三
+天苑四
+天苑五
+天苑六
+天苑七
+天苑八
+天苑九
+天苑十
+天苑十一
+天苑十二
+天苑十三
+天苑十四
+天苑十五
+天苑十六
+
+
+
+
+
+
+
+
+增星
+
+
+
+天苑增一
+天苑增二
+天苑增三
+天苑增四
+天苑增五
+天苑增六
+天苑增七
+天苑增八
+天苑增九
+天苑增十
+天苑增十一
+天苑增十二
+天苑增十三
+天苑增十四
+天苑增十五
+天苑增十六
+天苑增十七
+天苑增十八
+
+
+
+
+
+
+
+
+
+
+
+
+分类：拜耳天体波江座HD和HDE天体HIP天体橙矮星有固有名的恒星星周盘行星系格利泽和GJ天体天苑 (星官)隐藏分类：含有过时参数的引用的页面引文格式1错误：不可见字符引文格式1维护：显式使用等标签引文格式1维护：冗余文本

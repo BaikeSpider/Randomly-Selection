@@ -1,0 +1,1079 @@
+多发性硬化症
+
+
+
+
+
+本条目翻译品质不佳。 
+翻译者可能不熟悉中文或原文语言，也可能使用了机器翻译，请协助翻译本条目或重新编写。明显拙劣的机器翻译请改挂{{Delete|G13}}提交删除。 
+
+
+ 维基百科中的医疗相关内容仅供参考，详见医学声明。如需专业意见请咨询专业人士。
+
+
+多发性硬化症
+Multiple sclerosis
+
+
+
+
+
+多发性硬化症脱髓鞘 CD68染色的组织显示病灶区域存在巨噬细胞 原始比例1:100
+
+
+分类和外部资源
+
+
+医学专科
+神经学
+
+
+ICD-10
+G35
+
+
+ICD-9-CM
+340
+
+
+OMIM
+126200
+
+
+DiseasesDB
+8412
+
+
+MedlinePlus
+000737
+
+
+eMedicine
+neuro/228 oph/179 emerg/321 pmr/82 radio/461
+
+
+Patient UK
+多发性硬化症
+
+
+MeSH
+D009103
+
+
+
+[编辑此条目的维基数据]
+
+
+
+多发性硬化症（英文：Multiple Sclerosis）是一种慢性、炎症性、脱髓鞘的中枢神经系统疾病。可引起各种症状，包括感觉改变、视觉障碍、肌肉无力、忧郁、协调与讲话困难、严重的疲劳、认知障碍、平衡障碍、体热和疼痛等，严重的可以导致活动性障碍和残疾。多发性硬化症影响脑和脊髓的神经细胞──神经元。神经元传递信息，形成思维和感觉，以使大脑控制身体。保护这些神经元的脂质层为髓鞘(Myelin Sheath)，协助神经元进行电信号传递。多发性硬化症逐渐造成大脑和脊髓的斑块性的神经髓鞘的破坏(脱髓鞘)，髓鞘的瘢痕形成影响神经轴突的信号传递，以失去大脑和脊髓对外周的控制，以至多部位的僵硬或丧失功能。
+多发性硬化症的平均发病年龄一般在20至40岁，女性发病人数两倍于男性[1]。多发性硬化症的病因不清，多被认为是自身免疫性疾病[2]。少数人认为是一种代谢依赖性神经变性疾病。目前尚无有效的根治办法。
+流行病学[编辑]
+多发性硬化症（MS）盛行率依国家或特定族群不同介于每100,000人中2人至150人之间[3]。 族群和地理模式的流行病学 研究方法已经常用于MS，而且导致不同病因学说的提出[4][5][6] 。
+
+
+
+
+某些族群如萨米人，MS发生率较低，可能是基因因素所导致。
+
+
+
+
+
+
+多发性硬化症的主要症状。
+
+
+MS通常出现于30岁早期的成人，但也可能出现于小孩[7]。首要的渐进型亚型在30余岁人群更常见[8]。就许多自体免疫疾病而言，此疾病在女性更常见，且有增加的趋势[7][9]。在小孩，性别比率差异更高[7]，但是在超过50岁的人群，MS侵袭男性和女性几乎相等[8]。 在北半球有由北向南的梯度变化，而南半球有向南到北的梯度变化，MS在赤道附近居住的人群较不常见[7][9]。气候、阳光和摄取维他命D已列为可能解释纬度梯度的病因在研究[6]。然而在由北到南的模式中有重要例外，且盛行率随时间改变[7]。总的说来此趋势可能会消失[9]。这指出其他因子如环境和基因必须列入解释MS的原因[7]。MS也常见于欧洲北部族群分布区域[7]，但是在这些MS常见的区域，某些种族群体发病风险较低[5]。
+孩童时期的环境因子在日后MS发病可能占重要角色。几个移民研究显示，若15岁以前移民，移民者就会受到新地区的MS敏感性影响，若15岁以后移民，移民者就会受到原地区的MS敏感性影响[7][5]。然而年龄─地理性MS发病风险可能横跨更大的时间尺度[7]。已建立的出生季节与MS关连性增添了与阳光和维他命D关联性的支持。例如，十一月出生的人群较五月出生的人群少罹患MS[10]。
+参考文献[编辑]
+
+
+^ Calabresi PA.Diagnosis and management of multiple sclerosis. Am Fam Physician. http://www.ncbi.nlm.nih.gov/sites/entrez?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=15571060
+^ Altmann D (2005). "Evaluating the evidence for multiple sclerosis as an autoimmune disease". Arch. Neurol. 62 (4): 688; author reply 688-9.
+^ Rosati G. The prevalence of multiple sclerosis in the world: an update. Neurol. Sci. April 2001, 22 (2): 117–39. PMID 11603614. doi:10.1007/s100720170011. 
+^ Ascherio A, Munger KL. Environmental risk factors for multiple sclerosis. Part I: the role of infection. Ann. Neurol. April 2007, 61 (4): 288–99. PMID 17444504. doi:10.1002/ana.21117. 
+^ 5.0 5.1 5.2 Marrie RA. Environmental risk factors in multiple sclerosis aetiology. Lancet Neurol. December 2004, 3 (12): 709–18. PMID 15556803. doi:10.1016/S1474-4422(04)00933-0. 
+^ 6.0 6.1 Ascherio A, Munger KL. Environmental risk factors for multiple sclerosis. Part II: Noninfectious factors. Ann. Neurol. June 2007, 61 (6): 504–13. PMID 17492755. doi:10.1002/ana.21141. Kurtzke JF. Epidemiologic evidence for multiple sclerosis as an infection. Clin. Microbiol. Rev. October 1993, 6 (4): 382–427. PMC 358295. PMID 8269393. 
+^ 7.0 7.1 7.2 7.3 7.4 7.5 7.6 7.7 7.8 Compston A, Coles A. Multiple sclerosis. Lancet. October 2008, 372 (9648): 1502–17. PMID 18970977. doi:10.1016/S0140-6736(08)61620-7. 
+^ 8.0 8.1 Miller DH, Leary SM. Primary-progressive multiple sclerosis. Lancet Neurol. October 2007, 6 (10): 903–12. PMID 17884680. doi:10.1016/S1474-4422(07)70243-0. 
+^ 9.0 9.1 9.2 Alonso A, Hernán MA. Temporal trends in the incidence of multiple sclerosis: a systematic review. Neurology. July 2008, 71 (2): 129–35. PMID 18606967. doi:10.1212/01.wnl.0000316802.35974.34. 
+^ Kulie T, Groff A, Redmer J, Hounshell J, Schrager S. Vitamin D: an evidence-based review. J Am Board Fam Med. 2009, 22 (6): 698–706. PMID 19897699. doi:10.3122/jabfm.2009.06.090037. 
+
+
+外部链接[编辑]
+
+开放式目录计划中和多发性硬化症相关的内容
+Database for analysis and comparison of global data on the epidemiology of MS
+NIH listing of clinical trials related to MS
+Abstract index of the Cochrane Library
+GeneReview/NCBI/NIH/UW entry on Multiple Sclerosis Overview
+
+Template:Multiple sclerosis
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+神经系统（中枢神经系统疾病（英语：Central nervous system disease））病理学（G04–G47，323–349）
+
+
+
+
+
+
+炎症
+
+
+
+
+
+脑部
+
+
+
+
+脑炎
+
+病毒性脑炎
+疱疹病毒性脑炎
+
+
+海绵窦血栓（英语：Cavernous sinus thrombosis）
+脑脓肿（英语：Brain abscess）
+
+阿米巴脑脓肿（英语：Amoebic brain abscess）
+
+
+
+
+
+
+
+
+
+
+
+脊髓
+
+
+
+
+脊髓炎（英语：Myelitis）：小儿麻痹症
+脱髓鞘疾病（英语：Demyelinating disease）
+
+横贯性脊髓炎
+
+
+热带痉挛性瘫痪（英语：Tropical spastic paraparesis）
+硬膜外脓肿
+
+
+
+
+
+
+
+
+
+同时／伴发
+
+
+
+
+脑脊髓炎（英语：Encephalomyelitis）
+
+急性播散性脑脊髓炎（英语：Acute disseminated encephalomyelitis）
+
+
+脑膜脑炎
+
+
+
+
+
+
+
+
+
+
+
+脑部
+脑病（英语：encephalopathy）
+
+
+
+
+
+神经退行性疾病
+
+
+
+
+
+
+锥体外系统（英语：Extrapyramidal system）
+运动障碍（英语：movement disorder）
+
+
+
+
+基底节病变（英语：Basal ganglia disease）
+
+帕金森
+
+帕金森氏症
+脑炎后帕金森综合征（英语：Postencephalitic parkinsonism）
+神经阻滞剂恶性综合征（英语：Neuroleptic malignant syndrome）
+
+
+泛酸激酶依赖型神经退行性疾病（英语：Pantothenate kinase-associated neurodegeneration）
+Tau蛋白病变（英语：Tauopathy）
+
+进行性核上性麻痹（英语：Progressive supranuclear palsy）
+
+
+纹状体黑质变性（英语：Striatonigral degeneration）
+单侧抽搐（英语：Hemiballismus）
+亨廷顿氏舞蹈病
+橄榄体脑桥小脑萎缩（英语：Olivopontocerebellar atrophy）
+
+
+
+
+运动障碍（英语：Dyskinesia）
+
+肌张力障碍
+
+运动障碍状况（英语：Status dystonicus）
+痉挛性斜颈（英语：Spasmodic torticollis）
+美格氏综合征（英语：Meige's syndrome）
+睑痉挛
+
+
+指痉病（英语：Athetosis）
+舞蹈病
+
+舞蹈指痉病（英语：Choreoathetosis）
+
+
+肌阵挛（英语：Myoclonus）
+
+肌阵挛性癫痫（英语：Myoclonic epilepsy）
+
+
+静坐不能（英语：Akathisia）
+
+
+
+
+震颤
+
+特发性震颤（英语：Essential tremor）
+意向性震颤（英语：Intention tremor）
+
+
+不宁腿综合征
+僵人综合征
+
+
+
+
+
+
+
+
+
+痴呆
+
+
+
+
+Tau蛋白病变（英语：Tauopathy）
+
+阿兹海默病
+
+早发老年性痴呆症（英语：Early-onset Alzheimer's disease）
+
+
+原发性渐行失语症（英语：Primary progressive aphasia）
+
+
+额颞痴呆（英语：Frontotemporal dementia）或额颞叶变性（英语：Frontotemporal lobar degeneration）
+
+皮克氏病
+路易氏体型失智症
+
+
+
+
+血管性痴呆
+
+
+
+
+
+
+
+
+
+线粒体病（英语：Mitochondrial disease）
+
+
+
+
+童年期脑脊髓病变（英语：Leigh's disease）
+
+
+
+
+
+
+
+
+
+
+
+
+脱髓鞘病（英语：Demyelinating disease）
+
+
+
+
+脱髓鞘自身免疫疾病（英语：CNS demyelinating autoimmune diseases）
+
+多发性硬化症
+视神经脊髓炎（英语：Neuromyelitis optica）
+弥漫性脱髓鞘硬化（英语：Diffuse myelinoclastic sclerosis）
+
+
+遗传中枢神经系统脱髓鞘疾病（英语：Hereditary CNS demyelinating disease）
+
+肾上腺脑白质营养不良
+亚历山大病
+卡纳万病（英语：Canavan disease）
+克拉伯病（英语：Krabbe disease）
+异染性脑白质退化症
+佩梅样病（英语：Pelizaeus-Merzbacher disease）
+脑白质病伴有白质消失（英语：Leukoencephalopathy with vanishing white matter）
+巨脑性脑白质病伴有皮层下囊肿（英语：Megalencephalic leukoencephalopathy with subcortical cysts）
+CAMFAK综合征（英语：CAMFAK syndrome）
+
+
+脑桥中央髓鞘溶解症（英语：Central pontine myelinolysis）
+原发性胼胝体变性（英语：Marchiafava-Bignami disease）
+阿尔珀斯病（英语：Alpers' disease）
+
+
+
+
+
+
+
+
+
+间歇式发作
+
+
+
+
+
+
+癫痫发作
+癫痫症
+
+
+
+
+局灶性癫痫发作（英语：Focal seizures）
+普遍癫痫（英语：Generalised epilepsy）
+癫痫持续状态
+肌阵挛性癫痫（英语：Myoclonic epilepsy）
+
+
+
+
+
+
+
+
+
+头痛
+
+
+
+
+偏头痛
+
+家族性偏瘫型偏头痛（英语：Familial hemiplegic migraine）
+
+
+丛集性头痛
+紧张性头痛（英语：Tension headache）
+
+
+
+
+
+
+
+
+
+脑血管疾病（英语：Cerebrovascular disease）
+
+
+
+
+短暂性脑缺血发作
+
+一时性黑蒙（英语：Amaurosis fugax）
+暂时性全面失忆症（英语：Transient global amnesia）
+失语症
+
+
+
+
+中风
+
+大脑中动脉综合征（英语：Middle cerebral artery syndrome）
+大脑前动脉综合征（英语：Anterior cerebral artery syndrome）
+大脑后动脉综合征（英语：Posterior cerebral artery syndrome）
+福维尔综合征（英语：Foville's syndrome）
+脑桥外侧综合征（英语：Millard-Gubler syndrome）
+延髓外侧综合征（英语：Lateral medullary syndrome）
+面颅血管瘤综合征（英语：Weber's syndrome）
+腔隙性脑梗死（英语：Lacunar stroke）
+
+
+
+
+
+
+
+
+
+
+
+睡眠障碍
+
+
+
+
+失眠症
+嗜睡症
+睡眠呼吸暂停
+
+阻塞性睡眠呼吸暂停
+奥丁诅咒（英语：Ondine's curse）
+
+
+发作性嗜睡病
+猝倒症（英语：Cataplexy）
+克莱恩-莱文综合征
+生理节律睡眠障碍
+
+进阶型睡眠周期障碍（英语：Advanced sleep phase disorder）
+睡眠相位后移障碍
+非二十四小时睡眠清醒障碍（英语：Non-24-hour sleep–wake disorder）
+飞行时差反应
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+脑脊液
+
+
+
+
+颅内高压（英语：Intracranial hypertension）
+
+脑积水／正常压力脑积水（英语：Normal pressure hydrocephalus）
+脉络丛乳头状瘤（英语：Choroid plexus papilloma）
+特发性颅内高压（英语：Idiopathic intracranial hypertension）
+
+
+脑水肿
+颅内低压（英语：Intracranial hypotension）
+
+
+
+
+
+
+
+
+
+其他
+
+
+
+
+脑脱垂（英语：Brain herniation）
+雷耶氏综合征
+肝性脑病
+中毒性脑病（英语：Toxic encephalopathy）
+
+
+
+
+
+
+
+
+
+
+
+脊髓/
+脊髓病
+
+
+
+脊髓空洞症（英语：Syringomyelia）
+延髓空洞症（英语：Syringobulbia）
+莫旺病（英语：Morvan's syndrome）
+血管脊髓病（英语：Vascular myelopathy）
+
+Foix-Alajouanine综合征（英语：Foix-Alajouanine syndrome）
+
+
+脊髓压迫症（英语：Spinal cord compression）
+
+
+
+
+
+
+
+
+混合／伴有
+
+
+
+
+
+神经退行性疾病
+
+
+
+
+
+
+脊髓小脑性共济失调
+
+
+
+
+弗里德希氏共济失调（英语：Friedreich's ataxia）
+共济失调毛细血管扩张症
+
+
+
+
+
+
+
+
+
+运动神经元病
+
+
+
+
+仅限上运动神经元（英语：Upper motor neuron）
+
+原发性脊髓侧索硬化（英语：Primary lateral sclerosis）
+假性延髓麻痹（英语：Pseudobulbar palsy）
+遗传性痉挛性截瘫
+
+
+
+
+仅限下运动神经元（英语：Lower motor neuron）
+
+遗传性运动神经末梢病（英语：Distal hereditary motor neuropathies）
+运动神经元疾病
+
+行性脊柱性肌萎缩症
+一型X染色体相关的脊髓性肌肉萎缩症（英语：X-linked spinal muscular atrophy type 1）
+二型X染色体相关的脊髓性肌肉萎缩症（英语：X-linked spinal muscular atrophy type 2）
+一型家族远端型脊肌萎缩症（英语：Distal spinal muscular atrophy type 1）
+先天性远端型脊肌萎缩症（英语：Congenital distal spinal muscular atrophy）
+脊肌萎缩症伴有小脑发育不全（英语：Spinal muscular atrophy with pontocerebellar hypoplasia）
+脊肌萎缩症伴有较低极限优势（英语：Spinal muscular atrophy with lower extremity predominance）
+脊肌萎缩症伴有进行性肌阵挛性癫痫（英语：Spinal muscular atrophy with progressive myoclonic epilepsy）
+
+
+进行性脊肌萎缩症
+进行性延髓麻痹（英语：Progressive bulbar palsy）
+
+洛二氏病（英语：Fazio–Londe disease）
+婴儿进行性延髓麻痹（英语：Infantile progressive bulbar palsy）
+
+
+
+
+
+
+同时
+
+肌萎缩性脊髓侧索硬化症
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+中枢神经系统疾病
+
+
+
+
+
+
+描述
+
+
+
+解剖
+
+脑膜
+皮质
+
+联络纤维（英语：Template:Association fibers）
+连合纤维（英语：Template:Commissural fibers and septum）
+
+
+侧脑室（英语：Template:Lateral ventricles）
+基底核
+间脑
+中脑
+桥脑
+小脑
+髓质
+脊髓
+
+管道
+
+
+
+
+生理
+
+神经传递
+
+酵素
+中间物
+
+
+
+
+发育（英语：Template:Development of nervous system）
+
+
+
+
+
+
+
+
+疾病
+
+
+
+脑性瘫痪（英语：Template:Cerebral palsy）
+脑膜炎（英语：Template:Diseases of meninges）
+脱髓鞘疾病（英语：Template:Demyelinating diseases of CNS）
+癫痫
+头痛
+中风（英语：Template:Cerebrovascular diseases）
+睡眠
+先天性（英语：Template:Congenital malformations and deformations of nervous system）
+损伤（英语：Template:Neurotrauma）
+肿瘤
+其他
+
+瘫痪疾病（英语：Template:Cerebral palsy and other paralytic syndromes）
+ALS（英语：Template:Amyotrophic lateral sclerosis）
+
+
+症状
+
+头颈部
+齐名（英语：Template:Eponymous medical signs for nervous system）
+病灶（英语：Template:Lesions of spinal cord and brain）
+
+
+测试
+
+CSF（英语：Template:CSF tests）
+
+
+
+
+
+
+
+
+
+
+治疗
+
+
+
+程序（英语：Template:Neuro procedures）
+药物
+
+全身麻醉药
+镇痛药
+抗成瘾
+抗癫痫药
+胆碱类（英语：Template:Cholinergics）
+抗偏头痛
+抗帕金森氏症
+抗晕眩
+其他
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+免疫失调：过敏反应及自身免疫性疾病列表（279.5–6（英语：List of ICD-9 codes 240–279: endocrine, nutritional and metabolic diseases, and immunity disorders））
+
+
+
+
+
+
+I型/过敏/特应性
+（免疫球蛋白E）
+
+
+
+
+
+外源性
+
+
+过敏性鼻炎 · 异位性皮肤炎 · 过敏性荨麻疹 · 过敏性哮喘（气喘） · 全身型过敏性反应 · 食物过敏（包括但不限于：奶、蛋、花生、坚果、海鲜、大豆、小麦) · 青霉素过敏
+
+
+
+
+
+
+
+自免疫
+
+
+无
+
+
+
+
+
+
+
+
+
+II型/
+抗体依赖性细胞介导的细胞毒性作用
+（免疫球蛋白M, 免疫球蛋白G）
+
+
+
+
+
+外源性
+
+
+恶性贫血 · 新生儿溶血症
+
+
+
+
+
+
+
+自免疫
+
+
+
+
+
+
+细胞毒素
+
+
+自身免疫性溶血性贫血 · 特发性血小板减少性紫癜  · 大疱性类天疱疮 · 寻常性天疱疮 · 风湿热 · 肺出血肾炎综合征
+
+
+
+
+
+
+
+"部分V型"/感受器
+
+
+格雷夫斯病（突眼性甲状腺肿） · 重症肌无力
+
+
+
+
+
+
+
+
+
+
+
+
+III型
+（免疫复合物）
+
+
+
+
+
+外源性
+
+
+过敏性紫癜 · 过敏性血管炎 · 反应性关节炎 · 类风湿性关节炎 · 霉尘肺 · 链球菌感染后肾小球肾炎 · 血清病 · 阿蒂斯现象
+
+
+
+
+
+
+
+自免疫
+
+
+红斑性狼疮 · 亚急性细菌性心内膜炎
+
+
+
+
+
+
+
+
+
+IV型/细胞介导免疫
+（T细胞）
+
+
+
+
+
+外源性
+
+
+接触性皮炎 · 结核菌素试验
+
+
+
+
+
+
+
+自免疫
+
+
+1型糖尿病 · 桥本氏甲状腺炎 · 格林－巴利综合征 · 多发性硬化 · 乳糜泻 · 巨细胞动脉炎
+
+
+
+
+
+
+
+移植物抗宿主症
+
+
+输血相关性移植物抗宿主病
+
+
+
+
+
+
+
+
+
+未知/
+多种原因
+
+
+
+
+
+外源性
+
+
+过敏性肺炎（过敏性支气管肺曲菌病） · 移植排斥反应 · 乳胶过敏（I+IV）
+
+
+
+
+
+
+
+自免疫
+
+
+干燥综合症 · 自身免疫性肝炎 · 自身免疫性多内分泌腺病综合征（I型，II型） · 自身免疫性肾上腺炎
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+免疫系统索引
+
+
+
+
+
+
+描述
+
+
+
+生理
+
+细胞
+自身抗原
+自身抗体
+补体
+表面抗原
+免疫受体
+
+
+
+
+
+
+
+
+
+
+疾病
+
+
+
+过敏
+缺陷
+失调
+过敏和自体免疫疾病
+肿瘤
+
+
+
+
+
+
+
+
+治疗
+
+
+
+程序
+药物
+
+抗组织胺药
+免疫增强剂
+免疫抑制剂
+单克隆抗体
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+分类：神经系统疾病自身免疫性疾病隐藏分类：粗劣翻译拥有贡献者连结的条目

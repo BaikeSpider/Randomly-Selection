@@ -1,0 +1,2 @@
+制造资源计划
+制造资源计划（Manufacture Resource Plan, MRP-II）是在物料需求计划上发展出的一种规划方法和辅助软件。

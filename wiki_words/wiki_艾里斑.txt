@@ -1,0 +1,55 @@
+艾里斑
+
+
+
+
+艾里斑随圆孔直径的变化3D图
+
+
+
+
+
+
+艾里斑随圆孔直径的变化2D图
+
+
+艾里斑是点光源通过理想透镜成像时，由于衍射而在焦点处形成的光斑。中央是明亮的圆斑，周围有一组较弱的明暗相间的同心环状条纹，把其中以第一暗环为界限的中央亮斑称作艾里斑。这个光斑的大小可以用下面的公式来估计：
+
+
+
+
+
+sin
+⁡
+θ
+≈
+1.22
+
+
+λ
+d
+
+
+
+
+{\displaystyle \sin \theta \approx 1.22{\frac {\lambda }{d}}}
+
+
+
+艾里斑是以英国皇家天文学家乔治·比德尔·艾里的名字命名的。因为他在1835年的论文中第一次给出了这个现象的理论解释。
+外部链接[编辑]
+
+
+"Concepts and Formulas in Microscopy: Resolution" by Michael W. Davidson, Nikon MicroscopyU (website).
+"Image Formation: Numerical Aperture and Image Resolution" (Interactive Java Tutorial) by Kenneth R. Spring, Brian O. Flynn, and Michael W. Davidson, Molecular Expressions (website), June 15, 2006.
+"Image Formation: Airy Pattern Formation" (Interactive Java Tutorial) by Kenneth R. Spring, Brian O. Flynn, and Michael W. Davidson, Molecular Expressions (website), June 15, 2006.
+"Diffraction from a Circular Aperture" by Paul Padley, Connexions (website), November 8, 2005. – Mathematical details to derive the above formula.
+"The Airy Disk: An Explanation Of What It Is, And Why You Can’t Avoid It", Oldham Optical UK.
+
+
+  艾里斑是一个与光学相关的小作品。你可以通过编辑或修订扩充其内容。
+
+
+
+
+分类：光学现象衍射隐藏分类：光学小作品

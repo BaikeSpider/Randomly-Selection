@@ -1,0 +1,106 @@
+内容分析法
+
+
+
+
+
+本条目没有列出任何参考或来源。（2013年1月8日） 
+维基百科所有的内容都应该可供查证。请协助添加来自可靠来源的引用以改善这篇条目。无法查证的内容可能被提出异议而移除。 
+
+
+内容分析法（Content analysis、textual analysis）运用于18世纪的瑞典，自1930年随着宣传分析和传播研究的发展而兴起。 此方法最先被用在报纸内容分析研究，随着研究方法的成熟，和电脑科技与统计软件的进步，已被广泛的运用在传播学和其他社会学科，并成为了重要的研究方法之一。 根据Bowers提出内容分析法的定义，不是针对内心是否客观而且有系统或量化，而是内容分析的价值，即是传播内容利用系统客观和量化方式加以归类统计，并根据这些类别的数字作叙述性的解释。 透过量化的技巧和质的分析，以客观和系统的态度对文件内容进行研究和分析，分析传播内容中各种语言和特性，不仅分析传播内容的讯息，而且分析传播内容对于整个传播过程所发生的影响，藉以推论产生该项内容的环境背景和意义的一种研究。
+
+
+
+目录
+
+
+1 内容分析法的步骤
+2 内容分析法的优缺点
+
+2.1 内容分析法的优点
+2.2 内容分析法的缺点
+
+
+3 内容分析法的限制
+4 参看
+5 延伸阅读
+6 外部链接
+
+
+
+内容分析法的步骤[编辑]
+
+形成问题或假设︰切忌漫无目的为研究内容计算次数，分析要在研究进行前，才不会徒劳无功。
+界定母群体︰明确规划内容主体的界线，赋予母群体设定的操作定义。　
+抽取样本︰抽取样本为研究对象，掌握母群体特性，才会有代表性。
+界定分析单位︰随类目不同而有差异，内容分析常包含许多特性，所以必须容纳不同分析单位。　
+建构类目︰内容分析的核心工作，类目釐定清楚，应该保持互斥、详尽、信度高等原则。　
+建立量化系统︰内容分析是定量分析，量化系统的建立为必要。　
+执行预测建立信度︰建立信度之前必须施行预测，检视类目定义是否清楚明确。　
+依照定义将内容编码︰将分析单位规划到类目就是编码，依照类目和分析单位的定义。编码者依照类目和分析单位判读内容，必须设计标准编码表，制定统一量尺，才能坚守标准。　
+分析资料︰依量化方式，设定处理方法，辨别描述性统计和推论统计的适用性。　
+结论解释︰验证变项之间关联性的假设，阐述与推论这些假设。　
+
+内容分析法的优缺点[编辑]
+内容分析法的优点[编辑]
+
+非亲身访谈法技术︰研究人制造出的传播内容，和推敲传播内容的问题，不直接观察人的行为，或是要访问他们。因此，测量时不会受到测量行动本身的干扰，被观察的内容不会察觉被观察，因此反应不会不稳定。
+经济效益︰内容分析不贵，学生也能负担。
+
+内容分析法的缺点[编辑]
+
+字里行间的涵义难以捉摸，形成编码困难，意义可能有多种，可能存在多于一种模型解释同一概念。　
+不能作为唯一推论的资料，须配合其他资料才能做定论。　
+对于尚未出现的议题，缺乏研究的相关资料难以达到现成资料的内涵。　
+不能体现用户的主观感知
+
+内容分析法的限制[编辑]
+
+研究范围的数量选取的是比较样本，而有限的样本要推往无限有困难，容易参杂个人意见。　
+类目和分析单位是无法普遍穷尽，并且这些意义彰显都是主观的。
+
+参看[编辑]
+
+定性研究
+MAXQDA内容分析软件
+
+延伸阅读[编辑]
+
+
+Graneheim, Ulla Hällgren, and Lundman, Berit (2004). Qualitative content analysis in nursing research: concepts, procedures and measures to achieve trustworthiness. Nurse Education Today, 24(2), 105-112.
+Budge, Ian (ed.) (2001). Mapping Policy Preferences. Estimates for Parties, Electors and Governments 1945-1998. Oxford, UK: Oxford University Press. ISBN 978-0199244003.
+Krippendorff, Klaus, and Bock, Mary Angela (eds) (2008). The Content Analysis Reader. Thousand Oaks, CA: Sage. ISBN 978-1412949668.
+Roberts, Carl W. (ed.) (1997). Text Analysis for the Social Sciences: Methods for Drawing Inferences from Texts and Transcripts. Mahwah, NJ: Lawrence Erlbaum. ISBN 978-0805817348.
+Wimmer, Roger D. and Dominick, Joseph R. (2005). Mass Media Research: An Introduction, 8th ed. Belmont, CA: Wadsworth. ISBN 978-0534647186.
+
+
+外部链接[编辑]
+
+https://web.archive.org/web/20130524084739/http://www.yoshikoder.org/downloads.html: an open source content analysis program
+https://web.archive.org/web/20130719064021/http://academic.csuohio.edu/kneuendorf/content/ Web site of the Content Analysis Guidebook Online, provides some CATA software for free download, list of archives, bibliographies and other important sources
+https://web.archive.org/web/20050905094958/http://www.impact-media.co.uk/ Contains a general introduction to media analysis and media profile measurement including an outline of the differences between open and prescriptive analysis
+
+
+
+
+
+
+规范控制
+
+
+
+NDL: 00576822
+
+
+
+
+
+
+
+
+
+
+
+
+分类：书目计量学社会科学方法论评价方法社会学方法论隐藏分类：自2013年1月缺少来源的条目含有英语的条目使用ISBN魔术链接的页面

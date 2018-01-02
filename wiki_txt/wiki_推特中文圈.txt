@@ -1,0 +1,2 @@
+Twitese
+Twitese（即推特中文圈）是Twitter的第三方中文网页界面，采用PHP语言。用户上传twitese程序，对文件lib/config.php进行参数编辑后，不用访问Twitter主站即可使用Twitter的主要功能，无需占用数据库。新版增加了OAuth安全登录方式。

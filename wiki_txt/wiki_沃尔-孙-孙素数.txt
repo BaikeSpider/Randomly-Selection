@@ -1,0 +1,96 @@
+沃尔-孙-孙素数
+若素数
+
+
+
+p
+
+
+{\displaystyle p}
+
+大于5，且
+
+
+
+
+p
+
+2
+
+
+
+
+{\displaystyle p^{2}}
+
+整除
+
+
+
+F
+(
+p
+−
+
+(
+
+
+5
+p
+
+
+)
+
+)
+
+
+{\displaystyle F(p-\left({\frac {5}{p}}\right))}
+
+，其中
+
+
+
+
+(
+
+
+a
+b
+
+
+)
+
+
+
+{\displaystyle \left({\frac {a}{b}}\right)}
+
+表示勒让德符号，
+
+
+
+F
+(
+k
+)
+
+
+{\displaystyle F(k)}
+
+是第
+
+
+
+k
+
+
+{\displaystyle k}
+
+个斐波那契数，则称
+
+
+
+p
+
+
+{\displaystyle p}
+
+为沃尔-孙-孙素数（Wall-Sun-Sun prime）。

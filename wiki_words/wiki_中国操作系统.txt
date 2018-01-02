@@ -1,0 +1,299 @@
+中国操作系统
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+提示：本条目的主题不是COSIX。
+
+中国操作系统
+
+开发者
+中国科学院软件研究所、上海联彤网络通讯技术有限公司
+
+
+操作系统家族
+类Unix
+
+
+源码模式
+闭源软件[来源请求]
+
+
+初始版本
+2014年1月15日
+
+
+市场取向
+手机、平板电脑和机顶盒
+
+
+支持平台
+ARM
+
+
+内核类别
+Linux内核（宏内核）
+
+
+许可证
+私有[来源请求]
+
+
+官方网站
+www.china-cos.com
+
+
+中国操作系统（China Operate System，简称：COS）是一个由中国科学院软件研究所与上海联彤网络通讯技术有限公司共同设计研发的操作系统，于2014年1月15日在北京钓鱼台国宾馆发布，号称该系统已经拥有十万个应用程序。[1]该系统采用Linux内核，提供用户态硬件抽象层，数据层与媒体层，且支持多种运行时环境。[2] 据报道，该操作系统拥有“中国完全自主知识产权”，[3] 中国科学院此举意在打破Windows（微软），Linux，Android（谷歌），iOS（Apple）等厂商的垄断地位。根据官网中的说明，该系统声称是一个开源的操作系统，[1] 支持基于Java和HTML5的应用。[1]
+有网友质疑它是在开源Linux基础上大为模仿Android的系统。[4]。因为用户界面与HTC高度类似，HTC刚好又发生机密外泄事件，外界认为HTC与这个操作系统间有紧密关系[5]。
+十八家企业表示对COS的前景看好。[6]
+中国操作系统桌面版（China Desktop Operate System, 简称: CDOS）由中国科学院通用芯片与基础软件研究中心负责研发。[来源请求]
+争议[编辑]
+“中国完全自主知识产权”的说法遭到网民的强烈质疑，有网民还认为中科院以此骗取政府下发的研究经费。COS属于类Unix操作系统，若其使用Linux核心或Android应用层，将可能涉嫌侵权，并因此戏称为Copy Other System。[7]
+参见[编辑]
+
+中国科学院软件研究所
+COSIX
+Kylin
+Ubuntu Kylin
+红旗Linux
+
+参考资料[编辑]
+
+^ 1.0 1.1 1.2 自主知识产权操作系统COS在京发布
+^ http://v.youku.com/v_show/id_XNjYxMjQ1MDI0.html
+^ 中国操作系统COS发布 http://williamlong.baijia.baidu.com/article/2898
+^ 中科院发布COS操作系统 网友：中科红旗还好吧？
+^ Jessica Lipsky. China Bets on Homegrown OS. EEtime. 2014年1月31日 [2014年2月7日] （英语）. 
+^ 视频: COS操作系统发布会，16家名企领导致贺COS发布. 
+^ 国产操作系统为何遭人怀疑
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+移动操作系统
+
+
+
+
+
+
+Linux内核
+
+
+
+
+Android
+
+
+
+CyanogenMod
+CopperheadOS（英语：CopperheadOS）
+Fira OS（英语：Fira OS）
+Fire OS（英语：Fire OS）
+Hive UI（英语：Hive UI）
+Indus OS（英语：Indus OS）
+LineageOS
+Resurrection Remix OS
+OPhone
+Replicant
+Ubuntu for Android
+诺基亚X平台（英语：Nokia X platform）
+百度云OS
+MIUI
+YunOS
+
+
+
+
+
+
+
+
+SHR（英语：SHR (operating system)）
+
+
+
+OpenEmbedded
+
+Familiar Linux
+OpenZaurus（英语：OpenZaurus）
+KaeilOS（英语：KaeilOS）
+
+
+Openmoko Linux
+
+Qt Extended
+Ångström Linux-based
+
+
+
+
+
+
+
+
+
+
+其他
+
+
+
+Access Linux
+Bada (操作系统)
+EZX Linux（英语：EZX Linux）
+Firefox OS
+LuneOS（英语：LuneOS）
+MeeGo
+MotoMagx
+Sailfish OS
+Tizen
+Ubuntu Touch
+webOS
+
+
+
+
+
+
+
+
+
+
+
+XNU
+
+
+
+iOS
+
+
+
+
+
+
+
+
+QNX
+
+
+
+BlackBerry 10
+BlackBerry PlayBook OS
+
+
+
+
+
+
+
+
+Windows
+
+
+
+Windows Mobile
+Windows Phone
+Windows XP Tablet PC Edition
+Windows RT
+Windows 8.1 with Bing
+Windows 10移动版
+
+
+
+
+
+
+
+
+其他
+
+
+
+BlackBerry OS
+EPOC
+GEOS（英语：GEOS (16-bit operating system)）
+任天堂DSi
+任天堂3DS
+S30
+S30+（英语：Series 30+）
+S40
+诺基亚Asha平台（英语：Nokia Asha platform）
+DR-DOS
+Palm OS
+PSP
+PS Vita
+Symbian
+
+MOAP（英语：MOAP）(S)
+UIQ
+S60
+S80
+S90
+
+
+
+
+
+
+
+
+
+
+相关
+平台
+
+
+
+无线二进制运行环境（BREW）
+Java ME
+JavaFX Mobile
+
+
+
+
+
+
+
+
+
+
+
+移动操作系统比较
+移动软件发行平台列表
+开放手持设备联盟
+开放移动联盟
+移动应用程序开发（英语：Mobile application development）
+
+
+
+
+
+
+
+
+
+
+
+
+分类：Linux发行版中国操作系统嵌入式操作系统智能手机隐藏分类：CS1英语来源 (en)有未列明来源语句的条目

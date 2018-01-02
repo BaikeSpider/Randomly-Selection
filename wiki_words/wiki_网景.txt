@@ -1,0 +1,1037 @@
+网景
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+关于该公司所开发的网页浏览器，请见“网景 (浏览器)”。
+
+
+
+
+网景通信
+
+
+Netscape Communications
+
+
+
+
+
+成立
+1994年4月4日
+
+
+结束
+2003年7月15日
+
+
+代表人物
+马克·安德森、吉姆·克拉克
+
+
+总部
+ 美国加利福尼亚州山景城
+ 美国弗吉尼亚州杜乐丝（被AOL收购后）
+
+
+产业
+互联网、软件、电信
+
+
+产品
+网络包、网页浏览器、互联网服务供应商、门户网站
+
+
+员工人数
+2500[1]
+
+
+母公司
+美国在线
+
+
+网站
+isp.netscape.com
+
+
+网景通信（英语：Netscape Communications ），以前称为网景通信公司（Netscape Communications Corporation），大部分通常被简称为网景（Netscape）。网景曾经是一家美国的电脑服务公司，以其生产的同名网页浏览器而闻名。当还是一家独立公司时，它的总部设立在加利福尼亚州的山景城[2]。
+Netscape的网页浏览器在市占率方面曾经一度占据主导地位，但是之后在第一次浏览器大战当中几乎全部输给了Internet Explorer。Netscape的市占率从1990年代中期的90%下降至2006年底的不到1%[3]。
+Netscape发明了JavaScript ，这是网页的客户端脚本中使用最广泛的语言。该公司还开发用于保护在线通信安全的SSL而闻名，在其继任者TLS取代之前被广泛使用的协议[4]。
+Netscape股票从1995年开始进行买卖，到1999年被AOL并购后采权益联营的交易方式，其市值最终到达100亿美元[5][6]。在被AOL收购不久之前，Netscape公开了浏览器的代码，并创建了Mozilla组织来协调其产品的未来发展[7]。Mozilla组织以Gecko排版引擎为基础重写了整个浏览器的源代码[8]；而往后的Netscape版本也都是基于这个被重写的代码。Gecko引擎技术随后也用于Mozilla基金会的Firefox浏览器。
+根据AOL，Netscape的浏览器开发持续到2007年12月，当时AOL宣布截至2008年初，该公司将停止支持Netscape浏览器[9][10]。截至2011年，AOL依然持有Netscape这品牌，以Netscape为名的还包括它的廉价互联网服务[11][12]。
+
+
+
+目录
+
+
+1 历史
+
+1.1 早期
+1.2 开放源代码
+1.3 被美国在线收购
+1.4 解散
+1.5 浏览器业务结束
+
+
+2 产品与技术
+
+2.1 网景初期的产品
+2.2 网景后期的产品
+2.3 网景技术
+
+
+3 网络服务
+
+3.1 Netscape.com网站
+3.2 开放目录计划
+3.3 网景互联网服务
+
+
+4 文化影响
+5 参考资料
+6 外部链接
+7 参见
+
+
+
+历史[编辑]
+早期[编辑]
+
+
+网景通信公司想要你把互联网视为一本百科全书——一本不设限的、图形丰富的页面、电子邮件和文件的链接、网络新闻组和在线购物，而不是一条高速公路。
+
+
+—Netscape Navigator，Macworld（1995年5月）[13]
+
+
+网景是第一家尝试利用万维网的公司[14][15]。在1994年4月4日成立时的名字为马赛克通信公司（Mosaic Communications Corporation），由吉姆·克拉克邀请马克·安德森共同创立。并得到知名风险投资公司凯鹏华盈的投资。克拉克和安德森的第一次会议所讨论的并非讨论有关软件或服务，而是更多关于一种类似任天堂的产品[16]。克拉克从SGI和NCSA Mosaic招募了团队早期成员[15]。马克·安德森和吉姆·克拉克最初为任天堂的任天堂64创建了一个20页的在线游戏雏形，但并没有达成共识。马克·安德森解释道：“如果他们提早一年，我们可能就不会做Netscape了。”[17]
+该公司的第一个产品是网页浏览器──Mosaic Netscape 0.9，发行于1994年10月13日。在发布的四个月内，已经占据了四分之三的浏览器市场[16]。由于其优于其他竞争对手，如Mosaic，它在短时间内成为互联网用户的主要浏览器[16]。为了避免和NCSA的商标拥有权产生问题，这套程序后来改名为Netscape Navigator（中译为“网景导航者”）公司并更名为“网景”[18]。网景第一批员工，虽也曾在NCSA工作，创建了Mosaic浏览器，不过网景导航者没有使用Mosaic浏览器的任何代码[19]。
+1995年8月9日，网景首次公开募股获得巨大成功。原本股票价值为每股14美元，但股价因一个临时决定倍增至每股28美元。第一天收市，股价升至每股75美元，几乎是当时创记录的“首日获利”。1995年，该公司的收入每季上升一倍[20]，网景的浏览器市场占有率达到70%[21]。网景的成功使马克·安德森于1996年成为时代杂志的封面人物[22]。
+网景的一个目标，是为所有操作系统的用户提供跨平台一致的互联网使用体验。网景导航者的用户界面在多个平台上始终如一。网景更多次尝试开发一种能够让用户通过浏览器来访问和修改他们的文件的网络应用系统。这引起微软注意，因为那概念跨越操作系统界线，微软视为对Microsoft Windows的直接威胁。有人声称，数个微软的运行人员在1995年6月曾参访网景总部，提议分拆市场，即容许微软开发Windows浏览器，而网景则负责在其他操作系统上开发产品[23][24]，网景当时拒绝了[25]。不过，微软否认该指控，如果是真的，那就违反了反垄断法。
+微软发布Internet Explorer 1.0，当时只是Windows 95的Microsoft Plus!附购品。根据前Spyglass开发者埃里克·辛科（英语：Eric Sink）的说法：正如大家所相信的，Internet Explorer并没有基于NCSA Mosaic，而是基于由Spyglass开发的Mosaic版本[26]。微软很快地推出了数个Internet Explorer的连续版本，这些版本都是捆绑于Windows操作系统，用户可免费使用（网景导航者当时是收费的）。微软更以自己公司的其他部门的收入，调配于开发Internet Explorer的资金中。这段时期，现在被称之为“浏览器大战”。当时，网景和微软为了超越彼此，在它们的浏览器增加许多功能（虽然未必能正常运作），“版本号码”亦增加得很快（虽然未必合逻辑）。当时Internet Explore因为拥有专业人才、资金充足，处于上风。Internet Explorer到了3.0版，在功能上差不多等同于Netscape Communicator（中译“网景通信家”）；而到4.0版，用户认为Internet Explorer运作比较稳定。对于网景的其他产品，微软亦提供了对应的免费产品，例如：随Windows NT附送的Internet Information Server服务器软件。
+网景无法对抗微软的“免费程序对上收费程序”策略。同时，网景面对越来越多对其产品程序错误的批抨。批评者认为，网景过度偏向“增加功能”，忽视运作稳定，特别是在1997年第4季和1998年1月的大规模裁员后，大众对网景的印象渐趋负面。1998年网景的浏览器市场占有率还超过50%，但在次年微软浏览器的市占率就超过了网景[27]。
+开放源代码[编辑]
+1998年1月，亦是网景开始展开Mozilla开放源代码项目的日子。在得知Internet Explorer成为浏览器市场的首位，网景寄望通过开放Netscape Communicator 4.0的源代码，使其成为有成就的开源计划，力挽狂澜。它以Netscape公共许可协议（英语：Netscape Public License）（Netscape Public License，简称NPL）发布源代码，Netscape公共许可协议相似于GNU通用公共许可协议（GNU General Public License，简称GPL），却容许网景继续于公开的源代码中加入专有部分。之后，网景继续开发Netscape Communicator 4.5，并专注改善电子邮件和企业的功能。
+开始了一段日子后，开源社区终于发觉，他们很难在当时源代码的基础上继续开发Netscape Communicator。他们决定放弃旧有的源代码，重新编写下一代浏览器。利用新开发的Gecko排版引擎，浏览器拥有一个更加模块化的结构，并容许大量开发人员一同工作。新浏览器亦包含一个基于XML的用户界面标记语言——XUL。在XUL的帮助下，一次性的“用户界面开发”便能在Windows、Macintosh和Unix中稳定运作。
+1998年5月，美国司法部控告微软，并提出反垄断诉讼。网景在该案件中不是原告，虽然它的行政人员曾收到法庭传票；而网景亦提供了许多证物，包括一个“坏脾气”的内部讨论区的所有内容[28]。
+1998年10月，网景耗资100万美元收购网上目录网站Newhoo，并重命名为Open Directory Project，在内容开放条例下发布其数据库。
+被美国在线收购[编辑]
+1998年11月24日，美国在线以42亿美元、免税换股的方式收购网景[29]。这项交易于1999年3月17日完成，其价值达到了100亿美元[30][6]。该次合并受到很多人数落，认为两间公司的企业文化差距很大、不能兼容。批评者还包括一个长期的网景开发者——杰米·加文斯基[31][32]。有批评者认为，收购网景，成为美国在线与微软讨价还价的筹码，减少美国在线对Internet Explorer的依赖。其他批评者相信，美国在线对Netcenter或网景的“网络资产”感兴趣，因为它们是当时流量很高的网站。最终，网景的服务器产品和专业服务团体成为iPlanet（英语：iPlanet）的一部分。iPlanet为美国在线和太阳微系统之间的联合营销和发展联盟。
+2000年11月14日，美国在线跳过了Netscape 5，发布基于Mozilla 0.6源代码的Netscape 6。失策的是，由于Mozilla 0.6穏定性不足，Netscape 6催化用户放弃使用网景品牌。直到2001年8月，基于Mozilla 0.9.2的Netscape 6.1才比较穏定；一年后，发布基于Mozilla 1.0的Netscape 7。
+解散[编辑]
+证实微软因滥用垄断能力而败讼后，美国在线向微软提出索偿诉讼[33]。在2003年5月，微软和美国在线达成和解协议，愿意赔偿网景7.5亿美元，并同意提供美国在线7年无限制的使用和散布Internet Explorer的权利[34][35]。这被认为是“网景结束的信号”。
+2003年7月15日，时代华纳（当时称为美国在线时代华纳）解散了网景，网景大部分的程序员被解雇，网景的标志亦消失于建筑物。美国在线仍在2004年8月18日发布Netscape 7.2[36]（不过该版本是内部开发，而非网景雇员，部分工作外包给昇阳的北京开发中心[37]）。
+2004年10月12日，美国在线关闭了一个受欢迎的开发者网站Netscape DevEdge。DevEdge曾是一个重要的、有关互联网技术的数据源，它维护了网景浏览器、和诸如HTML和JavaScript技术的帮助文档、以及由业界和技术领导者（如丹尼·古德曼（英语：Danny Goodman））所编写的文章。部分DevEdge的内容已重新发布到Mozilla Developer Center网站。
+浏览器业务结束[编辑]
+网景部门解散之后，网景的品牌继续被广泛使用。美国在线公司亦再利用自家的程序员，继续开发和支持网景系列浏览器[38]。
+但在2007年底，美国在线决定停止网景浏览器的开发，并于2008年3月1日起停止安全更新和所有的技术支持，并建议用户转移使用Firefox浏览器[9]。2007年，使用网景浏览器的用户仅占0.6%[39]。
+产品与技术[编辑]
+网景初期的产品[编辑]
+
+Netscape Navigator
+Netsite Communications web server[40]
+Netsite Commerce web server
+Netscape Proxy Server
+
+网景后期的产品[编辑]
+
+Netscape Personal Edition，包含浏览器、PPP和账户创立向导
+Netscape Communicator，包含浏览器、邮件、新闻、日历、VoIP和网页撰写的包，并捆绑AIM和RealAudio
+Netscape FastTrack和Enterprise网页服务器
+Netscape Collabra Server，NNTP新闻服务器
+Netscape Directory Server，LDAP服务器
+Netscape Messaging Server，IMAP和POP3电邮服务器
+Netscape Certificate Server，签发SSL证书的服务器
+Netscape Calendar Server，组群工作调度
+Netscape Compass Server，搜索引擎和网络蜘蛛
+Netscape Application Server，设计网络应用程序
+Netscape Publishing System
+Netscape Xpert Servers
+
+ECxpert，EDI信息交换服务器
+SellerXpert，B2B商用引擎
+BuyerXpert，eProcurement引擎
+BillerXpert，网上缴费引擎
+TradingXpert，HTML EDI交易前端
+CommerceXpert，网上零售商店引擎
+
+
+Radio@Netscape、Radio@Netscape Plus
+
+网景技术[编辑]
+网景发明了HTTP Cookie技术，使得网站能将数据保存在浏览器中，解决了网页服务器因为HTTP是无状态协议而不能依据用户数据产生个人化页面的问题。此技术被网站普遍用来提供购物车或个人化服务[41]。
+网景发明了现在广为使用的JavaScript语言。JavaScript除了增强浏览器的功能，网景也是在服务器上使用JavaScript的先驱[42]：Netscape Enterprise Server支持网页用JavaScript来查询SQL数据库，产生动态网页，突破了静态网页的限制。
+在网络安全技术方面，为了解决电子商务的安全与隐私问题，网景制订并在产品中支持传输层安全协议（SSL），至今仍被广泛使用。轻型目录访问协议（LDAP）的发明者蒂姆·豪斯（英语：Tim Howes）于1996年加入网景，并以产品推广此协议。为了用浏览器安全有效的运行Java软件，网景发明了JAR文件格式，此格式将许多Java class文件压缩成一个文件，并可加上数字签名。
+它亦是“推送技术”（Push technology）先驱。“推送技术”容许网站，定时地“发送”天气、财经和包裹追踪等的信息，到客户端。网景将达成“推送技术”的方法，名为：Netcaster。不幸的，商界很快便发现人们利用“推送技术”来发送广告，被惹恼的用户，会关闭这功能。所以Netcaster只是短暂出现。
+网景最广为人知的，是它努力改善功能，达到适用于跨平台。它的客户端软件，曾经可以于以下操作系统中运行，包括：Windows（3.1、95、98、NT）、Macintosh、Linux、OS/2、BeOS和很多版本的Unix，包括DEC、Solaris、BSDI、IRIX、AIX和HP-UX。它的服务器软件，通常不只用于Unix和Windows NT，某些版本更可在Linux运行，而一个版本的Netscape FastTrack Server，更能在Windows 95或98上运作。现在，大部分的网景服务器软件继续在Sun Java System媒介延续。
+2012年4月9日，微软以10亿5千6百万美元购买800项美国在线的专利或专利授权，专家们认为网景的SSL、Cookie等专利可能是微软愿意出高价的理由之一[43][44][45]。
+网络服务[编辑]
+Netscape.com网站[编辑]
+Netscape.com是其浏览器的首页，网站在1990年代中期访客众多，后来成为独立部门。1997年该网站与雅虎合作设立网站导览Netscape by Yahoo!，雅虎两年内要付给网景至少三千万美元[46][47]。它后来逐步转型成门户网站，提供搜索服务和一些会员专有服务，例如：站内邮箱和个人首页My Netscape。
+2006年6月，网景重新设计Netscape.com，把它变成一个类似Digg的社群新闻网站。它的主设计者：布莱恩·阿尔维（Brian Alvey）[48]；主开发者：亚历克斯·鲁德洛夫（Alex Rudloff）[49]。它是由Weblogs（英语：Weblogs, Inc.）公司的首席执行官贾森·卡拉卡尼斯（英语：Jason Calacanis）负责，直至他于2006年11月离开美国在线为止。现时的经理为汤姆·德拉普（Tom Drapeau）。在网站内，用户可投票首页的故事，更可附上意见。这个设计直到2007年9月被推翻，原本的社交网站改名为Propeller.com（英语：Propeller.com）继续经营，原来的Netscape.com则回归为传统的门户网站。2010年10月，美国在线关闭Propeller.com[50]。
+开放目录计划[编辑]
+主条目：开放式目录
+开放目录计划（又称DMOZ，派生自原域名directory.mozilla.org）是一个多语言、内容开放的WWW目录。它是由网景拥有，并由自愿编者组成的社区所编辑和维护。
+网景互联网服务[编辑]
+美国在线以网景为品牌，提供一个廉价的拨号互联网服务[51]。它的主要竞争者为NetZero。网景互联网服务的广告对象，以年轻人为主，例如：大学生和刚刚毕业的人[52]。
+文化影响[编辑]
+网景推出产品的节奏比过去的软件公司快许多，被称为Internet Time，被许多其他网络公司仿效[53][54][55]。
+网景制定了臭虫奖励计划（英语：Bug bounty program）用来奖励发现产品漏洞的研究者，随后被其他公司和组织所仿效[56]。
+David Winton于2000年拍摄了一部纪录片《代码奔腾》（Code Rush），描述网景工程师推出Mozilla开放源代码的故事[57]。
+参考资料[编辑]
+
+
+^ "AOL meeting to address Netscape integration". Cnet News. 1999-03-23. Retrieved 2012-07-01.
+^ Swartz, Jon. "Company takes browser war to Netscape's lawn." San Francisco Chronicle. Thursday 1997-10-02. Retrieved on 2009-12-29.
+^ Mook, Nate. Firefox Usage Passes 15 Percent in US. BetaNews. 2006-07-10 [2015-09-29]. 
+^ History of SSL. Publib.boulder.ibm.com. [2012-10-29]. 
+^ "America Online Inc. Completes Acquisition of Netscape Communications Corp.". Business Wire. 1999-03-17. Retrieved 2012-07-01.
+^ 6.0 6.1 "What's $10 Billion to AOL?". Morningstar. 1999-04-05. Retrieved 2012-07-01.
+^ Mozilla Stomps Ahead Under AOL. Wired.com. [2012-10-29]. （原始内容存档于2014-06-03）. 
+^ Press Release. Web.archive.org. 2001-12-13 [2012-10-29]. （原始内容存档于2001-12-13）. 
+^ 9.0 9.1 Tom Drapeau. End of Support for Netscape web browsers. Netscape Blog. 2007-12-28 [2014-09-13]. （原始内容存档于2008-01-03）. 
+^ Tom Drapeau. Netscape Browser Support extended to March 1st. Netscape Blog. 2008-01-28 [2014-09-13]. （原始内容存档于2008-02-07）. 
+^ FORM 10-K. Sec.gov. [2012-10-29]. 
+^ Netscape ISP home page of 2014 with link to Netscape ISP Terms of Service update of 2014-09-15.
+^ Hawn, Mathew. Netscape Navigator. (Netscape Communications World Wide Web browser) (Software Review)(Evaluation). Macworld. 1995年5月 [2011年5月17日]. （原始内容存档于2011年6月24日）. Netscape Communications wants you to forget all the highway metaphors you've ever heard about the Internet. Instead, think about an encyclopedia—one with unlimited, graphically rich pages, connections to E-mail and files, and access to Internet newsgroups and online shopping. 
+^ AOL will pull the plug on Netscape's tech support. Los Angeles Times. 2007-12-29 [2014-05-18]. 
+^ 15.0 15.1 Adam Lashinsky. Remembering Netscape: The Birth Of The Web. Fortune Magazine. 2005-07-25 [2014-09-13]. （原始内容存档于2006-04-27）. 
+^ 16.0 16.1 16.2 Zook, Matthew A. The Geography of the Internet Industry: Venture Capital, Dot-Coms, and Local Knowledge. Oxford: Blackwell Publishing. 2005: 104. ISBN 0-631-23331-8. 
+^ "OPSWARE INC. / On the record: Marc Andreessen". SFGate. 2003-12-07. Retrieved 2012-07-24.
+^ Mosaic Communications changes name to "Netscape Communications Corporation". Netscape Communications Corporation. （原始内容存档于2012-05-13）. 
+^ Clark, Jim; Owen Edwards. Netscape Time: The Making of the Billion-Dollar Start-Up That Took on Microsoft. St. Martin's Press. 1999: 160–170 [167]. ISBN 978-0312199340. 
+^ David Sheff. Going Public as Netscape Did, before making a dime in profits. Wired 8.08. Lycos. [2006年7月14日]. 
+^ The ’90s Startup That Terrified Microsoft and Got Americans to Go Online
+^ Netscape's Marc Andreessen. Time Magazine. 1996-02-19 [2007-02-03]. 
+^ Government alleges illegal campaign by Microsoft. [2006-07-14]. （原始内容存档于2006-07-08）. 
+^ Paul Maritz and Marathon Man: Both Got a Real Drilling. [1999-01-26].  请检查|access-date=中的日期值 (帮助)
+^ IV: The Browser Wars. [2008年7月]. 
+^ Memoirs from the Browser Wars. [2006年7月14日]. （原始内容存档于2008年5月17日）. 
+^ Behind the numbers: Browser market share 互联网档案馆的存档，存档日期2000-08-16.
+^ Microsoft Subpoenas Bad Attitude. [2006年7月14日]. （原始内容存档于2008年10月13日）. 
+^ AOL buys Netscape for $4.2 billion. 
+^ America Online Inc. Completes Acquisition of Netscape Communications Corp.. 1999-03-17. 
+^ netscape and aol.. [2006年7月14日]. （原始内容存档于2015年7月3日）. 
+^ netscape and aol/time warner: part two.. [2006年7月14日]. （原始内容存档于2015年9月6日）. 
+^ AOL's Netscape Sues Microsoft. [2006-07-14]. （原始内容存档于2012-07-14）. 
+^ Microsoft to pay AOL $750 Million. [2006年7月14日]. （原始内容存档于2012年7月17日）. 
+^ Is this the end of Netscape?. [2006年7月14日]. （原始内容存档于2012年7月12日）. 
+^ Netscape Internet Software Updated. [2006-07-14]. （原始内容存档于2005-08-20）. 
+^ Sun Micro To Double Beijing Software Center. HPCwire. 2003-08-08. （原始内容存档于2004-11-16）. 
+^ Netscape Announces Cross-Platform Netscape 9 to be Developed In-House. mozillaZine. 2007-02-04. 
+^ AOL Kills Netscape's Future, Leaves Firefox to Battle IE. Informationweek. CMP Media LLC. 2007-12-28 [2007-12-29]. 
+^ Internet Archive Wayback Machine. Web.archive.org. 2008-04-06 [2012-10-29]. （原始内容存档于2008-04-06）. 
+^ IETF RFC 2109: HTTP State Management Mechanism
+^ Back to the Server: Server-Side JavaScript On The Rise. Mozilla Developer Network
+^ Microsoft’s AOL Deal Intensifies Patent Wars
+^ Why Microsoft spent $1 billion on AOL's patents
+^ What Microsoft's AOL/Netscape patent purchases mean
+^ Netscape, Yahoo! Team Up To Offer Guide to Internet
+^ Karen Angel. Inside Yahoo!: Reinvention and the Road Ahead. John Wiley & Sons. 2002-10-01: 136. ISBN 978-0-471-42102-3. 
+^ Netscape, my Netscape. [2006年6月16日]. 
+^ See you later, navigator. [2006年6月22日]. 
+^ Propeller.com Spinning to a Stop. [2010年9月23日]. 
+^ GetNetscape Home Page. [2008-03-20]. 
+^ Netscape Launches Low-Cost Internet Access Service. （原始内容存档于2004-11-03）. 
+^ Shona L. Brown; Kathleen M. Eisenhardt. Competing on the Edge: Strategy as Structured Chaos. Harvard Business Press. 1998: 166. ISBN 978-0-87584-754-2. 
+^ David B. Yoffie; Michael A. Cusumano. Competing On Internet Time: Lessons From Netscape and Its Battle With Microsoft. Simon and Schuster. 16 November 1998. ISBN 978-0-684-83112-1. 
+^ Netspeed At Netscape
+^ History of Bug Bounties. Bugcrowd. 
+^ 互联网电影数据库（IMDb）上《网景》的资料（英文）
+
+
+外部链接[编辑]
+
+官方网站
+
+参见[编辑]
+
+Mozilla
+Mozilla之书
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+Netscape
+
+
+
+
+
+
+网页浏览器
+
+
+
+Netscape Navigator
+Netscape Communicator
+Netscape 6
+Netscape 7
+Netscape Browser
+Netscape Navigator 9
+Netscape Plugin Application Programming Interface (NPAPI)
+
+
+
+
+
+
+
+
+电子邮件客户端
+
+
+
+Netscape Mail & Newsgroups
+Netscape Messenger 9
+
+
+
+
+
+
+
+
+其他组件
+
+
+
+Netscape Composer
+
+
+
+
+
+
+
+
+服务器软件
+
+
+
+Netscape Enterprise Server（英语：Netscape Enterprise Server）
+Netscape Application Server（英语：Netscape Application Server）
+Netscape Server Application Programming Interface (NSAPI)（英语：Netscape Server Application Programming Interface (NSAPI)）
+
+
+
+
+
+
+
+
+互联网服务
+
+
+
+Netscape.com
+Propeller.com（英语：Propeller.com）
+Open Directory Project
+Netscape ISP
+
+
+
+
+
+
+
+
+人物
+
+
+
+埃里克·比纳
+吉姆·克拉克
+布兰登·艾克
+丹尼尔·格拉次曼
+杰米·加文斯基
+卢·蒙特利
+马克·安德森
+埃里克·迈耶
+米切尔·贝克
+
+
+
+
+
+
+
+
+相关
+
+
+
+Gecko
+JSSS（英语：JavaScript Style Sheets）
+Mariner
+Netscape 5
+Netscape Public License（英语：Netscape Public License）
+Mozilla
+AOL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+网页浏览器时间线
+
+
+
+
+
+
+
+
+
+
+ 
+1990年代
+
+
+
+
+
+
+
+
+
+
+
+1990年
+
+
+
+
+WorldWideWeb（Nexus）
+
+
+
+
+
+
+
+
+
+1991年
+
+
+
+
+Line Mode Browser
+
+
+
+
+
+
+
+
+
+1992年
+
+
+
+
+Erwise
+Lynx
+MacWWW
+MidasWWW
+tkWWW（英语：tkWWW）
+ViolaWWW
+
+
+
+
+
+
+
+
+
+1993年
+
+
+
+
+AMosaic
+Arena
+Cello
+Emacs/W3（英语：Emacs/W3）
+NCSA Mosaic
+VMS Mosaic
+
+
+
+
+
+
+
+
+
+1994年
+
+
+
+
+AirMosaic
+ANT Fresco（英语：Fresco (web browser)）
+Argo（英语：Argo (web browser)）
+IBM WebExplorer（英语：IBM WebExplorer）
+SlipKnot（英语：SlipKnot (web browser)）
+Minuet（英语：Minnesota Internet Users Essential Tool）
+Navipress（英语：AOLpress）
+Netscape Navigator
+Spyglass Mosaic
+TCP/Connect II（英语：InterCon_Systems_Corporation#TCP.2FConnect_II）
+
+
+
+
+
+
+
+
+
+1995年
+
+
+
+
+Agora（英语：Agora (web browser)）
+ALynx
+AMSD Ariadna（英语：AMSD Ariadna）
+Cyberjack（英语：Cyberjack）
+eWorld Web Browser（英语：InterCon_Systems_Corporation#WebShark）
+Grail（英语：Grail (web browser)）
+Internet Explorer 1
+Internet Explorer 2
+Netscape Navigator 2
+NetShark（英语：InterCon_Systems_Corporation#NetShark）
+OmniWeb
+HotJava
+UdiWWW（英语：UdiWWW）
+WebShark（英语：InterCon_Systems_Corporation#WebShark）
+
+
+
+
+
+
+
+
+
+1996年
+
+
+
+
+Cyberdog
+Arachne（英语：Arachne (web browser)）
+AWeb（英语：AWeb）
+IBrowse（英语：IBrowse）
+Amaya
+Internet Explorer 3
+Netscape Navigator 3
+Opera 2
+Oracle PowerBrowser（英语：Oracle PowerBrowser）
+tcpCONNECT4（英语：InterCon Systems Corporation）
+Voyager（英语：Voyager (web browser)）
+
+
+
+
+
+
+
+
+
+1997年
+
+
+
+
+Netscape Communicator
+Internet Explorer 4
+Opera 3
+
+
+
+
+
+
+
+
+
+1998年
+
+
+
+
+NeoPlanet（英语：NeoPlanet）
+Mozilla Application Suite
+
+
+
+
+
+
+
+
+
+1999年
+
+
+
+
+iCab
+Internet Explorer 5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+2000年代
+
+
+
+
+
+
+
+
+
+
+
+2000年
+
+
+
+
+Beonex Communicator
+Galeon
+K-Meleon
+MediaBrowser（英语：MediaBrowser）
+Netscape 6
+Opera 4-5
+
+
+
+
+
+
+
+
+
+2001年
+
+
+
+
+Internet Explorer 6
+Opera 6
+
+
+
+
+
+
+
+
+
+2002年
+
+
+
+
+Camino
+Epiphany
+Netscape 7
+
+
+
+
+
+
+
+
+
+2003年
+
+
+
+
+Maxthon
+Opera 7
+Safari
+
+
+
+
+
+
+
+
+
+2004年
+
+
+
+
+Firefox
+
+
+
+
+
+
+
+
+
+2005年
+
+
+
+
+AOL Explorer（英语：AOL Explorer）
+Deepnet Explorer（英语：Deepnet Explorer）
+Firefox 1.5
+Opera 8
+Safari 2
+
+
+
+
+
+
+
+
+
+2006年
+
+
+
+
+Firefox 2.0
+Internet Explorer 7
+Opera 9
+
+
+
+
+
+
+
+
+
+2007年
+
+
+
+
+Opera 9.5
+Safari 3
+
+
+
+
+
+
+
+
+
+2008年
+
+
+
+
+Google Chrome
+Firefox 3
+
+
+
+
+
+
+
+
+
+2009年
+
+
+
+
+Google Chrome 2-3
+Firefox 3.5
+Internet Explorer 8
+Opera 10
+Safari 4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+2010年代
+
+
+
+
+
+
+
+
+
+
+
+2010年
+
+
+
+
+Google Chrome 4-8
+Firefox 3.6
+Lunascape 6.0.1
+Opera 11
+Safari 5
+
+
+
+
+
+
+
+
+
+2011年
+
+
+
+
+Google Chrome 9-16
+Firefox 4
+Firefox 5–9
+Internet Explorer 9
+Lunascape 6.5
+Opera 12
+
+
+
+
+
+
+
+
+
+2012年
+
+
+
+
+Google Chrome 17-23
+Firefox 10–17
+Lunascape 6.7
+Internet Explorer 10
+Safari 6
+
+
+
+
+
+
+
+
+
+2013年
+
+
+
+
+Google Chrome 24-31
+Firefox 18–26
+Internet Explorer 11
+Opera 15-18
+Safari 7
+
+
+
+
+
+
+
+
+
+2014年
+
+
+
+
+Google Chrome 32-36
+Firefox 27–31
+Lunascape 6.9
+NetSurf 3.1
+Opera 19-23
+Safari 8
+
+
+
+
+
+
+
+
+
+2015年
+
+
+
+
+Brave
+Google Chrome 40–47
+Firefox 35–43
+Lunascape 6.10-6.11
+Opera 27–34（英语：History of the Opera web browser）
+SeaMonkey 2.32–
+Microsoft Edge 12–13
+Safari 9
+Vivaldi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+相关
+
+
+
+
+
+
+
+
+
+3DMLW（英语：3DMLW）
+Aliweb（英语：Aliweb）
+ARPANET
+ASCII
+BITNET
+浏览器大战
+CompuServe
+Elm
+Email
+File Transfer Protocol
+Gopher
+HTML
+HyperCard
+HyTelnet（英语：HyTelnet）
+NCSA Telnet（英语：NCSA Telnet）
+NLS（英语：NLS (computer system)）
+Prodigy（英语：Prodigy (online service)）
+Teletext
+Telnet
+Usenet
+UUCP
+Videotex（英语：Videotex）
+Viewdata（英语：Viewdata）
+Virtual Reality Markup Language
+Web page
+Whole Internet User's Guide and Catalog（英语：Whole Internet User's Guide and Catalog）
+World Wide Web
+X.25
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+分类：Netscape美国线上公司1994年成立的公司纳斯达克已除牌公司美国歇业软件公司山景城公司隐藏分类：引文格式1错误：日期Webarchive模板wayback链接含有英语的条目使用过时图像语法的页面

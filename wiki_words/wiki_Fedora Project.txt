@@ -1,0 +1,263 @@
+Fedora项目
+
+
+
+
+
+
+
+Fedora项目
+
+
+
+Fedora项目的标志
+
+
+
+类型
+社区
+
+
+成立日期
+2003年9月22日，​14年前​（2003-09-22）
+
+
+成立者
+Warren Togami，红帽公司
+
+
+产品
+389目录服务器（英语：389 Directory Server），Fedora
+
+
+重点
+自由软件
+
+
+方式
+艺术品，开发，文件，推广，翻译[1]。
+
+
+义工人数
+~27,000 (2010)[2]
+
+
+所有者
+红帽公司
+
+
+座右口号
+自由、朋友、优异、第一[3]。
+
+
+旧称
+Fedora Linux项目
+
+
+网址
+fedoraproject.org
+
+
+Fedora项目是一个由红帽公司所赞助，以统筹Fedora Linux操作系统开发的社区。该项目于2003年成立，当时是由Red Hat Linux及Fedora Linux项目合并而成立的。该项目不只包含了红帽公司的员工，也包含了占了所有贡献者总数75%的，来自世界各地的社区成员[4]。
+
+
+
+目录
+
+
+1 历史
+
+1.1 安全入侵
+
+
+2 管理
+3 参见
+4 参考资料
+5 外部链接
+
+
+
+历史[编辑]
+Fedora项目于2003年9月22日成立，当时红帽公司决定将Red Hat Linux分离为Red Hat Enterprise Linux及一个以社区为主的操作系统，Fedora[5]。同时，Red Hat Professional Workstation被创建以填补RHL留下来的空缺，但当时并未确立该产品的未来定位[6]。该产品在非企业的RHL用户中马上就被Fedora所取代。而Fedora社区则继续蓬勃发展，Fedora发行版则获得了专注于创新及与上游的Linux社区密切合作的，自由及开放源代码软件发行版的美誉。
+安全入侵[编辑]
+2008年8月时，有部分的Fedora服务器被入侵。经过详细的调查，其中一个被入侵的服务器是用于签署Fedora升级软件包。Fedora项目表示，攻击者并未获取软件包的签署密钥（签署密钥若被获取可能会让恶意软件通过升级机制植入用户的系统）。项目管理人员检查了所有的软件包，且表示并没有在任何官方提供的软件中找到特洛依木马。作为预防措施，项目将所有软件的签署密钥都转换成新的密钥[7][8]。
+Fedora项目于2009年3月30日公布本次事件的所有细节[9]。
+管理[编辑]
+Fedora项目并不是一个独立的法律实体或组织；红帽公司仍需为其行动负责[10]。Fedora项目委员会负责导引整个项目的方向，其包括了四个由红帽公司派任，及另外五个由社区选举所产生的成员所组成。此外，红帽公司还会任命一个拥有对委员会任何决定的否决权的主席[11]。在红帽公司中，这个主席则拥有“Fedora项目领导人”的职位。红帽公司另外创立了“Fedora基金会”来管理整个项目[12]，但由于种种因素被取消[13][14]。
+项目让其开发者与社区成员可以很容易的在在线经由邮件列表及wiki页面。其也负责协调举办Fedora用户与开发者大会（FUDCon）。Fedora用户与开发者大会是每年都会在世界各地举办的自由软件活动[15]。
+参见[编辑]
+
+Fedora
+Red Hat
+Red Hat Enterprise Linux
+Rawhide
+
+参考资料[编辑]
+
+
+^ Projects. FedoraProject. [2013-07-09]. 
+^ Statistics. FedoraProject. [2013-07-09]. 
+^ What is Fedora and what makes it different?. Fedora Project. [2013-07-09]. 
+^ Ride the Wave with Fedora 9. 2008-05-28 [2009-11-24]. 
+^ Announcement: Red Hat Linux Merging with Fedora Linux. （原始内容存档于2003年10月1日）. 
+^ Red Hat Professional Workstation: More Expensive, Fewer features. Linux.com. 2004-02-14 [2007-12-21]. 
+^ Security Breach—securityfocus.com. 
+^ Security Breach—Red Hat Mailing list. 
+^ Update and Report on Fedora August 2008 Intrusion—Red Hat Mailing list. 
+^ Fedora Project Leader Max Spevack Responds to Slashdot Questions. 2006-08-18 [2007-02-12]. 
+^ The Fedora Project Board. [2007-02-11]. 
+^ Peter Galli. Red Hat Creates Fedora Foundation. 2005-06-03 [2007-02-06]. 
+^ The Fedora Foundation. [2007-02-06]. 
+^ Max Spevack. Fedora Foundation. 2006-04-04 [2007-02-06]. 
+^ FUDCon. [2007-02-12]. （原始内容存档于2007-10-08）. 
+
+
+外部链接[编辑]
+
+官方网站
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+红帽公司（Red Hat）
+
+
+
+
+
+
+主要产品
+
+
+
+Red Hat Enterprise Linux
+Directory Server（英语：389 Directory Server）
+Cluster Suite（英语：Red Hat cluster suite）
+GFS2（英语：GFS2）
+WildFly（JBoss）
+Fedora（版本列表（英语：List of Fedora releases））
+Virtual Machine Manager
+Anaconda
+Ceph（英语：Ceph (software)）
+yum
+RPM
+Satellite（英语：Satellite (software)）
+SPICE（英语：SPICE (protocol)）
+Ansible（英语：Ansible (software)）
+
+
+
+
+
+
+
+
+服务
+
+
+
+RHN（英语：Red Hat Network）
+OpenShift
+
+
+
+
+
+
+
+
+项目
+
+
+
+Fedora项目
+Spacewalk（英语：Spacewalk (software)）
+
+
+
+
+
+
+
+
+已终止
+
+
+
+Red Hat Linux
+Red Hat Database
+Fedora Legacy（英语：Fedora Legacy）
+Mugshot（英语：Mugshot (website)）
+
+
+
+
+
+
+
+
+重要人物
+
+
+
+Jim Whitehurst（英语：Jim Whitehurst）
+Matthew Szulik（英语：Matthew Szulik）
+Bob Young（英语：Bob Young (businessman)）
+Marc Ewing（英语：Marc Ewing）
+Michael Tiemann（英语：Michael Tiemann）
+
+
+
+
+
+
+
+
+合并和收购
+
+
+
+合并和收购
+C2Net（英语：C2Net）
+Cygnus Solutions
+Inktank Storage（英语：Inktank Storage）
+JBoss（英语：JBoss (company)）
+MetaMatrix（英语：MetaMatrix）
+Qumranet（英语：Qumranet）
+
+
+
+
+
+
+
+
+相关
+
+
+
+红帽认证计划（英语：Red Hat Certification Program）
+Red Hat Enterprise Linux派生版本
+
+
+
+
+
+
+
+
+
+
+
+
+分类：Fedora项目自由软件计划隐藏分类：使用过时图像语法的页面维基百科和维基数据上的官方网站不同

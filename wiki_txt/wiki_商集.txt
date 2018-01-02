@@ -1,0 +1,56 @@
+等价类
+在数学中，假设在一个集合
+
+
+
+X
+
+
+{\displaystyle X}
+
+上定义一个等价关系（用
+
+
+
+∼
+
+
+{\displaystyle \sim }
+
+来表示），则
+
+
+
+X
+
+
+{\displaystyle X}
+
+中的某个元素
+
+
+
+a
+
+
+{\displaystyle a}
+
+的等价类就是在
+
+
+
+X
+
+
+{\displaystyle X}
+
+中等价于
+
+
+
+a
+
+
+{\displaystyle a}
+
+的所有元素所形成的子集:

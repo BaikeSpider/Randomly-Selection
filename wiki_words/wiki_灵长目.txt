@@ -1,0 +1,521 @@
+灵长目
+
+
+
+灵长目
+化石时期：晚古新世–现代
+
+PreЄ
+Є
+O
+S
+D
+C
+P
+T
+J
+K
+Pg
+N
+
+
+
+
+
+
+
+
+
+
+
+
+
+日本猕猴
+
+
+科学分类 
+
+
+界：
+动物界 Animalia
+
+
+门：
+脊索动物门 Chordata
+
+
+纲：
+哺乳纲 Mammalia
+
+
+亚纲：
+兽亚纲 Theria
+
+
+下纲：
+真兽下纲 Eutheria
+
+
+演化支：
+胎盘类 Placentalia
+
+
+高目：
+北方真兽高目 Boreoeutheria
+
+
+总目：
+灵长总目 Euarchontoglires
+
+
+大目：
+真灵长大目 Euarchonta
+
+
+上目：
+灵长形上目 Primatomorpha
+
+
+目：
+灵长目 Primates
+
+
+亚目
+
+
+
+
+原猴亚目 Strepsirrhini
+简鼻亚目 Haplorrhini
+
+
+
+
+
+灵长目（学名：Primates）是哺乳纲的一个目，在生物分类学上，可以再细分原猴及简鼻亚目（包括人）[1]。灵长目的始祖住在热带雨林的树上，许多灵长目的特征表现了其适应三维立体环境的能力，大部分的灵长目至少有部分树栖（英语：arboreal）的能力。
+大部分人以外的灵长目住在美洲、亚洲及非洲的热带或是亚热带区域[2]，只有人类可以住在南极洲以外的任何地区[3]。灵长目的体型变化很大，像伯特夫人狐猴（英语：Madame Berthe's mouse lemur）体重只有30克，而东部大猩猩体重达200公斤。依照化石的证据，最早已知的灵长目是德氏猴，其年代可以追溯到5580万年以前[4]。分子钟（英语：Molecular clock）认为灵长目的分支可能起源于白垩纪－古近纪界线，约六七千万年前[5][6][7][8]。
+灵长目过去一般会分为二类：原猴及类人猿。原猴的特征接近最早期的灵长目，包括马达加斯加的狐猴、懒猴下目（英语：Lorisoidea）及跗猴。类人猿包括猴、猿及人族。最近的生物分类学会将灵长目分为原猴亚目（Strepsirrhini）及简鼻亚目（Haplorhini）。原猴亚目是指鼻部湿润的灵长目，包括跗猴以外的原猴，简鼻亚目是指鼻部干燥的灵长目，包括跗猴型下目（Tarsiiformes）及类人猿下目（Simiiformes）。
+类人猿下目也可以分为狭鼻小目（非洲及东南亚的猿及猴）及阔鼻小目（中美及南美的新世界猴）。狭鼻小目包括旧世界猴（像狒狒属及猕猴）、长臂猿及人科。新世界猴包括卷尾猴、吼猴及松鼠猴属。人类是其中唯一成功在非洲、南亚及东亚以外地区繁衍的狭鼻小目动物，不过有化石证据指出其他狭鼻小目动物也曾出现在欧洲。现在仍有发现新的灵长目物种，在2000年代找到了超过25个物种，在2010年代也已找到了11个物种。
+灵长目是适应性良好的哺乳类动物，有许多不同的特点。有些灵长目（包括一些大猿和狒狒）主要是陆栖动物，不是树栖动物。但其他的灵长目都可以爬树。行动方式包括从一棵树跳到另一棵树、用二只或四只脚行走，指关节行走（英语：knuckle-walking）或是在树枝上摆荡（握枝现象（英语：[brachiation]]））。
+相对于其他的哺乳类，灵长目的大脑大了许多，灵长目也比较依赖立体视觉，而其嗅觉就不如大多数动物。在猿及猴身上这类的特征更加明显，但在懒猴及狐猴身上就不太明显。有些灵长目有三色视觉（英语：Trichromacy），大部分也有对生拇指，甚至有些会有适于抓取的尾巴。许多灵长目会有 两性异形，差异包括体重、犬齿大小及颜色。灵长目的发育比其他体型相当的动物要晚，也较晚成熟，但其寿命也较长。依物种的不同，成年的灵长目可能是独自生活、成对生活，或是成群生活。
+
+
+
+目录
+
+
+1 历史和现代术语
+2 特征
+
+2.1 比较解剖学
+2.2 生物化学
+
+
+3 分类
+
+3.1 内部分类
+
+
+4 社会行为
+5 起源
+6 灵长目奇异动物
+7 参见
+8 参考文献
+9 延伸阅读
+10 外部链接
+
+
+
+历史和现代术语[编辑]
+灵长目中不同群体之间的关系一直到现代才比较清楚，因此一些常用的词可能会令人困惑，例如ape（猿）可能只是monkey（猴）的另一种称呼，但也可能只指没有尾巴，比较接近人的灵长目动物[9]。
+威尔弗里德·乐·格罗斯·克拉克（英语：Wilfrid Le Gros Clark）爵士是一位灵长类学家，他和其他灵长类学家发展了有关灵长目演化趋势的概念，并将未灭绝的灵长目依升序方式排序，最末端（即演化程度最高）的为人类[10]。常用的名称像prosimian（原猴亚目）、monkeys（猴）、lesser apes（长臂猿）、great apes（人科）就是这种方法论下的产物。根据目前对灵长目演化的了解，这种分类是并系群，也就是该群中并不包含有最近共同祖先之所有后代[11]。
+和克拉克的理论相反的，现代的分类会将灵长目用单系群分类，该群中并不包含有最近共同祖先之所有后代[12]。
+特征[编辑]
+比较解剖学[编辑]
+灵长目动物的眼睛在脸的前面，有眉骨保护眼窝。视觉敏锐，类人猿有辨色能力，但是许多原猴没有。鼻子比其他的哺乳动物短，嗅觉退化。灵长目动物的脑相对于自身体重显得大而且重，并且很复杂。大部分灵长动物上下颌前方都有一排牙床。位于中间的叫门齿，之后是犬齿。犬齿之后是前臼齿，最后是臼齿。灵长目动物四肢会抓握，而且四肢都有5个趾头。
+生物化学[编辑]
+根据对血和蛋白质的化验，黑猩猩和大猩猩最接近于人类。黑猩猩的染色体除了第22对和额外的一对，其他的都与人相近。
+分类[编辑]
+本目属于灵长总目的演化支，属于真灵长大目，现存生物中与本目关系最亲的可能是皮翼目，两者组成灵长形上目。本目与其它灵长总目动物的演化关系如下：
+
+
+灵长总目 Euarchontoglires
+
+
+
+啮形大目 Glires
+
+
+
+
+
+啮齿目 Rodentia 
+
+
+
+
+
+
+
+
+兔形目 Lagomorpha 
+
+
+
+
+
+
+
+
+
+
+
+
+真灵长大目 Euarchonta
+
+
+
+
+
+树鼩目 Scandentia 
+
+
+
+
+
+
+灵长形上目 Primatomorpha
+
+
+
+
+
+皮翼目 Dermoptera 
+
+
+
+
+
+
+
+
+
+
+
+
+†更猴目 Plesiadapiformes 
+
+
+
+
+
+
+
+
+灵长目 Primates 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+内部分类[编辑]
+灵长目可以分为两个亚目：
+
+原猴亚目(Strepsirrhini)：原始的猴类。
+
+鼠狐猴科(Cheirogaleidae)
+狐猴科(Lemuridae)
+嬉猴科(Lepilemuridae)
+大狐猴科(Indriidae)
+指猴科(Daubentoniidae)
+懒猴科(Lorisidae)
+婴猴科(Galagidae)
+
+
+简鼻亚目（或称作类人猿亚目）(Haplorrhini)：进步的猴类、猿类、人。
+
+眼镜猴科(Tarsiidae)
+卷尾猴科(Cebidae)
+青猴科(Aotidae)
+僧面猴科(Pitheciidae)
+蜘蛛猴科(Atelidae)
+猴科(Cercopithecidae)
+长臂猿科(Hylobatidae)
+人科(Hominidae)
+
+
+
+社会行为[编辑]
+人类与其他灵长目动物不仅体质特征很相似，而且社会行为也很相近。一般认为这主要是由于他们的大脑很发达，因此他们的行为方式也比其他动物复杂。
+灵长目动物大多是社会性动物。他们的生活和迁徙都是成群结队进行的。其规模大小根据种类的不同而不同。在群体中，有一只成年雄性的个体是整个群体的领导者。
+灵长目动物个体之间也有相互影响。最值得注意的是修饰对方的活动。他们彼此去除同伴身上的寄生虫，杂物等。此外，灵长目动物的未成年个体之间经常游戏。研究者认为这是在了解周围环境，或者是在训练力量，因为如想争得领导者的地位往往取决于力量。
+灵长目动物能够发出声音，彼此进行信息交流。他们用一系列的喊叫声或者身体某部位的动作来传递信息。
+灵长目动物一般都有一个“居住区”，就是通常活动的一定区域。居住区周围经常有群体成员进行巡逻。在居住区内，还按照群的大小以及食物的获取方式分成不同的小区域。居住区经常根据季节的改变而改变。有些种群会迁徙到经常去的区域，称为“核心区”。
+灵长目动物的婴儿与其他动物不同，他们在刚出生时一直跟随母亲，生活完全由母亲来照顾，依偎在母亲的怀里。当然，不同的灵长目动物之间的母亲行为也不相同。许多灵长目种类的雄性对婴儿往往起到父母的责任，一起照料和保护婴儿。灵长目动物的一个重要的社会行为是侵略行为。这种行为一般是通过姿势来恐吓对手，而不是通过激烈的搏斗来表现。搏斗一般只用于争夺在群体中的领袖地位时才用。灵长目动物具有很强的等级制度。雄性领袖具有优先挑选食物、选择雌性，并且有下级的成员服侍。但是在他受伤或生病时，他就有可能失去这种地位。
+由于灵长目动物与人类有很近的亲缘关系，其生活方式也可能与最早的人类相仿。因此对研究人类的祖先有很大的帮助。
+起源[编辑]
+在灵长目中最早出现的是一些发现于欧洲和北美的近猴类化石。多发现于古新世地层。自始新世开始狐猴类出现，早期的都归入已绝灭的兔猴科，它们的分布范围广，亚洲、北美、欧洲均曾发现，但是在非洲没有发现化石证据。到渐新世，已经出现了猿和猴，并且朝不同的方向进化。
+灵长目奇异动物[编辑]
+主条目：野人
+即“野人”，虽未证实其真实存在，但通过间接证据可推测“野人”属于高等灵长目动物，很可能属于其下的人科。
+参见[编辑]
+
+灵长目学—人类学的一个分支学科，专门研究灵长目动物。
+灵长目彩色视觉的演化
+人类演化
+
+参考文献[编辑]
+
+
+^ Groves, Colin. Wilson, D. E., and Reeder, D. M. (eds), 编. Mammal species of the world 3rd edition. Johns Hopkins University Press. 16 November 2005: 111–184. ISBN 0-801-88221-4.  引文格式1维护：冗余文本 (link)
+^ Primate. Encyclopædia Britannica Online. Encyclopædia Britannica, Inc. 2008 [2008-07-21]. 
+^ 存档副本. [2016-03-06].  已忽略文本“2016-01-12” (帮助)
+^ O'Leary, M. A.; 等. The placental mammal ancestor and the post–K-Pg radiation of placentals. Science. 8 February 2013, 339 (6120): 662–667. PMID 23393258. doi:10.1126/science.1229237. 
+^ Stanyon, Roscoe; Springer, Mark S.; Meredith, Robert W.; Gatesy, John; Emerling, Christopher A.; Park, Jong; Rabosky, Daniel L.; Stadler, Tanja; Steiner, Cynthia; Ryder, Oliver A.; Janečka, Jan E.; Fisher, Colleen A.; Murphy, William J. Macroevolutionary Dynamics and Historical Biogeography of Primate Diversification Inferred from a Species Supermatrix. PLoS ONE. 2012, 7 (11): e49521. ISSN 1932-6203. doi:10.1371/journal.pone.0049521. 
+^ Jameson, Natalie M.; Hou, Zhuo-Cheng; Sterner, Kirstin N.; Weckle, Amy; Goodman, Morris; Steiper, Michael E.; Wildman, Derek E. Genomic data reject the hypothesis of a prosimian primate clade. Journal of Human Evolution. September 2011, 61 (3): 295–305. ISSN 0047-2484. doi:10.1016/j.jhevol.2011.04.004. 
+^ Pozzi, Luca; Hodgson, Jason A.; Burrell, Andrew S.; Sterner, Kirstin N.; Raaum, Ryan L.; Disotell, Todd R. Primate phylogenetic relationships and divergence dates inferred from complete mitochondrial genomes. Molecular Phylogenetics and Evolution. June 2014, 75: 165–183. ISSN 1055-7903. doi:10.1016/j.ympev.2014.02.023. 
+^ Stanyon, Roscoe; Finstermeier, Knut; Zinner, Dietmar; Brameier, Markus; Meyer, Matthias; Kreuz, Eva; Hofreiter, Michael; Roos, Christian. A Mitogenomic Phylogeny of Living Primates. PLoS ONE. 16 July 2013, 8 (7): e69504. ISSN 1932-6203. doi:10.1371/journal.pone.0069504. 
+^ Anon., Ape, Encyclopædia Britannica XIX 11th, New York: Encyclopædia Britannica, 1911 [2011-07-10] 
+^ Dixson, A.F., The Natural History of the Gorilla, London: Weidenfeld & Nicholson, 1981, ISBN 978-0-297-77895-0 
+^ Definitions of paraphyly vary; for the one used here see e.g. Stace, Clive A., Classification by molecules: What's in it for field botanists? (PDF), Watsonia, 2010, 28: 103–122 [2010-02-07], （原始内容 (PDF)存档于2011-07-26） .
+^ Definitions of monophyly vary; for the one used here see e.g. Mishler, Brent D, Species are not Uniquely Real Biological Entities, (编) Ayala, F.J. & Arp, R., Contemporary Debates in Philosophy of Biology: 110–122, 2009, ISBN 978-1-4443-1492-2, doi:10.1002/9781444314922.ch6 .
+
+
+
+威廉·A·哈维兰著，王铭铭等译，《当代人类学》，上海人民出版社，1987年 ISBN 7-208-00082-4
+
+延伸阅读[编辑]
+
+
+关于Primates
+的图书馆资源
+
+
+
+
+
+Online books
+Resources in your library
+Resources in other libraries
+
+
+
+
+
+David J. Chivers, Bernard A. Wood & Alan Bilsborough (编). Food Acquisition and Processing in Primates. New York & London: Plenum Press. 1984. ISBN 0-306-41701-4. 
+
+外部链接[编辑]
+
+
+
+维基共享资源中相关的多媒体资源：灵长目
+
+
+
+
+
+维基物种中的分类信息：
+
+灵长目
+
+
+
+
+
+Primate Info Net
+Primates at Animal Diversity Web
+Primate Research Institute, Kyoto University
+High-Resolution Cytoarchitectural Primate Brain Atlases
+EUPRIM-Net: European Primate Network
+PrimateImages: Natural History Collection
+Tree of Life web project
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+按亚纲分类的哺乳类现存动物
+
+
+
+
+
+
+
+动物界  · 脊索动物门  · 脊椎动物亚门  · 羊膜动物
+
+
+
+
+
+
+原兽亚纲
+Prototheria
+（泄殖腔类）
+
+单孔目 Monotremata （针鼹及鸭嘴兽）
+
+
+
+
+
+
+
+
+
+兽亚纲
+Theria
+
+
+
+
+后兽下纲
+Metatheria
+（有袋类）
+
+
+
+
+美洲有袋总目
+Ameridelphia
+
+负鼠目 Didelphimorphia · 鼩负鼠目 Paucituberculata
+
+
+
+
+
+
+澳洲有袋总目
+Australidelphia
+
+微兽目 Microbiotheria （南猊） · 袋鼹目 Notoryctemorphia · 袋鼬目 Dasyuromorphia （包括袋鼬及袋獾） · 袋狸目 Peramelemorphia · 双门齿目 Diprotodontia （袋鼠及其近亲）
+
+
+
+
+
+
+
+
+
+真兽下纲
+Eutheria
+（有胎盘类）
+
+
+
+
+非洲兽总目
+Afrotheria
+
+非洲猬目 Afrosoricida · 象鼩目 Macroscelidea · 管齿目 Tubulidentata （土豚） · 蹄兔目 Hyracoidea · 长鼻目 Proboscidea （象） · 海牛目 Sirenia （海牛及儒艮）
+
+
+
+
+
+
+异关节总目
+Xenarthra
+
+有甲目 Cingulata（犰狳） · 披毛目 Pilosa （食蚁兽及树懒）
+
+
+
+
+
+
+灵长总目
+Euarchontoglires
+
+树鼩目 Scandentia · 皮翼目 Dermoptera （鼯猴） · 灵长目 Primates · 啮齿目 Rodentia · 兔形目 Lagomorpha
+
+
+
+
+
+
+劳亚兽总目
+Laurasiatheria
+
+猬形目 Erinaceomorpha（刺猬及鼠猬） · 鼩形目 Soricomorpha （鼩鼱及齿猬） · 翼手目 Chiroptera （蝙蝠） · 鳞甲目 Pholidota （穿山甲） · 食肉目 Carnivora（包含鳍足类） · 奇蹄目 Perissodactyla · 鲸偶蹄目 Cetartiodactyla（偶蹄目 Artiodactyla · 鲸目 Cetacea）
+
+
+
+
+
+
+
+
+
+
+
+
+
+合弓纲中除了哺乳类还包括似哺乳爬行动物：盘龙目 Pelycosauria · 兽孔目 Therapsida，它们是哺乳动物的进化来源，都为化石物种
+
+
+
+
+
+
+
+
+
+
+
+规范控制
+
+
+
+GND: 4047256-5
+NDL: 00569360
+
+
+
+
+
+
+
+
+
+
+
+
+分类：灵长目卡尔·林奈命名的生物分类隐藏分类：引文格式1维护：冗余文本含有未命名参数的引用的页面使用ISBN魔术链接的页面含有英语的条目物种微格式条目含有拉丁语的条目包含规范控制信息的维基百科条目

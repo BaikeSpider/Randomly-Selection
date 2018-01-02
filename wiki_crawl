@@ -1,26 +1,13 @@
 nohup: ignoring input
-]0;IPython: bitnami/Randomly-Selection]0;IPython: bitnami/Randomly-SelectionTraceback (most recent call last):
+]0;IPython: bitnami/Randomly-Selection]0;IPython: bitnami/Randomly-Selection404
+Traceback (most recent call last):
   File "wiki_crawl.py", line 49, in <module>
     wiki.craw()
-  File "wiki_crawl.py", line 38, in craw
-    wiki_new_titles, wiki_keyword_times, wiki_new_data, wiki_urls, titles_len, edits, pageviews_url, editors, first_edit, totalviews, category, reference_count, edit_history_url, all_len, words = self.wiki_parser.parse(urls[i], wiki_soup)
-  File "/home/bitnami/Randomly-Selection/wiki_parser.py", line 435, in parse
-    titles_len, wiki_new_titles, wiki_keyword_times, wiki_urls, category, reference_count = self._wiki_get_new_urls(wiki_url, wiki_soup)
-  File "/home/bitnami/Randomly-Selection/wiki_parser.py", line 232, in _wiki_get_new_urls
-    keyword_time = soup.find_all(string=re.compile(temp))
-  File "/usr/lib/python3.4/re.py", line 223, in compile
-    return _compile(pattern, flags)
-  File "/usr/lib/python3.4/re.py", line 294, in _compile
-    p = sre_compile.compile(pattern, flags)
-  File "/usr/lib/python3.4/sre_compile.py", line 568, in compile
-    p = sre_parse.parse(p, flags)
-  File "/usr/lib/python3.4/sre_parse.py", line 760, in parse
-    p = _parse_sub(source, pattern, 0)
-  File "/usr/lib/python3.4/sre_parse.py", line 370, in _parse_sub
-    itemsappend(_parse(source, state))
-  File "/usr/lib/python3.4/sre_parse.py", line 496, in _parse
-    raise error("unexpected end of regular expression")
-sre_constants.error: unexpected end of regular expression
+  File "wiki_crawl.py", line 36, in craw
+    wiki_soup = BeautifulSoup(wiki_html_cont, 'html.parser')
+  File "/usr/local/lib/python3.4/dist-packages/bs4/__init__.py", line 192, in __init__
+    elif len(markup) <= 256 and (
+TypeError: object of type 'NoneType' has no len()
 
 If you suspect this is an IPython bug, please report it at:
     https://github.com/ipython/ipython/issues

@@ -1,0 +1,501 @@
+人文地理学
+人文地理学（英语：Human geography），是一类社会科学分支，关于研究世界、人类社会、文化、经济与环境的相互作用，强调空间和地区的关系[1]。作为一门学科，地理分为自然地理和人文地理，后者通过采用定性和定量的研究方法，集中分析研究人类活动。
+
+
+
+目录
+
+
+1 历史
+2 分支领域
+
+2.1 文化
+2.2 发展
+2.3 经济
+2.4 健康
+2.5 历史
+2.6 政治
+2.7 人口
+2.8 聚落
+
+
+3 哲学和理论
+4 著名人文地理学家
+5 期刊
+6 其他
+7 参考
+8 延伸阅读
+9 外部链接
+
+
+
+历史[编辑]
+主条目：地理学历史
+十八世纪之前，地理学并不被视为一门正式的学科。尽管许多学者已经从事长期的地理学研究，特别是通过绘制地图。1830年，皇家地理学会成立[2]，然而到了1917年，大不列颠王国才任命了首位主席。第一位正式的英联邦地理学家是哈尔福德·麦金德，1887年他被牛津大学任命为讲师（Reader）。
+1888年，美国国家地理学会成立，并开始出版《国家地理杂志》，后者成为迄今最伟大的通俗地理资料之一。社会上也开始支持地理研究和教育。
+
+
+
+
+1854年斯诺在伦敦霍乱爆发时研究个案时用的地图
+
+
+最早期的地理学方法论用于描述地理方向的分布图，包括约翰·斯诺对于1854年宽街霍乱爆发事件的分析。虽然他是流行病学医生和先驱，但该图也是最早的健康地理学例子之一。
+随着物理学的分类差异扩大、以及人文地理学科发展。此类物理性质的地理学和人文之间的联系深受环境决定论影响，最著名的包括19世纪的卡尔·李特尔和其他科学家，以及当时进化生物学密切关联。环境决定论是指人的生理、心理和道德习惯是直接受到其所在的自然环境的影响。然而，到了19世纪中叶，环境决定论因为缺乏严谨的现代科学方法论，受到严苛的批评，并被证明是服务于种族主义和帝国主义。
+在19世纪后期和20世纪前期，基于人类与自然方面的关注，区域地理学形成。区域地理学的目标是通过区划，界定空间区域，进而理解和描述每个区域的人文和自然独特特征。随后它与地理或然论、文化生态学（英语：cultural ecology）相连，产生一些对于社会和文化的因果联系分析，也被视为环境决定论的残留影响。
+1960年代，计量革命（英语：quantitative revolution）导致了地理学界对于区域地理的强烈批评。由于缺乏科学的严谨性和过度描述性，地理学被进一步从地质学分离，并产生两个子域：自然地理和人文地理。20世纪中期，地理学家开始运用统计和数学模型的方法来解决空间问题[1]。定量革命对于地理学的推动，体现于地理信息系统；统计、空间建模和实证的方法，仍然对人文地理学的许多分支至关重要。这一时期的著名地理学家弗莱德·K·舍费尔、瓦尔多·托布勒（英语：Waldo Tobler）、威廉·加里森（英语：William Garrison (geographer)）、彼得·哈格特（英语：Peter Haggett）、李察·J·乔利（英语：Richard Chorley）、威廉·邦奇（英语：William Bunge）和托斯坦·哈格斯特朗（英语：Torsten Hägerstrand）。
+上世纪1970年代，一系列与地理相关的实证主义批评出现，并进而产生一类批判地理学的学科产生。行为地理学应运而生，作为一种手段来了解人们是如何感知空间和地域，并进行区位决策。在1970年代、1980年代，一股激进地理学派产生，其很大程度借鉴了马克思主义（英语：Marxist geography）理论和方法论，其代表人物有戴维·哈维和李察·皮特（英语：Richard Peet）。他们通过定量分析去解释事物的意义[3]，去解释而非单纯描述，以寻求改变、解决和政治参与[4]，而超脱意义的实证方法（激进地理学派批评定量革命中的超脱和客观属性实为资本主义的工具）。激进地理学，以及其余马克思主义相关的理论仍然是当今人文地理学的重要部分。批判地理学也引进了“人文主义地理学”的理念，其代表科学家为段义孚。这类理念与行为地理学相似，促使地理学采取更多的定性方法论。
+批判地理学也促使了一系列新型学派和分支的产生，包括女性主义地理学（英语：feminist geography）、新文化地理学，以及推动后现代主义和后结构理论与哲学的研究。
+分支领域[编辑]
+人文地理学有众多分支学科，以下为部分分支学科：
+文化[编辑]
+文化地理学是一类对于文化产物及概念的分析，研究文化现象的空间分布、传播、演化规律，以及文化要素与地理环境之间的相互关系。它聚焦于分析语言、宗教、经济、政治和文化现象，已经人类活动的参与[5]。
+
+它的子分类还有儿童地理学、语言地理学、性别与空间（英语：Sexuality and Space）以及宗教地理学。
+
+发展[编辑]
+发展地理学，是一类关于地球中的人类居住的生存标准和生活质量分析。此外包括地区研究、经济活动的分布与空间组织等。这类研究深受科研家的方法论影响。
+经济[编辑]
+经济地理学研究人类经济活动的地域分布和空间组织、以及相关生物环境等。又可细分为市场地理学（英语：Marketing geography）、交通地理学、农业地理学、工业地理学和商业地理学等。
+健康[编辑]
+健康地理学，是一类关于健康、疾病、保健有关的地理信息、观点与方法论研究。
+历史[编辑]
+历史地理学，是一类关于人类、物理、虚构、理论和真实的地理学过往。历史地理学研究聚焦于一系列争议和话题。常规讨论是包括一段时期内的地点与宗教变迁。一类学者聚焦于人文地理环境变迁、人类与环境关系，以及文物财产等。
+政治[编辑]
+政治地理学，研究人类政治活动空间分布和地理环境关系。子分类包括有选举地理学、地缘政治学、战略地理、军事地理。
+人口[编辑]
+人口地理学， 研究人口空间分布规律、聚居、移民和人口增长。
+聚落[编辑]
+聚落地理学，包括城市地理学，是一类研究聚落的形成、分布和发展。又可细分为城市地理学和乡村地理学。这些地区主要经济活动包括有第二产业和第三产业。这类城市聚落中，往往存在高度人口密度。
+哲学和理论[编辑]
+不同的哲学方法可以用于研究人文地理；因此，城市地理学家可能同时也是一名女性主义或马克思主义地理学家等。
+有以下方法论：
+
+动物地理学
+行为地理学
+认知地理（英语：Cognitive geography）
+批判地理学
+女性主义地理学（英语：Feminist geography）
+马克思主义地理学（英语：Marxist geography）
+非表象理论（英语：Non-representational theory）
+实证主义
+后殖民主义（英语：Postcolonialism）
+后结构主义地理学
+精神分析地理学
+心灵地图（英语：Psychogeography）
+空间分析
+
+著名人文地理学家[编辑]
+
+
+
+
+卡尔·李特尔是现代地理学的奠基人之一
+
+
+
+卡尔·李特尔 (1779–1859)， 被视为现代地理学的奠基人之一，柏林洪堡大学地理系第一任主席，他也因有机类比（有机类比）概念而著名。
+艾里塞·雷克吕 (1830–1905)，因《地球和它的居民》而著名，他从事于社会地理学、社会生态、动物权利运动，他也是一名著名的无政府主义和绝对素食主义运动者。
+彼得·阿列克谢耶维奇·克鲁泡特 (1842–1921)，早期激进地理者，他也是一名无政府主义的支持者，并以介绍互助理念而出名。
+弗里德里希·拉采尔 (1844–1904)，环境决定论者，创制“生存空间”理念
+维达尔·白兰士 (1845–1918)，地缘政治学、或然论的法兰西学派创始人。
+哈尔福德·麦金德 (1861–1947)，《世界岛》的作者，伦敦政经学院和英国地理协会（英语：Geographical Association）的创始人之一。
+约万·斯维季奇（英语：Jovan Cvijić） (1865–1927)，塞尔维亚地理学家、世界著名的科学家。他从事地理和地质研究，并涉猎人类地理学和社会学。
+卡尔・奥特温・苏尔（英语：Carl O. Sauer） (1889–1975)，是一名环境决定论批判家、文化生态学（英语：cultural ecology）支持者。
+瓦尔特·克里斯塔勒 (1893–1969)，是一名经济地理学家、中心地理论支持者。
+理查德·哈特向 (1899–1992)，是一名地理学历史学家和哲学家。
+托斯腾·哈格斯特朗（英语：Torsten Hägerstrand） (1916–2004)，是一名计量革命（英语：uantitative revolution）、区域科学的批判家，因批判地理学而著名。
+米尔顿·桑托斯（英语：Milton Santos） (1926–2001)，1994年瓦特林·路德国际地理学奖获奖者，南美地理学家。
+沃尔多·托布勒（英语：Waldo R. Tobler），地理学第一定律（英语：First law of geography）推动者。
+贾迈勒·哈姆丹（英语：Gamal Hamdan），是一名埃及学者、地理学家。
+段义孚，华裔美籍地理学家。
+大卫·哈维，是世界引用率最高的地理学家，因批判性地理学、对全球化的反对而著名。
+伊夫林·斯托克斯（英语：Evelyn Stokes），新西兰地理学家、怀卡托大学地理系教授。
+艾伦·约翰·斯科特（英语：Allen J. Scott），美国地理学家、加州大学洛杉矶分校教授。
+爱德华·索雅（英语：Edward Soja），著名地理学家，因区域发展、规划与管理的研究而著名。
+多琳·梅西，全球化及其变数的研究者。
+迈克尔·沃茨（英语：Michael Watts），美国加州大学伯克利分校的教授。
+奈杰尔·思里夫特（英语：Nigel Thrift），非表象理论（英语：non-representational theory）的推动者。
+德雷克·格利高里（英语：Derek Gregory），著名的以色列作家、地理学家。
+圣迪·卡茨（英语：Cindi Katz），社会复制理论家，儿童地理学学家。
+吉莉安·罗斯（英语：Gillian Rose (geographer)），女权主义地理学家。
+
+期刊[编辑]
+如同其他社会科学，人文地理学家的诸多研究也发表在各种学术期刊上。因为人文地理是交叉学科，它还有大量关于人文地理领域的期刊。这些期刊包括：
+
+
+《ACME：批判地理学国际期刊》
+《对映体（英语：Antipode (journal)）》
+《区域（英语：Area (journal)）》
+《经济地理学（英语：Economic_Geography_(journal)）》
+《环境与规划（英语：Environment and Planning）》
+《地理学纪事（英语：Geografiska Annaler）》
+《迁移书信（英语：Migration Letters）》
+《英国皇家地理学会会刊（英语：Transactions of the Institute of British Geographers）》
+《地球论坛（英语：Geoforum）》
+《人文地理学进展（英语：Progress in Human Geography）》
+
+
+其他[编辑]
+
+自然地理学，地理学中另一个大分支
+地缘政治学
+食物地理
+综合地理
+政治生态
+
+参考[编辑]
+
+
+^ 1.0 1.1 Johnston, Ron. Human Geography. (编) Johnston, Ron; Gregory, Derek; Pratt, Geraldine; 等. The Dictionary of Human Geography. Oxford: Blackwell: 353–60. 2000. 
+^ Royal Geographical Society. History. [9 March 2011]. 
+^ Harvey, David. Social Justice and the City. London: Edward Arnold. 1973: 128–9. 
+^ Antipode: A Radical Journal of Geography. Antipode: A Radical Journal of Geography: Celebrating Over 40 years of Radical Geography 1969-2009. 2009 [31 May 2010]. （原始内容存档于2009年10月10日）. 
+^ Jordan-Bychkov, Terry G.; Domosh, Mona; Rowntree, Lester. The human mosaic: a thematic introduction to cultural geography. New York: HarperCollinsCollegePublishers. 1994. ISBN 978-0-06-500731-2. 
+
+
+延伸阅读[编辑]
+
+Blij, Harm Jan, De. Geography: realms, regions, and concepts. Hoboken, NJ: John Wiley. 2008. ISBN 978-0-470-12905-0. 
+Clifford, N.J.; Holloway, S.L.; Rice, S.P.; Valentine, G. (编). Key Concepts in Geography 2nd. London: SAGE. 2009. ISBN 978-1-4129-3021-5. 
+Cloke, Paul J.; Crang, Philip; Goodwin, Mark. Envisioning human geographies. London: Arnold. 2004. ISBN 978-0-340-72013-4. 
+Cloke, Paul J.; Crang, Phil; Crang, Philip; Goodwin, Mark. Introducing human geographies 2nd. London: Hodder Arnold. 2005. ISBN 978-0-340-88276-4. 
+Crang, Mike; Thrift, Nigel J. Thinking space. London: Routledge. 2000. ISBN 978-0-415-16016-2. 
+Daniels, Peter; Bradshaw, Michael; Shaw, Denis J. B.; Sidaway, James D. An Introduction to Human Geography: issues for the 21st century 2nd. Prentice Hall. 2004. ISBN 978-0-13-121766-9. 
+Flowerdew, Robin; Martin, David. Methods in human geography: a guide for students doing a research project 2nd. Harlow: Prentice Hall. 2005. ISBN 978-0-582-47321-8. 
+Gregory, Derek; Martin, Ron G.; Smith, Graham. Human geography: society, space and social science. Basingstoke: Macmillan. 1994. ISBN 978-0-333-45251-6. 
+Harvey, David D. Justice, Nature and the Geography of Difference. Blackwell Pub. 1996. ISBN 978-1-55786-680-6. 
+Johnston, R.J. The Dictionary of Human Geography 5th. Blackwell Publishers, London. 2009. 
+Johnston, R.J. Geographies of Global Change: Remapping the World. Blackwell Publishers, London. 2002. 
+Moseley, William W.; Lanegran, David A.; Pandit, Kavita. The Introductory Reader in Human Geography: Contemporary Debates and Classic Writings. Malden, MA: Blackwell Publishing Limited. 2007. ISBN 978-1-4051-4922-8. 
+Peet, Richard (编). Modern Geographical Thought. Oxford: Wiley-Blackwell. 1998. ISBN 978-1-55786-378-2. 
+Soja, Edward. Postmodern Geographies: The Reassertion of Space in Critical Social Theory. Verso, London. 1989. 
+
+外部链接[编辑]
+
+Worldmapper - Mapping project using social data sets
+Online Human Geography Resource - Help and advice on human geography matters
+Online AP Human Geography Resource - Human Geography vocabulary and map database
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+地理学
+
+
+
+
+
+
+
+
+
+地理学历史
+地理学思想史
+
+
+
+
+
+
+
+
+学科分支
+
+
+
+
+人文学科
+
+
+
+地理营销
+行为地理学
+批判地理学
+女性主义地理学
+马克思主义地理学
+文化地理学（宗教地理学、音乐地理学）
+人口地理学
+发展地理学
+经济地理学（农业地理学、工业地理学、商业地理学、渔业地理学、消费地理学）
+医学地理学（健康地理学）
+历史地理学
+语言地理学
+军事地理学
+政治地理学
+社会地理学
+战略地理学
+时间地理学
+游憩地理学
+聚落地理学（都市地理学·乡村地理学）
+交通运输地理学
+
+
+
+
+
+
+
+
+自然学科
+
+
+
+地形学（地貌学）
+海岸地理学
+冰川学
+气候学
+水文学
+土壤学（土壤地理学）
+生物地理学
+植物地理学
+大地测量学
+景观生态学
+湖沼学
+海洋学
+古地理学
+第四纪研究
+
+
+
+
+
+
+
+
+技术与方法
+
+
+
+地图学
+地理资讯系统（GIS）
+卫星导航系统（GNSS）
+遥测学（RS）
+空间分析
+空间科学（太空科学）
+定性研究
+地质统计学
+
+
+
+
+
+
+
+
+其它·综合
+
+
+
+地名学
+地志学
+区域地理学
+区域研究
+系统地理学
+环境地理学（地生态学）
+
+
+
+
+
+
+
+
+
+
+
+团体组织
+
+
+
+美国地理学会
+美国地理学家协会
+巴黎地理学会
+欧洲地理协会
+英国地理协会
+皇家地理学会
+香港地理学会
+国际地理联合会
+里斯本地理学会
+国家地理学会
+加拿大皇家地理学会
+皇家苏格兰地理学会
+俄罗斯地理学会
+沙乌地地理学会
+女性地理学家协会
+
+
+
+
+
+
+
+
+地理学家
+
+
+
+克劳狄乌斯·托勒密
+马苏第
+杰拉杜斯·麦卡托
+卡尔·李特尔
+亚历山大·冯·洪保德
+阿尔弗雷德·罗素·华莱士
+理查·乔利
+
+
+
+
+
+
+
+
+相关科系与学院
+
+
+
+剑桥大学地理系
+爱丁堡大学地球科学学院
+里兹大学地理学院
+罗蒙诺索夫莫斯科国立大学地理学院
+斯德哥尔摩大学人文地理系
+雪梨大学地球科学院
+德克萨斯州农工大学地球科学院
+
+
+
+
+
+
+
+
+
+
+
+ 地理学
+ Portal
+ Commons
+ 地理学专题
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+人文地理学分支
+
+
+
+
+
+
+分支
+
+
+
+文化地理学
+发展地理学
+环境地理学
+健康地理学
+历史地理学
+语言地理学
+地理营销
+军事地理学
+政治地理学
+人口地理学
+宗教地理学
+社会地理学
+战略地理学
+时间地理学
+旅游地理学
+运输地理学
+都市地理学
+
+
+
+
+
+
+
+
+
+
+
+方法
+
+
+
+行为地理学
+批判地理学
+文化理论
+女性主义地理学
+马克思主义地理学
+非表象理论
+现代主义
+
+结构主义
+符号学
+
+
+后现代主义
+
+后结构主义
+解构
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+规范控制
+
+
+
+GND: 4133695-1
+
+
+
+
+
+
+
+
+
+
+
+
+分类：人文地理学地理学社会科学隐藏分类：含有英语的条目包含规范控制信息的维基百科条目

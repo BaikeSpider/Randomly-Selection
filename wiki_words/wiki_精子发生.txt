@@ -1,0 +1,546 @@
+精子发生
+
+
+
+
+
+本条目部分链接不符合格式手册规范。跨语言链接及章节标题等处的链接可能需要清理。（2016年10月31日） 
+请协助改善此条目。参见WP:LINKSTYLE、WP:MOSIW以了解细节。突出显示跨语言链接可以便于检查。 
+
+
+
+
+
+
+生精小管与成熟精子（苏木精-伊红染色）
+
+
+精子发生（英语：spermatogenesis）是有性生殖的雄性动物的睾丸中，生殖细胞从精原细胞一直发育到成熟的精子的过程。
+
+
+
+细胞类型
+倍性/染色体数量（人类）
+DNA拷贝/染色单体数量（人类）
+Process entered by cell
+
+
+精原细胞 (types Ad, Ap and B)
+倍性 (2N) / 46
+2C / 46
+spermatocytogenesis（有丝分裂）
+
+
+primary 精母细胞
+倍性 (2N) / 46
+2C / 46
+spermatidogenesis （减数分裂1期）
+
+
+2个次级精母细胞
+倍性 (N) / 23
+2C / 46
+spermatidogenesis（减数分裂2期）
+
+
+4个精细胞
+倍性 (N) / 23
+1C / 23
+spermiogenesis
+
+
+4个游动精子
+倍性 (N) / 23
+1C / 23
+spermiation
+
+
+
+倍性和染色体计数 are for one cell in G1期, 在DNA合成 and division之前
+
+
+
+
+
+
+一个成熟的人类精子
+
+
+
+
+
+目录
+
+
+1 目的
+2 位置
+3 阶段
+
+3.1 精母细胞发生
+3.2 精细胞生成
+3.3 精子形成
+
+
+4 塞尔托利氏细胞的角色
+5 影响因素
+6 激素控制
+7 参考文献
+8 外部链接
+9 参见
+
+
+
+目的[编辑]
+繁殖跟动植物一样。
+位置[编辑]
+精子发生过程的位置是男性生殖系统的数个结构。最开始的阶段发生在睾丸，一直到附睾结束。附睾是发展中的精子成熟和储存直到射精的地方。睾丸的生精小管是整个过程的起点，在那里邻近内管壁的干细胞朝着中心分裂—从管壁开始，进行到最内层的部分，即内腔—来生产未成熟的精子。精子成熟过程发生在附睾。
+阶段[编辑]
+精母细胞发生[编辑]
+
+
+
+
+精母细胞发生示意图
+
+
+主条目：精母细胞发生
+精细胞生成[编辑]
+主条目：精细胞生成
+精细胞生成（spermatidogenesis）是从次级精母细胞生成精细胞（spermatid ）的过程。此过程前已生成的次级精母细胞迅速进入减数分裂II期，分裂产生单倍体精细胞。
+精子形成[编辑]
+主条目：精子形成
+在精子形成（spermiogenesis）阶段中，精细胞开始长出一条尾部。
+塞尔托利氏细胞的角色[编辑]
+
+
+
+
+睾丸中的塞尔托利氏细胞（红色）和精母细胞（蓝色）。附着于细胞的腔顶点尚未经历spermination的精细胞
+
+
+主条目：塞尔托利氏细胞
+
+影响因素[编辑]
+激素控制[编辑]
+精子发生的激素控制随物种而不同。人类精子发生的激素控制机制尚未被完全理解。
+参考文献[编辑]
+
+
+The testes and spermatogenesis. University of Wisconsin. 1998 [2006-11-27]. 
+Johnson, L; Blanchard, TL; Varner, DD; Scrutchfield, WL. Factors affecting spermatogenesis in the stallion. Theriogenology. 1997, 48 (7): 1199–1216. PMID 16728209. doi:10.1016/S0093-691X(97)00353-1. 
+BARDIN CW: Pituitary-testicular axis. In: YEN SS , JAFFEE RB , eds: Reproductive Endocrinology, 3rd ed. Philadelphia: WB Saunders, 1991
+CHAMBERS CV , SHAFER MA , ADGER H , et al.: Microflora of the urethra in adolescent boys: relationships to sexual activity and nongonococcal urethritis. J Ped 110:314-321, 1987
+CZYBA JC , GIROD C: Development of normal testis. In: HAFEZ ESE , ed: Descended and Cryptorchid Testis. The Hague, Martinus Nijhoff, 1980.
+Whitmore WF, Kars L, Gittes RF: The role of germinal epithelium and spermatogenesis in the privileged survival of intratesticular grafts. J Urol 1985;134:782.
+
+
+外部链接[编辑]
+
+Spermatogenesis - male reproductive physiology - Am Fam Physician 2000;62:1095.
+Spermatogenesis animation
+
+参见[编辑]
+
+卵泡生成（folliculogenesis）
+生殖细胞（germ cells）
+卵子发生（oogenesis）
+塞尔托利氏细胞（Sertoli cells）
+精子计数（sperm count）
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+男性生殖系统（TA A09.1–2, TH H3.07.01, GA 11.1254）
+
+
+
+
+
+
+内生殖器
+
+
+
+
+
+精道
+
+
+
+
+
+
+睾丸
+
+
+层次（鞘膜 · 白膜 · 血管膜） · 附件 · 纵隔 · 小叶 · 隔片 · 莱迪希细胞 · 塞尔托利氏细胞 · 血睾屏障
+
+
+
+
+
+
+
+精子发生
+
+
+精原细胞 · 精母细胞发生 · 精母细胞 · 精细胞发生 · 精细胞 · 精子形成 · 精子
+
+
+
+
+
+
+
+其他
+
+
+生精小管（精直小管 · 睾丸网 · 输出小管） · 附睾（附件 · 硬纤毛） · 旁睾 · 精索 · 输精管（壶腹） · 射精管
+
+
+
+
+
+
+
+
+
+
+附腺
+
+
+精囊 · 精腺排泄管 · 前列腺（尿道嵴/精阜/前列腺小囊/射精管 · 前列腺窦/前列腺小管） · 尿道球腺
+
+
+
+
+
+
+
+
+
+外生殖器
+
+
+
+
+
+阴茎
+
+
+阴茎根（阴茎脚 · 阴茎球 · 襻状韧带 · 悬韧带） · 阴茎体（阴茎海绵体 · 尿道海绵体） · 龟头（包皮 · 包皮系带 · 冠状沟） · 筋膜（阴茎皮下组织 · 布克氏筋膜） · 白膜 · 隔片）
+
+
+
+
+
+
+
+尿道
+
+
+尿道内口 · 尿道（前列腺部 · 中部 · 海绵体部） · 舟状窝 · 尿道外口 · 莫尔加尼尿道陷窝 · 尿道腺
+
+
+
+
+
+
+
+阴囊
+
+
+层次（皮肤 · 肉膜 · 精索外筋膜 · 提睾肌/提睾肌筋膜 · 精索内筋膜 · 会阴缝
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+生殖医学索引
+
+
+
+
+
+
+描述
+
+
+
+解剖
+
+男
+女
+
+
+生理
+
+经期
+
+
+发育
+
+性别决定和分化（英语：Template:Sex determination and differentiation）
+
+
+
+
+
+
+
+
+
+
+疾病
+
+
+
+感染
+
+STD/STI
+
+
+先天
+
+男（英语：Template:Male congenital anomalies of genital organs）
+女
+
+
+肿瘤及癌症
+
+男
+女
+生殖腺（英语：Template:Gonadal tumors, paraganglioma, and glomus）
+生殖细胞
+
+
+其他
+
+男
+女
+
+
+症状
+
+
+
+
+
+
+
+
+治疗
+
+
+
+程序
+
+男（英语：Template:Male genital procedures）
+女
+
+
+药物
+
+摄护腺肥大（英语：Template:Drugs used in benign prostatic hypertrophy）
+不举和早泄（英语：Template:Drugs for erectile dysfunction and PE）
+性功能障碍
+感染
+
+性病（英语：Template:Microbicides for sexually transmitted diseases）
+
+
+激素
+
+雄激素
+动情素
+黄体素
+GnRH（英语：Template:Gonadotropins and GnRH）
+催乳素（英语：Template:Prolactin inhibitors and anti-inflammatory products for vaginal administration）
+
+
+
+
+辅助生殖
+生育控制
+
+激素避孕药
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+性别
+
+
+
+
+
+
+生物学术语
+
+
+
+两性异形
+
+雄性
+雌性
+
+
+Sexual differentiation
+
+雌性化
+Virilization
+
+
+性别决定系统
+
+XY
+ZW
+XO
+Temperature-dependent
+半倍数性（英语：Haplodiploidy）
+
+
+性染色体
+
+X染色体
+Y染色体
+
+
+SRY基因
+雌雄间性
+
+Sequential hermaphroditism
+
+
+双性人
+
+
+
+
+
+
+
+
+有性生殖
+
+
+
+有性生殖的演化
+
+Anisogamy
+Isogamy
+
+
+生殖细胞
+生殖系统
+生殖器
+减数分裂
+Gametogenesis
+
+精子发生
+Oogenesis
+
+
+配子
+
+精子
+卵细胞
+
+
+受精
+
+体外受精
+体内受精（英语：Internal fertilization）
+
+
+性选择
+植物繁殖
+Fungal reproduction
+有性生殖
+
+性交
+Human reproduction
+
+
+
+
+
+
+
+
+
+
+人类的性
+
+
+
+Plant sexuality
+Animal sexuality
+人类的性
+
+Mechanics
+Differentiation
+人类性行为
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+分类：发育生物学动物生理学男性生殖系统隐藏分类：自2016年10月连结格式不正确的条目

@@ -1,0 +1,2 @@
+马基埃亚尔的传说
+《马基埃亚尔的传说》（英语：Tales of Maj'Eyal） （简称ToME4）是一个由Nicolas Casalini（DarkGod）开发的开源的Roguelike电子游戏，并由Assen Kanev（Rexorcorum）与Raymond Gaustadnes（Shockbolt）操刀美工。它以Casalini早期制作的游戏Tales of Middle Earth为基础[1] ，后者则以Angband为基础。[2]ToME 4的开发始于2009年，最早的正式版本发行于2012年。[3]

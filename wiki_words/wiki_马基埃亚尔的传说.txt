@@ -1,0 +1,115 @@
+马基埃亚尔的传说
+
+
+马基埃亚尔的传说
+
+
+Tales of Maj'Eyal
+
+
+类型
+Roguelike
+
+
+平台
+Microsoft Windows, OS X, Linux
+
+
+开发
+Nicolas Casalini （DarkGod）
+
+
+发行
+Netcore Games[*]
+
+
+美术
+Raymond "Shockbolt" Gaustadnes
+
+
+模式
+单人
+
+
+发行日
+2010年5月11日
+
+
+《马基埃亚尔的传说》（英语：Tales of Maj'Eyal） （简称ToME4）是一个由Nicolas Casalini（DarkGod）开发的开源的Roguelike电子游戏，并由Assen Kanev（Rexorcorum）与Raymond Gaustadnes（Shockbolt）操刀美工。它以Casalini早期制作的游戏Tales of Middle Earth为基础[1] ，后者则以Angband为基础。[2]ToME 4的开发始于2009年，最早的正式版本发行于2012年。[3]
+马基埃亚尔的传说遵循GNU GPL 3许可证，在Microsoft Windows、Mac OS X以及Linux下均可免费下载运行。[4] 。同时，通过Steam[4][5]或GOG[6]亦可购买。
+
+
+
+目录
+
+
+1 游戏性
+2 开发
+3 在线支持
+4 评价
+5 参见
+6 参考文献
+7 外部链接
+
+
+
+游戏性[编辑]
+马基埃亚尔的传说是一款可定制界面、同时结合传统Roguelike快捷键与鼠标操作的地牢爬行类游戏。[7] 与许多古老的Roguelike游戏不同，马基埃亚尔的传说使用全彩画面，几乎可完全用鼠标操作，并且玩家可通过不同的途径（如角色升级）获得额外的生命，而非永久死亡。[8]
+马基埃亚尔的传说着力于充满策略的回合制战斗，以及自由的角色培养。游戏的发展很大程度上取决于玩家的决策与游戏水平。游戏开始前，玩家要在9个种族和25个职业（允许使用插件拓展）中分别选择一个。一开始，并非所有种族与职业都可使用，有些必须要在游戏进程中解锁，[9]或借由捐赠、购买等方式解锁[5]
+玩家要在游戏中探索埃亚尔（Eyal）——一个充满传说、地牢与敌人的世界。游戏流程是非线性的，取决于玩家的计划和抉择，以及战斗技巧。
+开发[编辑]
+游戏引擎T引擎（T-Engne）使用C语言编写，并为基于网格的游戏提供了Lua 语言的框架。该引擎支持诸多OpenGL特性，如粒子效果与着色器。2011年与2012年，T引擎被用于在七日Roguelike竞赛（Seven Day Roguelike Challenge）上开发游戏。[10] [11]
+马基埃亚尔的传说亦可通过插件系统，获取新的图像、界面、游戏内容，或调整游戏平衡性。
+在线支持[编辑]
+玩家可于在线服务器注册个人账户，存储个人角色、成就和得分信息，[9]同时还能查看最常用的种族/职业选项、胜利次数等。服务器还提供在线聊天系统。[7][8]
+评价[编辑]
+马基埃亚尔的传说在2010[12]、11[13] 、12年[14]获评ASCII Dreams Roguelike of the Year（2012年有超过5000名Roguelike玩家参与了投票）。[14]该游戏也被收入了Valve的Steam商店。[15][16]
+对马基埃亚尔的传说的评论大多是正面的[7][9][17][18]，集中于其易上手性、图像、用户界面、故事背景[19]以及多样的玩法。美国玩家称其为“最优秀的Roguelike游戏之一”。[4][20]
+参见[编辑]
+
+
+自由软件主题
+
+
+
+
+电子游戏主题
+
+
+
+开源游戏列表
+
+参考文献[编辑]
+
+
+^ Roguelike Radio:Episode 18: ToME 4. 10 January 2010 [8 January 2013]. 
+^ Angband at oook.cz – Variant list. [9 January 2013]. 
+^ Sykes, Tom. Tales of Maj’Eyal is released, despite being out for 109 years. PC Gamer. 18 December 2012 [11 January 2013]. 
+^ 4.0 4.1 4.2 Davison, Pete. Infinite Dungeons, Infinite Death: Tales of Maj'Eyal PC Review. US Gamer. 17 December 2013 [26 December 2013]. 
+^ 5.0 5.1 Tales of May'Eyal on Steam. Steam. [26 December 2013]. 
+^ Release: Tales of Maj'Eyal and Ashes of Urh'Rok expansion. GOG. 4 November 2014 [5 November 2014]. 
+^ 7.0 7.1 7.2 Tarason, Dominic. Freeware Game Pick – Tales of Maj’Eyal: Age of Ascendancy. DIYGamer. 5 January 2012 [8 January 2013]. （原始内容存档于11 一月 2013）.  请检查|archive-date=中的日期值 (帮助)
+^ 8.0 8.1 Pearson, Dan. Where I'm @: A Brief Look At The Resurgence of Roguelikes. GameIndustry.biz. 2013-01-30 [2014-08-30]. 
+^ 9.0 9.1 9.2 Tarason, Dominic. Tales Of Maj’Eyal Is The Best Roguelike You’ve Never Played, Now Released After Years In Beta. Indie Statik. 17 December 2012 [8 January 2013]. 
+^ 2011 Seven Day Roguelike Challenge Evaluation. 8 April 2011 [14 January 2013]. 
+^ 2012 Seven Day Roguelike Challenge Evaluation. 9 May 2012 [14 January 2013]. 
+^ Winner of the Ascii Dreams Roguelike of the Year 2010: T.o.M.E. 4. [9 January 2013]. 
+^ Winner of the Ascii Dreams Roguelike of the Year 2011: T.o.M.E. 4. [9 January 2013]. 
+^ 14.0 14.1 Full Results for Ascii Dreams Roguelike of the Year. [9 January 2013]. 
+^ Polson, John. 168 devs saved by the grace of Greenlight in October, Steam Halloween sale live. IndieGames.com. IndieGames.com. [3 November 2013]. 
+^ Tales of Maj'Eyal on Greenlight http://steamcommunity.com/sharedfiles/filedetails/?id=93674769
+^ Smith, Adam. TOME Is Where The Heart Is: Happy New Roguelike. Rock, Paper, Shotgun. 7 January 2013 [8 January 2013]. 
+^ Talley, Michael. Tales of Maj'Eyal Review. Gather Your Party. 10 January 2013 [8 July 2013]. 
+^ Spengler, Jon. Tales of Maj’Eyal Review. Dorkadia. 9 April 2013 [8 July 2013]. 
+^ Harac, Ian. Tales of Maj'Eyal 4 Begins a New Chapter in the Roguelike Genre. TechHive. [8 July 2013]. 
+
+
+外部链接[编辑]
+
+官方网站
+
+
+
+
+
+分类：Windows游戏Linux游戏MacOS游戏Roguelike游戏Lua脚本游戏开源Roguelike游戏开源游戏免费软件2012年电子游戏Steam青睐之光游戏Steam创意工坊游戏隐藏分类：引文格式1错误：日期含有废弃电子游戏信息框参数的条目

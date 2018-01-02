@@ -1,0 +1,1694 @@
+PlayStation 4
+
+
+
+
+
+
+
+PlayStation 4
+
+
+
+
+
+PlayStation 4主机和DualShock 4控制器
+
+
+
+其他名称
+PS4
+
+
+研发商
+索尼交互娱乐
+
+
+制造商
+富士康（量产）[1]、索尼EMCS木更津工厂（原型机/部分批量）[2]
+
+
+产品家族
+PlayStation
+
+
+型式
+电子游戏机
+
+
+世代
+第八世代
+
+
+推出日期
+
+
+北美：2013年11月15日
+欧洲：2013年11月29日
+香港：2013年12月17日
+台湾：2013年12月18日[3]
+日本：2014年2月22日
+中国：2015年3月20日[4]
+
+其他国家或地区请见发售日期段落
+
+
+单价
+
+
+加拿大：CA$ 399.99
+美国：US$ 399.99
+欧洲：€ 399.99
+英国：£ 349.99
+香港：HK$ 3,180
+台湾：NT$ 12,980
+日本：JP¥ 41,979
+中国：CN￥ 2,399
+
+
+
+
+销售台数
+约7,060万部[5]
+
+
+媒体
+蓝光光盘、DVD
+
+
+系统芯片
+AMD定制APU
+
+
+CPU
+8核心AMD Jaguar（ x86-64架构） CPU
+
+
+内存
+8 GB GDDR5（统一定址）
+256 MB DDR3（系统背景作业使用）[6]
+
+
+存储空间
+500GB硬盘
+用户可自行升级
+
+
+显示
+
+HDMI（1080p、4K）
+PS VR
+
+
+绘图
+半定制的AMD Radeon "Liverpool"
+8GB GDDR5 GPU
+（与APU集成）
+
+
+输入
+PlayStation Camera
+
+
+控制器输入
+DualShock 4
+PlayStation Move
+PlayStation Vita
+PlayStation app
+
+
+触摸板
+DualShock 4控制器
+
+
+连接接口
+802.11 b/g/n/ac无线网络
+Bluetooth 2.1、4.0
+(802.11 ac、Bluetooth 4.0仅在 PlayStation 4 Slim 以及 PlayStation 4 Pro 上支持)[7]
+USB 3.0
+以太网
+
+
+在线服务
+PlayStation Network
+PlayStation Now
+
+
+尺寸
+约275 x 53 x 305毫米
+
+
+重量
+约2.8公斤
+
+
+最畅销游戏
+侠盗猎车手V（约1,610万套）[8]
+
+
+向下兼容
+无法原生支持
+有PlayStation Now云支持计划
+
+
+前代机种
+PlayStation 3
+
+
+网站
+各国网站入口
+
+
+PlayStation 4（官方缩写：PS4）是索尼交互娱乐推出的家用电子游戏机，在电子游戏发展上为第八世代机种，2013年11月15日正式于北美发售。做为PlayStation 3的后续机种。
+在新的应用和服务方面，索尼在智能手机和平板电脑上推出专属应用程序“PlayStation app”，让这些设备成为第二显示屏以加强游戏体验。索尼也推出了云游戏的流服务“PlayStation Now”。此外，搭配的控制器上增加了“分享”按钮，让用户易于将游玩过程作直播或录制等用途。
+
+
+
+目录
+
+
+1 历史
+2 规格
+
+2.1 技术规格
+2.2 控制器
+2.3 PlayStation Camera
+
+
+3 软件与服务
+
+3.1 用户界面
+3.2 语音控制
+
+
+4 社交功能
+
+4.1 共享
+4.2 即时直播
+
+
+5 游戏
+
+5.1 PlayGo
+5.2 向下兼容
+
+
+6 新版主机
+
+6.1 硬件参数对比
+
+
+7 评价
+
+7.1 发售前
+
+7.1.1 巴西售价
+
+
+7.2 销售
+
+
+8 发售日期
+
+8.1 PlayStation 4
+
+8.1.1 中国大陆
+
+
+8.2 PlayStation 4 Slim
+8.3 PlayStation 4 Pro
+
+
+9 参考资料
+10 注释
+11 外部链接
+
+
+
+历史[编辑]
+根据首席系统设计师马克·瑟尼（英语：Mark Cerny）（Mark Cerny）表示，索尼的第八世代游戏主机开发工作早在2008年就开始进行。[9]而当时在不到两年前，PlayStation 3因制造问题而延迟了数个月才推出，[10]使得其上市时间落后了微软的Xbox 360将近一年之久。[10]欧洲PlayStation部门的CEO吉姆·雷恩曾表示索尼希望能在PS3的后继机种上避免再犯下同样的错误。[11]
+2011年有媒体称，索尼与IBM合作开发性能强劲的处理器[12]。而在2012年又有消息称，索尼放弃了基于Cell架构处理器的开发工作，转而使用AMD的处理器和显示芯片进行开发[13]。
+2013年初，索尼宣布将在2月20日于美国纽约召开以“见证未来”为主题的发布会。2013年2月20日，索尼在纽约的发布会上正式公布了“PS4”的商标、游戏主机的规格、首发游戏以及游戏演示画面[14]。
+2013年8月21日，索尼电脑娱乐公司（SCE）首席执行官郝斯（Andrew House）在科隆游戏展（Gamescom）上宣布，PS4游戏主机将于11月15日在北美地区发布，欧洲地区则将在11月29日迎来。[15]
+2013年9月9日，日本亚洲索尼电脑娱乐（SCEJA）宣布，PS4主机将于2014年2月22日在日本地区发布，含税价格为41979日圆，搭配PlayStation Camera的组合含税价则为46179日圆。
+2013年9月18日，索尼宣布PlayStation 4将于2013年12月中旬在亚洲地区推出，包括香港、台湾、韩国、新加坡和其他东南亚地区；由索尼电脑娱乐世界工作室（SCE Worldwide Studios）与其他软件开发商及出版商的20款游戏也将同步推出。
+2014年12月11日，索尼电脑娱乐上海在上海举行发布会正式公布PlayStation 4以及PlayStation Vita的相关信息，并宣布将于2015年1月11日在华发售两部主机。后来，索尼“PlayStation中国”官微发表声明，推迟原定1月11日发售的PlayStation 4、PlayStation Vita、配件产品及相关游戏软件的上市时间至3月20日。[16]
+
+
+
+
+PlayStation 4 Pro与PlayStation 4 Slim
+
+
+2016年9月8日，索尼互动娱乐在纽约举办发布会，公布了PlayStation 4的改版机型“PlayStation 4 Slim”及强化版机型“PlayStation 4 Pro”。PlayStation 4 Slim与初版相比在性能上保持一致，但在外观上比初版更小更轻薄。PlayStation 4 Pro则相比之下加强了机能，采用了更强劲的CPU及GPU，并且支持4K分辨率的游戏视频输出，在外观上也比初版更厚重。同一天，索尼还公布了新的DualShock 4手柄以及新的PlayStation Camera。[17][18]
+规格[编辑]
+官方宣称PS4主机的运算能力大约是PS3主机的二十倍，游戏画面进一步提升分辨率到“高达1080P”、每秒显示张数“高达每秒60张”。对比PS3，PS4加入不少特色，例如跨游戏语音聊天功能、转型成真实好友构成的网络以及通过Ustream和Twitch网络流实况转播游玩画面。据称有更多的PS4机能将会陆续推出。[19] 在主机开发过程中，为了避免过于追求性能而使制作游戏软件更加困难的情况的发生，索尼放弃了 PlayStation 3 原有的设计，重新选择了与个人电脑相同的 X86 架构，使得游戏开发更加容易[20]；但是缺点是与PS3、PS2或是PSone®游戏不兼容。
+PS4采用以超微（AMD）为基础的x86-64架构处理器，与使用Cell架构的PS3不同。[21]更换处理器架构的目的是让游戏开发的过程变得更容易，以吸引更多不同的开发者加入。这样的变更是来自于索尼在PS3的开发、制造和发售过程中所学习到的经验。PS4其他的硬件特征包括内置8 GB的GDDR5集成式内存、更快速的蓝光光盘机，以及专门用来处理音频、视频、以及其它背景服务的定制处理芯片。
+技术规格[编辑]
+PlayStation 4使用了由索尼与超微半导体合作开发的处理器，集成了中央处理器（CPU）、图形处理器（GPU）以及包括内存控制器和视频编解码器在内的其他组件。[22]其共计八核心的中央处理器是由两个x86-64架构的四核心AMD Jaguar模块组成。[22][23]图形处理器由18个运算单元组成，理论上具有最高每秒1.84兆次的浮点运算能力（TFLOPS）。[24]主机的GDDR5内存的最高运作时钟频率为2.75 GHz（每秒5500 MT），其最大内存带宽为每秒176 GB。[24][25][26]PlayStation 4配有共8 GB的GDDR5内存，[24][27]是PlayStation 3系统的16倍之多，被认为将可让主机的市场寿命更长。[28][29]主机内另配有一个专责处理下载、上传和社区游玩相关功能的次要处理器。[30][31]这些功能可在游戏进行中或主机待机时在后台运行。[32]主机内也包含了一个音频模块，能够支持游戏内语音交谈，以及在游戏中处理“十分大量”的音频流。[33]
+PlayStation 4搭载的只读式光盘驱动器能读取蓝光光盘（PlayStation 4成为PlayStation系列首款光盘介质未更新的游戏机），其读取速度最快可达到PS3的三倍，光盘置入方式与PS3一样为无托盘的吸入式（slot-in）。[29][34]主机内置硬件解压缩模块，能够加快光盘的读取速度，并在游戏不需访问光盘内容时将尚未读取的数据暂时保存，这项功能是索尼“PlayGo”策略的一部分。[33]虽然主机具有4K分辨率照片和视频的播放能力，但无法渲染分辨率超过1080p的游戏。[35][36]主机内置500 GB容量的硬盘作为额外的存储空间，[37]用户也可自行升级更换硬盘（支持7mm与9mm厚的2.5英寸规格硬盘）。[38][39]
+PlayStation 4支持WiFi、以太网链接和蓝牙传输，并有两个USB 3.0连接端口。[24][29]此外也有一个可连接动作感应设备PlayStation Camera的接孔。[24]主机包装内付有一个可与DualShock 4链接的单声道耳机麦克风组。[40]视频和音频的输出界面支持HDMI和光纤S/PDIF音频。[24]主机无法输出类比视频和音频。[41]
+虽然在推出时尚无法使用，[42]但PlayStation 4具有“睡眠模式”（suspend mode）功能。该功能可让主机以低功耗运作，让用户能快速唤醒主机并继续游戏。在睡眠模式中主机也能自动下载游戏或软件更新等内容。[43][44]
+PlayStation 4内置支持110－240伏特的通用交流电电源供应器，[45]其最大电源值为250瓦特。根据Eurogamer网站的测试，主机在操作菜单时消耗约80瓦特的电力，在游戏进行中则会提升至110－120瓦特，在菜单模式和游戏中最高可达到140瓦特的功耗。[46]而自然资源保护协会（NRDC）的测试结果也显示了相近的数据，在游戏进行时最高功耗为137瓦特（包含链接PlayStation Camera）；在待机模式下（链接网络）测量的功耗为8.8瓦特，而关机状态下则为0.5瓦特。[47]
+控制器[编辑]
+主条目：DualShock 4和PlayStation Move
+
+
+
+
+DualShock 4
+
+
+PlayStation 4的主要控制器是DualShock 4，通过蓝牙2.1+EDR与主机链接[48]，旧款控制器DualShock 3则无法在PlayStation 4上使用[49]。DualShock 4加入了数项全新的功能，包括正面配有可按压的双点电容式感应触摸板[40]。此外控制器亦支持动态感测，内置三轴陀螺仪和三轴加速器，其震动功能亦有改进[40][48]。DualShock 4也是第一款正式支持Windows个人电脑的PlayStation原厂控制器[50]。控制器内置不可拆除的充电式锂电池，容量为800 mAh[51][40]。控制器重量约为210克，尺寸为162x52x98毫米，使用橡胶与塑胶材质增加握持感[48][51]。
+控制器内置有数个输出连接端口。其中的3.5mm TRRS立体声接孔可连接耳机与麦克风，能让用户同时接收并发送音频[48]。此外控制器上亦配有一个Micro-USB连接端口、一个扩充连接端口，以及一个单声道扬声器。控制器可通过mirco-USB或专属充电座进行充电[40]。
+DualShock 4上设有下列按钮：PS按钮、SHARE（分享）按钮、OPTIONS（选项）按钮、方向按钮、动作按钮（、、、）、上端按钮（R1、L1）、扳机按钮（R2、L2）、类比操作杆按钮（R3、L3）以及触摸板按钮[40]。其中部分按钮配置与DualShock 3有所不同，包括START和SELECT按钮集成为单一个OPTIONS按钮[40][51]。专属的SHARE按钮可让用户在上传游戏进行的视频或截图[40]。操作杆和各按钮依据开发商的意见而重新设计[40]，包括将类比操作杆的表面边缘改为突起等[51]。
+DualShock 4同时也装载了可显示各种颜色的光条。不同的颜色可用来代表不同的玩者，并可作为重要消息的提示之用（例如游戏人物的生命值降低等）[40]。此外光条也可与PlayStation Camera摄影机交互，让摄影机能通过光条来判定控制器的动作和距离远近。这项功能是以PlayStation Move技术为基础，既有的PlayStation Move控制器亦可在PlayStation 4上使用[48][52]。
+
+PlayStation Camera[编辑]
+
+
+
+
+PlayStation Camera
+
+
+PlayStation Camera是一个可另选购的动态感测配件。其包含两个1280x800像素的镜头，光圈值为f/2.0，焦距为30cm，具备85度的视野范围[40]。双镜头的设计能依据各种应用来改变操作模式[53]。两个镜头同时使用下可在摄影机视野范围内对物体进行深度侦测[54]，与Xbox的Kinect系统原理相同[55]。此外，其中之一的镜头可进行视频拍摄，而另一个镜头则可用来侦测动作[56]。
+PlayStation Camera亦内置一组四声道麦克风[40]，可帮助降低背景噪音，并可接收语音控制命令[53]。摄影机的尺寸为186x27x27厘米，重量为183克[40]。摄影机与主机上的AUX连接端口相连，可录制RAW和未压缩的YUV格式视频[40][49]。
+软件与服务[编辑]
+参见：PlayStation 4系统软件
+
+
+
+
+PlayStation 4用户界面
+
+
+PlayStation 4上运行的操作系统名为“Orbis OS”，改写自FreeBSD 9.0操作系统[57][58]。索尼电脑娱乐的网站上证实Orbis OS使用了FreeBSD的核心架构[59]。
+虽然PlayStation 4在没有链接至互联网时亦可独立运作，但链接互联网后则能提供“更丰富”的功能[60]。其中PlayStation Network为用户提供多项在线服务，包括PlayStation Store在线商店和Music Unlimited及Video Unlimited订阅服务[24]。顾客可在网络上浏览游戏作品，并通过PlayStation Now立即进行试玩[24][61]。与PlayStation 3不同，用户需付费订购PlayStation Plus服务才可进行大部分的在线多人游戏，这项要求并不适用于“免费游玩”或订阅制的游戏作品[62]。然而，这项新政策的决定权主要在游戏发行商手中，发行商可自行决定个别作品的在线多人模式是否需要PlayStation Plus才能进行[63][64]。此外，为了配合订阅制在线多人游玩服务，索尼禁止发行商在系统上推出在线通行证（online pass）服务.[65]。索尼预计将在主机的寿命期间中持续扩展与改进各项服务功能[66]。
+PlayStation 4在推出后通过软件更新提供播放数字音乐光盘（CD）、MP3和DLNA服务器媒体的功能。[67]
+用户界面[编辑]
+PlayStation 4放弃了PlayStation 3中的跨界导航菜单（XMB），改用了全新设计的用户界面，称为“PlayStation动态菜单”（PlayStation Dynamic Menu）[44][68][69]。玩者的用户文件中会显示近期的活动记录、获得的奖杯，以及其他进一步的信息[70]。系统的主画面也会显示可自定的好友动态等内容。此外，各项如Netflix、Hulu等第三方服务也能通过新界面引导[71]。系统亦支持多任务处理，例如在进行游戏的同时打开网络浏览器等[24]。
+PlayStation 4在发售时所提供的第三方在线服务依据国家而有所不同。PlayStation 4在2013年11月15日于美国上市，同时提供的数字娱乐软件共有11款，包括Amazon Instant Video、Crackle、Crunchyroll、EPIX、Hulu Plus、NBA Game Time、Netflix、NHL GameCenter LIVE、Redbox、VUDU和YuppTV[72][73][74]。在日本则预计将推出“JOYSOUND DIVE 2”（名称暂定）在线卡拉OK服务[75]。
+语音控制[编辑]
+用户可通过麦克风或PlayStation Camera对主机输入语音指令。虽然在推出时所支持的指令内容和语言有限，但索尼预计将在近期内扩充支持的语音指令功能[76]。
+社交功能[编辑]
+
+
+
+“PS4主机内置与Ustream的集成将游戏推向一个全新的媒体领域。人们能够执导、制作并演出自己的电子游戏电影，他们只需作为一个很棒的（或不怎么棒的）玩家就好。”
+
+
+— Ustream共同创办人布莱德·杭斯戴柏（英语：Brad Hunstable）
+“社交”功能是索尼在PlayStation 4上加重强调的主要特色之一[66]，玩者可自由选择使用或停用这些社交功能[66]。用户可在PlayStation Network上选择显示本名或昵称[77]。
+共享[编辑]
+DualShock 4控制器上设有一个“SHARE”按钮，能够让玩者从前15分钟的游戏录影画面中选择片段或截图与他人共享。媒体文件能直接从主机上传至Youtube或Facebook、Twitter等社交网络服务。截至2013年12月10日，已有超过2000万分钟的即时游戏过程直播视频通过SHARE按钮分享出去[78]
+即时直播[编辑]
+玩者可在PlayStation 4的界面中浏览好友正在游玩的游戏即时画面，其支持跨游戏的摄影机与麦克风输入、观战或协助功能，并可通过Twitch、Ustream或NICONICO生放送（2014年春季在日本推出[79]）网站对外公开直播游戏过程，其他人可通过网络浏览器或其他设备观看[24][80]。
+游戏[编辑]
+SCEA首席执行官Jack Tretton宣布PS4游戏价格会在0.99美元到60美元之间。PS4游戏不锁区，也就是在一个地区买的游戏可以在任何地区运行。[81] 而且游戏可以被交易、租借，也就是购买的游戏可以随购买者的意愿随意处理。[82]
+索尼希望能让独立游戏制作者更轻松地为PS4开发游戏。在2013年的E3展上，索尼透露他们将会允许开发者在PSN上独自出版PS3、PS4和PS Vita游戏。[83] 索尼不久之后宣称，在2013年末，至少十个独立游戏会作为PS4的首发游戏。[84]
+不仅在传统零售商以光盘媒介发售游戏，所有PS4游戏都可以通过线上模式购买。[85]而且，所有游戏都有免费试玩版。[86] 玩家可以在任何PS4设备登录来连接到自己的数字游戏库。[87]索尼并没有禁止以游戏光盘为基础的游戏交易，也并没有要求定期联网检查游戏。[88][89]
+PS4的追加下载内容系统和之前的其他PlayStation平台的系统很相似。
+PlayGo[编辑]
+PlayGo可以使玩家更快地玩到支持的游戏。当一个游戏被选取，只需要加载一小部分文件就可以运行游戏，其他文件在用户游戏的同时加载以节约时间。如果用户更乐于通过光盘玩游戏，那么PS4就会在游戏时加载这些文件到硬盘中，这可以减少读取的时间。这些功能都是经由PS4的协处理芯片。相似地，PS4可以在背景状态下静默升级系统。[90]
+向下兼容[编辑]
+索尼已经确认PS4不会原生兼容PS3游戏。[91]
+索尼计划使用于2012年7月收购的云服务公司Gaikai的技术，推出PlayStation Now服务，让玩家经由网络在PS4和PS Vita上游玩前世代的游戏。[92][93]
+2015年11月19日，索尼向媒体WIRED正式确认，PS2模拟器即将登陆PS4平台[94][95]。
+新版主机[编辑]
+
+
+
+
+PlayStation4-Pro
+
+
+索尼在2016年9月8日发布了两款PlayStation 4新版主机：PlayStation 4 Slim和PlayStation 4 Pro。
+
+前者为PlayStation 4的轻薄版，体积减小了大约30%，性能不变。
+后者的性能有大幅提升，支持4K分辨率及Bluetooth 4.0、802.11 ac，配置的硬盘也改为了1TB起。
+
+硬件参数对比[编辑]
+
+
+
+Playstation 4
+Playstation 4 Slim
+Playstation 4 Pro
+
+
+发布日期
+2013年11月
+2016年9月
+2016年11月
+
+
+初始售价
+399美元 (500 GB硬盘)
+299美元 (500 GB硬盘)
+399美元 (1 TB硬盘)
+
+
+处理器制程
+28 nm （台积电）
+16 nm （台积电）
+
+
+CPU架构
+AMD Jaguar
+
+
+CPU主频
+1.6 GHz
+2.1 GHz
+
+
+CPU核心数
+8核心
+
+
+统一渲染架构
+1152 (18 CU)
+2304 (36 CU)
+
+
+GPU主频
+800 MHz
+911 MHz
+
+
+FP32性能
+1.84 TFLOPS
+4.2 TFLOPS
+
+
+内存
+8 GB GDDR5
+
+
+内存频率
+5500 MHz
+6800 MHz
+
+
+内存总线
+256位
+
+
+内存带宽
+176 GB/s
+218 GB/s
+
+
+存储形式
+2.5英寸硬盘
+
+
+存储容量
+500 GB, 1 TB
+1 TB
+
+
+
+评价[编辑]
+发售前[编辑]
+PlayStation 4在发售前普遍受到来自开发商和媒体正面评价。
+Epic Games的马克·瑞恩（Mark Rein）赞赏PlayStation 4上“强化”的架构，并形容为“一款惊人杰出的硬件”[96]。id Software的共同创办人和程序员约翰·卡马克也对主机的设计作出评论，表示“索尼在工程技术方面作出了明智的选择”[97]，Gearbox Software的蓝迪·毕奇弗（Randy Pitchford）则对主机内高速内存的容量感到满意[98]。
+Eurogamer网站以“令人印象深刻”来形容PlayStation 4的绘图科技，并认为索尼针对PlayStation 3时期开发者遇到的各种困难做出改进[29]。 Ted Price, president and CEO of Insomniac Games的总裁兼首席执行官泰德·派斯（英语：Ted Price）表示：“身为索尼长期的合作伙伴，我们对于过去数十年间一些极佳的游戏机科技感到满意，而现在看来PS4将能够延续这股潮流。我认为大多数家用主机游戏开发商总是不断追求更强大的性能、更多的内存、更大的存储空间、更快的读取时间⋯⋯索尼很清楚地展示了我们将会在新主机上实现这些愿望。”此外他也对于Gaikai游戏流技术有所期待，认为该技术可让家用游戏主机作品在更多不同的设备上游玩[99]。
+巴西售价[编辑]
+在2013年10月17日，索尼宣布PlayStation 4在巴西的价格为3,999巴西雷亚尔（约为1,759美元）[100]。索尼巴西分公司解释其主要原因是巴西政府高昂的进口关税[101]，其占售价的60%到70%[102]。索尼拉丁美洲主管马克·史丹利（Mark Stanley）在2013年10月21日针对巴西的PlayStation 4的售价发表声明。声明中的数据显示，巴西政府的进口税和消费税的比例为63%（2,524巴西雷亚尔），再加上其他的各项费用，使PlayStation在巴西的售价高达3,999巴西雷亚尔[103]。史丹利并表示索尼正在尝试与巴西政府沟通，减低进口税，并采用与PlayStation 3相同的做法，计划在当地生产组件以降低主机在巴西的价格[104]。
+销售[编辑]
+索尼在2013年8月宣布PlayStation 4的预购数量已超过100万台[105]。在北美洲正式发售日当天，主机在24小时内也售出超过100万台[106]。在英国，PlayStation 4成为发售时销售量最高的游戏主机，在上市后48小时内即售出了25万台[107]，五周后总计在英国市场共售出53万台的PlayStation 4[108]。
+截至2013年12月3日，PlayStation 4在全世界共售出了210万台[109]。2014年1月7日，索尼交互娱乐在消费性电子展（CES）上宣布，至2013年底为止，PS4共计已售出420万台[110]，游戏软件则售出超过970万片[111]。2014年2月18日，索尼宣布截至该年2月8日PS4总销售量为530万台，同时PS4也是2014年1月间美国最畅销的电子游戏主机[112][113]PlayStation 4在2014年2月22日于日本上市后，在两天内售出322,083台。[114]。
+2014年8月12日（当地时间），索尼交互娱乐于Gamescom2014上宣布PlayStation 4销量已超过1,000万台。[115]
+2015年3月4日，索尼交互娱乐宣布截至3月1日，PlayStation 4销售量已超过2,020万台[116]，成为历史上销售速度最快的游戏机。
+2015年11月25日，索尼交互娱乐发布新闻稿，宣布PlayStation 4全球实际销售量已超过3,020万台。[117]
+Sony Interactive Entertainment (SIE) 在2016年5月26日宣布，“PlayStation®4”至2016年5月22日为止，全球累积销售量已超过4,000万台，是“PlayStation®”历代游戏主机中，以最快速度普及与扩大市场的主机。
+Sony Interactive Entertainment (SIE) 宣布，电视游戏机主机“PlayStation 4（PS4）”在经历了 PlayStation 史上销量最高的黑色星期五之后，全球累积销量已于 2016 年 12 月 6 日突破 5000 万台，其中包含 11 月开卖、能够体验 4K 超高分辨率视频的加强版主机“PlayStation 4 Pro（PS4 Pro）”在内。
+SIE 发布新闻稿宣布，截至2017年6月11日为止，PS4全球累计销售量已突破6,000万台大关、来到6,040万台。[118]
+发售日期[编辑]
+PlayStation 4[编辑]
+PlayStation 4最初在2013年11月15日于北美州市场率先发售，接着于欧洲、南美洲、大洋洲、非洲、中东和亚洲（日本和中国大陆除外）地区陆续上市。其中与过往PlayStation系列主机不同的是，在亚洲市场中，韩国、香港、台湾比日本更早推出[119]。制造商索尼所属的国家日本则是在2014年2月22日上市[120]。
+中国大陆[编辑]
+参见：中国大陆PlayStation系列延迟发售事件
+索尼于2014年召开发布会，宣布PlayStation 4中国大陆版于2015年1月11日上市[121]。但预定上市几天前，索尼中国突然声明上市时间推迟，且未给出原因及新上市时间[122]。一时间舆论猜测纷纷，有评论认为是因名为“刘睿哲”的民众向北京市文化局官方网站进行实名举报所致[123]，甚至引发网友对当事人的声讨和人肉搜索[124]；但亦有消息称延期仅与游戏审批受阻有关[125]。2015年3月，随着PlayStation 4首发游戏一一通过国家新闻出版广电总局审批[126]，索尼中国重新宣布PlayStation 4中国大陆版于2015年3月20日上市[127]。经媒体测试，中国大陆版PS4可以运行中国大陆之外区域发行的光盘版游戏，也可以下载海外游戏补丁及进行全球联机，但无法登录外服账号及下载外服游戏[128]。在中国大陆版PlayStation 4上市一段时间后，有网友发现可以通过PS4的备份功能登陆其它地区的PSN帐号[129][130]。
+
+
+发售日
+国家或地区
+
+
+2013年11月15日[131]
+
+
+
+ 美国
+ 加拿大
+
+
+
+
+
+2013年11月29日[132]
+
+
+
+ 英国
+ 爱尔兰
+ 法国
+ 比利时
+ 荷兰
+ 卢森堡
+ 德国
+ 瑞士
+ 奥地利
+ 意大利
+ 西班牙
+ 葡萄牙
+ 丹麦
+ 瑞典
+ 挪威
+ 芬兰
+ 波兰
+ 俄罗斯
+ 澳大利亚
+ 新西兰
+ 巴西
+ 阿根廷
+ 智利
+ 哥伦比亚
+ 哥斯达黎加
+ 萨尔瓦多
+ 危地马拉
+ 墨西哥
+ 巴拿马
+ 秘鲁
+
+
+
+
+
+2013年12月13日[133]
+
+
+
+ 南非
+ 阿联酋
+ 沙特阿拉伯
+ 科威特
+ 卡塔尔
+ 巴林
+ 阿曼
+ 捷克
+ 斯洛伐克
+ 希腊
+ 土耳其
+ 玻利维亚
+ 尼加拉瓜
+ 巴拉圭
+ 乌拉圭
+ 委内瑞拉
+
+
+
+
+
+
+2013年12月17日[134][135]
+
+
+
+ 香港
+ 韩国
+
+
+
+
+
+2013年12月18日[136]
+
+
+ 中华民国（台湾）
+
+
+
+
+2013年12月19日[137]
+
+
+ 新加坡
+
+
+
+
+2013年12月20日[138]
+
+
+ 马来西亚
+
+
+
+
+2014年1月6日[139]
+
+
+ 印度
+
+
+
+
+2014年1月9日[140]
+
+
+ 印尼
+
+
+
+
+2014年1月14日[141]
+
+
+
+ 菲律宾
+ 泰国
+
+
+
+
+
+2014年2月22日[142]
+
+
+ 日本
+
+
+
+
+2015年3月20日[143][127]
+
+
+ 中华人民共和国（中国大陆）
+
+
+
+
+PlayStation 4 Slim[编辑]
+部分旧游戏有兼容问题无法使用[来源请求] 1. Metro Redux 2. Mortal Kombat XL 3. Darksiders 2 Deathinitive 4. Destiny 5. Injustice 2
+
+
+发售日
+地区及国家
+
+
+2016年9月9日[144]
+韩国、台湾、香港
+
+
+2016年9月15日[145]
+美国、加拿大、日本
+
+
+2016年9月16日
+欧洲、大洋洲
+
+
+2016年9月17日[146]
+新加坡
+
+
+2016年10月中旬[147]
+马来西亚
+
+
+2016年11月11日[148]
+中国大陆
+
+
+PlayStation 4 Pro[编辑]
+代号“NEO”，2016年11月10日于全球发售，型号尾CUH-7000，性能上较普通Playstation 4有升级。
+硬件方面，主要是CPU主频有所提高，从1.6GHz提高到2.1GHz，这样运算性能达到了4.2TFlops。此外，GPU虽然基本规格没有变化，架构得以细微改进，对高清游戏和电影的硬解码能力进一步加强。硬件的提高使得Pro版硬件能够支持4K清晰度的游戏，并提高了虚拟现实（VR）设备的支持。部分新发售的游戏能够识别Pro版并对其专门优化。随着2017年，4.5版本固件升级，使得Pro支持游戏以“加速模式”（Boost Mode）运行；额外还带来了诸如自定义壁纸，以及支持最高8TB外置硬盘，并支持外置硬盘进行游戏存储（需交由PlayStation进行格式化）等功能[149]。
+虽然可以播放4K流媒体，却不支持“超高清蓝光光盘”（Ultra HD Blu-ray）的播放。[150]
+对了对应游戏种类的提升，配置的硬盘也改为了1TB起（原版为500GB起）；同样支持玩家自行更换（2.5英寸硬盘，7mm与9mm厚度）[39]。
+Playstation 4 Pro的首发版本中有日本制造的机台，遭到一些中间商囤积加价。[151]
+参考资料[编辑]
+
+
+^ Mishkin, Sarah. Foxconn profits beat expectations. Financial Times. 2013-11-13. 
+^ 传言证实 PlayStation 4真系有MIJ
+^ Sony PS4 台湾即将上市
+^ 国行PS4、PSV宣布发售日期：3月20日正式上市. 腾讯新闻. （原始内容存档于2015-04-02）. 
+^ https://www.famitsu.com/news/201712/07147629.html
+^ PlayStation 4 Teardown. 
+^ 西川善司の3DGE：ソニー伊藤雅康氏インタビュー。PS4 Proと安く小さくなった新型PS4，その狙いを闻く. [2016-09-10]. 
+^ http://www.vgchartz.com/platform/69/playstation-4/
+^ Goldfarb, Andrew. PlayStation 4 Revealed. IGN (Ziff Davis). 2013-02-20 [2013-02-21]. （原始内容存档于2013-02-24）. 
+^ 10.0 10.1 PlayStation 3 sells out at launch. BBC News Online. 2006-11-11 [2013-02-22]. （原始内容存档于2007-01-08）. 
+^ Minkley, Johnny. Sony: it would be "undesirable" for PS4 to launch significantly later than the competition. Eurogamer (Eurogamer Network). 2011-11-23 [2013-02-21]. （原始内容存档于2011-11-25）. 
+^ 索尼与IBM合作开发PS4处理器 性能达PS3两倍. 新浪游戏频道. 2011-06-01. 
+^ 硬件规划彻底失败 PS4将放弃Cell架构. 新浪游戏频道. 2012-03-01. 
+^ Sony Computer Entertainment 于美国纽约的PlayStation Meeting 2013 正式发表次世代电脑娱乐主机 “PlayStation®4”兼具强大演算能力、融合社群功能、并可迅速存取内容 在此为各位介绍该主机开发中的部分精采游戏。. 索尼电脑娱乐（亚洲）. 2013-02-21. 
+^ 今日新闻网
+^ PS4国行发售宣布延期 或与“不锁区”有关. 新浪科技. 2015-01-09. 
+^ EVERYTHING ANNOUNCED AT SEPTEMBER 7'S PLAYSTATION MEETING.IGN.2016-09-07.[2016-09-09].
+^ 4 NEW PS4 PERIPHERALS ANNOUNCED.IGN.2016-09-08.[2016-09-09].
+^ PlayStation®4：终极版常见问题集 for 香港2013年11月11日 发帖人: PSN Communication Manager
+^ Sony: PS3 is hard to develop for--on purpose (英语)
+^ Hearn, Mark. PlayStation 4 will not have native PS3 backwards compatibility. 2013-02-20 [2013-02-25]. 
+^ 22.0 22.1 Taylor, John. AMD and The Sony PS4. Allow Me To Elaborate.. AMD. 2013-02-21 [2013-02-25]. （原始内容存档于2013-05-26）. 
+^ Shimpi, Anand Lal. AMD’s Jaguar Architecture: The CPU Powering Xbox One, PlayStation 4, Kabini & Temash. AnandTech. 2013-05-23 [2013-11-09]. （原始内容存档于2013-12-11）. 
+^ 24.0 24.1 24.2 24.3 24.4 24.5 24.6 24.7 24.8 24.9 SONY COMPUTER ENTERTAINMENT INC. INTRODUCES PLAYSTATION®4 (PS4™) (新闻稿). Sony Computer Entertainment. 2013-02-21 [2013-02-25]. （原始内容存档于2013-04-24）. 
+^ Sinha, Ravi. PlayStation 4 FCC Filing Reveals 2.75 GHz Max Clock Speed Frequency. GamingBolt. 2013-07-16 [2013-09-12]. （原始内容存档于2013-08-26）. 
+^ Santos, Alexis. Sony PlayStation 4 waltzes past the FCC. Engadget. AOL. 2013-07-22 [2013-09-11]. （原始内容存档于2013-07-25）. 
+^ Femmel, Kevin. Sony reveals the PS4: New controller, 8GB RAM, doesn’t play PS3 discs and more. Gimme Gimme Games. 2013-02-20 [2013-02-21]. （原始内容存档于2013-03-16）. 
+^ Yin-Poole, Wesley. PS4: PC-like architecture, 8GB RAM delight developers. Eurogamer (Eurogamer Network). 2013-02-22 [2013-02-25]. （原始内容存档于2013-03-02）. 
+^ 29.0 29.1 29.2 29.3 Leadbetter, Richard. Spec Analysis: PlayStation 4. Eurogamer. Eurogamer Network. 2013-02-21 [2013-02-25]. （原始内容存档于2013-04-19）. 
+^ Conditt, Jessica. PS4 allows playing games as they're downloading. Joystiq (AOL). 2013-02-20 [2013-02-24]. （原始内容存档于2013-02-21）. 
+^ Williams, Mike. Articles Register Sony reveals developer-centric PlayStation 4. Joystiq (AOL). 2013-02-20 [2013-02-24]. （原始内容存档于2013-04-19）. 
+^ Seifert, Dan. Sony PlayStation 4 games can be played while they are downloading. The Verge (Vox Media). 2013-02-20 [2013-02-24]. （原始内容存档于2013-04-18）. 
+^ 33.0 33.1 Inside the PlayStation 4 With Mark Cerny. Gamasutra. [2013-06-08]. （原始内容存档于2013-06-15）. 
+^ Kuchera, Ben. Is Blu-ray really a good medium for games?. Ars Technica. Condé Nast Publications. 2007-01-17 [2013-02-25]. （原始内容存档于2012-12-01）. 
+^ Fletcher, JC. PS4 will output video in 4K, but not games. Joystiq (AOL). 2013-02-21 [2013-02-21]. （原始内容存档于2013-05-21）. 
+^ Alexa Ray Corriea. PS4 will support 4K for 'personal contents' like photos, but not games. Polygon (Vox Media). 2013-02-21 [2013-02-21]. （原始内容存档于2013-06-01）. 
+^ PlayStation 4 (PS4) Design and Price Unveiled, Available at $399 in U.S. and at €399 in Europe (PDF) (新闻稿). Sony Computer Entertainment. 2013-06-11 [2013-06-11]. （原始内容 (PDF)存档于2013-06-13）. 
+^ Sony's PlayStation 4 Eye is a $59 add-on, PS4 packs an upgradable 500GB HDD inside. Engadget. AOL. 2013-06-10 [2013-06-10]. （原始内容存档于2013-09-02）. 
+^ 39.0 39.1 PlayStation4，硬盘更换操作. 之乎. 简书. 2017-04-30 [2017-05-06]. 
+^ 40.00 40.01 40.02 40.03 40.04 40.05 40.06 40.07 40.08 40.09 40.10 40.11 40.12 40.13 SONY COMPUTER ENTERTAINMENT INTRODUCES WIRELESS CONTROLLER FOR PLAYSTATION®4 (DUALSHOCK®4) AND PLAYSTATION®4 EYE (新闻稿). Sony Computer Entertainment. 2013-02-21 [2013-02-26]. （原始内容存档于2013-04-13）. 
+^ Grant Brunner. Sony issues correction: PS4 will not support analog output [Updated]. ExtremeTech (Ziff Davis). 2013-06-18 [2013-06-20]. （原始内容存档于2013-06-24）. 
+^ PS4 System Software Update 1.50. PlayStation Blog. Sony Computer Entertainment. 2013-10-25 [2013-10-28]. （原始内容存档于2013-10-26）. 
+^ Spencer. Jump Back Into A Game With PlayStation 4's Suspend Mode, No Save Point Necessary. Siliconera. 2013-02-20 [2013-09-13]. （原始内容存档于2013-06-16）. 
+^ 44.0 44.1 Pearson, Rob. 20 things you didn’t know about PS4. PlayStation Blog. Sony Computer Entertainment. 2013-07-12 [2013-07-12]. （原始内容存档于2013-07-13）. 
+^ PlayStation 4 iFixit Teardown. [2014-01-17]. 
+^ Leadbetter, Richard, Hardware Test: PlayStation 4, www.eurogamer.net, 2013-11-13 [2013-11-29] 
+^ Hruska, Jeol, PS4, Xbox One power consumption analysis points to Sony advantage and future efficiency gains, www.extremetech.com, 2013-12-18 
+^ 48.0 48.1 48.2 48.3 48.4 MacManus, Christopher. Finer details about PlayStation 4's DualShock 4 controller, Eye camera. CNET. CBS Interactive. 2013-02-21 [2013-02-21]. （原始内容存档于2013-05-30）. 
+^ 49.0 49.1 PLAYSTATION®4 (PS4™) DESIGN AND PRICE UNVEILED (PDF) (新闻稿). Sony Computer Entertainment. [2013-06-11]. （原始内容 (PDF)存档于2013-06-13）. 
+^ PlayStation 4 Controller is PC-Compatible 'for Basic Functions'. Kotaku. Kotaku. [2013-10-06]. （原始内容存档于2013-12-11）. 
+^ 51.0 51.1 51.2 51.3 McWhertor, Michael. PS4 touch-sensitive DualShock 4 controller revealed (update: features, scale detailed). Polygon. Vox Media. 2013-01-31 [2013-02-21]. （原始内容存档于2013-02-23）. 
+^ Gilbert, Ben. The PlayStation 4 supports the PlayStation Move controller. Engadget. AOL. 2013-02-20 [2013-02-21]. （原始内容存档于2013-02-21）. 
+^ 53.0 53.1 Kyle MacGregor. PlayStation 4 Eye: Applications of PS4's twin cameras. Destructoid. 2013-02-21 [2013-02-21]. （原始内容存档于2013-04-09）. 
+^ Scullion, Chris. Eye spy: Has Sony found its answer to Kinect?. Computer and Video Games. Future plc. 2013-02-21 [2013-02-21]. （原始内容存档于2013-05-30）. 
+^ Buckley, Sean. PS4 Eye promises to unlock your PlayStation at a glance, tips hat to Kinect. Engadget. AOL. 2013-02-20 [2013-02-21]. （原始内容存档于2013-02-21）. 
+^ Conditt, Jessica. PS4 Eye has two cameras: One to watch you, one to make you pretty. Joystiq. AOL. [2013-02-21]. （原始内容存档于2013-05-08）. 
+^ Larabel, Michael. Sony's PlayStation 4 Is Running Modified FreeBSD 9. Phoronix. 2013-06-23 [2013-09-14]. （原始内容存档于2013-06-24）. 
+^ Humphries, Matthew. PS4 runs modified version of the FreeBSD 9.0 operating system. Geek.com. 2013-06-24. 
+^ Open Source Software used in PlayStation®4. Scei.co.jp. [2014-01-02]. 
+^ Hurley, Leon. Michael Denny on PS4's philosophy. Official PlayStation Magazine (Future plc). 2013-03-20 [2013-06-01]. （原始内容存档于2013-06-01）. 
+^ Jackson, Mike. Gaikai tech brings spectating, instant demos, more to PS4. Computer and Video Games (Future plc). 2013-02-20 [2013-02-25]. （原始内容存档于2013-05-09）. 
+^ How to Share Used PlayStation 4 Games. IGN. Ziff Davis. [2013-06-11]. （原始内容存档于2013-06-15）. 
+^ PS4: publishers decide if free-to-play multiplayer requires PS Plus. VG247. 2013-06-13 [2014-01-02]. 
+^ Nelva, Giuseppe. E3 2013: Sony’s Shuhei Yoshida Shares Relevant Details on PlayStation Plus Requirement for Multiplayer on PS4. DualShockers. 2013-06-12 [2013-06-12]. （原始内容存档于2013-06-15）. 
+^ Nutt, Christian. Further clarification on Sony's DRM policies: No more online pass. Gamasutra. 2013-06-11 [2013-06-12]. （原始内容存档于2013-08-12）. 
+^ 66.0 66.1 66.2 Bramwell, Tom. The big interview: Sony's Shuhei Yoshida on PS4. Eurogamer (Eurogamer Network). 2013-02-21 [2013-02-25]. （原始内容存档于2013-04-19）. 
+^ Post-launch PS4 update to add MP3, DLNA support. Computer and Video Games. Future plc. [2013-11-20]. （原始内容存档于2013-11-13）. 
+^ June, Laura. Sony completely revamps its user interface for the PlayStation 4. The Verge (Vox Media). 2013-02-20 [2013-02-21]. （原始内容存档于2013-04-11）. 
+^ Stuart, Keith. PS4: 14 things we learned at Develop 2013. The Guardian. Guardian Media Group. 2013-07-15 [2013-07-16]. （原始内容存档于2013-07-17）. 
+^ Shah, Niraj. PlayStation 4 will support trophies. XTreme PS3. 2013-02-22 [2013-02-22]. （原始内容存档于2013-04-12）. 
+^ Dyer, Mitch. Netflix, Amazon Instant, More Coming to PlayStation 4. IGN (Ziff Davis). 2013-02-20 [2013-09-09]. （原始内容存档于2013-04-15）. 
+^ "13 Digital Entertainment Apps on PS4 at Launch". PlayStation.com. 7 November 2013.
+^ "Sony details 11 PS4 entertainment apps available at launch, includes the ones you want". Engadget.com.
+^ "Sony names apps available for US PS4 launch". MCV The Market For Computer & Video Games. 8 November 2013.
+^ JOYSOUND DIVE 2（仮）. PlayStation.jp. Sony Computer Entertainment Japan. [2014-04-11]. 
+^ Orland, Kyle. 17 things we learned from Sony’s massive PS4 FAQ. Ars Technica. 2013-10-31 [2013-12-12]. 
+^ Ngak, Chenda. Sony announces PlayStation 4, DualShock 4 controller. CBS News. 2013-02-20 [2013-02-22]. （原始内容存档于2013-02-21）. 
+^ Karmali, Luke. PS4 Responsible For 10 Percent of All Twitch Streaming. IGN. 2013-12-10 [2013-12-10]. （原始内容存档于2013-12-10）. 
+^ PS4ゲームプレイ动画をニコニコ生放送で配信可能に 2014年春から. INTERNET Watch (インプレス). 2014-02-14 [2014-03-01]. 
+^ Twitch Confirmed for PlayStation 4. Twitch. 2013-08-20 [2013-09-14]. 
+^ Smith, Mat. The PS4 won't be region-locked. Engadget. AOL. 2013-09-14 [2013-06-11]. （原始内容存档于2013-06-15）. 
+^ George, Richard. E3 2013: PlayStation 4 Supports Used Games, Doesn't Require Online Connection. IGN (Ziff Davis). 2013-06-11 [2013-06-11]. （原始内容存档于2013-06-15）. 
+^ Grubb, Jeffrey. Sony will allow indie devs to publish their own games on PlayStation 4. VentureBeat. 2013-06-10 [2013-06-13]. （原始内容存档于2013-08-23）. 
+^ Carmichael, Stephanie. Sony reveals its powerhouse of indie games on PlayStation 4. VentureBeat. 2013-06-10 [2013-06-10]. （原始内容存档于2013-06-15）. 
+^ Prescott, Shaun. Sony: every PS4 title will be available as digital download. Computer and Video Games. Future plc. [2013-02-25]. （原始内容存档于2013-05-28）. 
+^ The PS3's Biggest Complaint Breeds The PS4's Strengths. GamerXChange. 2013-05-30 [2013-05-30]. （原始内容存档于2013-03-24）. 
+^ Hurley, Leon. PS4's digital library lets you play your games anywhere & on anyone's console. Official PlayStation Magazine. Future plc. 2013-07-10 [2013-09-14]. （原始内容存档于2013-07-18）. 
+^ Bramwell, Tom. Sony tells Eurogamer: PlayStation 4 will not block used games. Eurogamer. Eurogamer Network. 2013-02-21 [2013-02-25]. （原始内容存档于2013-03-02）. 
+^ Kubba, Sinan. Sony: PS4 can play used games. Joystiq. AOL. [2013-02-21]. （原始内容存档于2013-05-30）. 
+^ Cerny, Mark. PS4′s PlayGo system explained by Sony’s Mark Cerny. VG247. 2013-04-24 [2013-06-01]. （原始内容存档于2013-06-15）. 
+^ Hearn, Mark. PlayStation 4 will not have native PS3 backwards compatibility. Engadget (AOL). 2013-02-20 [2013-02-25]. （原始内容存档于2013-02-21）. 
+^ Fletcher, JC. PlayStation 4 will stream PS1, PS2, PS3 games. Joystiq (AOL). 2013-02-20 [2013-02-25]. （原始内容存档于2013-04-25）. 
+^ Ishaan. PlayStation 4 Won’t Play PlayStation 3 Games Natively, Coming This Holiday. Siliconera. 2013-02-20 [2013-02-20]. （原始内容存档于2013-05-21）. 
+^ PlayStation 2 Emulation Coming to PS4, Sony Confirms. 2015-11-19. 
+^ 小熊桑. 索尼确认PS2模拟器登陆PS4！首部演示视频出炉. 2015-11-20. 
+^ Robinson, Andy. Interview: 'We're more Epic than we've ever been'. Computer and Video Games. Future plc. 2013-04-02 [2013-09-14]. （原始内容存档于2013-07-02）. 
+^ Lynch, David. PS4: 'Sony Made Wise Choices' - Carmack. Nowgamer. Imagine Publishing. 2013-02-21 [2013-09-14]. （原始内容存档于2013-07-02）. 
+^ Yin-Poole, Wesley. PC-like architecture, 8GB RAM delight developers. Eurogamer. Eurogamer Network. 2013-02-22 [2013-09-14]. （原始内容存档于2013-03-02）. 
+^ Top Developers React To PlayStation 4. Game Informer. GameStop Corporation. [2013-05-20]. （原始内容存档于2013-06-15）. 
+^ Moriarty, Colin. In Brazil, PlayStation 4 will cost over $1,800. IGN. 2013-10-17 [2013-10-17]. 
+^ Sarkar, Samit. PlayStation 4 to cost more than 1,800 USD in Brazil. polygon.com. 2013-10-17 [2013-10-17]. 
+^ Makuch, Eddie. PS4 costs $1,850 in Brazil. Gamespot. 2013-10-17 [2013-10-17]. 
+^ Stanley, Mark. GAMERS BRASILEIROS, NÓS OUVIMOS VOCÊS. blog.br.playstation.com. 2013-10-21 [2013-10-21] （葡萄牙语）. 
+^ Gaston, Martin. Sony says Brazil's $1,850 PlayStation 4 price "is not good for the PlayStation brand". Gamespot. 2013-10-22 [2013-10-22]. 
+^ Sherr, Ian. Sony Says PlayStation 4 Launches Nov. 15. Wall Street Journal. Dow Jones & Company. 2013-08-20 [2013-08-23]. （原始内容存档于2013-08-20）. 
+^ Goldfarb, Andrew. Sony sold 1 million PS4 consoles in 24 hours. IGN. Ziff Davis. 2013-11-17 [2013-11-17]. （原始内容存档于2013-11-17）. 
+^ PS4 beats Xbox One to become UK's fastest ever selling console. The Independent. 2013-12-02 [2013-12-02]. （原始内容存档于2013-12-03）. 
+^ PS4 outsold Xbox One by 166,000 consoles in UK last year. 2014-01-01 [2014-01-01]. 
+^ House, Andrew. PS4 Global Sales Update. PlayStation Blog. Sony Computer Entertainment. 2013-12-03 [2013-12-03]. （原始内容存档于2013-12-10）. 
+^ Goldfarb, Andrew. CES: PlayStation 4 Sales Pass 4.2 Million. IGN. 2014-01-07 [2014-01-07]. 
+^ 2014-01-07, PlayStation 4 sales topped 4.2 million in 2013, Gematsu
+^ Byford, Sam. Sony has sold over 5.3 million PlayStation 4 consoles worldwide. The Verge. 2014-01-18 [2014-01-18]. 
+^ Natasha Lomas. Sony Beats Its PS4 Sales Target, With 5.3M Consoles Sold In 3-Months. TechCrunch. AOL Inc. 2014-01-18 [2014-01-18]. 
+^ 2014-02-25, プレイステーション4が発売2日间で32万2083台を贩売, Famitsu
+^ PS4™世界累计実売台数1,000万台突破！ほかPS4™に関する最新情报のまとめ. 2014-08-13 [2015-03-23]. 
+^ PLAYSTATION®4 (PS4™)全球销量突破2,020万. 2015年3月4日 [2015-03-23]. 
+^ PLAYSTATION®4 (PS4™) 全球销售量突破3,020万台
+^ 半年热卖千万台！PS4全球累计销售量突破6,000万台. MoneyDJ理财网. [2017-07-20]. 
+^ SCEJAデピュティプレジデント织田博之氏特别インタビュー／アジアでのPS4ヒットの理由。アジア先行発売に“あり得ないことが起こった！”. GAME Watch. 2014-02-03 [2014-02-03]. 
+^ PS4のTV-CMが本日1月1日よりオンエア！ アメリカや欧州などに続いて今年はいよいよ日本で発売. 电撃. 2014-01-01 [2014-02-03]. 
+^ 索尼PS4正式入华 国行版售价2899元. 腾讯科技. 2014-12-11 [2014-12-11]. 
+^ 关于PlayStation®中国版产品延期上市的声明. 索尼电脑娱乐（上海）有限公司 weibo weixin. 
+^ 只因遭到二货举报！索尼或将对国行PS4执行锁区. 环球网. 2015-01-08. 
+^ 举报PS4不锁区的网民遭人肉 竟是任天堂粉丝. 新浪游戏. 2015-01-06. 
+^ 内部人士曝PS4延期真相：无关锁区 只因游戏审批. DoNews游戏. 
+^ 广电总局公布大批国行PS4与XB1过审游戏名单. 新浪游戏. 
+^ 127.0 127.1 PlayStation® 4和 PlayStation® Vita将于2015年3月20日在中国上市. 索尼电脑娱乐（上海）有限公司. 2015-03-10 [2015-03-10]. 
+^ 谜团揭晓 一张图带你了解国行PS4/PSV，新浪
+^ 星新极. PS4国行版国服解锁教程：新2.50系统资料备份还原的妙用. A9VG. 2015-03-28 [2015-04-08]. 
+^ 真的有那么简单吗？国行ps4解锁教程. 泡泡网. 2015-04-07 [2015-04-08]. 
+^ PS4が现地时间11月15日に北米およびカナダで発売开始！. 电撃オンライン. 2013-11-15 [2013-12-15]. 
+^ Sony Confirms all 32 Countries the PS4 Will be Available in on November 15th/November 29th. playstationlifestyle.net. 2013-08-20 [2013-12-15]. 
+^ PS4 now available in 48 countries, Xbox One only in 13. gamespot.com. 2013-12-13 [2013-12-15]. 
+^ Tonight, a PlayStation Exec Was Moved to Tears. kotaku.com. 2013-12-17 [2013-12-17]. 
+^ 香港でPS4が発売开始！深夜のロンチイベントは大盛り上がり. inside-games.jp. 2013-12-17 [2013-12-17]. （原始内容存档于2013-12-20）. 
+^ 台湾でのローンチイベントの记事. eprice.com. 2013-12-18 [2013-12-19]. 
+^ PlayStation 4 launches in Singapore. channelnewsasia.com. 2013-12-19 [2013-12-19]. （原始内容存档于2013-12-19）. 
+^ Konsol Permainan Sony PlayStation 4 Mula Dijual Di Malaysia（タイトル和訳:マレーシアでソニーのゲーム机プレイステーション4贩売开始）. amanz.my. 2013-12-20 [2013-12-20]. 
+^ ソニーのPS4、インドで来年1月贩売开始…価格3万9990Rs. response.jp. 2013-12-30 [2014-01-11]. 
+^ PS4 Resmi Hadir di Indonesia, Dibanderol Rp 6,99 Juta（タイトル和訳:インドネシアでプレイステーション4が699万ルピアの価格で公式発表）. republika.co.id. 2014-01-10 [2014-01-10]. 
+^ 世界各国で続々とローンチされている“PlayStation 4”新たにタイとフィリピンで2014年1月14日に発売决定. gamespark.jp. 2013-12-13 [2014-01-19]. 
+^ ソニーＰＳ４、国内でも発売　ソフト充実、シェアで拡散. 朝日新闻デジタル (朝日新闻). 2014-02-22 [2014-02-22]. 
+^ 索尼PS4正式入华 国行版售价2899元. 腾讯科技. 2014-12-11 [2014-12-11]. 
+^ PlayStation 4 Slim 港台发售信息确定.engadget中文版.2016-09-08.[2016-09-11].
+^ PS4 Slim 正式发布，9 月 15 开卖.engadget中文版.2016-09-08.[2016-09-11].
+^ SONY INTERACTIVE ENTERTAINMENT TO LAUNCH SLIMMER AND LIGHTER PLAYSTATION®4 IN SEPTEMBER, AVAILABLE AT SGD449.Sony PlayStation Singapore.2016-09-08.[2016-09-11].
+^ SONY INTERACTIVE ENTERTAINMENT TO LAUNCH SLIMMER AND LIGHTER PLAYSTATION®4 IN MID-OCTOBER.Sony PlayStation Malaysia.2016-09-08.[2016-09-11].
+^ @PlayStation中国:【新PlayStation 4上市纪念套装 优惠售价更多欢乐！】.新浪微博.2016-10-13.[2016-10-13].
+^ PS4新系统支持外接硬盘、PS4 Pro硬加速 — 机核
+^ "Games with PS4 Pro features will have a 'PS4 Pro Enhanced' on the cover". VG24/7. Retrieved December 31, 2016.
+^ http://bbs.a9vg.com/thread-5152687-1-1.html
+
+
+注释[编辑]
+
+外部链接[编辑]
+
+
+
+维基共享资源中相关的多媒体资源：PlayStation 4
+
+
+
+PlayStation官方网站：
+
+日本
+美国
+台湾
+香港
+中国内地
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+PlayStation
+
+
+
+
+
+
+
+
+
+索尼交互娱乐
+索尼交互娱乐全球工作室
+
+
+
+
+
+
+
+
+游戏机
+
+
+
+
+家用平台
+
+
+
+PlayStation
+
+机型（英语：PlayStation models）
+硬件（英语：PlayStation technical specifications）
+
+
+PlayStation 2
+
+机型（英语：PlayStation models）
+硬件（英语：PlayStation technical specifications）
+
+
+PlayStation 3
+
+机型（英语：PlayStation models）
+硬件
+系统软件
+
+
+PlayStation 4
+
+硬件（英语：PlayStation technical specifications）
+系统软件
+
+
+
+
+
+
+
+
+
+
+便携平台
+
+
+
+PlayStation Portable
+
+系统软件
+
+
+PlayStation Vita
+
+系统软件
+
+
+
+
+
+
+
+
+
+
+多媒体平台
+
+
+
+PocketStation（英语：PocketStation）
+PSX
+PlayStation TV
+
+
+
+
+
+
+
+
+
+
+
+游戏
+
+
+
+
+PS1游戏
+
+
+
+最畅销
+最经典（英语：Lists of PS one Classics）
+
+北美（英语：List of PS one Classics (North America)）
+PAL区（英语：List of PS one Classics (PAL region)）
+日本（英语：List of PS one Classics (Japan)）
+
+
+
+
+
+
+
+
+
+
+PS2游戏
+
+
+
+最畅销
+在线游戏（英语：List of PlayStation 2 online games）
+高清游戏（英语：List of PlayStation 2 games with alternate display modes）
+兼容PS3的PS2游戏（英语：List of PlayStation 2 Classics for PlayStation 3）
+兼容PS4的PS2游戏（英语：List of PlayStation 2 games for PlayStation 4）
+
+
+
+
+
+
+
+
+PS3游戏
+
+
+
+最畅销（英语：List of best-selling PlayStation 3 video games）
+光盘发行
+数字发行（英语：List of download-only PlayStation 3 games）
+双渠道发行（英语：List of PlayStation 3 disc games released for download）
+兼容PS3的PS和PS2游戏（英语：List of PlayStation and PlayStation 2 games compatible with PlayStation 3）
+3D游戏（英语：List of PlayStation 3 games with 3D support）
+PS Move游戏（英语：List of PlayStation Move games）
+PS Now游戏（英语：List of PlayStation Now games）
+
+
+
+
+
+
+
+
+PS4游戏
+
+
+
+最畅销（英语：List of best-selling PlayStation 4 video games）
+光盘发行（英语：List of PlayStation 4 games released on disc）
+PSVR游戏（英语：List of PlayStation VR games）
+3D游戏
+
+
+
+
+
+
+
+
+PSP游戏
+
+
+
+双渠道发行（英语：List of downloadable PlayStation Portable games）
+系统软件兼容性（英语：List of PlayStation Portable system software compatibilities）
+PS Minis（英语：List of PlayStation minis）
+
+
+
+
+
+
+
+
+其他
+
+
+
+PSV游戏
+PS Mobile游戏（英语：List of PlayStation Mobile games）
+TurboGrafx-16游戏（英语：List of PlayStation Store TurboGrafx-16 games）
+NEOGEO Station（英语：NEOGEO Station）
+高清复刻游戏（英语：High-definition remasters for PlayStation consoles）
+即时游戏
+
+北美区（英语：List of Instant Game Collection games (North America)）
+PAL区（英语：List of Instant Game Collection games (PAL region)）
+亚洲区（英语：List of Instant Game Collection games (Asia)）
+日本区（英语：List of Instant Game Collection games (Japan)）
+中国区（英语：List of Instant Game Collection games (China)）
+
+
+
+
+
+
+
+
+
+
+再版
+
+
+
+Greatest Hits
+Essentials（英语：Essentials (PlayStation)）
+The Best
+BigHit Series（英语：BigHit Series）
+
+
+
+
+
+
+
+
+
+
+
+网络
+
+
+
+PlayStation Network
+2011年服务瘫痪
+中央车站（英语：Central Station (online gaming service)）
+FirstPlay（英语：FirstPlay）
+PlayStation App
+PlayStation Blog（英语：PlayStation Blog）
+PlayStation Home
+PlayStation Mobile（英语：PlayStation Mobile）
+PlayStation Music（英语：PlayStation Music）
+PlayStation Now
+PlayStation Store
+PlayStation Video（英语：PlayStation Video）
+PlayStation Vue（英语：PlayStation Vue）
+PS2在线（英语：PlayStation 2 online functionality）
+PSP网络会客室（英语：Room for PlayStation Portable）
+VidZone（英语：VidZone）
+
+
+
+
+
+
+
+
+配件
+
+
+
+
+控制器
+
+
+
+PS手柄（英语：PlayStation Controller）
+PS鼠标（英语：PlayStation Mouse）
+模拟游戏杆（英语：PlayStation Analog Joystick）
+双模拟手柄（英语：Dual Analog Controller）
+DualShock
+Sixaxis（英语：Sixaxis）
+PlayStation Move
+
+
+
+
+
+
+
+
+摄像头
+
+
+
+EyeToy（英语：EyeToy）
+Go!Cam（英语：Go!Cam）
+PS Eye（英语：PlayStation Eye）
+PS摄像头（英语：PlayStation Camera）
+
+
+
+
+
+
+
+
+杂项
+
+
+
+多接头插件（英语：PlayStation Multitap）
+链路电缆（英语：PlayStation Link Cable）
+PS2配件（英语：PlayStation 2 accessories）
+PS2耳机（英语：PlayStation 2 Headset）
+PS3配件（英语：PlayStation 2 accessories）
+PlayTV（英语：PlayTV）
+魔法书（英语：Wonderbook）
+PlayStation VR
+
+
+
+
+
+
+
+
+
+
+
+包
+
+
+
+Net Yaroze（英语：Net Yaroze）
+PS2 Linux（英语：Linux for PlayStation 2）
+GScube（英语：GScube）
+OtherOS（英语：OtherOS）
+Zego（英语：Zego）
+
+
+
+
+
+
+
+
+媒体
+
+
+
+
+杂志
+
+
+
+PS美国官方杂志
+PS官方杂志
+PS英国官方杂志
+PS澳洲官方杂志（英语：PlayStation Official Magazine – Australia）
+PlayStation Underground（英语：PlayStation Underground）
+
+
+
+
+
+
+
+
+广告
+
+
+
+双重人生（英语：Double Life (PlayStation ad)）
+游戏巅峰（英语：Mountain (advertisement)）
+PS市场推广（英语：Sony marketing）
+
+
+
+
+
+
+
+
+角色
+
+
+
+多乐猫
+多边形人（英语：Polygon Man）
+凯文·巴特勒（英语：Kevin Butler (character)）
+马库斯·里弗斯（英语：Marcus Rivers）
+
+
+
+
+
+
+
+
+
+
+
+街机主板
+
+
+
+系统11（英语：Namco System 11）
+系统12（英语：Namco System 12）
+系统10（英语：Namco System 10）
+系统246
+系统357（英语：Namco System 357）
+
+
+
+
+
+
+
+
+相关产品
+
+
+
+Super NES CD-ROM（英语：Super NES CD-ROM）
+Sony Ericsson Xperia Play
+
+
+
+
+
+
+
+
+
+
+
+ 分类
+ 主题
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+电子游戏机 （第八世代）
+
+
+
+
+
+
+类型
+
+
+
+家用游戏机
+
+列表
+
+
+掌上游戏机
+
+列表
+
+
+微型游戏机
+专用游戏机
+街机
+
+列表
+
+
+
+
+
+
+
+
+
+
+世代
+
+
+
+第一（1972–1980）
+第二（1976–1992）
+第三（1983–2003）
+第四（1987–2004）
+第五（1993–2006）
+第六（1998–2013）
+第七（2005–2017）
+第八（2012–）
+
+
+
+
+
+
+
+
+第八世代
+
+
+
+
+家用游戏机
+
+
+
+Wii U
+PlayStation 4
+
+PRO
+
+
+Xbox One
+
+X (Scorpio)
+
+
+
+
+
+
+
+
+
+
+掌上游戏机
+
+
+
+任天堂3DS
+
+新3DS
+2DS
+新2DS XL/LL
+
+
+PlayStation Vita
+Jewelpod
+
+
+
+
+
+
+
+
+微型游戏机
+
+
+
+Amazon Fire TV
+GamePop
+GameStick
+MOJO
+Nexus Player
+OnLive
+Ouya
+PlayStation Vita TV
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+家用游戏机
+
+
+
+
+
+
+雅达利
+
+
+
+雅达利2600
+雅达利5200
+雅达利7800
+雅达利Jaguar
+雅达利XEGS（英语：Atari XEGS）
+乓
+
+
+
+
+
+
+
+
+万代
+
+
+
+Apple Pippin
+Bandai Super Vision 8000（英语：Bandai Super Vision 8000）
+Playdia
+
+
+
+
+
+
+
+
+卡西欧
+
+
+
+卡西欧Loopy
+PV-1000（英语：PV-1000）
+
+
+
+
+
+
+
+
+Commodore国际
+
+
+
+Amiga CD32（英语：Amiga CD32）
+Amiga CDTV（英语：Amiga CDTV）
+Commodore 64 Games System（英语：Commodore 64 Games System）
+
+
+
+
+
+
+
+
+微软
+
+
+
+Xbox
+Xbox 360
+Xbox One
+
+
+
+
+
+
+
+
+日本电气
+
+
+
+PC Engine
+PC-FX
+
+
+
+
+
+
+
+
+任天堂
+
+
+
+红白机
+超级任天堂
+任天堂64
+GameCube
+Wii
+Wii U
+任天堂Switch
+
+
+
+
+
+
+
+
+飞利浦
+
+
+
+米罗华奥德赛²
+CD-i
+
+
+
+
+
+
+
+
+世嘉
+
+
+
+SG-1000
+世嘉Master System
+Mega Drive
+世嘉土星
+Dreamcast
+
+
+
+
+
+
+
+
+SNK Playmore
+
+
+
+Neo Geo
+Neo Geo CD（英语：Neo Geo CD）
+
+
+
+
+
+
+
+
+索尼
+
+
+
+PlayStation
+PlayStation 2
+PlayStation 3
+PlayStation 4
+
+
+
+
+
+
+
+
+其它
+
+
+
+
+
+1970年代
+
+
+
+
+APF-MP1000
+Bally Astrocade
+Fairchild Channel F
+Intellivision
+米罗华奥德赛
+RCA Studio II
+VC 4000 / 1292高级可编程视频系统
+
+
+
+
+
+
+
+
+
+1980年代
+
+
+
+
+Action Max（英语：Action Max）
+Arcadia 2001
+ColecoVision
+Cassette Vision
+Halcyon
+Vectrex
+VTech CreatiVision（英语：VTech CreatiVision）
+
+
+
+
+
+
+
+
+
+1990年代
+
+
+
+
+3DO
+Amstrad GX4000（英语：Amstrad GX4000）
+CP System
+FM Towns Marty
+Pioneer LaserActive
+Super A'Can
+
+
+
+
+
+
+
+
+
+2000年代
+
+
+
+
+Zeebo
+战斧F1
+刀锋TGPBOX
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+分类：PlayStation 4第八世代游戏机索尼游戏机家用游戏机2013年面世的产品隐藏分类：CS1葡萄牙语来源 (pt)使用过时图像语法的页面有未列明来源语句的条目

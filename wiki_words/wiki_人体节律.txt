@@ -1,0 +1,215 @@
+生理节律
+
+
+本条目讲述的是“Biorhythm”，也有人称之为生物节律或人体节律。不过本条目里提到的生物节律（biological rhythm），指的是“生物钟学”里面的概念。
+
+
+生理节律是一种描述人类的身体、情感及智力的假想周期的理论。该概念与生物节律无关。在生物学和医学领域，这个词都是会被小心避免的，因为它被一些人认为是一种伪科学或是前科学。
+
+
+
+目录
+
+
+1 理论内容
+2 历史
+3 可信性(度)
+4 与生物钟学的区别
+5 应用
+6 连接
+
+6.1 引言
+6.2 书籍
+6.3 研究发行物
+
+6.3.1 生理周期
+6.3.2 生物钟学相关
+
+
+6.4 其他资源
+
+6.4.1 生理周期资源
+6.4.2 生物钟学资源
+6.4.3 质疑方面
+
+
+6.5 生理周期计算器
+
+
+
+
+
+理论内容[编辑]
+
+基本节律细节:
+
+
+身体周期 (23天，约三周)
+
+协调
+体力
+健康
+
+
+情感周期 (28天，约一个月)
+
+创造力
+敏感性
+心情
+领悟力
+洞察力
+
+
+智力周期 (33天，约一个月)
+
+警觉性
+分析力
+逻辑性
+记忆力
+沟通能力
+
+
+
+
+该理论认为，人体受生理节律曲线影响，因此可以对这些曲线进行预测并依据预测结果来安排任务和计划。这些固定的周期性节律被认为可以控制或引起各种生理进程。有三种经典的周期节律被认为可以控制人类行为并可以表现出自然生理改变的先天周期，它们分别是：
+
+身体节律（23 天）
+情感节律（28 天）
+智力节律（33 天）
+
+经典三节律属于固有的超昼夜节律（Endogenous Infradian Rhythm），其理论基于生理周期和情感周期。通常它们被表示为对称性的曲线图，而最常用的形式是正弦波曲线。每个周期按正弦曲线在正位置（0%..100%）和负位置（0%..-100%）之间振荡。在大多数理论中，该曲线始于基线位置（0%），表示个体出生时的状态。每当该曲线越过基线位置时，当日即被称为临界日，即认为在该日进行的工作状况会比非临界日的情况不稳定得多。通常，构造这样的曲线是为了进行临界日的计算，以便进行或是避免某些活动。
+其正弦曲线的计算方法为：
+
+身体: sin(2πt / 23),
+情感: sin(2πt / 28),
+智力: sin(2πt / 33),
+直觉: sin(2πt / 38),
+
+经典三节律理论仅适用于人类。按照经典理论，每个人的各个周期值都可以在任意时间计算得出，现在也有很多网站提供这样的服务。
+历史[编辑]
+该理论发端于19世纪初1897年-1902年之间，主要基于观察研究。
+维也纳大学的心理学教授Hermann Swoboda在研究发烧病人的周期性病情改变时，猜测心情和健康可能存在节律性的改变。他收集了关于病痛反应、发烧、哮喘、心脏病等发作的数据，认为存在一个23天的身体周期以及一个28天的情感周期。
+Wilhelm Fliess，柏林的鼻喉专家，也独立研究了他的病人的发烧、疾病、死亡的发作情况，同样得出了存在23天周期及28天周期的结论。他的理论对于后来弗洛伊德（Sigmund Freud）形成及发展精神分析学理论有重要影响。
+因斯布鲁克大学的工程学教授Alfred Teltscher，观察了他的学生的“吉日”和“凶日”，发现其中存在一个33天的周期。Teltscher发现大脑的理解能力、精神活动、警觉性都遵循着这个33天的周期。1920年，美国宾夕法尼亚大学的心理学专家Rexford Hersey博士也声称参与了发现经典理论的研究。
+这三种节律构成了经典的生理节律理论。然而，针对该理论在德国、日本、美国所开展的研究却得不到一致的结果。经典理论在现代存在多种派生理论。
+可信性(度)[编辑]
+该理论的支持者认为生理节律是一门跨学科的新科学，虽然有很多“未能解释的疑点”。但反对者认为这是一本地道的命理学，再加上一些基本数学建立起来的伪科学。生理节律的可信性受到数学家，生物学家和其他一些科学家的质疑。一个基本的问题是，即使假定存在这样的生理节律，也不清楚为何要开始于人们出生的时刻。
+生理节律和生物钟学有相似的命题，比如近昼夜节律和其他节律的研究。通过一些医学研究，医学工作者发现人的寿命健康的确有其周期节律现象，但只有少部分医生相信这是所谓的“生理节律”。生物钟学的研究表明了诸如近昼夜节律的存在。这些发现说明的是人会受到生理，情感和智力的节律影响（但并不能说明生理节律的正确）。在这一门前科学的“研究中”，视生理节律在有些人身上起主要作用。
+批评者列举下面的理由：
+
+节律曲线的随意确定性，
+零线的随意确定性，
+三个周期23，28和33的随意确定性，
+建立在轶事，而非实验的基础上，
+忽视数论，
+在假设检验方面犯低级错误，
+对人类行为的不适当量化和一般化，
+对理论缺乏精确的表述，
+同行复查，缺乏实验数据，
+不具可重复性，还有
+一些不道德的从业者被揭发为职业算命骗子
+
+除了对三种节律的疑问外，人们对这些节律是否有时间相关性都提出了疑问。女性的月经若没有荷尔蒙的调节会出现不稳定，这不可能提前几个月去预测。
+由于生理周期的概念与生物钟学被揉集，导致后者也被一些人怀疑。
+与生物钟学的区别[编辑]
+前面提到，生理节律学不是伪科学，就是前科学。目前生理节律学没有得到实验的证明，它的理论没有精确的科学表述。 生理节律学在某些方面与天气预报相似（气象学）。
+生物钟学是生物学的一个分支，它研究生物体内生理过程的节律性。与生理节律不一样，生物钟学有其实验基础（请参看生物钟学《实验》一节），有分子生物学和遗传学的证据证明其存在。特别是“时钟基因”（BMal, Clock, MPer1, Mper2, Mper3, Cry1, Cry2）的发现。生物钟学毫无疑问是一门科学。
+应用[编辑]
+在铁路和航空等工作中会遇到生理节律的应用例子。一位飞行员说到自己对生理节律的态度。他知道，在自己的判断力的大凶日，他会犯大错，但他认为，只要知道了这一点，并且倍加留神，灾难可以被避免。一位前联合航空飞行员，Biorhythms for Windows程序的使用者承认，联合航空直到20世纪90年代中还在奉行生理节律理论。而日本通运株式会社仍在使用生理节律。
+连接[编辑]
+
+请问这个计算生命周期的准吗？
+Biorhythmus-Applet 免费的Java-Applet，算生理周期
+Biorhythmus berechnen 计算生理周期
+Biorhythmus berechnen Seite mit weiteren Erklärungen und der Möglichkeit den Biorhythmus zu berechnen
+[1] Comprehensive BIBLIOGRAPHY.
+Der Schlüssel zum Biorhythmus. ISBN 3-88034-898-7 : [2].
+Biorhythmusberechnung und Charakteranalyse
+
+引言[编辑]
+
+^ Valentas Daniunas, "Biorhythms for Windows; Biorhythms for Windows Pro". Halloran Software, 2005.
+^ "A man named Joseph and we knew him not!; Interpretation of Biorhythms regarding Flight Operations". (ed. Antedotal evidence; pilot describes the Japanese and American attitudes towards biorhythms.)
+
+书籍[编辑]
+
+Bartel, Pauline C., "Biorhythm : discovering your natural ups and downs", An Impact book. ISBN 0-53101-355-3
+Bentley, Evie, "Awareness : biorhythms, sleep, and dreaming". ISBN 0-41518-872-5
+Crawley, Jacyntha, The Biorhythm Kit, UK: ISBN 1-85906-032-3, London Biorhythm Company Limited.
+Edlund, Matthew. "Psychological time and mental illness". 1987. ISBN 0-89876-122-0
+Evans, James R., (ed.) and Manfred Clynes (ed.), "Rhythm in psychological, linguistic, and musical processes". ISBN 0-39805-23-5
+Hodgkins, Zerrin "Biomatch Z". 1998. ISBN 0-95319-830-8
+Lapointe, Fernand, "Biorythmie : comment prâevoir vos bons et mauvais jours". ISBN 0-88566-029-3
+Roche, James, "Biorhythms at your fingertips". ISBN 0-71371-562-6
+Thommen, George S., "Is This Your Day". 1973. ISBN 0-51700-742-8
+
+研究发行物[编辑]
+生理周期[编辑]
+
+Hines, T. M., "Comprehensive review of biorhythm theory". Psychology Department, Pace University, Pleasantville, NY. Psychol Rep. 1998 Aug;83(1):19-64. (ed. concluded that biorhythm theory is not valid.)
+D'Andrea, V. J., D.R. Black, and N. G. Stayrook, "Relation of the Fliess-Swoboda Biorhythm Theory to suicide occurrence". J Nerv Ment Dis. 1984 Aug;172(8):490-4. (ed. concluded that there was a validity to biorhythm when the innovative methods of the study are put to use.)
+Laxenaire M., and O. Laurent, "What is the current thinking on the biorhythm theory?". Ann Med Psychol (Paris). 1983 Apr;141(4):425-9. [French](ed. Biorhythm theory is disregarded by the medical world though it has achieved a bit of fame with the public)
+Wolcott, J. H., R. R. McMeekin, R. E. Burgin, and R. E. Yanowitch, "Correlation of general aviation accidents with the biorhythm theory". Hum Factors. 1977 Jun;19(3):283-93.
+Khalil, T. M., and C. N. Kurucz, "The influence of 'biorhythm' on accident occurrence and performance". Ergonomics. 1977 Jul;20(4):389-98.
+"Biorhythm in gynecology--a renaissance of Fliess' theory of periodicity?". Arch Gynecol. 1979 Jul 20;228(1-4):642. [German]
+Nijsten, M.W., and S. E.Willemsen, "Accidents a matter of chance? The significance of lunar phases and biorhythms in trauma patients". Ned Tijdschr Geneeskd. 1991 Dec 21;135(51):2421-4. [Dutch] (ed. 'critical' biorhythm days were not found to increase the number of accidents experienced by subjects.)
+
+生物钟学相关[编辑]
+
+Hastings, Michael, "The brain, circadian rhythms, and clock genes". Clinical review. BMJ 1998;317:1704-1707 19 December.
+U.S. Congress, Office of Technology Assessment, "Biological Rhythms: Implications for the Worker". U.S. Government Printing Office, September 1991. Washington, DC. OTA-BA-463. NTIS PB92-117589
+Ashikari, M., Higuchi, S., Ishikawa, F., and Tsunetsugu, Y., "Interdisciplinary Symposium on 'Human Beings and Environments': Approaches from Biological Anthropology, Social Anthropology and Developmental Psychology". Sunday, 25th August, 2002
+"Biorhythm experiment management plan", NASA, Ames Research Center. Moffett Field, 1983.
+"Biological Rhythms and Human Adaptation to the Environment". US Army Medical Research and Materiel Command (AMRMC), US Army Research Institute of Environmental Medicine.
+Ebert, D., K.P. Ebmeier, T. Rechlin, and W.P. Kaschka, "Biological Rhythms and Behavior", Advances in Biological Psychiatry. ISSN 0378-7354
+
+其他资源[编辑]
+生理周期资源[编辑]
+
+Biorhythmic Matchmaking Biomatch.com
+Biorhythmic Relationship Compatibility Charts Bio-Compatibility.com
+"Biorhythms & Group Dynamics". The North Crossing.
+"Biorhythms vs. horoscopes". Natural Biorhythms.
+
+生物钟学资源[编辑]
+
+Society for Light Treatment and Biological Rhythms. Not-for-profit international organization (founded 1988)
+Society for Research on Biological Rhythms (founded 1987) : publishes the Journal of Biological Rhythms ( ISSN 0748-7304 )
+Cognitive & Biological Psychology. Simon Fraser University.
+
+质疑方面[编辑]
+
+马丁·加德纳. "Science: Good, Bad and Bogus", Fliess, Freud, and Biorhythm. . CH. 11. Prometheus Books, Buffalo, N.Y. 1981. ISBN 0879755733
+Hines, Terence M., Reprinted from: Psychological Reports, August 1998, "A comprehensive review of biorhythm theory". Psychology Department, Pace University
+Skeptic's Dictionary entry
+
+生理周期计算器[编辑]
+
+Accurate Biorhythms {Biomatch.com] Free daily biorhythms based on Physical, Intellectual, Mood and Reflexive cycles
+Advanced biorhythm calculator [Orcapia.com] (personal, relationship, and team calculations)
+Biorhythm calculator [GypsyMagick.com] (Java applet)
+Goobix Online Biorhythm [Goobix.com] (plain HTML, doesn't require Java plugin)
+
+
+
+
+
+
+规范控制
+
+
+
+NDL: 00560472
+
+
+
+
+
+
+
+
+
+
+
+
+分类：伪科学隐藏分类：使用ISBN魔术链接的页面

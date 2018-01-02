@@ -1,0 +1,584 @@
+DBpedia
+
+
+
+
+
+
+
+
+
+
+
+
+DBpedia
+
+
+
+
+开发者
+
+
+
+莱比锡大学
+柏林自由大学
+开放链接软件
+
+
+
+
+
+初始版本
+2007年1月23日 (2007-01-23)
+
+
+稳定版本
+
+
+
+稳定版本
+
+DBpedia 3.9  /  September 2013
+
+
+
+编程语言
+
+
+
+Scala
+Java
+VSP
+
+
+
+
+
+操作系统
+Virtuoso Universal Server
+
+
+类型
+
+
+
+Semantic Web
+Linked Data
+
+
+
+
+
+许可协议
+GNU General Public License
+
+
+Alexa排名
+▬ 65,311 (November 2013[update])
+
+
+网站
+dbpedia.org
+
+
+源代码库
+github.com/dbpedia/
+
+
+DBpedia （DB乃是数据库，database的意思，也可做数据库百科全书解） 是一项从维基百科里萃取结构化内容（英语：structured content）的项目项目。这些项目所得的结构化信息，也将放在互联网中公开让人取阅。[1]DBpedia允许用户查询跟维基百科相关资源之间的关系与性质，甚至也可查询从维基百科外连到其他数据组（英语：dataset）的内容。[2]DBpedia曾被万维网创始人蒂姆·伯纳斯-李评论为世界上最有名的几个去中心化链接数据的专题之一。[3]
+
+
+
+目录
+
+
+1 缘起
+2 数据组
+3 示例
+4 使用DBpedia的相关项目或组织
+5 DBpedia Spotlight
+6 参见
+7 参考来源
+8 外部链接
+
+
+
+缘起[编辑]
+此项目案一开始是由来自柏林自由大学以及莱比锡大学的人士所打开，并与开放链接软件（英语：OpenLink Software）（Open Linked Software）同盟合作[4]。第一份公开可获取的数据集在2007年时发布。它是通过自由授权（英语：free license）的方式所发布，允许他人自由利用这些数据集。
+维基百科的条目大部分都是没有固定格式的文字，不过也有部分的数据是属于结构化的信息并且被镶嵌在条目中，像是信息框的表格内容（也就是默认在桌机版维基百科浏览格式，出现在条目右上角出现的字段，或是移动版维基百科的条目一开始就显示的字段。）、分类、图像、地理座标、以及外部网页链接。这些结构化的信息会在此项目案被提取出来并且将其统一的放在一个数据集里头以方便查询。
+数据组[编辑]
+2013年9月，DBpedia发布了第3.9版的更新。[5]如同之前版本的加强，这次也新增了维基百科更多信息框的比对，同时也新增了维基数据的链接。（通过 owl:sameAs 的链接）。[5]此版的数据组描述了四百万笔实体（entities），其中有322万笔实体是在一个连贯的知识本体中进行分类，这些实体包含了832,000位人物、639,000个地景、116,000份音乐专辑、78,000部视频、18,500个视频游戏、209,000个组织、226,000个物种以及5,600种疾病。[6]。DBpedia数据集提供了最多有119个不同语言的特色标签以及数据摘要；现总共有2460万个图片链接以及2760万笔连到外部网页的链接数据、4500万笔链接到其他RDF格式的数据集、6700万笔链接到维基百科的分类页，以及4120万笔YAGO2（英语：YAGO (Ontology)）分类的数据[6]。DBpedia项目使用资源描述框架（Resource Description Framework，简称RDF）来呈现截取的数据，目前包含了24.6亿笔的RDF triple（英语：RDF triple）数据、4700万从英文版本维基百科上截取的数据、19.8亿则来自其他的语言版本，同时有大约4,500万的数据连往外部的数据集。[6]
+从本数据集，多个页面之间传播的信息可以被截取，例如某书籍的作者数据，能够被放在关于此书或关于作者的页面中。
+从维基百科截取数据其中的一个重大挑战是，相同概念可能会在信息框以及其他的模版中被用不同的参数表示，例如|birthplace=以及|placeofbirth=意义相同。在这样的情况下，查询人物出生地点就必须要在这两个参数下都有查询才能够得到完整的结果。于是，DBpedia的映对语言就被开发了出来，以帮助映对知识本体里头这些定义的异同，进而减少同义词的重叠。有鉴于维基百科中使用信息框以及其他数值非常的多元，开发以及改善映对语言的机制是以开源的方式征求大众参与[7]。
+示例[编辑]
+DBpedia摘取维基百科页面上的事实信息，让用户可以不用在多个维基百科条目之间浏览便找到问题的答案。查询数据的方式是利用叫做SPARQL（像是SQL一类的查询语言）来对资源描述框架(RDF)进行查询。举例而言，假如你对日本少女漫画系列东京喵喵感兴趣，想要找这位漫画的绘者所创作的其他作品。DBpedia结合了维基百科上东京喵喵、征海未亚这些条目，以及相关作品诸如丽佳公主以及恋きゅー（英语：Koi Cupid）的信息。因为DBpedia把这些数据都标准化到单一的数据库里头，下列查询就能够在不需具体清楚哪一个条目有包含了哪一部分的片段信息，就能够完整的列出相关作品类型：
+
+
+PREFIX dbprop: <http://dbpedia.org/property/>
+PREFIX db: <http://dbpedia.org/resource/>
+SELECT ?who, ?WORK, ?genre WHERE { 
+ db:Tokyo_Mew_Mew dbprop:author ?who .
+ ?WORK  dbprop:author ?who .
+ OPTIONAL { ?WORK dbprop:genre ?genre } .
+}
+
+使用DBpedia的相关项目或组织[编辑]
+DBpedia广纳了人类知识不同领域，十分多元的范畴数据。这使得它自然而然成为链接众多数据集的枢纽，让外部数据集能够链接到相关的概念。[8]DBpedia的数据集是跟其他许多网络上不同的开放数据数据集在RDF的层级交互相连着。通过这些数据集，可以让应用程序丰富DBpedia的数据。截至2013年9月 (2013-09)[update]，已经有超过4500万笔在DBpedia与外部数据集之间的交互链接产生，外部数据集包含：Freebase (database)、OpenCyc、UMBEL（英语：UMBEL）、GeoNames（英语：GeoNames）、Musicbrainz、CIA World Fact Book、DBLP、Project Gutenberg、DBtune Jamendo、Eurostat、Uniprot、Bio2RDF（英语：Bio2RDF）、以及美国普查（英语：US Census）等数据[9][10]。汤森路透公司的前导项目OpenCalais（英语：Calais (Reuters Product)）、纽约时报的链接开放数据项目、Zemanta（英语：Zemanta API）以及DBpedia Spotlight也纳入了DBpedia的链接[11][12][13]。BBC也使用DBpedia来辅助其内容组织[14][15]。Faviki（英语：Faviki）使用DBpedia进行语义标签（semantic tagging）[16]。
+亚马逊公司提供一串DBpedia公共数据集（Public Data Set），这可集成进亚马逊网络服务应用之中[17]。
+DBpedia Spotlight[编辑]
+2010年6月，来自Web Based Systems Group以及柏林自由大学的研究人员开始了一个叫做“DBpedia Spotlight”的项目，开发工具来将文字数据中使用DBpedia资源的部分加上注解。这个工具解决了过去通过DBpedia链接非结构化信息来源到开放链接数据云的问题。DBpedia Spotlight可展示已命名实体截取（named entity extraction）、包含实体侦测（entity detection）以及命名冲突化解（name resolution）（也就是消歧义（disambiguation））。此工具也能在其他信息截取（information extraction）任务中，用来进行命名实体辨识（named entity recognition）。DBpedia Spotlight聚焦在多种不同用途的定制应用。不去聚焦于少部分的实体类型，此项目试图支持全部DBpedia上来自超过320个不同分类里，共约三百五十万个实体与概念。
+DBpedia Spotlight可公开获取，是以一个为了测试用途而提供的网络服务，或者也可以从Apache授权的Java/Scala API。DBpedia Spotlight分配也包含了一jQuery插件，此插件允许开发人员在网络上的任何一页加上注解，只要在他们的页面上增加一行文字即可[18]客户端也有Java或PHP的支持应用[19]。此工具可从其展示页（demo page）里，处理多种的英语数据[20]以及网络服务。国际化的支持部分，只要此语言有开维基百科即可支持[21]。
+参见[编辑]
+
+BabelNet
+Freebase
+Semantic MediaWiki
+
+
+Wikidata
+Linked Hypernyms Dataset
+
+参考来源[编辑]
+
+
+^ Bizer, Christian; Lehmann, Jens; Kobilarov, Georgi; Auer, Soren; Becker, Christian; Cyganiak, Richard; Hellmann, Sebastian. DBpedia - A crystallization point for the Web of Data (PDF). Web Semantics: Science, Services and Agents on the World Wide Web. September 2009, 7 (3): 154–165. ISSN 1570-8268. doi:10.1016/j.websem.2009.07.002. （原始内容 (PDF)存档于2010-02-02）. 
+^ Komplett verlinkt - Linked Data. 3sat. 2009-06-19 [2009-11-10] （德语）. 
+^ Sir Tim Berners-Lee Talks with Talis about the Semantic Web. Talis. 7 February 2008. （原始内容存档于2013年5月10日）. 
+^ wiki.dbpedia.org Team, [2009-11-23], （原始内容存档于2014-09-21） 
+^ 5.0 5.1 Changelog. DBpedia. September 2013 [23 September 2013]. 
+^ 6.0 6.1 6.2 DBpedia 3.9 released.... DBpedia. [2013-09-23]. 
+^ DBpedia Mappings. mappings.dbpedia.org. [2010-04-03]. 
+^ E. Curry, A. Freitas, and S. O’Riáin, "The Role of Community-Driven Data Curation for Enterprises," 互联网档案馆的存档，存档日期2012-01-23. in Linking Enterprise Data, D. Wood, Ed. Boston, MA: Springer US, 2010, pp. 25-47.
+^ Statistics on links between Data sets, SWEO Community Project: Linking Open Data on the Semantic Web (W3C), [2009-11-24] 
+^ Statistics on Data sets, SWEO Community Project: Linking Open Data on the Semantic Web (W3C), [2009-11-24] 
+^ Sandhaus, Evan; Larson, Rob. First 5,000 Tags Released to the Linked Data Cloud. open.blogs.nytimes.com. 2009-10-29 [2009-11-10]. 
+^ Life in the Linked Data Cloud. www.opencalais.com. [2009-11-10]. （原始内容存档于2009-11-24）. Wikipedia has a Linked Data twin called DBpedia. DBpedia has the same structured information as Wikipedia – but translated into a machine-readable format. 
+^ Zemanta talks Linked Data with SDK and commercial API. blogs.zdnet.com. [2009-11-10]. （原始内容存档于2010-02-28）. Zemanta fully supports the Linking Open Data initiative. It is the first API that returns disambiguated entities linked to dbPedia, Freebase, MusicBrainz, and Semantic Crunchbase. 
+^ European Semantic Web Conference 2009 - Georgi Kobilarov, Tom Scott, Yves Raimond, Silver Oliver, Chris Sizemore, Michael Smethurst, Christian Bizer and Robert Lee. Media meets Semantic Web - How the BBC uses DBpedia and Linked Data to make Connections. www.eswc2009.org. [2009-11-10]. （原始内容存档于2009-06-08）. 
+^ BBC Learning - Open Lab - Reference. bbc.co.uk. [2009-11-10]. Dbpedia is a database version of Wikipedia. It is used in a lot of projects for a wide range of different reasons. At the BBC we are using it for tagging content. 
+^ Semantic Tagging with Faviki. www.readwriteweb.com. （原始内容存档于2010-01-29）. 
+^ Amazon Web Services Developer Community : DBpedia. developer.amazonwebservices.com. [2009-11-10]. 
+^ Mendes, Pablo. DBpedia Spotlight jQuery Plugin. jQuery Plugins. [15 September 2011]. 
+^ DiCiuccio, Rob. PHP Client for DBpedia Spotlight. GitHub. 
+^ Demo of DBpedia Spotlight. [September 8, 2013]. （原始内容存档于2012年10月11日）. 
+^ Internationalization of DBpedia Spotlight. [September 8, 2013]. 
+
+
+外部链接[编辑]
+
+
+
+维基共享资源中相关的多媒体资源：DBpedia
+
+
+
+官方网站
+在TED大会上，由蒂姆·伯纳斯-李所做的关于语义网（semantic web）短讲视频，引用了DBpedia作为示例。
+DBpedia - Extracting structured data from Wikipedia 以及 LinkedGeodata，2009年国际维基年会两个谈到关于DBpedia项目的议程。
+DBpedia: Querying Wikipedia like a Database - Chris Bizer, World Wide Web Conference Developers Track, 11 May 2007
+W3C SWEO Linking Open Data Community Project
+DBpedia Spotlight的首页链接
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+维基百科
+
+
+
+
+
+
+百科概要（英语：Outline of Wikipedia）
+
+
+
+维基
+利益冲突编辑
+批评
+删除主义和保留主义
+性别偏误
+种族偏差（英语：Racial bias on Wikipedia）
+关注度
+可靠性
+来源请求（日语：要出典）
+破坏
+维基百科健康信息（英语：Health information on Wikipedia）
+
+
+
+
+
+
+
+
+维基社区
+
+
+
+
+百科运作
+
+
+
+管理员
+仲裁委员会
+编辑松
+The Signpost（英语：The Signpost）
+维基爱古迹
+Art+Feminism（英语：Art+Feminism）
+驻点维基人（英语：Wikipedian in residence）
+年度维基人（英语：Wikipedian of the Year）
+维基教育基金会
+
+
+
+
+
+
+
+
+运动伙伴
+
+
+
+维基媒体基金会
+维基媒体分会
+
+德国
+法国
+意大利
+荷兰
+波兰
+中华民国
+香港
+澳门
+Amical（加泰罗尼亚语：Amical Wikimedia）
+
+
+维基媒体计划
+
+元维基
+维基百科
+维基词典
+维基数据
+维基教科书
+维基共享资源
+维基新闻
+维基语录
+维基文库
+维基物种
+维基学院
+维基导游
+
+
+维基媒体国际会议
+中文维基年会
+
+
+
+
+
+
+
+
+
+
+
+著名人物
+
+
+
+弗洛朗丝·德伍阿尔
+奥斯卡·范·迪伦（英语：Oscar van Dillen）
+苏·加德纳
+詹姆斯·海尔曼
+凯瑟琳·马赫
+马格努斯·曼斯克
+埃里克·默勒
+拉里·桑格
+莉拉·崔迪科夫
+吉米·威尔士
+安吉拉·贝丝蕾·斯塔林
+时昭
+许瑜真
+陈霆
+王钟铭
+陈颖
+贾斯汀·纳普
+蒂姆·谢尔
+麦可·斯诺
+迈克·戈德温（英语：Mike Godwin）
+埃文·阿莫斯
+巴塞尔·哈尔塔比尔
+郦安治
+麦康瑞
+西蒙·普尔西斐
+亚伦·斯沃茨
+伊霍尔·柯斯登柯
+唐凤
+加特·沃尔什
+雷米·马蒂斯
+亚伦·哈尔费克（英语：Aaron Halfaker）
+达鲁休·杰米尔尼亚克（英语：Dariusz Jemielniak）
+汉普顿·凯特林（英语：Hampton Catlin）
+达斯·库珀（英语：Danese Cooper）
+比夏汉·达塔（英语：Bishakha Datta）
+亚伦·格斯里（英语：Arnnon Geshuri）
+盖伊·川崎（英语：Guy Kawasaki）
+路尔斯·比利亚（英语：Luis Villa）
+
+
+
+
+
+
+
+
+百科历史
+
+
+
+
+发展历程
+
+
+
+Bomis
+Nupedia
+维基百科标志
+意大利语维基百科大规模空白抗议
+反SOPA和PIPA抗议
+
+英语维基百科关站抗议（印尼语：Pemadaman Wikipedia bahasa Inggris）
+
+
+俄语维基百科关站抗议（俄语：Забастовка русской Википедии）
+皮埃尔叙奥特军用无线电台事件
+维基百科也申遗
+1Lib1Ref（英语：1Lib1Ref）
+维基百科知识引擎
+涉及到维基媒体基金会的诉讼（英语：Litigation involving the Wikimedia Foundation）
+
+维基媒体基金会控告美国国家安全局案
+
+
+
+
+
+
+
+
+
+
+相关争议（英语：List of Wikipedia controversies）
+
+
+
+美国国会职员的编辑
+Essjay事件
+席根塔勒传记事件
+亨里克·巴图塔恶作剧事件（英语：Henryk Batuta hoax）
+山达基教会的编辑（英语：Church of Scientology editing on Wikipedia）
+希尔斯堡惨剧编辑事件（英语：Hillsborough Wikipedia posts）
+MyWikiBiz（英语：MyWikiBiz）
+克里斯·班瓦谋杀事件（英语：Chris Benoit double-murder and suicide）
+美国中东新闻报导准确性委员会争议（英语：Committee for Accuracy in Middle East Reporting in America）
+比乔利姆战争（加泰罗尼亚语：Bicholim conflict）
+
+
+
+
+
+
+
+
+审查封锁
+
+
+
+网络观察基金会审查
+中国大陆对维基媒体的封锁
+俄罗斯对维基百科的封锁（俄语：Блокирование Википедии в России）
+
+俄罗斯国家杜马89417-6法案
+
+
+2017年土耳其封锁维基百科事件
+
+
+
+
+
+
+
+
+
+
+
+相关技术
+
+
+
+
+网站技术
+
+
+
+Wiki
+MediaWiki
+维基可视化编辑器
+Lsjbot
+信息框
+Wikiwand
+
+
+
+
+
+
+
+
+移动访问
+
+
+
+应用程序
+QRpedia
+Wapedia
+WikiNodes（英语：WikiNodes）
+维基百科零计划
+
+
+
+
+
+
+
+
+内容使用
+
+
+
+Books LLC（英语：Books LLC）
+DBpedia
+Deletionpedia
+Kiwix
+WikiReader（英语：WikiReader）
+维基百科校园版
+维基扫描仪
+
+
+
+
+
+
+
+
+
+
+
+奖励纪念
+
+
+
+2008年胜利女神四马战车奖（英语：Quadriga (award)）
+2015年伊拉斯谟奖
+2015年阿斯图里亚斯亲王奖
+维基百科纪念雕像
+国际志愿者日
+小行星274301
+
+
+
+
+
+
+
+
+造成影响
+
+
+
+文化领域（英语：Wikipedia in culture）
+相关书目（英语：Bibliography of Wikipedia）
+相关电影
+学术研究（英语：Academic studies about Wikipedia）
+Wikipedia Review（英语：Wikipedia Review）
+Wikipediocracy（英语：Wikipediocracy）
+Wiki-Watch（英语：Wiki-Watch）
+伊拉克战争：维基百科编辑历史史学（英语：The Iraq War: A Historiography of Wikipedia Changelogs）
+打印维基百科
+大宪章（英语：Magna Carta (An Embroidery)）
+数字中的真相
+维基百科编辑手册
+
+
+
+
+
+
+
+
+类似项目
+
+
+
+Interpedia（英语：Interpedia）
+大众百科
+自由百科
+Digital Universe（英语：Digital Universe）
+伪基百科
+Nonciclopedia（意大利语：Nonciclopedia）
+Vikidia（法语：Vikidia）
+Veropedia（英语：Veropedia）
+WikiZnanie（葡萄牙语：WikiZnanie）
+Lurkmore（俄语：Луркоморье）
+Wookieepedia
+Scholarpedia
+Wikia
+Wiki网站列表
+
+
+
+
+
+
+
+
+
+
+
+ 条目分类
+ 维基教科书
+ 维基数据
+ 维基共享资源
+ 维基新闻
+ 维基语录
+ 维基文库
+ 维基学院
+ 维基导游
+ 维基辞典
+
+
+
+
+
+
+
+
+
+
+
+
+分类：语义网维基百科历史Scala平台软件隐藏分类：CS1德语来源 (de)Webarchive模板wayback链接使用过时图像语法的页面维基共享资源模板未填写分类维基百科和维基数据上的官方网站不同

@@ -1,0 +1,469 @@
+周期蛋白
+
+
+
+
+
+周期蛋白（英语：Cyclin）是一个借由周期蛋白依赖性激酶调节细胞周期的蛋白质家族[1]。
+
+
+
+目录
+
+
+1 功能
+2 分类
+
+2.1 主要分类
+2.2 亚型
+2.3 其他含有此结构域的蛋白质
+
+
+3 历史
+4 参考资料
+5 延伸阅读
+
+
+
+功能[编辑]
+
+
+
+
+周期蛋白在细胞周期中扮演的角色
+
+
+简单来讲，细胞周期可以分为四个阶段：G0/G1、S、G2及M。G1和G2期是细胞生长期；S期是细胞将细胞核内的染色体复制的时期；M期是细胞进行有丝分裂或减数分裂的时期。
+在各个时期各有不同的周期蛋白所调控著，不同的周期蛋白在细胞周期的不同阶段发生作用。细胞周期的主要周期蛋白有：cyclin A, cyclin B, cyclin D及cyclin E。在G1期→S期调控蛋白为细胞周期蛋白D1以及细胞周期蛋白E，s期→G2期调控蛋白为细胞周期蛋白A(cyclin A)，G2期→M期调控蛋白为细胞周期蛋白B(cyclin B)。
+每一个周期蛋白都有一个共同位叫周期蛋白框。cyclin box的功能是激活一种叫周期蛋白激酶(cyclin-dependent kinase; CDK)。
+不同的周期蛋白激酶在细胞周期的不同阶段发生作用。例如：cyclin D激活CDK4或CDK6掌控G1期的细胞生长；cyclin A及cyclin E激活CDK2调控染色体复制；cyclin A及cyclin B激活CDK1调控有丝分裂和减数分裂。有趣的是，有些周期蛋白虽然拥有cyclin box但它们没有可激活的CDK：例如cyclin F, cyclin I以及cyclin G。而且cyclin I并没有细胞周期的调控功能，它主要作用在神经细胞上。
+分类[编辑]
+主要分类[编辑]
+周期蛋白总共有两大类
+
+G1/S cyclins – essential for the control of the cell cycle at the G1/S transition,
+
+Cyclin A / CDK2 – active in S phase.
+Cyclin D / CDK4, Cyclin D / CDK6, and Cyclin E / CDK2 – regulates transition from G1 to S phase.
+
+
+G2/M cyclins – essential for the control of the cell cycle at the G2/M transition (mitosis). G2/M cyclins accumulate steadily during G2 and are abruptly destroyed as cells exit from mitosis (at the end of the M-phase).
+
+Cyclin B / CDK1 – regulates progression from G2 to M phase.
+
+
+
+亚型[编辑]
+特殊的周期蛋白亚型包含：
+
+
+物种
+G1
+G1/S
+S
+M
+
+
+酿酒酵母（S. cerevisiae）
+Cln3 (Cdk1)
+Cln 1,2 (Cdk1)
+Clb 5,6 (Cdk1)
+Clb 1,2,3,4 (Cdk 1)
+
+
+S. pombe
+Puc1? (Cdk1)
+Puc1, Cig1? (Cdk1)
+Cig2, Cig1? (Cdk1)
+Cdc13 (Cdk1)
+
+
+黑腹果蝇（D. melanogaster）
+cyclin D (Cdk4)
+cyclin E (Cdk2)
+cyclin E, A (Cdk2,1)
+cyclin A, B, B3 (Cdk1)
+
+
+非洲爪蟾（X. laevis）
+either not known or not present
+cyclin E (Cdk2)
+cyclin E, A (Cdk2,1)
+cyclin A, B, B3 (Cdk1)
+
+
+智人（H. sapiens）
+cyclin D 1,2,3 （Cdk4,6）
+cyclin E（Cdk2）
+cyclin A（Cdk2,1）
+cyclin B （Cdk1）
+
+
+
+
+蛋白质家族
+成员
+
+
+A（英语：Cyclin A）
+CCNA1（英语：Cyclin A1）、CCNA2（英语：Cyclin A2）
+
+
+Cyclin B（英语：B）
+CCNB1（英语：Cyclin B1）、CCNB2（英语：Cyclin B2）、CCNB3（英语：Cyclin B3）
+
+
+C
+CCNC（英语：Cyclin C）
+
+
+D（英语：Cyclin D）
+CCND1（英语：Cyclin D1）、CCND2（英语：Cyclin D2）、CCND3（英语：Cyclin D3）
+
+
+E（英语：Cyclin E）
+CCNE1（英语：Cyclin E1）、CCNE2（英语：Cyclin E2）
+
+
+F
+CCNF（英语：CCNF）
+
+
+G
+CCNG1（英语：CCNG1）、CCNG2（英语：CCNG2）
+
+
+H
+Cyclin H（英语：CCNH）
+
+
+I
+CCNI、CCNI2
+
+
+J
+CCNJ（英语：CCNJ）、CCNJL（英语：CCNJL）
+
+
+K
+CCNK（英语：Cyclin K）
+
+
+L
+CCNL1、CCNL2
+
+
+O
+CCNO
+
+
+T
+CCNT1、CCNT2
+
+
+Y
+CCNY、CCNYL1、CCNYL2、CCNYL3
+
+
+其他含有此结构域的蛋白质[编辑]
+此外，以下三个人类蛋白质具有周期素结构域：
+CABLES2、CNTD1、CNTD2
+历史[编辑]
+Leland H. Hartwell（英语：Leland H. Hartwell）、R. Timothy Hunt（英语：R. Timothy Hunt），和Paul M. Nurse（英语：Paul M. Nurse）等人由于发现周期蛋白和周期蛋白依赖性激酶，而获得2001年诺贝尔生理医学奖。[2]
+参考资料[编辑]
+
+
+^ Galderisi U; Jori FP; Giordano A. Cell cycle regulation and neural differentiation. Oncogene. August 2003, 22 (33): 5208–19. PMID 12910258. doi:10.1038/sj.onc.1206558.  已忽略未知参数|author-separator= (帮助)
+^ The Nobel Prize in Physiology or Medicine 2001. The Nobel Foundation. [2009-03-15]. 
+
+
+
+Plattner, Helmut; Hentschel, Joachim. Zellbiologie 第四版. 斯图加特: Thieme. 2011. ISBN 3-1310-6514-1 （德语）. 
+
+延伸阅读[编辑]
+
+Monty Krieger; Matthew P Scott; Matsudaira, Paul T.; Lodish, Harvey F.; Darnell, James E.; Lawrence Zipursky; Kaiser, Chris; Arnold Berk. Molecular cell biology Fifth. New York: W.H. Freeman and CO. 2004. ISBN 0-7167-4366-3. 
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+细胞周期与相关蛋白质
+
+
+
+
+
+
+周期蛋白
+
+
+
+A（A1、A2）
+B（B1、B2、B3）
+D（D1、D2、D3）
+E（E1、E2）
+
+
+
+
+
+
+
+
+
+
+
+CDK
+
+
+
+1
+2
+3
+4
+5
+6
+7
+z
+9
+10
+周期蛋白依赖性激酶激活激酶
+
+
+
+
+
+
+
+
+CDK抑制因子
+
+
+
+INK4a/ARF（p14arf/p16、p15、p18、p19）
+cip/kip（p21、p27、p57）
+
+
+
+
+
+
+
+
+P53 p63 p73家族
+
+
+
+p53
+p63
+p73
+
+
+
+
+
+
+
+
+其他
+
+
+
+Cdc2
+Cdc25
+Cdc42
+细胞凋亡易感蛋白
+E2F
+促成熟因子
+Wee
+Cullin（CUL7）
+
+
+
+
+
+
+
+
+期与
+检查点
+
+
+
+
+间期
+
+
+
+G1期
+S期
+G2期
+
+
+
+
+
+
+
+
+M期
+
+
+
+有丝分裂（早前期
+前期
+前中期
+中期
+后期
+末期）
+胞质分裂
+
+
+
+
+
+
+
+
+细胞周期检查点
+
+
+
+限制点
+纺锤体检查点
+复制后检查点
+
+
+
+
+
+
+
+
+其他细胞期
+
+
+
+凋亡
+G0期
+减数分裂
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+遗传学索引
+
+
+
+
+
+
+描述
+
+
+
+生化
+基因表达
+
+DNA（复制
+周期蛋白
+遗传重组
+修复
+
+
+转录
+
+转录因子与细胞内受体
+辅调节因子
+RNA
+重复序列
+转录后修饰
+
+
+翻译
+
+核糖体亚基
+翻译后修饰
+分拣蛋白
+
+
+DNA/RNA结合蛋白
+
+核糖核蛋白)
+
+
+蛋白质
+
+结构域
+结构
+
+1°
+2°
+2+°
+3°
+4°
+
+
+
+
+
+
+
+
+
+
+
+
+疾病
+
+
+
+Replication and repair
+Transcription factor
+Transcription
+Translation
+
+
+
+
+
+
+
+
+
+
+
+此条目包含有源于Pfam以及InterPro的属于公有领域的文本 IPR006671
+
+
+
+
+分类：细胞周期蛋白质隐藏分类：含有未知参数的引用的页面CS1德语来源 (de)

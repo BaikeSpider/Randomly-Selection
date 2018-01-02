@@ -1,0 +1,142 @@
+线翎电鳗
+
+
+
+ 
+
+线翎电鳗
+
+
+
+线翎电鳗
+
+
+
+保护状况
+
+
+
+未予评估（IUCN 3.1）
+
+
+
+科学分类
+
+
+
+
+
+界：
+动物界 Animalia
+
+
+门：
+脊索动物门 Chordata
+
+
+亚门：
+脊椎动物亚门 Vertebrata
+
+
+纲：
+辐鳍鱼纲 Actinopterygii
+
+
+目：
+电鳗目 Gymnotiformes
+
+
+亚目：
+线鳍电鳗亚目 Sternopygoidei
+
+
+科：
+线翎电鳗科 Apteronotidae
+
+
+属：
+翎电鳗属 Apteronotus
+
+
+种：
+线翎电鳗 A. albifrons
+
+
+
+
+
+二名法
+
+
+Apteronotus albifrons
+Linnaeus, 1766
+
+
+异名
+
+
+
+
+Gymnotus albifrons,Linnaeus, 1766
+Sternarchus albifrons,Linnaeus, 1766
+Apteronotus passan,Lacepède, 1800
+
+
+
+
+线翎电鳗，为辐鳍鱼纲电鳗目线翎电鳗科的一种，为热带淡水鱼，卵生，分布于南美洲巴拉圭河及巴拉那河流域，体长可达50公分，栖息在沙底质溪流底中层水域，[1] 在观赏鱼中颇受欢迎。它的身体上没有鳞片[1]，尾部有两个白色的环状条纹，鼻子上的白色斑纹有些会延续到尾部。因为没有背鳍，线翎电鳗会借着摆动身体下侧的旗状鱼鳍移动，泳姿优美且独特。
+身体下侧的裙带状鱼鳍，则能够使它自在的向前、向后及垂直移动。
+
+
+
+目录
+
+
+1 栖息地
+2 电器官
+3 参考文献
+4 扩展阅读
+
+
+
+栖息地[编辑]
+在热带气候地区，水流速度快的沙质底床的溪流是线翎电鳗的栖息地。在雨水充沛的湿季，它们会迁徙到被淹没的森林中，因为那里有大量黑暗且可供隐避的地方。[来源请求]
+亚马逊雨林中的一些部落相信，死去的人们的灵魂会寄宿在这些鱼之中，因此称它们为黑色幽灵鱼（black ghost knifefish）。[2]这可以视为当地人的一则神话故事。
+
+
+
+
+在鱼缸中就像飘扬在水中的黑色羽毛。线翎电鳗正在猎食小型生物
+
+
+黑色幽灵鱼喜欢温暖的水温，略酸性水质，对水质较为敏感。喜欢的饵料为小型的活体动物，攻击性低，是温和的鱼种。在人工繁殖成功之前，它们全靠从野外捕获，主要产地为巴西。目前市场上的线翎电鳗已经几乎全来自印尼的繁殖场。[来源请求]
+电器官[编辑]
+它们的眼睛的视觉已退化，在黑暗的环境中，借着发出微弱的电波及分布在身体上的受体定位猎物的位置、[3]感测水流和障碍物。
+线翎电鳗属于弱电鱼，它拥有发电器官和电传感（electrosensory）系统。[3]一些鱼只能接收电讯号，而它可以发出及感应电波。[4]它的棒状的尾部有产生电的器官，可以发出电波，这些电波接触到分布于身体中的电感受细胞时，就可以侦测出电位变化，以此做到电定位（electrolocation）[5]和通信[6]。
+弱电鱼的电器官放电（electric organ discharges，简称EOD）[7]的种类有两种：电脉冲和电波。线翎电鳗属于电波型，它们可以以小间隔连续放电。电波型的EOD具有狭窄的功率频谱，而且可以作为音频而被听到，放电的频率为其基频。借着放出连续正弦电波序列，并感测电场的时序和振幅的扰动，即可确定附近物体的存在和位置，这种能力被称为主动电定位（active electrolocation）。此外，它的壶腹器官（ampullary organs）可以接收外来的低频电场，这称为被动电定位（passive electrolocation）。线翎电鳗使用主动和被动电系统，且各有其应对的受体器官。[3]它的侧线系统可以感测到由鱼的身体的运动所产生的水扰动。[3]这三个系统可以让它们在黑暗的环境中觅食。
+每个物种的EOD基频均有其频率范围，并随着物种内的性别和年龄而变化。同一物种的基本频率在稳定温度下几乎相同，但是在族群中或相近物种相遇时就会发生改变。这种因为社会性互动而产生的频率变化被称为调变（frequency modulation，简称FM），是弱电鱼为防止相同物种的个体之间，因为EOD频率重叠而造成的感觉混乱的一种行为反应，称为干扰回避反应（Jamming Avoidance Response）。[6]雌性个体发出的电波频率比雄性更高，可以此识别性别。[7]一项两性异形的研究显示，较低频率的线翎电鳗遇到较高频的个体时，会表现出显著的频率上升现象，而高频个体的频率不会改变，[6]研究者认为通信期间的这种频率上升现象为一种顺从信号。
+参考文献[编辑]
+
+
+^ 1.0 1.1 Froese, Rainer & Daniel Pauly, eds. (2005). Apteronotus albifrons in FishBase. 2005年9月版本
+^ Axelrod H. R. (1996). Exotic Tropical Fishes. T.F.H. Publications. ISBN 0-87666-543-1
+^ 3.0 3.1 3.2 3.3 Nelson M. E. & MacIver M. A. (1999). "Prey capture in the weakly electric fish Apteronotus albifrons: sensory acquisition strategies and electrosensory consequences". J. Exp. Biol. 202: 1195-1203, pdf
+^ Rose, Gary J. Insights Into Neural Mechanisms and Evolution of Behaviour from Electric Fish. Nature Reviews Neuroscience. December 2004, 5: 943–951. doi:10.1038/nrn1558. 
+^ Stoddard, Philip K. Electric Signals & Electric Fish (PDF): 1–14. 
+^ 6.0 6.1 6.2 Stoddard, Philip K. Electric Signals: Predation, Sex, and Environmental Constraints (PDF). Advances in the Study of Behaviour. 2002, 31: 201–242. doi:10.1016/s0065-3454(02)80009-2. 
+^ 7.0 7.1 Dunlap, K. D.; Thomas, P.; Zakon, H. H. Diversity of sexual dimorphism in electrocommunication signals and its androgen regulation in a genus of electric fish, Apternotus (PDF). J Comp Physiol A. February 1998, 183 (1): 77–89. doi:10.1007/s003590050236. 
+
+
+
+Froese, Rainer & Daniel Pauly, eds. (2015). Apteronotus albifrons in FishBase. 2015年9月版本
+http://animal-world.com/encyclo/fresh/Knifefish/BlackGhostKnifefish.php
+
+扩展阅读[编辑]
+
+ 维基物种中有关线翎电鳗的数据
+
+
+
+
+
+分类：观赏鱼翎电鳗属隐藏分类：FishBaseLatinName使用ISBN魔术链接的页面TaxoboxLatinName本地相关图片与维基数据不同有未列明来源语句的条目含有英语的条目WikispeciesLatinName

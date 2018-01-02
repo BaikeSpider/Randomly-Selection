@@ -1,0 +1,1247 @@
+iPhone 6
+
+
+
+
+
+
+
+
+
+
+
+
+
+iPhone 6／6 Plus
+
+
+
+
+
+
+上边：iPhone 6 下边：iPhone 6 Plus
+
+
+
+开发商
+苹果公司
+
+
+口号
+岂止于大
+Bigger than bigger
+
+
+规格
+触摸屏智能手机
+
+
+世代
+8
+
+
+发行日期
+2014年9月9日，​3年前​（2014-09-09）
+
+
+操作系统
+iOS 8(可升级至iOS 11.1.2）
+
+
+显示
+4.7英寸多点触控Retina HD屏幕（1334x750，326ppi）
+5.5英寸多点触控Retina HD屏幕（1920x1080，401ppi）
+
+
+背面相机
+800万iSight摄录镜头，像素尺寸达 1.5µ，自动对焦，采用 Focus Pixels，ƒ/2.2 光圈，True Tone 闪光灯，OIS光学防手震(仅限iPhone 6 Plus)
+
+
+正面相机
+120万像素照片(1280 x 960)，ƒ/2.2 光圈
+
+
+尺寸
+138.1mm x 67mm x 6.9mm
+158.1mm x 77.8mm x 7.1mm
+
+
+重量
+129 g（4.6 oz）
+172 g（6.1 oz）
+
+
+前任
+iPhone 5s
+
+
+继任
+iPhone 6S
+
+
+网站
+
+
+ 台湾官网
+ 中国官网
+ 香港官网
+
+
+
+
+
+
+本文介绍苹果公司的智能手机系列
+
+
+iPhone
+
+
+
+
+
+1
+
+
+
+3G
+3GS
+
+
+
+4
+4S
+
+
+
+5
+5C
+5S
+SE
+
+
+
+6/6 Plus
+6S/6S Plus
+
+
+
+7/7 Plus
+
+
+
+8/8 Plus
+X
+
+
+
+
+
+iPhone型号列表
+
+
+
+
+
+查
+论
+编
+
+
+
+
+
+iPhone 6与iPhone 6 Plus，分别是美国苹果公司于2014年9月推出两种款式的智能手机，这是苹果首次推出4英寸以上的大显示屏手机，其中iPhone 6屏幕大小是4.7英寸，而iPhone 6 Plus是5.5英寸，[1][2]两者均搭载iOS 8系统及新一代Apple A8处理器，同属于iPhone系列的第八世代。
+
+
+
+目录
+
+
+1 产量
+
+1.1 第一波
+
+
+2 特色
+
+2.1 屏幕
+2.2 处理器
+2.3 电池
+2.4 无线
+2.5 iSight
+2.6 存储容量
+
+
+3 规格
+4 颜色
+5 预定发售日期
+
+5.1 首波销售地区
+5.2 第二波销售地区
+5.3 中国大陆项目发售
+5.4 第三波发售地区
+
+
+6 问题
+7 参考
+8 外部链接
+
+
+
+产量[编辑]
+第一波[编辑]
+
+2014年9月12日在美国开放预购后，首批极少量的供应库存即售完，Cantor Fitzgerald 分析师 Brian White 发表研究报告指出，他的“苹果指针（Apple Barometer）”季度供应链调查显示，这应该会导致 iPhone 6 供应吃紧，而 iPhone 6 Plus 更将会严重出现供应紧缩问题。
+2014年9月22日，苹果公司自称iPhone 6和iPhone 6 Plus在发售的头三天销量超过1000万台[3]，但却未公布iPhone 6与iPhone 6 Plus的各自激活数量。
+
+特色[编辑]
+屏幕[编辑]
+这是iPhone自发布以来第二次扩大了尺寸，第一次是iPhone 5，这次推出的iPhone 6为4.7英寸。同时，苹果提升了其分辨率，iPhone 6为1334x750，326ppi。
+这也是iPhone第一次采双旗舰手机策略（两种不同尺寸的旗舰手机），还有显示屏达5.5英寸的iPhone 6 Plus，分辨率则为1920x1080，401ppi。
+Apple公司已经认为大显示屏iPhone的销售量会成长，iPhone 6 Plus的出货必须往后延迟3到4周，预期到2015年初供需都无法平衡。有经销商私下表示，Apple公司错估需求，生产线生产较高比例的是iPhone 6，但大量消费者预定iPhone 6 Plus，导致其异常火爆。
+Apple公司在蓝宝石玻璃上有所布局，但是iPhone 6/6 Plus并没有使用蓝宝石玻璃。蓝宝石玻璃预计会使用在Apple Watch3以后(含)Apple Watch上。
+处理器[编辑]
+iPhone 6使用了苹果自家设计的64位A8处理器，双核心主频为1.4Ghz，性能较A7提升了25%，图形处理提升了50%，并配备全新协处理器M8。这次的A8采用了20纳米制程（A7为28nm），台积电（TSMC）为主要代工厂，是自从iPhone问世以来第一次主要代工厂非三星电子，在这块处理器上集成了20亿个晶体管，相比较，A7仅有超过10亿个晶体管，部分Haswell架构处理器也仅有14亿个晶体管。
+iPhone 6上市后Chipworks对其内部结构和实际性能进行了研究，发现其实际性能相比上一代A7处理器未有显著的提升。不过这次采用了硬件加密技术，使得手机变得不可破解，引发了美国政府与苹果的法律争议。
+电池[编辑]
+通过拆机显示iPhone 6电池容量为1810mAh，iPhone 6 Plus电池容量为2915mAh，是最大容量的。
+无线[编辑]
+
+Wi-Fi
+
+这次的iPhone使用了全新的芯片，支持802.11ac，较5S的802.11n在速度上有3倍左右的提升。
+
+移动网络
+
+iPhone 6支持全球的LTE网络（超过20个LTE频段），支持载波聚合，下载速度可以高达150Mbps，也支持VoLTE，同时中国版支持三网(GSM，WCDMA，CDMA，TD-SCDMA，TD-LTE， FDD-LTE)，不再单独设CDMA版本。
+
+NFC
+
+iPhone 6配备了NFC芯片，主要用于Apple Pay做移动支付。
+iSight[编辑]
+iPhone 6后镜头仍为800万像素，但经过重新设计的CMOS感光组件支持Focus Pixels，配合A8芯片能实现240 FPS的慢动作录制和60 FPS 1080P视频录制，支持最高4300万像素的全景拍摄。iPhone 6 Plus还支持光学防抖技术。
+存储容量[编辑]
+iPhone 6及6 Plus分为16GB、64GB、128GB三个版本，而价格则与iPhone 5s相同。
+2017年2月底，苹果推出针对亚洲市场的32GB的iPhone 6（金色）。[4][5]
+规格[编辑]
+
+处理器
+
+
+64位架构的A8芯片
+M8动作感应协同处理器
+
+
+功能升级
+
+
+慢动作录影功能（720p 240fps）
+缩时录影（3至10秒）
+
+
+iPhone 6 Plus专属功能
+
+
+光学防震
+一些内置app有新设计的横向显示接口
+
+颜色[编辑]
+颜色包括：
+
+
+颜色
+名称
+英语
+备注
+
+
+
+太空灰
+Space Gray
+正面为黑色
+
+
+
+银色
+Silver
+正面为白色
+
+
+
+金色
+Gold
+正面为白色
+
+
+背壳可换成玫瑰金
+预定发售日期[编辑]
+首波销售地区[编辑]
+2014年9月12日下午3点开始网络预约，2014年9月19日上午八点在Apple Store各分店销售。主要位于美国、英国、加拿大、法国、德国、澳洲、日本、新加坡、香港[6]。
+第二波销售地区[编辑]
+2014年9月26日开始网络订购，实际销售日期未定，主要位于瑞士、意大利、新西兰、瑞典、荷兰、西班牙、丹麦、爱尔兰、挪威、卢森堡、俄罗斯、奥地利、土耳其、芬兰、台湾[7][8]、比利时、葡萄牙。
+中国大陆项目发售[编辑]
+由于未能如期获得进网许可，中国大陆被排除在前两波销售之外，因此全球出现中国大陆排队党抢购iPhone 6/6 Plus的情况，加上产量不足问题，也引发中国大陆人与当地人的纠纷，在中国大陆iPhone 6/6 Plus水货价格也水涨船高。[9][10]
+2014年9月30日，iPhone 6和iPhone 6 Plus在中国大陆获得了工信部的进网许可[11]并在10月10日开始预售，10月17日正式发售。
+第三波发售地区[编辑]
+
+2014年10月10日在中国大陆开始预售登记。
+2014年10月17日起，在中国大陆[12]、印度、以色列、波兰、捷克、格陵兰、南非、巴林与科威特等地的36个市场地区陆续开卖，使销售的国家与地区总数增加为69个，创下iPhone手机最快的上市进度。今年底前，新iPhone手机的全球销售市场将超过115个。
+
+问题[编辑]
+
+iOS 8于9月17日发布后，没过多久就推出iOS 8.0.1，修正健康程序包（HealthKit）与其他问题，有国外网友反应 iPhone 6/6 Plus升级iOS 8.0.1后，Touch ID失效，且找不到电信网络[13]。
+尺寸变大、变薄导致iPhone 6更容易变形，被称作弯曲门事件。经国外媒体测试，iPhone6仅需70磅而iPhone 6+需90磅即可使其弯折，相比之下，iPhone 5s为130磅。
+韩国媒体Business Korea报导128GB版本的iPhone 6 Plus使用TLC闪存，因此容易死机，苹果可能会召回市场上128GB的iPhone 6 Plus。（TLC闪存成本较低但稳定度及速度也较低）然而，在苹果消息上颇有公信力的9to5Mac指出，类似的抱怨其实在iOS 6时代就曾现身，而不只发生在iPhone 6 Plus或iOS 8上，可是案例并不多，而且多半发生在安装大量程序的iPhone上，有些用户安装的程序数量甚至超过500或1000种，由于这些用户通常会选择大容量iPhone，才让128GB版本的产品被突显。
+香港数字媒体HKEPC随机购买了部分iPhone6 64GB型号数台中发现也有采用TLC闪存的机体，TLC技术成本虽低、但稳定性及改写次数也差许多，同样的价格获得不同水准的产品对消费者并不公平。在对采用TLC闪存的机体进行性能测试以后，发现苹果公司方面也为iOS对TLC闪存的访问作业进行过最优化，然而由于这种最优化措施的存在，使得在对闪存进行数据读写时，有机会发生有应用程序失去响应甚至被强制退出的情况，数据读写量较大或打开的应用程序较多的情况时，上述问题会有更大机率出现。[14]
+
+
+镜头出问题 苹果召修iphone 6 Plus_依苹果官网发布，于2014年9月到今年1月间出厂销售的i6 Plus，背后设置的iSight主相机镜头，可能因零组件的运作失败，而使用户拍出模糊的照片。http://www.chinatimes.com/newspapers/20150823000482-260102
+
+参考[编辑]
+
+
+^ iPhone6登场 4.7与5.5英寸Plus版，中央社，2014年9月10日
+^ 苹果发布iPhone6及iPhone6 Plus 大陆无缘首发名单. 中国新闻网. 
+^ iPhone 6热销 首周末破千万支，中央社，2014年9月22日
+^ 苹果十周年发布特别版 新版金色iPhone 6升至32GB. 搜狐科技. 2017-03-03 [2017-03-05] （中文）. 
+^ 朝晖. 3399元！新款iPhone 6 32GB亚洲发布：仅金色可选. 快科技. 2017-03-05 [2017-03-05] （中文）. 
+^ iPhone6登场 4.7与5.5英寸Plus版，中央社，2014年9月10日
+^ iPhone6 台湾9月26日开卖，中央社，2014年9月10日
+^ 9月26日起开放订购. Apple Store台湾官方网站. 
+^ 陆民抢iPhone 6 丑态全都录，中央社，2014年9月23日
+^ 中国排队党抢买iPhone 6 日本出神招反制中国排队党纽约抢机　大妈被捕凄惨哀号
+^ 工信部：已为iPhone 6发放进网许可. 新浪新闻. [2014-09-30]. 
+^ Tiffany Yang / Teresa Brewer. iPhone 6 & iPhone 6 Plus Available in China on Friday, October 17. Apple Inc. [2014-09-30]. 
+^ iOS 8.0.1也有问题 苹果急下架，中央社，2014年9月25日
+^ John Lam. iPhone 6 64GB采用TLC ? 测试iPhone 6 TLC与MLC性能差异. HKEPC. 
+
+
+外部链接[编辑]
+
+iPhone 6 台湾官方网站 （繁体中文）
+iPhone 6 中国官方网站 （简体中文）
+iPhone 6 香港官方网站 （繁体中文）
+
+
+
+前任：
+iPhone 5s
+iPhone 5c
+'IPhone 6'
+iPhone 6 Plus
+第八代
+继任：
+iPhone 6s
+iPhone 6s Plus
+iPhone SE
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+苹果公司
+
+
+
+
+
+
+创始人
+
+
+
+史蒂夫·乔布斯
+斯蒂夫·沃兹尼亚克
+罗纳德·韦恩
+
+
+
+
+
+
+
+
+
+
+
+董事会
+
+
+
+
+现任
+
+
+
+比尔·坎贝尔
+米拉德·德雷克斯勒（英语：Millard Drexler）
+艾尔·高尔
+蒂姆·库克（CEO）
+锺彬娴
+薛修忠
+罗纳德·苏格（英语：Ronald Sugar）
+鲍勃·伊戈尔
+
+
+
+
+
+
+
+
+前任
+
+
+
+杰瑞·约克（英语：Jerry York）
+埃里克·施密特
+拉里·埃里森
+
+
+
+
+
+
+
+
+
+
+
+管理层
+
+
+
+
+现任
+
+
+
+提姆·库克
+艾迪·柯尔（英语：Eddy Cue）
+克雷格·费德里吉
+乔纳森·埃维
+彼得·奥朋海莫（英语：Peter Oppenheimer）
+菲利普·席勒（英语：Phil Schiller）
+安吉拉·阿伦茨
+
+
+
+
+
+
+
+
+前任
+
+
+
+罗恩·约翰逊
+约翰·博文特（英语：John Browett）
+斯科特·福斯特尔
+托尼·法戴尔
+马克·裴波马斯特（英语：Mark Papermaster）
+伯特兰·赛莱特（英语：Bertrand Serlet）
+辛那·塔马顿（英语：Sina Tamaddon）
+阿瓦德斯·特凡尼安
+乔恩·鲁宾斯坦
+南西·R·海因（英语：Nancy R. Heinen）
+弗莱德·D·安德森（英语：Fred D. Anderson）
+
+
+
+
+
+
+
+
+
+
+
+产品
+
+
+
+
+软件
+
+
+
+Classic Mac OS
+macOS
+
+版本历史
+Server
+
+
+iOS
+
+版本历史
+
+
+watchOS
+
+版本历史
+
+
+tvOS
+
+版本历史
+
+
+Core Foundation
+Developer Tools
+Final Cut Studio
+Logic Studio
+QuickTime
+
+
+
+
+
+
+
+
+硬件
+
+
+
+
+Mac
+
+
+
+Macintosh
+iMac
+Mac Pro
+iMac Pro
+Mac mini
+Macbook
+
+Air
+Pro
+
+
+
+
+
+
+
+
+
+
+iPod
+
+
+
+Touch
+
+第一代
+2
+3
+4
+5
+6
+
+
+nano
+classic
+shuffle
+
+
+
+
+
+
+
+
+iPhone
+
+
+
+第一代
+3G
+3GS
+4
+4s
+5
+5c
+5s
+6/6 Plus
+6S/6S Plus
+SE
+7/7 Plus
+8/8 Plus
+X
+
+
+
+
+
+
+
+
+iPad
+
+
+
+第一代
+2
+3
+4
+Air
+Air 2
+2017
+
+
+
+
+mini
+
+
+
+第一代
+2
+3
+4
+
+
+
+
+
+
+
+
+Pro
+
+
+
+iPad Pro
+
+
+
+
+
+
+
+
+
+
+
+其他
+
+
+
+AirPods
+Apple Watch
+
+Series 2
+
+
+Magic Mouse
+Magic Trackpad
+苹果标准键盘
+Apple TV
+HomePod
+AirPower
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+商店
+
+
+
+Apple Store
+App Store
+iTunes Store
+Mac App Store
+iBooks Store
+
+
+
+
+
+
+
+
+服务
+
+
+
+Developer（英语：Apple Developer）
+AppleCare
+Certifications（英语：Apple certification programs）
+Game Center
+iAd（英语：iAd）
+Genius Bar（英语：Genius Bar）
+iBooks
+iLife
+iWork.com
+Apple ID
+MobileMe
+iCloud
+One to One（英语：One to One）
+ProCare（英语：ProCare）
+Apple Pay
+Apple Music
+
+
+
+
+
+
+
+
+公司
+
+
+
+
+
+
+
+Braeburn Capital（英语：Braeburn Capital）
+FileMaker Inc.（英语：FileMaker Inc.）
+
+
+
+
+
+
+
+
+并购
+
+
+
+Emagic
+FingerWorks
+Intrinsity
+Lala
+NeXT
+Nothing Real
+P.A. Semi
+Final Cut Pro
+Siri
+Beats by Dr. Dre
+
+
+
+
+
+
+
+
+
+
+
+相关
+
+
+
+总部
+Apple Park
+广告
+
+1984
+不同凡想
+Get a Mac
+iPod
+口号
+
+
+历史
+
+社区
+纠纷
+批评
+使用过的广告歌曲
+
+
+苹果全球软件开发者年会
+音乐节
+皮克斯
+向英特尔平台迁移
+iOS应用程序审核
+
+
+
+
+
+
+
+
+
+
+
+ 分类
+ 主题
+ 共享资源
+ 模板
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+iPhone
+
+
+
+
+
+
+机型
+
+
+
+第一代
+3G
+3GS
+4
+4s
+5
+5s
+
+5c
+
+
+6/6 Plus
+6s/6s Plus
+SE
+7/7 Plus
+8/8 Plus
+X
+
+
+
+
+
+
+
+
+功能
+
+
+
+App Store
+Push Notifications
+Cards（英语：Cards (iOS)）
+FaceTime
+Find My iPhone
+查找朋友
+Game Center
+iAd（英语：iAd）
+iBooks
+iBookstore
+iCloud
+iTunes Store
+iMovie
+iMessage
+音乐
+邮件
+地图
+Newsstand（英语：Newsstand (application)）
+备忘录
+通知中心
+Passbook
+提醒事项
+Safari
+
+版本历史
+
+
+Siri
+Spotlight
+SpringBoard（英语：SpringBoard）
+电话
+
+
+
+
+
+
+
+
+停止服务
+
+
+
+MobileMe
+
+
+
+
+
+
+
+
+
+
+
+300页账单
+FairPlay（英语：FairPlay）
+历史（英语：History of the iPhone）
+iFund（英语：iFund）
+越狱
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+苹果公司硬件系列（1998年起）
+
+
+
+
+
+
+消费型电脑
+
+
+
+iMac
+eMac
+Mac mini
+
+
+
+
+
+
+
+
+专业型电脑
+
+
+
+iMac Pro
+Mac Pro
+Power Mac
+Xserve
+苹果工作组服务器
+
+
+
+
+
+
+
+
+便携型计算机
+
+
+
+MacBook Air
+MacBook (Retina显示屏)
+MacBook Pro
+MacBook
+iBook
+PowerBook
+
+
+
+
+
+
+
+
+消费型电子产品
+
+
+
+iPod
+iPad
+iPhone
+Apple TV
+Newton
+Apple Watch
+
+
+
+
+
+
+
+
+配件
+
+
+
+AirPort
+iPod
+iSight
+Keyboard
+Magic Trackpad
+Magic Mouse
+遥控器
+SuperDrive
+Time Capsule
+USB调制解调器
+Xserve RAID
+Apple Pencil
+AirPods
+HomePod
+AirPower
+
+
+
+
+
+
+
+
+
+苹果公司硬件系列（1998年前）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+移动电话
+
+
+
+
+
+
+概括
+
+
+
+功能
+历史
+GSM（服务（英语：GSM services））
+操作系统（比较）
+安全
+移动电话
+SMS
+彩信
+垃圾信息（英语：Mobile phone spam）
+跟踪（英语：Mobile phone tracking）
+网页（英语：Mobile Web）
+
+HTML5（英语：HTML5 in mobile devices）
+
+
+
+
+
+
+
+
+
+
+应用
+
+
+
+飞行模式
+应用开发（英语：Mobile application development）
+应用发行平台
+行动商务
+即时短信（英语：Mobile instant messaging）
+行动学习
+本地搜索（英语：Mobile local search）
+本地追踪（英语：Mobile phone tracking）
+窃听
+移动营销
+彩信
+手机音乐（英语：Mobile music）
+手机新闻（英语：Mobile news）
+移动支付
+Push email
+Root
+Telephony电话通讯（英语：Mobile telephony）
+移动云计算（英语：Mobile cloud computing）
+
+
+
+
+
+
+
+
+手机文化
+
+
+
+手机吊饰
+手机漫画（英语：Mobile comic）
+手机约会
+日本手机文化
+手机小说
+电话铃声
+SMS语（英语：SMS language）
+移动电视
+手机广告
+
+
+
+
+
+
+
+
+移动设备
+
+
+
+Android Root
+Android设备列表
+Windows Phone手提电话列表
+功能型手机
+相机手机
+智能手机
+平板手机
+手机规格
+移动电话公司
+智能手机列表（英语：Comparison of smartphones）
+
+
+
+
+
+
+
+
+环境卫生
+
+
+
+电子垃圾
+移动电话辐射和健康
+
+
+
+
+
+
+
+
+法规
+
+
+
+Carrier IQ（英语：Carrier IQ）
+行车安全（英语：Mobile phones and driving safety）
+拍照（英语：Photography and the law）
+开车时发短信（英语：Texting while driving）
+监狱（英语：Mobile phones in prison）
+电话窃听
+紧急短信求助
+
+
+
+
+
+
+
+
+网络
+
+
+
+信道容量
+手机频率（英语：Cellular frequencies）
+移动电话运营商列表
+手机信号（英语：Mobile phone signal）
+SIM卡
+USIM卡
+手机标准列表（英语：Comparison of mobile phone standards）
+VoIP
+VoLTE
+WAP
+XHTML MP
+
+
+时代（英语：List of mobile phone generations）：0G
+1G
+2G
+2.5G
+2.75G
+3G
+3.5G
+3.9G
+4G
+4.5G（英语：LTE Advanced Pro）
+5G
+
+
+
+
+
+
+
+
+
+
+
+
+分类：平板手机智能手机IPhone隐藏分类：小写标题

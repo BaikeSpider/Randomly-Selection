@@ -1,0 +1,2213 @@
+白质
+
+
+白质
+
+
+
+Micrograph showing white matter with its characteristic fine meshwork-like appearance (left of image - lighter shade of pink) and grey matter, with the characteristic neuronal cell bodies (right of image - dark shade of pink). HPS stain.
+
+
+
+
+Human brain right dissected lateral view, showing grey matter (the darker outter parts), and white matter (the inner and prominently whiter parts).
+
+
+
+细节
+
+
+拉丁语
+substantia alba
+
+
+识别标示
+
+
+Code
+TA A14.1.00.009
+
+
+Dorlands
+White matter
+
+
+TA（英语：Terminologia Anatomica）
+A14.1.00.009
+
+
+FMA
+FMA:83929
+
+
+解剖学术语（英语：Anatomical terminology）
+
+
+白质（英语：White matter，拉丁语：substantia alba）是中枢神经系统中主要的三个组成元素之一，与灰质、黑质并列。大脑剖面中的白质组织是由大量的髓磷脂（脂质）组成，在裸视观察下呈现白色。 白质由被髓鞘包覆着的神经轴突组成，控制着神经元共享的讯号，协调脑区之间的正常运作。人类到了约二十岁时，白质才会在不同脑区逐渐发育完全，而其生长的时机与成熟程度，会影响到学习、自我控制与精神疾病，例如精神分裂、自闭症与病态性说谎，青少年的“年少轻狂”的原因之一也是由于白质未发育完全[1]。
+
+
+
+目录
+
+
+1 组成与功能
+2 影响
+
+2.1 疾病
+2.2 学习与发育
+
+
+3 参见
+4 注释与参考来源
+5 外部链接
+
+
+
+组成与功能[编辑]
+现在科学家利用一种新的造影技术观察人类的脑部，其中白质几乎填满了半个大脑。白质由数百万条“沟通管线”组成，管线里包覆着一根长长的轴突（又称突起），管线外包覆着称为髓磷脂的白色脂质，而这些“白色缆线”的功能是负责沟通不同脑区的灰质（神经元）、在神经元间传递动作电位。髓磷脂几乎包覆了整个神经纤维，功能是做为神经传导的“绝缘体”，根据研究，当绝缘层厚度与其包覆的神经纤维粗细成一定比例－－3：5时，可以达到最快的传导速度[1]。
+如果以长途电话比喻灰质，白质就是将其彼此相连结的海底电缆线，而髓磷脂就是防止海底电缆线因接触海水而漏电的绝缘材料。
+影响[编辑]
+髓鞘发育不全或萎缩可能是造成许多疾病的原因，也可能是神经元间沟通不良的结果。
+疾病[编辑]
+白质异常的相关疾病非常多，已知的疾病包括多发性硬化症[2]、脑性麻痹[3]、亚历山大症[4]，其他仍在研究的则有阅读障碍[5]、音痴、精神分裂症[6]、注意力不足过动症、躁郁症[7]、语言障碍、自闭症[8]等，其也与因老化、阿兹海默症、甚至罹患病态性说谎而认知衰退的患者有关[1]。
+以音痴（tone deafness）为例，是分析声音的高层次皮质中输出错所致，加拿大麦吉尔大学（McGill University）的心理学家海德（Kristi L. Hyde）发现，音痴的人右前脑特定神经纤维束的白质比一般人少。美国耶鲁大学贾可布森（Leslie K. Jacobsen）进一步指出，在胚胎发育末期或青春期，这条神经纤维束正在形成髓鞘，此时若暴露于吸烟环境，则会干扰白质的形成，而脑扫描的新技术扩散张量照影（DTI）观察到，这个结构与听觉测式的表现有直接关联。调节寡突细胞发育的受体，已知会受到尼古丁的影响；髓鞘形成关键时期暴露于环境因子，可造成终生的影响[1]。
+学习与发育[编辑]
+2005年，名钢琴家乌兰（Fredrik Ullén）与同事利用DTI来研究职业钢琴家的脑部，发现职业钢琴家的某些白质区远比非音乐家来得发达，而这些白质区所连结的大脑皮质部位，是那些协调手指运动的重要脑区，以及与创造音乐有关的其他认知脑区。乌兰还发现，每日练琴时间越长的钢琴家，这些白质束的DTI讯号就越强，轴突髓鞘越厚越紧密[1]。
+辛辛那提儿童医院的神经科学家许密得霍斯特（Vincent J. Schmithorst）进行的另一项DTI研究似乎也与上述研究相呼应。他比较5~18岁孩童的白质之后，发现高度发展的白质构造与高IQ有直接关系[1]。
+乌兰的研究还有另一项发现：越早学习乐器的人，整个脑子的白质构造越是高度发展。[来源请求]青春期之后才学习乐器的人，只会增加前脑白质的发育程度，因为只剩前脑还在形成髓鞘。这个发现意味着，在某种程度上，神经纤维的髓鞘绝缘，限定了学习新技巧的年龄，这是进行或起码是轻易进行某种学习的机会之窗或关键期[1]。
+参见[编辑]
+
+灰质
+黑质
+
+注释与参考来源[编辑]
+
+
+^ 1.0 1.1 1.2 1.3 1.4 1.5 1.6 R. Douglas Fields，〈大脑白质有价值〉，黄荣棋译，《科学人》第74期2008年4月号，第44-54页，2009-4-19查阅。
+^ 中枢神经系统退化
+^ 肌肉控制严重受损
+^ 中枢神经系统受损
+^ 拼字、阅读或更一般性的语言障碍
+^ 妄想、幻觉
+^ 周期交替躁狂症状与忧郁症状
+^ 沟通障碍与情绪疏离
+
+
+外部链接[编辑]
+
+大脑白质有价值，科学人杂志知识库
+
+Template:Nervous tissue
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+脊髓
+
+
+
+
+
+
+巨观特征
+
+
+
+Cervical enlargement（英语：Cervical enlargement）
+Lumbar enlargement（英语：Lumbar enlargement）
+脊髓圆锥（英语：Conus medullaris）
+终丝（英语：Filum terminale）
+马尾（英语：Cauda equina）
+脑膜
+
+
+
+
+
+
+
+
+灰质
+
+
+
+
+后灰质柱（英语：Posterior grey column）
+
+
+
+Marginal nucleus（英语：Marginal nucleus of spinal cord）
+Substantia gelatinosa of Rolando（英语：Substantia gelatinosa of Rolando）
+Nucleus proprius（英语：Nucleus proprius of spinal cord）
+Spinal lamina V（英语：Spinal lamina V）
+Spinal lamina VI（英语：Spinal lamina VI）
+
+
+
+
+
+
+
+
+外灰质柱（英语：Lateral grey column）
+
+
+
+Intermediolateral nucleus（英语：Intermediolateral nucleus）
+Posterior thoracic nucleus（英语：Posterior thoracic nucleus）
+
+
+
+
+
+
+
+
+前灰质柱（英语：Anterior grey column）
+
+
+
+中间神经元
+α 运动神经元（英语：Alpha motor neuron）
+
+欧氏核（英语：Onuf's nucleus）
+
+
+
+
+
+
+
+
+
+
+其他
+
+
+
+雷氏分层（英语：Rexed laminae）
+中央胶状质（英语：Central gelatinous substance of spinal cord）
+灰质联合（英语：Gray commissure）
+中央管（英语：Central canal of spinal cord）
+终室（英语：Terminal ventricle）
+
+
+
+
+
+
+
+
+
+
+
+白质
+
+
+
+
+感觉
+
+
+
+
+后索（英语：Posterior funiculus）
+
+
+
+背柱内侧丘径（英语：Posterior column-medial lemniscus pathway）：
+薄束（英语：Gracile fasciculus）
+楔状束（英语：Cuneate fasciculus）
+
+
+
+
+
+
+
+
+侧索（英语：Lateral funiculus）
+
+
+
+脊髓小脑径（英语：Spinocerebellar tract）
+
+背侧（英语：Dorsal spinocerebellar tract）
+腹侧（英语：Ventral spinocerebellar tract）
+
+
+脊髓丘脑径
+
+外侧（英语：Lateral spinothalamic tract）
+前侧（英语：Anterior spinothalamic tract）
+
+
+后外侧径（英语：Posterolateral tract）
+脊髓顶盖径（英语：Spinotectal tract）
+
+
+
+
+
+
+
+
+
+
+
+脊髓网状径（英语：Spinoreticular tract）
+脊髓橄榄径（英语：Spino-olivary tract）
+
+
+
+
+
+
+
+
+
+
+
+运动
+
+
+
+
+侧索（英语：Lateral funiculus）
+
+
+
+锥体束
+
+外侧（英语：Lateral corticospinal tract）
+
+
+锥体外路径（英语：Extrapyramidal system）
+
+红核脊髓径（英语：Rubrospinal tract）
+橄榄脊髓径（英语：Olivospinal tract）
+隔核脊髓径（英语：Lateral raphespinal tract）
+
+
+
+
+
+
+
+
+
+
+前索（英语：Anterior funiculus）
+
+
+
+皮质脊髓径
+
+前侧（英语：Anterior corticospinal tract）
+
+
+锥体外路径
+
+前庭脊髓径（英语：Vestibulospinal tract）
+网状脊髓径
+顶盖脊髓径（英语：Tectospinal tract）
+
+
+
+
+
+
+
+
+
+
+
+
+
+两者皆有
+
+
+
+前白质连合（英语：Anterior white commissure）
+
+
+
+
+
+
+
+
+
+
+
+其他特征
+
+
+
+腹侧
+
+前正中裂（英语：Anterior median fissure of spinal cord）
+前外侧沟（英语：Anterolateral sulcus of spinal cord）
+
+
+背侧
+
+后正中沟（英语：Posterior median sulcus of spinal cord）
+后外侧沟（英语：Posterolateral sulcus of spinal cord）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+延髓解剖
+
+
+
+
+
+
+灰质
+
+
+
+
+脑神经核（英语：Cranial nerve nucleus）
+
+
+
+
+传入纤维：
+
+
+
+孤束核
+
+孤束（英语：Solitary tract）
+背侧呼吸核团（英语：Dorsal respiratory group）
+
+
+味觉核（英语：Gustatory nucleus）
+前庭神经核
+
+外侧（英语：Lateral vestibular nucleus）
+内侧（英语：Medial vestibular nucleus）
+下侧（英语：Inferior vestibular nucleus）
+
+
+
+
+
+
+
+
+
+
+传出纤维：
+
+
+
+舌下神经核（英语：Hypoglossal nucleus）
+疑核
+迷走神经背核（英语：Dorsal nucleus of vagus nerve）
+下涎核（英语：Inferior salivatory nucleus）
+
+
+
+
+
+
+
+
+
+
+
+背侧
+
+
+
+薄束核（英语：Gracile nucleus）
+楔束核（英语：Cuneate nucleus）
+楔束副核（英语：Accessory cuneate nucleus）
+
+
+
+
+
+
+
+
+腹侧
+
+
+
+
+
+腹侧呼吸核团（英语：Ventral respiratory group）
+延髓弓状核（英语：arcuate nucleus (medulla)）
+延脑吻端腹中侧（英语：Rostral ventromedial medulla）
+
+
+
+
+
+
+
+
+
+
+
+
+
+白质
+
+
+
+
+背侧
+
+
+
+感觉
+
+感觉交叉（英语：Sensory decussation）
+内侧蹄系（英语：Medial lemniscus）
+附网状体（英语：Juxtarestiform body）
+升背侧纵束（英语：Dorsal longitudinal fasciculus）
+内侧纵束（英语：Medial longitudinal fasciculus）
+
+
+运动
+
+降背侧纵束（英语：Dorsal longitudinal fasciculus）
+内侧纵束（英语：Medial longitudinal fasciculus）
+
+
+
+
+
+
+
+
+
+
+腹侧
+
+
+
+下行支
+
+橄榄小脑束（英语：Olivocerebellar tract）
+红核小脑束（英语：Rubro-olivary tract）
+
+
+
+
+
+
+
+
+
+
+
+
+
+表面
+
+
+
+
+前侧
+
+
+
+锥体束
+
+锥体交叉（英语：Decussation of pyramids）
+前正中裂（英语：Anterior median fissure of the medulla oblongata）
+前正中沟（英语：Anterolateral sulcus of medulla）
+
+
+橄榄体
+
+下橄榄核
+
+
+
+
+
+
+
+
+
+
+背侧
+
+
+
+后正中裂（英语：Posterior median sulcus of medulla oblongata）
+后正中沟（英语：Posterolateral sulcus of medulla oblongata）
+脑极后区（英语：Area postrema）
+迷走神经三角（英语：Vagal trigone）
+舌下神经三角（英语：Hypoglossal trigone）
+内侧粗隆（英语：Medial eminence of floor of fourth ventricle）
+下小脑脚（英语：Inferior cerebellar peduncle）
+
+
+
+
+
+
+
+
+
+
+
+灰质
+
+
+
+网状结构
+
+巨细胞网核（英语：Gigantocellular reticular nucleus）
+小细胞网核（英语：Parvocellular reticular nucleus）
+背侧网核（英语：Ventral reticular nucleus）
+外侧网核（英语：Lateral reticular nucleus）
+旁正中网核（英语：Paramedian reticular nucleus）
+
+
+中缝核（英语：Raphe nuclei）
+
+暗缝核（英语：nucleus raphe obscurus）
+大缝核（英语：nucleus raphe magnus）
+中缝苍白核（英语：nucleus raphe pallidus）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+中枢神经系统疾病
+
+
+
+
+
+
+描述
+
+
+
+解剖
+
+脑膜
+皮质
+
+联络纤维（英语：Template:Association fibers）
+连合纤维（英语：Template:Commissural fibers and septum）
+
+
+侧脑室（英语：Template:Lateral ventricles）
+基底核
+间脑
+中脑
+桥脑
+小脑
+髓质
+脊髓
+
+管道
+
+
+
+
+生理
+
+神经传递
+
+酵素
+中间物
+
+
+
+
+发育（英语：Template:Development of nervous system）
+
+
+
+
+
+
+
+
+疾病
+
+
+
+脑性瘫痪（英语：Template:Cerebral palsy）
+脑膜炎（英语：Template:Diseases of meninges）
+脱髓鞘疾病（英语：Template:Demyelinating diseases of CNS）
+癫痫
+头痛
+中风（英语：Template:Cerebrovascular diseases）
+睡眠
+先天性（英语：Template:Congenital malformations and deformations of nervous system）
+损伤（英语：Template:Neurotrauma）
+肿瘤
+其他
+
+瘫痪疾病（英语：Template:Cerebral palsy and other paralytic syndromes）
+ALS（英语：Template:Amyotrophic lateral sclerosis）
+
+
+症状
+
+头颈部
+齐名（英语：Template:Eponymous medical signs for nervous system）
+病灶（英语：Template:Lesions of spinal cord and brain）
+
+
+测试
+
+CSF（英语：Template:CSF tests）
+
+
+
+
+
+
+
+
+
+
+治疗
+
+
+
+程序（英语：Template:Neuro procedures）
+药物
+
+全身麻醉药
+镇痛药
+抗成瘾
+抗癫痫药
+胆碱类（英语：Template:Cholinergics）
+抗偏头痛
+抗帕金森氏症
+抗晕眩
+其他
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+桥脑解剖
+
+
+
+
+
+
+背侧
+（被盖区（英语：pontine tegmentum））
+
+
+
+
+表面
+
+
+
+Cerebellopontine angle（英语：Cerebellopontine angle）
+Superior medullary velum（英语：Superior medullary velum）
+Sulcus limitans（英语：Sulcus limitans）
+Medial eminence（英语：Medial eminence of floor of fourth ventricle）
+Facial colliculus（英语：Facial colliculus）
+
+
+
+
+
+
+
+
+白质：感觉
+
+
+
+Trapezoid body（英语：Trapezoid body）
+Trigeminal lemniscus（英语：Trigeminal lemniscus）
+
+Dorsal trigeminal tract（英语：Dorsal trigeminal tract）
+Ventral trigeminal tract（英语：Anterior trigeminothalamic tract）
+
+
+Medial lemniscus（英语：Medial lemniscus）
+Lateral lemniscus（英语：Lateral lemniscus）
+
+
+Medial longitudinal fasciculus（英语：Medial longitudinal fasciculus）
+
+Vestibulo-oculomotor fibers（英语：Vestibulo-oculomotor fibers）
+
+
+
+
+Anterior trigeminothalamic tract（英语：Anterior trigeminothalamic tract）
+Central tegmental tract（英语：Central tegmental tract）
+
+
+
+
+
+
+
+
+白质：运动
+
+
+
+Inferior cerebellar peduncle（英语：Inferior cerebellar peduncle）
+
+Vestibulocerebellar tract（英语：Vestibulocerebellar tract）
+
+
+Medial longitudinal fasciculus（英语：Medial longitudinal fasciculus）
+
+Vestibulospinal tract（英语：Vestibulospinal tract）
+Medial vestibulospinal tract（英语：Medial vestibulospinal tract）
+Lateral vestibulospinal tract（英语：Lateral vestibulospinal tract）
+
+
+
+
+
+
+
+
+
+
+灰质：Cranial nuclei（英语：Cranial nerve nucleus）
+
+
+
+
+afferent:
+
+
+
+GSA（英语：General somatic afferent fibers）
+
+三叉神经
+
+Principal（英语：Principal sensory nucleus of trigeminal nerve）
+Spinal（英语：Spinal trigeminal nucleus）
+
+
+
+
+耳蜗核
+
+Dorsal（英语：Dorsal cochlear nucleus）
+Anterior（英语：Anterior cochlear nucleus）
+
+
+Vestibular nuclei
+
+Superior（英语：Superior vestibular nucleus）
+
+
+
+
+
+
+
+
+
+
+efferent:
+
+
+
+SVE（英语：Special visceral efferent）: 三叉神经运动核
+Facial motor nucleus（英语：Facial motor nucleus）
+GSE（英语：General somatic efferent fibers）: Abducens nucleus（英语：Abducens nucleus）
+GVE（英语：General visceral efferent fibers）: Superior salivary nucleus（英语：Superior salivary nucleus）
+Inferior salivary nucleus（英语：Inferior salivary nucleus）
+
+
+
+
+
+
+
+
+其他
+
+
+
+Apneustic center（英语：Apneustic center）
+Parabrachial area（英语：Parabrachial area）
+Pneumotaxic center（英语：Pneumotaxic center）
+
+Subparabrachial nucleus（英语：Subparabrachial nucleus）
+Medial parabrachial nucleus（英语：Medial parabrachial nucleus）
+
+
+Lateral parabrachial nucleus（英语：Lateral parabrachial nucleus）
+Superior olivary nucleus（英语：Superior olivary complex）
+蓝斑核
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ventral/
+(base（英语：Basilar part of pons）)
+
+
+
+
+灰质
+
+
+
+Pontine nuclei（英语：Pontine nuclei）
+
+
+
+
+
+
+
+
+白质: 运动/下行径路
+
+
+
+锥体束
+皮质延髓束
+Corticopontine fibers（英语：Corticopontine fibers）
+MCP（英语：Middle cerebellar peduncle）
+
+Pontocerebellar fibers（英语：Pontocerebellar fibers）
+
+
+
+
+
+
+
+
+
+
+表面
+
+
+
+Basilar sulcus（英语：Basilar sulcus）
+
+
+
+
+
+
+
+
+
+
+
+其他灰质：隔核/
+网状系统
+
+
+
+网状结构
+
+Caudal（英语：Caudal pontine reticular nucleus）
+Oral（英语：Oral pontine reticular nucleus）
+Tegmental（英语：Tegmental pontine reticular nucleus）
+Paramedian
+
+
+Raphe nuclei（英语：Raphe nuclei）
+
+Median（英语：Median raphe nucleus）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+中脑解剖
+
+
+
+
+
+
+顶盖（英语：Midbrain tectum）
+（背侧）
+
+
+
+
+表面
+
+
+
+四叠体：
+下丘
+
+下丘臂
+
+
+上丘（英语：Superior colliculus）
+
+上丘臂（英语：Brachium of superior colliculus）
+
+
+
+
+
+
+
+
+
+
+灰质
+
+
+
+前顶盖区（英语：Pretectal area）
+
+
+
+
+
+
+
+
+白质：感觉/上行
+
+
+
+脊髓顶盖束（英语：Spinotectal tract）
+被盖中央束（英语：Central tegmental tract）
+
+
+
+
+
+
+
+
+白质：运动/下行
+
+
+
+顶盖脊髓束（英语：Tectospinal tract）
+
+
+
+
+
+
+
+
+
+
+
+大脑梗（英语：Cerebral peduncle）
+（腹侧）
+
+
+
+
+　被盖
+
+
+
+
+白质：感觉/上行
+
+
+
+丘系
+
+内侧（英语：Medial lemniscus）
+外侧（英语：Lateral lemniscus）
+
+
+上行MLF（英语：Medial longitudinal fasciculus）
+
+前庭-动眼纤维（英语：Vestibulo-oculomotor fibers）
+
+
+脊髓丘脑束
+前三叉丘脑束（英语：Anterior trigeminothalamic tract）
+齿状丘脑束（英语：Dentatothalamic tract）
+
+
+
+
+
+
+
+
+白质：运动/下行
+
+
+
+红核脊髓束（英语：Rubrospinal tract）
+红核橄榄束（英语：Rubro-olivary tract）
+下行MLF（英语：Medial longitudinal fasciculus）
+
+
+
+
+
+
+
+
+灰质：脑核
+
+
+
+GSA
+
+中脑 - GSE
+动眼、滑车 - GVE
+
+
+
+
+
+
+动眼神经副核
+
+
+
+
+
+
+
+
+
+
+灰质：其它
+
+
+
+
+
+
+
+导水管周围灰质
+中缝核
+
+背缝神经核
+
+
+
+
+
+
+
+
+
+
+
+
+
+腹侧被盖区
+脚桥核
+红核
+
+
+
+
+
+
+
+
+
+
+
+riMLF（英语：Rostral interstitial nucleus of medial longitudinal fasciculus）
+
+
+
+
+
+
+
+
+
+
+
+脑室系统
+
+
+
+大脑导水管（英语：Cerebral aqueduct）
+
+
+
+
+
+
+
+
+
+
+
+基底
+
+
+
+
+白质：运动/下行
+
+
+
+大脑脚：皮质脊髓束
+皮质延髓束
+皮质脑桥束/额叶脑桥纤维/颞叶脑桥纤维
+
+
+
+
+
+
+
+
+灰质：黑质
+
+
+
+致密部（英语：Substantia nigra pars compacta）
+网质部（英语：Pars reticulata）
+
+
+
+
+
+
+
+
+表面
+
+
+
+上小脑脚（英语：Superior cerebellar peduncle）
+
+交叉（英语：Decussation of superior cerebellar peduncles）
+
+
+脚间窝（英语：Interpeduncular fossa）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+中枢神经系统疾病
+
+
+
+
+
+
+描述
+
+
+
+解剖
+
+脑膜
+皮质
+
+联络纤维（英语：Template:Association fibers）
+连合纤维（英语：Template:Commissural fibers and septum）
+
+
+侧脑室（英语：Template:Lateral ventricles）
+基底核
+间脑
+中脑
+桥脑
+小脑
+髓质
+脊髓
+
+管道
+
+
+
+
+生理
+
+神经传递
+
+酵素
+中间物
+
+
+
+
+发育（英语：Template:Development of nervous system）
+
+
+
+
+
+
+
+
+疾病
+
+
+
+脑性瘫痪（英语：Template:Cerebral palsy）
+脑膜炎（英语：Template:Diseases of meninges）
+脱髓鞘疾病（英语：Template:Demyelinating diseases of CNS）
+癫痫
+头痛
+中风（英语：Template:Cerebrovascular diseases）
+睡眠
+先天性（英语：Template:Congenital malformations and deformations of nervous system）
+损伤（英语：Template:Neurotrauma）
+肿瘤
+其他
+
+瘫痪疾病（英语：Template:Cerebral palsy and other paralytic syndromes）
+ALS（英语：Template:Amyotrophic lateral sclerosis）
+
+
+症状
+
+头颈部
+齐名（英语：Template:Eponymous medical signs for nervous system）
+病灶（英语：Template:Lesions of spinal cord and brain）
+
+
+测试
+
+CSF（英语：Template:CSF tests）
+
+
+
+
+
+
+
+
+
+
+治疗
+
+
+
+程序（英语：Template:Neuro procedures）
+药物
+
+全身麻醉药
+镇痛药
+抗成瘾
+抗癫痫药
+胆碱类（英语：Template:Cholinergics）
+抗偏头痛
+抗帕金森氏症
+抗晕眩
+其他
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+小脑的构造 Anatomy（英语：Anatomy of the cerebellum） of the cerebellum
+
+
+
+
+
+
+表层
+
+
+
+
+叶
+
+
+
+Anterior lobe（英语：Anterior lobe of cerebellum）
+Posterior lobe（英语：Posterior lobe of cerebellum）
+
+Horizontal fissure（英语：Horizontal fissure of cerebellum）
+
+
+Flocculonodular lobe（英语：Flocculonodular lobe）
+
+Flocculus（英语：Flocculus (cerebellar)）
+Nodule（英语：Nodule of vermis）
+
+
+Primary fissure（英语：Primary fissure of cerebellum）
+
+
+
+
+
+
+
+
+内侧/外侧
+
+
+
+蚓部 Vermis: anterior
+
+Central lobule（英语：Central lobule）
+Culmen（英语：Culmen (cerebellum)）
+Lingula（英语：Lingula of cerebellum）
+
+
+posterior
+
+Folium（英语：Folium vermis）
+Tuber（英语：Tuber of vermis）
+Uvula（英语：Uvula of cerebellum）
+
+
+Vallecula of cerebellum（英语：Vallecula of cerebellum）
+
+
+Hemisphere（英语：Cerebellar hemisphere）: anterior
+
+Alar central lobule（英语：Alar central lobule）
+
+
+posterior
+
+Biventer lobule（英语：Biventer lobule）
+Cerebellar tonsil（英语：Cerebellar tonsil）
+
+
+
+
+
+
+
+
+
+
+
+
+
+灰质
+
+
+
+
+小脑深部核团
+
+
+
+Dentate（英语：Dentate nucleus）
+interposed（英语：Interposed nucleus）
+
+Emboliform（英语：Emboliform nucleus）
+Globose（英语：Globose nucleus）
+
+
+Fastigial（英语：Fastigial nucleus）
+
+
+
+
+
+
+
+
+小脑
+
+
+
+Molecular layer
+
+Stellate cell（英语：Stellate cell）
+篮状细胞 Basket cell
+
+
+
+
+Purkinje cell layer
+
+Purkinje cell（英语：Purkinje cell）
+星形胶质细胞 Bergmann glia cell = Golgi epithelial cell
+
+
+
+
+Granule cell layer
+
+Golgi cell（英语：Golgi cell）
+Granule cell（英语：Granule cell）
+Unipolar brush cell（英语：Unipolar brush cell）
+
+
+
+
+Fibers: Mossy fibers（英语：Mossy fiber (cerebellum)）
+Climbing fiber（英语：Climbing fiber）
+平行纤维 Parallel fiber
+
+
+
+
+
+
+
+
+
+
+
+白质
+
+
+
+
+内部 Internal
+
+
+
+Arbor vitae（英语：Arbor vitae (anatomy)）
+
+
+
+
+
+
+
+
+Peduncles（英语：Cerebellar peduncle）
+
+
+
+Inferior（英语：Inferior cerebellar peduncle） (medulla): Dorsal spinocerebellar tract（英语：Dorsal spinocerebellar tract）
+Olivocerebellar tract（英语：Olivocerebellar tract）
+Cuneocerebellar tract（英语：Posterior external arcuate fibers）
+Juxtarestiform body（英语：Juxtarestiform body） (Vestibulocerebellar tract（英语：Vestibulocerebellar tract）)
+Trigeminocerebellar fibers（英语：Trigeminocerebellar fibers）
+
+
+Middle（英语：Middle cerebellar peduncle） (pons): Pontocerebellar fibers（英语：Pontocerebellar fibers）
+
+
+Superior（英语：Superior cerebellar peduncle） (midbrain): Ventral spinocerebellar tract（英语：Ventral spinocerebellar tract）
+Dentatothalamic tract（英语：Dentatothalamic tract）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+人类间脑解剖
+
+
+
+
+
+
+上丘脑（英语：Epithalamus）
+
+
+
+
+表面
+
+
+
+松果体
+Habenula（英语：Habenula）
+Habenular trigone（英语：Habenular trigone）
+Habenular commissure（英语：Habenular commissure）
+
+
+
+
+
+
+
+
+灰质
+
+
+
+Pretectal area（英语：Pretectal area）
+Habenular nuclei（英语：Habenular nuclei）
+Subcommissural organ（英语：Subcommissural organ）
+
+
+
+
+
+
+
+
+
+
+
+丘脑
+
+
+
+
+表面
+
+
+
+Stria medullaris of thalamus（英语：Stria medullaris of thalamus）
+Thalamic reticular nucleus（英语：Thalamic reticular nucleus）
+Taenia thalami（英语：Taenia thalami）
+
+
+
+
+
+
+
+
+灰质/
+nuclei（英语：List of thalamic nuclei）
+
+
+
+paired: AN（英语：Anterior nuclei of thalamus）
+腹侧（英语：Ventral nuclear group）
+
+VA（英语：Ventral anterior nucleus）/VL（英语：Ventral lateral nucleus）
+VP（英语：Ventral posterior nucleus）/VPM（英语：Ventral posteromedial nucleus）/VPL（英语：Ventral posterolateral nucleus）
+
+
+外侧核群（英语：Lateral nuclear group）
+
+LD（英语：Lateral dorsal nucleus of thalamus）
+LP（英语：Lateral posterior nucleus of thalamus）
+丘脑枕（英语：Pulvinar nuclei）
+
+
+Metathalamus（英语：Metathalamus）
+
+MG（英语：Medial geniculate nucleus）
+LG（英语：Lateral geniculate nucleus）
+
+P cell（英语：Parvocellular cell）
+M cell（英语：Magnocellular cell）
+K cell（英语：Koniocellular cell）
+
+
+
+
+中线：MD（英语：Medial dorsal nucleus）
+层间核（英语：Intralaminar nuclei of thalamus）
+
+中央内侧核（英语：Centromedian nucleus）
+
+
+中线核群
+Interthalamic adhesion（英语：Interthalamic adhesion）
+
+
+
+
+
+
+
+
+白质
+
+
+
+Mammillothalamic fasciculus（英语：Mammillothalamic fasciculus）
+Pallidothalamic tracts（英语：Pallidothalamic tracts）
+
+Ansa lenticularis（英语：Ansa lenticularis）
+Lenticular fasciculus（英语：Lenticular fasciculus）
+Thalamic fasciculus（英语：Thalamic fasciculus）
+
+
+PCML（英语：Posterior column-medial lemniscus pathway）
+
+Medial lemniscus（英语：Medial lemniscus）
+Trigeminal lemniscus（英语：Trigeminal lemniscus）
+
+
+脊髓丘脑束
+Lateral lemniscus（英语：Lateral lemniscus）
+Dentatothalamic tract（英语：Dentatothalamic tract）
+Acoustic radiation（英语：Acoustic radiation）
+Optic radiation（英语：Optic radiation）
+Subthalamic fasciculus（英语：Subthalamic fasciculus）
+Anterior trigeminothalamic tract（英语：Anterior trigeminothalamic tract）
+Medullary laminae（英语：Medullary laminae of thalamus）
+
+
+
+
+
+
+
+
+
+
+
+下丘脑
+
+
+
+
+表面
+
+
+
+内侧隆起（英语：Median eminence）/Tuber cinereum（英语：Tuber cinereum）
+乳头体（英语：Mammillary body）
+垂体漏斗（英语：Pituitary stalk）
+
+
+
+
+
+
+
+
+灰质
+
+
+
+
+自主神经系统
+
+
+
+前核（副交感/散热）（英语：Anterior hypothalamic nucleus）
+后核（交感/保温）（英语：Posterior nucleus of hypothalamus）
+
+
+
+
+
+
+
+
+内分泌系统
+
+
+
+垂体后叶（英语：posterior pituitary）： Paraventricular（英语：Paraventricular nucleus of hypothalamus）
+
+Magnocellular neurosecretory cell（英语：Magnocellular neurosecretory cell）
+Parvocellular neurosecretory cell（英语：Parvocellular neurosecretory cell）
+
+
+视上区（英语：Supraoptic nucleus）
+
+催产素/抗利尿激素
+
+
+其他： 弓状核
+视前区（GnRH）（英语：Preoptic area）
+视交叉上核（褪黑激素）（英语：Suprachiasmatic nucleus）
+
+
+
+
+
+
+
+
+情绪
+
+
+
+外侧区（英语：Lateral hypothalamus）
+腹内侧核（英语：Ventromedial nucleus）
+背内侧核（英语：Dorsomedial hypothalamic nucleus）
+
+
+
+
+
+
+
+
+
+
+
+白质
+
+
+
+传入纤维
+
+Medial forebrain bundle（英语：Medial forebrain bundle）
+Retinohypothalamic tract（英语：Retinohypothalamic tract）
+
+
+传出纤维
+
+Mammillothalamic fasciculus（英语：Mammillothalamic fasciculus）
+Stria terminalis（英语：Stria terminalis）
+Dorsal longitudinal fasciculus（英语：Dorsal longitudinal fasciculus）
+
+
+
+
+
+
+
+
+
+
+垂体
+
+
+
+后叶（英语：Posterior pituitary）属于中脑的一部分，而前叶（英语：Anterior pituitary）则是属于其他腺体。
+
+
+
+
+
+
+
+
+
+
+
+底丘脑（英语：Subthalamus）
+
+
+
+底丘脑核（英语：Subthalamic nucleus）
+未定带（英语：Zona incerta）
+
+
+
+
+
+
+
+
+Template:Commissural fibers and septum
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+人脑的延髓基底核和相关结构
+
+
+
+
+
+
+基底核
+
+
+
+
+灰质
+
+
+
+
+纹状体（英语：Striatum）
+
+
+
+背侧纹状体（英语：Dorsal striatum）
+
+壳核（英语：Putamen）
+尾状核
+
+
+
+
+腹侧纹状体（英语：Ventral striatum）
+
+伏隔核
+嗅结节（英语：Olfactory tubercle）
+
+
+
+
+苍白球（英语：Globus pallidus）
+
+GPe（英语：Lateral globus pallidus）
+GPi（英语：Medial globus pallidus）
+
+
+
+
+
+
+
+
+
+
+其他
+
+
+
+杏仁核
+屏状体
+
+
+
+
+
+
+
+
+
+
+
+白质
+
+
+
+半卵圆中心（英语：Centrum semiovale）
+
+
+内囊（英语：Internal capsule）
+
+前肢（英语：Anterior limb of internal capsule）
+Genu（英语：Genu of internal capsule）
+后肢（英语：Posterior limb of internal capsule）
+视辐射纤维径（英语：Optic radiation）
+
+
+
+
+放线冠（英语：Corona radiata）
+
+
+外囊（英语：External capsule）
+最外囊（英语：Extreme capsule）
+
+
+Pallidothalamic 路径（英语：Pallidothalamic tracts）: 丘脑的束（英语：Thalamic fasciculus）
+
+豆状核袢（英语：Ansa lenticularis）
+透镜的、晶状体的束（英语：Lenticular fasciculus）
+
+
+丘脑底部的束（英语：Subthalamic fasciculus）
+
+
+
+
+
+
+
+
+
+
+
+嗅脑（英语：Rhinencephalon）
+
+
+
+
+灰质
+
+
+
+前嗅核（英语：Anterior olfactory nucleus）
+前穿孔物质（英语：Anterior perforated substance）
+嗅球
+
+
+
+
+
+
+
+
+白质
+
+
+
+嗅神经束（英语：Olfactory tract）
+
+内侧嗅状纹（英语：Medial olfactory stria）
+侧嗅纹（英语：Lateral olfactory stria）
+
+
+嗅觉三角形（英语：Olfactory trigone）
+
+
+
+
+
+
+
+
+
+
+
+其他 基底前脑（英语：basal forebrain）
+
+
+
+
+灰质
+
+
+
+无名质在前穿质的尾侧（英语：Substantia innominata）
+
+麦纳尔底核（英语：Nucleus basalis of Meynert）
+
+
+斜束核（英语：Nucleus of diagonal band）
+
+
+
+
+
+
+
+
+白质
+
+
+
+Broca 斜带（英语：Diagonal band of Broca）
+终纹（英语：Stria terminalis）
+
+
+
+
+
+
+
+
+
+
+
+原脑皮质;古皮质;原始皮质（英语：Archicortex）：
+海马结构/
+海马的结构（英语：Hippocampus anatomy）
+
+
+
+
+灰质
+
+
+
+海马体
+
+CA1（英语：Hippocampus proper）
+CA2（英语：Hippocampus proper）
+CA3（英语：Hippocampus proper）
+CA4（英语：Hippocampus proper）
+
+
+海马体的齿状回（英语：Dentate gyrus）
+
+齿状回（英语：Fascia dentata）
+
+
+下脚（英语：Subiculum）
+
+
+
+
+
+
+
+
+白质
+
+
+
+海马槽
+伞（英语：Fimbria of hippocampus）
+直接穿过去抵达海马回和齿状回的路径（英语：Perforant path）
+氏侧支（英语：Schaffer collateral）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+分类：中枢神经系统神经解剖学隐藏分类：使用过时参数的医学信息模板使用Dorlands参数的医学信息框模板含有拉丁语的条目自2016年7月有未列明来源语句的条目

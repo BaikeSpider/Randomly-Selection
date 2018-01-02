@@ -1,0 +1,2 @@
+SPICA
+SPICA（Space Infra-Red Telescope for Cosmology and Astrophysics，即宇宙学与天体物理空间红外望远镜的缩写）是日本宇宙航空研究开发机构和美国国家航空航天局、欧洲空间局的合作项目，它将取代AKARI红外望远镜，成为新一代的中远红外波段望远镜。SPICA将和以近中红外波段为主要观测区间的詹姆斯·韦伯太空望远镜(JWST)在红外太空观测项目中形成互补之势[1]。
