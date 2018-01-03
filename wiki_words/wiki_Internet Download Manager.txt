@@ -1,0 +1,231 @@
+Internet Download Manager
+
+
+
+
+
+
+
+
+
+
+本条目可参照英语维基百科相应条目来扩充。 
+若您熟悉来源语言和主题，请协助参考外语维基扩充条目。请勿直接提交机械翻译，也不要翻译不可靠、低品质内容。依版权协议，译文需在编辑摘要注明来源，或于讨论页顶部标记{{Translated page}}标签。 
+
+
+
+Internet Download Manager
+
+
+IDM下载窗口
+
+
+
+开发者
+Tonec Inc.
+
+
+稳定版本
+
+
+
+稳定版本
+6.29 Build 2（2017年10月6日，​2个月前​（2017-10-06））[±][1]
+
+
+操作系统
+Windows
+
+
+语言
+多种语言
+
+
+类型
+下载管理器
+
+
+许可协议
+共享软件
+
+
+网站
+www.internetdownloadmanager.com
+
+
+Internet Download Manager（简称IDM）是一个用于Windows系统的下载管理器，它是共享软件，免费试用期为30天，但是每月均有一段时间优惠。
+IDM可以让用户自动下载某些类型的文件，它可将文件划分为多个下载点以更快下载，并列出最近的下载，方便访问文件。相对于其它下载管理器，它具有独特的动态档案分区技术。
+它的出色之处在于，能分析下载地址中的实际地址，但若地址无效时则跳换成失效网页，当地址重新有效而无法恢复成原来的地址。
+它的不足之处在于，必须设置分段的临时文件存放的磁盘位置，下载完成后再自动合并成一个完整的文件，同时删除临时文件（这种做法不同于其他下载软件预先分配一整块磁盘空间）。所以，下载的如果是机密文件，就容易被数据恢复软件恢复，造成安全隐患。
+IDM可被调用于Internet Explorer、Safari、Google Chrome、Opera、Netscape Navigator以及Mozilla Firefox（火狐）浏览器中。[2]
+
+
+
+目录
+
+
+1 功能
+2 相关条目
+3 参考资料
+4 外部链接
+
+
+
+功能[编辑]
+
+自动下载互联网上的任何文件类型。
+
+
+多个数据流下载时使用更快的下载划分。
+
+
+批量下载。
+
+
+导入/导出下载工作。
+
+
+自动/手动更新下载地址。
+
+
+支持队列操作。
+
+
+拥有近期下载列表，方便访问文件。
+
+
+从流媒体视频网站下载视频。[3]
+
+
+动态分段整个下载过程。[4]
+
+
+支持协议HTTP，FTP，HTTPS，MMS [5]和微软的ISA。
+
+相关条目[编辑]
+
+EagleGet
+FlashGet
+影音传送带
+
+参考资料[编辑]
+
+^ Internet Download Manager News
+^ Internet Download Manager Features. [13 January 2013]. 
+^ Download FLV Videos from Video Sites with IDM plugin. [8 July 2012]. （原始内容存档于2009年4月25日）. 
+^ Download Internet Download Manager free. [8 July 2012]. 
+^ Internet Download Manager - Free Trial Download - Tucows Downloads. [8 July 2012]. 
+
+外部链接[编辑]
+
+官方网站
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+下载管理器（英语：Download manager）
+
+
+
+
+
+
+Windows
+
+
+
+Download Express
+DownloadStudio
+EagleGet
+快车
+Free Download Manager
+GetRight
+Go!Zilla
+Internet Download Accelerator
+Internet Download Manager
+JDownloader
+LeechGet
+IE7Pro
+Microsoft下载管理器
+Mipony
+网络发送带
+网络蚂蚁
+Orbit Downloader
+QQ旋风
+迅雷
+脱兔
+
+
+
+
+
+
+
+
+Unix/类Unix
+
+
+
+Axel
+KGet
+
+
+
+
+
+
+
+
+跨平台
+
+
+
+aria2
+cURL
+DownThemAll!
+Download Accelerator Plus
+FlashGot
+jDownloader
+Wget
+wxDownload Fast
+HTTrack
+FreeRapid
+
+
+
+
+
+
+
+
+相关条目
+
+
+
+下载管理程序比较
+下载加速（英语：Download acceleration）
+元链接（英语：Metalink）
+分段文件传输（英语：Segmented file transfer）
+
+
+
+
+
+
+
+
+
+
+
+
+分类：下载工具共享软件隐藏分类：需要从英语维基百科翻译的条目使用过时图像语法的页面

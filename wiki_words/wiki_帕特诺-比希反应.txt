@@ -1,0 +1,32 @@
+帕特诺-比希反应
+Paternò–Büchi反应（Paternò–Büchi），以意大利化学家 Emanuele Paternò 与瑞士裔美国化学家 George Hermann Büchi 的名字命名。
+羰基化合物与烯烃加成为噁丁环体系的光化学反应。[1][2]
+
+
+
+
+
+激发态羰基化合物与基态烯烃发生加成，生成噁丁环。
+
+
+
+
+反应综述：[3]
+此反应最近用于天然产物的合成。反应有区域选择性和非对映选择性。
+参见[编辑]
+
+化学反应列表
+
+参考资料[编辑]
+
+
+^ E. Paterno, G. Chieffi. .. Gazz. Chim. Ital. 1909, 39: 341. 
+^ G. Büchi, Charles G. Inman, and E. S. Lipinsky. Light-catalyzed Organic Reactions. I. The Reaction of Carbonyl Compounds with 2-Methyl-2-butene in the Presence of Ultraviolet Light. Journal of the American Chemical Society. 1954, 76 (17): 4327–4331. doi:10.1021/ja01646a024. 
+^ Thorsten Bach. Stereoselective Intermolecular [2 + 2]-Photocycloaddition Reactions and Their Application in Synthesis. Synthesis. 1998, 1998: 683–703. doi:10.1055/s-1998-2054. 
+
+
+
+
+
+
+分类：光化学环加成反应人名反应

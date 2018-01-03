@@ -1,0 +1,430 @@
+现代进化综论
+
+
+
+
+
+
+
+
+进化与进化论
+
+
+
+
+现代生物分类群体从它们的
+共同祖先遗传分化的图示。
+
+
+
+关键议题
+
+
+
+进化论介绍（英语：Introduction to evolution）
+共同起源
+共同起源的证据
+
+
+
+机制与过程
+
+
+
+群体遗传学 · 遗传多样性
+突变 · 自然选择 · 适应
+遗传漂变 · 基因流
+物种形成 · 辐射适应
+共同进化 · 趋异进化 · 趋同进化
+平行进化 · 绝灭
+
+
+
+研究与历史
+
+
+
+证据
+历史
+现代综合理论
+社会影响
+
+
+
+进化生物学领域与应用
+
+
+
+社会生物学
+进化人类学
+生态遗传学
+进化发育生物学
+进化语言学
+进化心理学
+人类进化
+分子进化
+种系发生学
+系统发生学
+人工选择
+群体遗传学
+系统分类学
+
+
+
+生物学主题
+
+
+
+
+
+查
+论
+编
+
+
+
+
+
+现代进化综论（英语：Modern evolutionary synthesis），也称为新综合、现代综合或是现代达尔文主义。
+在1936年和1947年之间产生综论，反映演变如何进行的共识。[1]起源是达尔文解释进化的天择理论，与孟德尔遗传定律的结合。同时也将基本的孟德尔遗传学，改造为数学化的群体遗传学。在很大程度上，综论仍然是在进化生物学目前的模式。[2]
+现代综合理论将两个重要发现结合，也就是进化选择单位（基因）与进化机制（天择）。也统合了许多生物学的分支，例如遗传学、细胞学、系统分类学、植物学与古生物学等等。
+建立并发展现代综合理论的科学家，包括了数学家罗纳德·费希尔、生物学家休厄尔·赖特与J·B·S·霍尔丹，以及摩根、费奥多西·多布然斯基、朱利安·赫胥黎、恩斯特·麦尔、乔治·盖洛德·辛普森、斯特宾斯（英语：G. Ledyard Stebbins）等人。
+
+
+
+目录
+
+
+1 基本观点
+2 参见
+3 参考资料
+4 外部链接
+
+
+
+基本观点[编辑]
+现代进化综论将实验遗传学家、自然科学家、古生物学家的工作结合在一起，基本观点包括：
+
+所有的进化现象都可以用一个将遗传机制和观察到的现象统一起来的方式来解释。
+进化是渐进的：微小的变化在自然选择的作用下，经过长时间的积累；物种（性状）的不连续性可以用进化过程中的地理隔离和物种灭绝事件来解释
+自然选择是目前为止主要导致变异的因素；微小的有利变异经过长时间积累也会导致显著的性状变化；自然选择影响物种在其生境中的表型
+遗传漂变的作用不可忽视。
+群体是进化的基本单位，而不是个体。自然群体的遗传多样性是进化的重要因子。在自然群体中，自然选择的作用比之前认为的更大。生态因子，比如生态位，以及基因流的作用很重要。
+在古生物学中，从微观进化推演到宏观进化可以用来解释历史上观测到的一些现象。渐进主义并不等于进化的速率始终不变。
+
+参见[编辑]
+
+进化思想史
+
+参考资料[编辑]
+
+
+^ Appendix: Frequently Asked Questions. Science and Creationism: a view from the National Academy of Sciences (php) Second. Washington, DC: The National Academy of Sciences. 1999: 28 [September 24, 2009]. ISBN -0-309-06406-6. The scientific consensus around evolution is overwhelming. 
+^ Mayr 2002，第270页
+
+
+外部链接[编辑]
+
+Rose MR, Oakley TH, The new biology: beyond the Modern Synthesis. Biology Direct 2007, 2:30. A review of biology in light of recent innovations since the initiation of modern synthesis.
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+进化生物学
+
+
+
+
+
+
+
+
+
+共同起源
+进化的证据
+生命进化历程
+生命进化史（英语：Evolutionary history of life）
+
+
+
+
+
+
+
+
+进化过程
+
+
+
+自然发生
+生命起源
+适应
+宏进化
+微进化
+物种形成
+灭绝
+多态性
+适应
+
+
+
+
+
+
+
+
+
+
+
+群体遗传学机制
+
+
+
+基因流动
+遗传漂变
+突变
+自然选择
+性选择
+族群选择
+亲属选择
+
+
+
+
+
+
+
+
+进化发育生物学机制
+
+
+
+渠道导向（英语：Canalisation (genetics)）
+反演（英语：Inversion (evolutionary biology)）
+模块化（英语：modularity (biology)）
+表型的可塑性（英语：Phenotypic plasticity）
+
+
+
+
+
+
+
+
+类群的进化
+
+
+
+鸟类（英语：Evolution of birds）
+腕足动物（英语：Evolutionary history of brachiopods）
+头足纲（英语：Evolutionary history of cephalopods）
+恐龙
+鱼类（英语：Evolution of fish）
+真菌（英语：Evolution of fungi）
+昆虫（英语：Evolution of insects）
+
+蝴蝶（英语：Butterfly evolution）
+
+
+生命（英语：Evolutionary history of life）
+哺乳动物（英语：Evolution of mammals）
+
+猫（英语：Cat gap）
+狗（英语：Origin of the domestic dog）
+马（英语：Evolution of the horse）
+人类进化
+狐猴（英语：Evolutionary history of lemurs）
+鲸豚（英语：Evolution of cetaceans）
+海牛（英语：Evolution of sirenians）
+
+
+软体动物（英语：Evolution of Mollusca）
+植物（英语：Evolution of plants）
+爬行动物（英语：Evolution of reptiles）
+蜘蛛（英语：Evolution of spiders）
+四足类
+病毒（英语：Viral evolution）
+
+流感（英语：Evolution of Influenza）
+
+
+
+
+
+
+
+
+
+
+特定构造的进化
+
+
+
+细胞（英语：Evolution of cells）
+DNA（英语：Models of DNA evolution）
+真核生物
+
+染色体
+
+
+内膜系统
+眼睛（英语：Evolution of the eye）
+鞭毛（英语：Evolution of flagella）
+头发
+线粒体
+哺乳动物听小骨进化
+神经系统（英语：Evolution of nervous systems）
+
+大脑（英语：Evolution of the brain）
+
+
+细胞核
+色素体
+
+
+
+
+
+
+
+
+生物进程（英语：Biological process）的进化
+
+
+
+衰老（英语：Evolution of ageing）
+Avian flight（英语：Origin of avian flight）
+Biological complexity
+Cooperation（英语：Co-operation (evolution)）
+彩色视觉（英语：Evolution of color vision）
+
+灵长目彩色视觉的进化
+
+
+情绪（英语：Evolution of emotion）
+同理心
+伦理
+Eusociality（英语：Evolution of eusociality）
+代谢
+Monogamy（英语：Monogamous pairing in animals）
+道德（英语：Evolution of morality）
+Mosaic evolution（英语：Mosaic evolution）
+多细胞生物
+有性生殖的进化
+
+
+
+
+
+
+
+
+形态模式
+
+
+
+Anagenesis（英语：Anagenesis）
+Catagenesis（英语：catagenesis (biology)）
+Cladogenesis（英语：Cladogenesis）
+异域物种形成
+Peripatric（英语：Peripatric）
+Parapatric（英语：Parapatric）
+Sympatric（英语：Sympatric speciation）
+Hybrid speciation（英语：Hybrid speciation）
+
+
+
+
+
+
+
+
+相关领域
+
+
+
+生态遗传学
+分子进化
+系统发生学
+原初生命体
+系统分类学
+比较解剖学
+进化心理学
+文化进化
+
+
+
+
+
+
+
+
+历史
+
+
+
+进化思想史
+查尔斯·达尔文
+
+物种起源
+
+
+生物分类法
+Gene-centered view of evolution（英语：Gene-centered view of evolution）
+生命 (classification trees)
+现代进化综论
+
+
+
+
+
+
+
+
+
+
+
+ 分类
+ 共享
+
+
+
+
+
+
+
+
+
+
+
+
+
+规范控制
+
+
+
+GND: 4380606-5
+
+
+
+
+
+
+
+
+
+
+
+
+分类：演化生物学生物学史生物学理论隐藏分类：包含规范控制信息的维基百科条目

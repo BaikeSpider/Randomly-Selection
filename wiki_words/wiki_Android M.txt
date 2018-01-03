@@ -1,0 +1,1005 @@
+Android Marshmallow
+
+
+
+
+
+本条目需要更新。（2015年10月6日） 
+请更新本文以反映近况和新增内容。完成修改时，请移除本模板。 
+
+
+
+
+
+
+
+
+Android 6.0 Marshmallow
+
+Android操作系统的一个版本
+
+
+
+
+
+
+
+
+开发者
+Google
+
+
+正式发售日期
+2015年10月5日，​2年前​（2015-10-05）[1]
+
+
+最新版本
+6.0.1 (MOI10E)[2]（2017年10月5日，​2个月前​（2017-10-05））
+
+
+许可证
+自由软件
+
+
+前一代
+Android 5.x "Lollipop"
+
+
+后一代
+Android 7.x "Nougat"
+
+
+官方网站
+www.android.com
+
+
+支持状态
+
+
+仅提供补丁及安全性更新
+
+
+Android 6.x“Marshmallow”[3]是Google继Android 5.1之后开发的Android移动操作系统，于2015年10月正式发布[4]。Marshmallow的中文名称为棉花糖。
+
+
+
+目录
+
+
+1 历史
+2 特色
+3 参见
+4 参考资料
+5 外部链接
+
+
+
+历史[编辑]
+第一次的揭露时间是2015年5月28日的Google I/O大会。2015年5月28日，针对Nexus 5，Nexus 6，Nexus 9，和Nexus Player设备，已有预览版本。
+特色[编辑]
+
+File:Android Marshmallow.jpg
+Android Marshmallow的彩蛋
+
+
+Android Marshmallow之前的版本，在安装程序前，必须一次同意该程序所有请求的权限，否则不能装那个程序。Android Marshmallow的新SDK可以让程序设计成用户可以只同意某部分的权限，且事后也可以随时打开或关闭某些权限细项。
+Android Marshmallow底层直接支持指纹辨识。还增加了一个名为"Doze"的电源管理方案，若判断手机没有被用户拿着，就会关闭一些背景的进程以节省电源。Android Marshmallow也支持USB Type-C。
+参见[编辑]
+
+Android版本历史
+
+参考资料[编辑]
+
+
+^ www.android.com
+^ android-6.0.1_r81 platform/build Git at Google. android.googlesource.com. Oct 5, 2017. 
+^ Android M's name is Marshmallow. The Verge. Vox Media. [August 17, 2015]. 
+^ Get ready for the sweet taste of Android 6.0 Marshmallow. Official Android Blog. [2015-10-06]. 
+
+
+外部链接[编辑]
+
+官方网站
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+Android
+
+
+
+
+
+
+开发
+
+
+
+ART
+Android软件开发
+Android Studio
+APK
+App Inventor
+Dalvik
+OpenBinder（英语：OpenBinder）
+Android Developer Challenge（英语：Android Developer Challenge）
+Android Developer Lab（英语：Android Developer Lab）
+Eclipse
+Google Developers
+Google I/O
+Renderscript
+
+
+
+
+
+
+
+
+
+
+
+发行版本
+
+
+
+Android版本历史
+KitKat (4.4)
+Lollipop (5)
+Marshmallow (6)
+Nougat (7.0)
+Oreo (8.0)
+
+
+
+
+
+
+
+
+派生平台
+
+
+
+Android Auto
+Android TV
+Android Wear
+
+
+
+
+
+
+
+
+Pixel设备
+
+
+
+Pixel/Pixel XL
+Pixel C
+Pixel 2/Pixel 2 XL
+
+
+
+
+
+
+
+
+Nexus设备
+
+
+
+HTC Nexus One
+Samsung Nexus S
+Samsung Galaxy Nexus
+LG Nexus 4
+LG Nexus 5
+LG Nexus 5X
+Motorola Nexus 6
+Huawei Nexus 6P
+Asus Nexus 7(2012)
+Asus Nexus 7(2013)
+HTC Nexus 9
+Samsung Nexus 10
+Nexus Q
+Nexus Player
+
+
+
+
+
+
+
+
+Google Play Edition
+
+
+
+HTC One (M7)
+HTC One (M8)
+LG G Pad 8.3（英语：LG G Pad 8.3）
+Motorola Moto G（英语：Motorola Moto G）
+Samsung Galaxy S4
+Sony Xperia Z Ultra
+
+
+
+
+
+
+
+
+分支版本、替代用户界面
+
+
+
+AOKP（英语：AOKP）
+Baidu Yi
+Barnes & Noble Nook
+CyanogenMod
+LineageOS
+Resurrection Remix OS
+Fire OS（英语：Fire OS）
+Flyme OS
+LeWa OS
+MIUI（米柚）
+MoKee（魔趣）
+OmniROM
+OPhone
+Replicant
+XobotOS
+YunOS
+Smartisan OS
+Zen UI
+Hive UI（英语：Hive UI）
+HTC Sense
+LG Optimus UI（英语：Optimus UI）
+三星TouchWiz
+华为EMUI
+Nokia X Software Platform（英语：Nokia X Software Platform）
+氢OS & Oxygen OS
+ColorOS
+Funtouch OS
+360OS
+
+
+
+
+
+
+
+
+应用程序
+
+
+
+地球
+Gmail
+Chrome
+Goggles
+环聊
+地图
+Play
+
+图书
+音乐
+书报摊
+
+
+Pay
+星空地图
+健身
+
+
+
+
+
+
+
+
+API
+
+
+
+Google云消息传递
+Google地图
+Google Play服务
+Google搜索
+
+
+
+
+
+
+
+
+其他
+
+
+
+Root
+
+
+
+
+
+
+
+
+相关
+
+
+
+Androidland（英语：Androidland）
+Android One
+Google
+Google Cardboard
+Material Design
+XDA Developers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+概述
+
+
+
+历史（英语：History of Google）
+公司收购列表
+产品列表
+对Google的批评
+审查
+玩笑和复活节彩蛋列表
+不做恶原则
+公开报告
+
+
+
+
+
+
+
+
+广告
+
+
+
+AdMob
+Adscape
+AdSense
+AdWords
+分析
+广告专家认证
+DoubleClick
+DoubleClick for Publishers（英语：DoubleClick for Publishers）
+电子钱包
+
+
+
+
+
+
+
+
+通讯
+
+
+
+Allo
+快讯（英语：Google Alerts）
+Apps Script（英语：Google Apps Script）
+Duo
+日历
+通讯录
+朋友群
+Gmail
+Google+
+网上论坛
+环聊
+Inbox
+同步（英语：Google Sync）
+Text-to-Speech（英语：Google Text-to-Speech）
+翻译（神经机器翻译系统）
+Transliteration（英语：Google transliteration）
+Voice
+Project Fi
+
+
+
+
+
+
+
+
+软件
+
+
+
+Chrome
+
+Chromium
+网上应用店
+
+
+云打印
+地球
+
+星空
+月球
+火星
+
+
+Gadgets（英语：Google Gadgets）
+Goggles
+输入法
+
+拼音
+粤语
+注音
+日文
+
+
+相册
+Keep
+新闻与天气
+即时
+
+即时桌面
+
+
+Picasa
+OpenRefine（英语：OpenRefine）
+工具栏
+
+
+
+
+
+
+
+
+平台
+
+
+
+账户
+Android
+
+历史版本
+Auto
+TV
+Wear
+Pay
+
+
+软件引擎
+Apps for Work
+
+教室（英语：Google Classroom）
+
+
+身份验证器
+BigTable
+Body
+图书
+
+图书馆计划
+
+
+Caja（英语：Caja project）
+Cardboard
+Chromecast
+Chrome OS
+
+Chromium OS
+Chromebit（英语：Chromebit）
+Chromebook
+Chromebox
+Chrome Zone（英语：Chrome Zone）
+
+
+计算引擎（英语：Google Compute Engine）
+Contact Lens（英语：Google Contact Lens）
+自定义搜索
+Dart
+Daydream
+地图引擎
+Fit
+眼镜
+Go
+文件系统
+Marketplace（英语：Google Apps Marketplace）
+Native Client
+Nexus
+OpenSocial
+Pixel
+Play
+
+音乐
+图书
+
+
+商店
+Public DNS
+问答
+电子钱包
+
+
+
+
+
+
+
+
+开发工具
+
+
+
+AJAX APIs（英语：Google APIs）
+应用开发者
+Closure Tools（英语：Google Closure Tools）
+代码（Google Gson）
+Gadgets API（英语：Google Gadgets API）
+GData（英语：GData）
+Googlebot（英语：Googlebot）
+Guava（英语：Google Guava）
+Guice（英语：Google Guice）
+KML
+Kythe（英语：Google Kythe）
+MapReduce
+Sitemaps（英语：Sitemaps）
+Storage（英语：Google Storage）
+夏日代码大赛
+Web Toolkit
+网站管理员工具
+Website Optimizer（英语：Google Website Optimizer）
+Swiffy
+
+
+
+
+
+
+
+
+出版
+
+
+
+Blogger
+书签
+云端硬盘
+
+文档
+绘图（英语：Google Drawings）
+我的地图
+协作平台
+Fusion Tables（英语：Google Fusion Tables）
+
+
+Domains（英语：Google Domains）
+FeedBurner
+Map Maker
+Panoramio
+Picasa网络相册
+YouTube
+
+Vevo
+
+
+Zagat（英语：Zagat）
+
+
+
+
+
+
+
+
+搜索
+
+
+
+Appliance
+Audio
+博客搜索（英语：Google Blog Search）
+图书
+财经
+航班（英语：Google Flights）
+图片
+地图
+
+
+街景
+
+
+新闻
+
+新闻档案
+
+
+专利
+学术
+购物
+网上论坛
+
+
+
+
+算法
+
+
+
+PageRank
+Panda（英语：Google Panda）
+Penguin（英语：Google Penguin）
+Hummingbird（英语：Google Hummingbird）
+
+
+
+
+
+
+
+
+特征
+
+
+
+搜索历史
+个性化搜索
+实时搜索
+即搜即得
+安全搜索
+语音搜索
+
+
+
+
+
+
+
+
+分析
+
+
+
+搜索解析
+趋势
+知识图谱
+Knowledge Vault
+
+
+
+
+
+
+
+
+
+
+
+停止开发
+
+
+
+Aardvark（英语：Aardvark (search engine)）
+Answers
+Ara
+浏览器同步（英语：Google Browser Sync）
+Google Base（英语：Google Base）
+Buzz
+Checkout
+浏览器内嵌框架
+Reader
+Click-to-Call
+云端连接
+代码搜索
+潮流同步
+桌面
+词典（英语：Google Dictionary）
+Dodgeball
+Fast Flip（英语：Google Fast Flip）
+Gears
+GOOG-411
+Google TV
+Jaiku
+Knol
+健康（英语：Google Health）
+iGoogle
+Image Labeler（英语：Google Image Labeler）
+实验室
+纵横
+Lively
+混搭编辑器
+笔记本
+Offers（英语：Google Offers）
+Orkut
+软件精选
+Page Creator
+Picnik
+PowerMeter（英语：Google PowerMeter）
+脚本转换器（英语：Google Script Converter）
+SearchWiki
+网页注解
+Slide（英语：Slide.com）
+Squared
+Talk
+更新器
+Urchin（英语：Urchin）
+视频
+视频市场
+Wave
+网际加速器
+
+
+
+
+
+
+
+
+人物
+
+
+
+埃里克·施密特
+艾伦·尤斯塔斯（英语：Alan Eustace）
+约翰·杜尔
+约翰·轩尼诗
+雷蒙德·库茨魏尔
+安·马瑟（英语：Ann Mather）
+保罗·奥特利尼
+罗恩·康韦（英语：Ram Shriram）
+雪莉·蒂尔曼
+阿尔·戈尔
+拉基恩·西斯（英语：Rajen Sheth）
+文顿·瑟夫
+艾伦·穆拉利
+大卫·德拉蒙德（英语：David Drummond (Google)）
+帕特里克·皮谢特（英语：Patrick Pichette）
+阿米特·辛格尔
+杰夫·迪恩
+奥米德·科蒂斯坦尼（英语：Omid Kordestani）
+雷切尔·惠特斯通（英语：Rachel Whetstone）
+撒拉·卡曼加（英语：Salar Kamangar）
+桑德尔·皮蔡
+苏珊·沃西基
+乌尔斯·霍尔茨勒（英语：Urs Hölzle）
+
+
+
+
+创始人
+
+
+
+拉里·佩奇
+谢尔盖·布尔
+
+
+
+
+
+
+
+
+
+
+
+其它
+
+
+
+Alphabet Inc.
+Art Project
+Calico
+Current（英语：Google Current）
+Chrome实验（英语：Google Chrome Experiments）
+Code-In
+Code Jam
+开发者日
+商业小组（英语：Google Business Groups）
+Data Liberation（英语：Google Data Liberation Front）
+
+Takeout（英语：Google Takeout）
+
+
+Developer Expert（英语：Google Developer Expert）
+Google Enterprise（英语：Google Enterprise）
+无人车
+
+光纤
+Express（英语：Google Express）
+Google化
+Grants（英语：Google Grants）
+Google.org
+商标
+涂鸦
+
+列表
+
+
+月球X大奖
+Material design
+先进科技与计划部门
+Ventures
+WiFi
+X
+
+
+
+
+活动
+
+
+
+Science Fair
+Searchology（英语：Google Searchology）
+I/O
+开发者日
+演讲
+Code Jam
+Highly Open Participation Contest（英语：Google Highly Open Participation Contest）
+Code-in
+Google EYE Program
+
+
+
+
+
+
+
+
+项目
+
+
+
+Loon
+Tango
+Zero
+
+
+
+
+
+
+
+
+房地产
+
+
+
+111 Eighth Avenue（英语：111 Eighth Avenue）
+Googleplex
+Google台湾数据中心
+
+
+
+
+
+
+
+
+谷歌中国
+
+
+
+谷歌时惠
+谷歌音乐
+谷歌金山词霸
+265上网导航
+谷歌涉黄事件
+谷歌退出中国大陆事件
+Google审查
+Google香港
+2014年中国大陆屏蔽谷歌服务事件
+
+
+
+
+
+
+
+
+
+
+
+相关
+
+
+
+AI Challenge（英语：AI Challenge）
+轰炸
+谷姐网
+Monopoly City Streets
+Unity
+
+
+
+
+
+
+
+
+
+
+
+ 主题页面
+ 相关分类
+ 共享资源
+
+
+
+
+
+
+
+
+
+
+前任：
+Android 5.0
+Android 6.0
+2015
+继任：
+Android 7.0
+
+
+
+
+
+
+分类：2015年软件Android隐藏分类：自2015年10月待更新条目缺少文件的条目维基百科和维基数据上的官方网站不同

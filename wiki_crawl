@@ -1,21 +1,2 @@
 nohup: ignoring input
-]0;IPython: bitnami/Randomly-Selection]0;IPython: bitnami/Randomly-Selection404
-Traceback (most recent call last):
-  File "wiki_crawl.py", line 49, in <module>
-    wiki.craw()
-  File "wiki_crawl.py", line 36, in craw
-    wiki_soup = BeautifulSoup(wiki_html_cont, 'html.parser')
-  File "/usr/local/lib/python3.4/dist-packages/bs4/__init__.py", line 192, in __init__
-    elif len(markup) <= 256 and (
-TypeError: object of type 'NoneType' has no len()
-
-If you suspect this is an IPython bug, please report it at:
-    https://github.com/ipython/ipython/issues
-or send an email to the mailing list at ipython-dev@python.org
-
-You can print a more detailed traceback right now with "%tb", or use "%debug"
-to interactively debug it.
-
-Extra-detailed tracebacks for bug-reporting purposes can be enabled via:
-    %config Application.verbose_crash=True
-
+]0;IPython: bitnami/Randomly-Selection]0;IPython: bitnami/Randomly-Selection

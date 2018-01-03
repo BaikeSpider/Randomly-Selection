@@ -1,0 +1,170 @@
+计算机程序的构造和解释
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+本条目的语调或风格可能不适合百科全书的写作方式。（2014年8月17日） 
+请根据指南协助改善这篇条目，请在讨论页讨论问题所在及加以改善。 
+
+
+
+
+
+
+第一版封面
+
+
+
+
+
+
+第二版封面
+
+
+《计算机程序的构造和解释》（Structure and Interpretation of Computer Programs, SICP）[1]是一本关于计算机程序设计的总体性观念的基础教科书，由 MIT press 与 McGraw-Hill 共同出版营销。作者是麻省理工学院的教授 哈尔·阿伯尔森 、杰拉德·杰伊·萨斯曼，此外 杰拉德·杰伊·萨斯曼 的妻子 Julie Sussman 也有参与本书的制作。封底的作者图像是由其实验室的同僚 Nick Papadakis[2] 后制的合成照。
+书中使用程序设计语言 Lisp 的方言 Scheme 来解释计算机科学的核心概念，包括抽象（abstraction），递归（recursion），解释器（interpreters），以及元语言抽象（英语：Metalinguistic_abstraction）（metalinguistic abstraction）。具体而微地由宏观到微观给出清楚地轮廓与脉络。
+
+
+
+目录
+
+
+1 SICP/6.001
+2 对大专院校计算机科学教育的影响
+3 各界评语
+4 各语言版本
+
+4.1 原文版
+4.2 日文版
+4.3 中文版
+4.4 中日文版的翻译者
+
+
+5 与 Lisp 的渊源
+6 昵称
+7 参考与注解
+8 关系条目
+9 外部链接
+
+
+
+SICP/6.001[编辑]
+麻省理工学院最大的部门，电子工程与计算机科学系，提供的课程被编为“6系列”（course 6）；而以 SICP 为底的课程“6.001”，直到 2008 年退休为止，在过去近三十年一直是“6系列”里头的招牌课程[3]，是程序设计以及计算机科学的入门课程之一。
+本书在出版印行以前，相关主题以及讲义即先行在麻省理工学院课程 6.001 使用。到第一版印行前，有一份给该部门教职员生的内部流通版，虽无正式印行，但麻省理工学院人工智能实验室的技术报告第735号（AITR-735）即是此份草稿。由 AI 及 CSL 合并后的 CSAIL 仍保存有这份文件的电子档。[4]
+自第一版面世后即有诸多名校跟进使用[5]；并引起广大回响，许多著作因之而生。第二版于 1996 年出版，被它所激发的著作也在不久后陆续改版。
+由于两位作者都是自由软件的支持者（而 Gerald Jay Sussman 更是自由软件基金会的创始元老当中，除了理查德·马修·斯托曼以外唯一一位仍持续活动的。），6.001 为此而生的 Scheme 实现品，在自由软件基金会成立前就已经发布，基金会成立后方改名为 MIT/GNU Scheme[6]。虽然麻省理工学院人工智能实验室一直在维护 MIT/GNU Scheme，但累积一代又一代聪明黑客的心力，这太过于诡异神妙精心设计的产品到最后连自家人都不能完全理解掌握，甚至在最后一期的课程由作者之一且同时回国担任课程教授的 Gerald Jay Sussman 宣布以较为亲切好用且同样优异强大的竞争对手 DrScheme[7]为课程正式支持版本，而非长久以来使用的 MIT/GNU Scheme；这做法于向来自傲的麻省理工学院十分罕见。[8]
+另一位作者 Harold Abelson 积极推动的 MIT OCW 理所当然地放上 6.001 的课程讲义，试卷及参考资料。[9] 而于 1986 年作者们被 Hewlett-Packard（惠普） 聘请为其员工上课的录影，也于惠普影视部后制处理之后大方地公开。[10]
+十年就是一个世纪的计算机科学领域，6.001 屹立不摇近三十年，终于在 2008 年于 MIT 功成身退，由开创本课程的教授 Gerald Jay Sussman 亲自划下句点。[11]
+对大专院校计算机科学教育的影响[编辑]
+本书被广泛地认为是计算机科学的经典教材，在计算机科学的教学领域产生了深刻的影响。诸多的经典教材都是由本书间接催化，诸如：
+
+Structure and Interpretation of Classical Mechanics （SICM）, 由 SICP 启发，Gerald Jay Sussman 参与的古典力学教材。（SICP激发的创作中，唯一非计算机科学领域的。）
+How to Design Programs （HtDP），由 SICP 出发的改良品。有简体中文版《程序设计方法》。DrScheme 是作者群搭配本书推出的 Scheme 教学用实现品。
+Essentials of Programming Languages （EoPL） ，以特定语言 Scheme 推演全书，这种写法在编程语言结构的主题十分罕见。
+Lisp in Small Pieces （LiSP），专谈 Scheme 的编译器与解释器原理与制作。[12]
+Simply Scheme，为了让 SICP 更容易上手的先备书籍。SICP 的部分作者也参与了本书先期的制作过程。[13]
+Concrete Abstractions，比 SICP 拥有更多例子并且不那么要求读者的数学能力。[14]
+
+值得一提的是，几乎所有的派生作都直接或间接地抱怨 SICP “太难”；甚至连 SICP 自身于第二版也试图补充了一些让学习曲线更平滑的材料。第一届的图灵奖得主 艾伦·佩利 甚至在序文为此辩白：
+
+Do not labor under the illusion that this is a text digestible at MIT only, peculiar to the breed found there. It is precisely what a serious book on programming Lisp must be, no matter who the student is or where it is used.[15]
+
+此外本书的读者群 - 包含教师学生与各界社会人士 - 给了本书十分两极化的评价，但不论好坏都非常有道理。所有改进或取代本书的动机都来自对本书的爱与恨。其中彼德·诺米格的读后感：〈Its the Best! Its the Worst! Why the split?〉[16] 总结了造成双峰现象的各种原因并给了让人信服的统合性结论。
+各界评语[编辑]
+封底枚举了美国东北大学计算机与信息学院院长 Mitchell Wand 于《美国科学家》（英语：American_Scientist）[17]的发言：
+
+Because of its clarity, simplicity and wit, this work is highly recommended to anyone seeking an understanding of the emerging paradigms of computer science . . . the book should be read by every self-respecting computer scientist.
+——Mitchell Wand，American Scientist
+
+除了封底，书籍的官方站点也有收录部分发表于学术界知名期刊的评论[18] ：
+
+The book should be obligatory for anyone involved in teaching computer science at degree level: it will convince them that inside computer science there really is a true science trying to get out.
+——David Barron，The Times Higher Education Supplement
+
+
+This is the first introductory book I would strongly recommend to anyone who wants to learn how to construct computer programs . . . if you are looking for a book to thrust into the hands of someone who wants to be initiated into the power and pleasures of programming, this book is the best I have seen yet.
+——Kenneth D. Forbus，Artificial Intelligence, 27:1
+
+
+My only problem with this book is the fact that it is far too fascinating for a first course in computing. I tried to browse it, but I was immediately sucked into reading every wonderful word. Be warned: don't open a copy of this book until you are ready for a programming feast.
+——Jon Bentley，Communications of the ACM
+
+各语言版本[编辑]
+原文版[编辑]
+原文版不论第一版或第二版，由于 MIT press 与 McGraw-Hill 的出版协议，SICP 遂有两家出版社各自的成书与营销。其中 McGraw-Hill 负责北美地区教科书的订购业务，至于其他使用目的以及其他地区的教科书订购，则都交给 MIT press。随着 6.001 的结束，McGraw-Hill 已经停止印行，于是 SICP 原文版只能向 MIT press 订购。
+日文版[编辑]
+
+原书第一版由元吉文男译出，麦格罗．希尔出版。本译本评价较高，但随着出版社倒闭已经绝版。
+原书第二版由号称日本第一位黑客，时任麻省理工学院助理教授的和田英一（日语：和田英一）译出，日本培生集团出版。[19]虽然译者学术表现不差，但译本谬误甚多，本书的评价十分低落。
+
+中文版[编辑]
+只有翻译自原书第二版的简体中文版，由北京大学数学学院信息科学系教授裘宗燕译出，机械工业出版社出版。[20]
+中日文版的翻译者[编辑]
+巧合的是，中日文的第二版译者，和田英一[21]与裘宗燕[22]，皆参与了计算机领域的圣经《计算机程序设计艺术》（TAOCP）的翻译。这种宁可冒着被万千读者骂破头（TAOCP 与 SICP 都不好翻；很多译者都被邀稿过，因为没把握而拒绝。）也要把经典引进（L10n）的勇气值得佩服。
+与 Lisp 的渊源[编辑]
+第一版面世时人工智能相关研究正在没落：经费削减，研究无重大突破。[23]本来注定与人工智能研究要一起老死于实验室的 Lisp，因为这本书不但走出实验室，更风靡新一代的学子，让这过于先进、超越时代的编程语言得以延续生命。在 SICP 出现之前，没有人认为 Lisp 可以担当讲授入门程序设计基础的教学语言。
+时至今日由于硬件的高效与低价，使用真正的高级语言，如 Lisp，不再是奢侈的选择。而电脑运算平台往多核心及平行处理发展，函数编程语言的特性也能更有效地运用这类架构。[24] 正由于此书让 Lisp 飞入寻常百姓家延续生命与活力，Lisp 才能于大环境与时机成熟有机会再度火红了起来。
+除了对 Lisp 的相关影响，SICP 也影响了编程语言的设计与取舍还有编程典范的发展与盛行。
+昵称[编辑]
+此书在黑客圈有两个昵称，一个是“魔法书”，另一个叫“紫皮书”。[25]
+此外在任何 Scheme 的论坛，提到“The Bible”就是指 SICP。
+在4chan上曾有人索要过一本名为 The Usual Play 的萝莉控漫画的无色情画面版本，而回复者将所有的色情画面都改为了 SICP 的内容截图，发送了一本称为 The Usual Lisp 的修改版。[26][27]这本书因此成了一种模因，经常被用于“镇宅”。这也带出了不少与SICP相关的同人创作。
+参考与注解[编辑]
+
+
+^ 官方站点，包括书的全文。[1]
+^ Nick Papadakis 于 MIT AI Lab 的主页。[2]
+^ MIT CSAIL 6.001 的课程网站。 [3]
+^ AITR-735，SICP 的草稿。 [4]
+^ 使用本教材的学校列表。（只列出部分。） [5]
+^ MIT/GNU Scheme 的站点。 [6]
+^ DrScheme 的站点。 [7]
+^ 唯一一次采用 DrScheme 的 6.001，2007秋季班的课程网页。 [8]
+^ SICP/6.001 的 MIT Open Courseware 版本。 [9]
+^ 作者群受 HP 聘请讲授 SICP/6.001 的课程视频。可见到教授年轻时的青涩模样；视频距今已有二十来年。 [10]
+^ 6.001 的最后一堂课：〈The end of an era.〉[11]
+^ LiSP 官方站点。书名是电脑界爱玩的把戏，递归式首字母缩略字。[12]
+^ Simply Scheme 第二版全文。撰书理念以及与 SICP 的渊源于序文可见。 [13]
+^ 纸本停止印行，电子全文则在网络继续让人浏览。[14]
+^ Alan J. Perlis 为本书写的序。[15]
+^ Peter Norvig 的读后感：〈Its the Best! Its the Worst! Why the split?〉[16]
+^ 并不是台湾代理的《科学人》；《美国科学家》的站点。 [17]
+^ 学术界人士对 SICP 的评语. [May 3, 2011]. 
+^ 日文版书籍站点。 [18][失效链接]
+^ 《计算机程序的构造和解释（原书第2版）》于中国交互出版网。 [19]
+^ 和田英一的日文版维基百科页面；有其译作列表。 [20]
+^ 裘宗燕教授的著作和译著。 [21]
+^ 英文维基百科关于这段历史的页面。[22]
+^ 可参考《约耳谈软件：爪哇学校的危害》。也有介绍到本书以及 6.001。[23]
+^ 因为书的封面上有一个魔法师；且封面为罕见的紫色。[24]
+^ The Usual Lisp. 4chan BBS. 
+^ Shameless request. 4chan BBS. 
+
+
+关系条目[编辑]
+
+Lisp
+Scheme
+函数编程语言
+编程语言
+计算机科学
+
+外部链接[编辑]
+
+SICP 官方网站（英文）（含全书内容）
+
+
+
+
+
+分类：电脑书籍教科书隐藏分类：带有失效链接的条目自2014年8月语调不适于维基百科的条目拒绝当选首页新条目推荐栏目的条目维基数据上没有官方网站

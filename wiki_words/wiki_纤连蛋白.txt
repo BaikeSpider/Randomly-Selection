@@ -1,0 +1,467 @@
+纤连蛋白
+
+
+Fibronectin 1
+纤连蛋白1
+
+
+
+PDB rendering based on 1e88.
+
+
+
+
+
+
+有效结构
+
+
+PDB
+直系同源检索：PDBe, RCSB
+
+
+
+
+
+PDB查询代码列表
+
+
+
+1E88, 1E8B, 1FBR, 1FNA, 1FNF, 1FNH, 1J8K, 1O9A, 1OWW, 1Q38, 1QGB, 1QO6, 1TTF, 1TTG, 2CG6, 2CG7, 2CK2, 2CKU, 2EC3, 2FN2, 2FNB, 2GEE, 2H41, 2H45, 2HA1, 2OCF, 2RKY, 2RKZ, 2RL0, 3CAL, 3EJH, 3GXE, 3M7P, 3MQL, 3R8Q, 3ZRZ, 4GH7, 4JE4, 4JEG
+
+
+
+
+
+
+
+
+
+标识
+
+
+代号
+FN1; CIG; ED-B; FINC; FN; FNZ; GFND; GFND2; LETS; MSF
+
+
+扩展标识
+遗传学：135600 鼠基因：95566 同源基因：1533 ChEMBL（英语：ChEMBL）: 3810 GeneCards: FN1 Gene
+
+
+
+
+
+基因本体论描述
+
+
+分子功能
+· extracellular matrix structural constituent
+· protein binding
+· collagen binding
+· heparin binding
+· peptidase activator activity
+
+
+细胞成分
+· extracellular region
+· fibrinogen complex
+· proteinaceous extracellular matrix
+· basement membrane
+· extracellular space
+· endoplasmic reticulum-Golgi intermediate compartment
+· apical plasma membrane
+· extracellular matrix
+· platelet alpha granule lumen
+
+
+生物过程
+· angiogenesis
+· platelet degranulation
+· acute-phase response
+· cell-substrate junction assembly
+· cell adhesion
+· calcium-independent cell-matrix adhesion
+· blood coagulation
+· regulation of cell shape
+· response to wounding
+· cell migration
+· peptide cross-linking
+· platelet activation
+· extracellular matrix organization
+· substrate adhesion-dependent cell spreading
+· leukocyte migration
+
+
+Sources: Amigo / QuickGO
+
+
+
+
+
+RNA表达模式
+
+
+
+
+
+
+
+
+
+
+
+更多表达数据
+
+
+直系同源体
+
+
+物种
+人类
+小鼠
+
+
+Entrez
+2335
+14268
+
+
+Ensembl
+ENSG00000115414
+ENSMUSG00000026193
+
+
+UniProt
+P02751
+P11276
+
+
+mRNA序列
+NM_002026
+NM_001276408
+
+
+蛋白序列
+NP_002017
+NP_001263337
+
+
+基因位置
+Chr 2:
+216.23 – 216.3 Mb
+Chr 1:
+71.59 – 71.65 Mb
+
+
+PubMed查询
+[1]
+[2]
+
+
+
+
+
+查
+论
+编
+
+
+
+
+
+
+
+
+
+纤连蛋白的模组结构及其结合结构域
+
+
+纤连蛋白是高分子量（~440kDa）的糖蛋白细胞外基质，和细胞膜内称为整合素的受体蛋白结合[1]。和整合素类似，纤连蛋白也会和许多细胞外基质的成分结合，像胶原蛋白、纤维蛋白、硫酸类肝素（英语：heparan sulfate）蛋白聚糖（也就是多配体聚糖（英语：syndecans））。
+纤连蛋白可促进细胞粘连、增殖，还可以修复受损细胞，刺激细胞分泌各种功能蛋白。纤连蛋白能够调节细胞与细胞间质之间的动态平衡，改善细胞内外微循环，保证内外物质运输。纤连蛋白与淋巴细胞表面接合，刺激淋巴细胞产生免疫抗体，改善机体的免疫系统，阻碍机体衰老。在机体细胞自然凋亡过程中，纤连蛋白利用其能够 迁移细胞的生物学效应，调节凋亡细胞与新生细胞的平衡关系。
+纤连蛋白在伤口愈合过程中起到至关重要的作用。当伤口出现后，FN会出现在伤口血浆中，起到止血、保护损伤组织的作用。在伤口修复过程中，FN调动吞噬细胞吞噬异物，促进成纤维细胞分泌蛋白酶，分解蛋白杂质。在损伤组织生长过程中，FN提高整合素的表达，从而加快组织修复。
+纤连蛋白是胚胎发育过程中必不可少的物质，可以指导胚胎发育过程中的细胞黏附和迁移。在哺乳动物的发育中，FN的缺失会造成中胚层、神经管和血管的缺陷。在两栖动物的发育中，FN的缺失也会导致中胚层生长的缺陷。
+正常人的唾液中含有纤连蛋白，它们可以清除口腔与咽喉中的致病细菌，防止出现口腔与咽喉病变。
+参考资料[编辑]
+
+
+^ Pankov R, Yamada KM. Fibronectin at a glance. Journal of Cell Science. October 2002, 115 (Pt 20): 3861–3. PMID 12244123. doi:10.1242/jcs.00059. 
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+蛋白质：球状蛋白质
+
+
+
+
+
+
+血清球蛋白
+
+
+
+
+
+α球蛋白（英语：Alpha globulin）
+
+
+
+
+
+
+丝氨酸蛋白酶抑制剂:
+
+
+
+
+α1
+
+α1胰凝乳蛋白酶抑制剂（英语：Alpha 1-antichymotrypsin）
+α1-抗胰蛋白酶（英语：Alpha-1 antitrypsin）
+
+
+α2
+
+α2纤溶酶抑制剂（英语：Alpha 2-antiplasmin）
+
+
+抗凝血酶（英语：Antithrombin）
+
+肝素辅因子II（英语：Heparin cofactor II）
+
+
+
+
+
+
+
+
+
+
+
+载体蛋白:
+
+
+
+
+α1（皮质类固醇结合球蛋白）
+α2（血浆铜蓝蛋白）
+视黄醇结合蛋白质
+
+
+
+
+
+
+
+
+
+其他:
+
+
+
+
+α1（酸性糖蛋白）
+α2（α2巨球蛋白、触珠蛋白）
+
+
+
+
+
+
+
+
+
+
+
+
+β球蛋白（英语：Beta globulins）
+
+
+
+
+
+
+载体蛋白:
+
+
+
+
+性激素结合球蛋白
+运铁蛋白
+
+
+
+
+
+
+
+
+
+其他:
+
+
+
+
+血管抑素
+血色素结合蛋白
+β2微球蛋白
+因子H
+纤溶酶原
+备解素
+
+
+
+
+
+
+
+
+
+
+
+
+γ球蛋白
+
+
+免疫球蛋白类
+
+
+
+
+
+
+
+其他
+
+
+
+
+纤维连接蛋白
+
+胎儿纤连蛋白（英语：Fetal fibronectin）
+
+
+巨球蛋白（英语：Macroglobulin）/微球蛋白（英语：Microglobulin）
+钴胺传递蛋白
+
+
+
+
+
+
+
+
+
+
+
+其他球蛋白
+
+β乳球蛋白（英语：Beta-lactoglobulin）（乳铁蛋白） · 甲状腺球蛋白 · α乳清蛋白
+
+
+
+
+
+
+清蛋白
+
+
+
+
+
+蛋清
+
+
+伴清蛋白 · 卵清蛋白 · 抗生物素蛋白
+
+
+
+
+
+
+
+血清白蛋白
+
+
+人血清白蛋白 · 牛血清白蛋白 · 前清蛋白
+
+
+
+
+
+
+
+其他
+
+
+C反应蛋白 · 乳清蛋白（α乳清蛋白） · 小清蛋白 · 蓖麻毒蛋白
+
+
+
+
+
+
+
+
+
+
+另见：珠蛋白与球状蛋白质疾病
+
+
+
+
+
+查
+论
+编
+
+
+蛋白质索引
+
+
+
+
+
+
+描述
+
+
+
+蛋白质
+膜蛋白
+球蛋白
+
+酶
+载体
+
+
+抗生素
+纤维状
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+分类：人类蛋白质整合素

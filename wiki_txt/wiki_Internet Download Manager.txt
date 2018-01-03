@@ -1,0 +1,2 @@
+Internet Download Manager
+Internet Download Manager（简称IDM）是一个用于Windows系统的下载管理器，它是共享软件，免费试用期为30天，但是每月均有一段时间优惠。

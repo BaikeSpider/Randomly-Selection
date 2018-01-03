@@ -1,0 +1,2 @@
+计算机程序的构造和解释
+《计算机程序的构造和解释》（Structure and Interpretation of Computer Programs, SICP）[1]是一本关于计算机程序设计的总体性观念的基础教科书，由 MIT press 与 McGraw-Hill 共同出版营销。作者是麻省理工学院的教授 哈尔·阿伯尔森 、杰拉德·杰伊·萨斯曼，此外 杰拉德·杰伊·萨斯曼 的妻子 Julie Sussman 也有参与本书的制作。封底的作者图像是由其实验室的同僚 Nick Papadakis[2] 后制的合成照。
