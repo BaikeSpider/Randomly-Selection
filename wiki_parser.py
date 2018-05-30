@@ -332,7 +332,11 @@ class HtmlParser(object):
         edit_history_url_temp = info_soup.find('a',href=re.compile(r'//vs.aka-online.de/cgi-bin/wppagehiststat.pl'))
         edit_history_url = edit_history_url_temp['href']
         # store the edit_histroy_url
+<<<<<<< HEAD
 
+=======
+        '''
+>>>>>>> c02ceda1d28fe34744a6305bf20152d772e7efc2
         headers = {
             'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36'}
         '''
@@ -438,5 +442,8 @@ class HtmlParser(object):
         # wiki_new_data = self._wiki_get_new_data(wiki_url, wiki_soup)
         # print('mark')
         return wiki_new_titles, wiki_keyword_times, wiki_new_data, wiki_urls, titles_len, edits, pageviews_url, editors, first_edit, totalviews, category, reference_count, edit_history_url, all_len, words
+<<<<<<< HEAD
 
+=======
+>>>>>>> c02ceda1d28fe34744a6305bf20152d772e7efc2
 
